@@ -50,6 +50,8 @@ button:focus-visible,input:focus-visible+span{outline:2px solid var(--blue);outl
 .tile .s{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 .tile.done{border-color:var(--green);background:var(--green-soft)}
 .tile.done .s{color:var(--green);font-weight:700}
+.tile.prog{border-color:var(--blue);background:var(--blue-soft)}
+.tile.prog .s{color:var(--blue);font-weight:700}
 .tile.next{border-color:var(--blue);border-width:2.5px}
 .tile:disabled{opacity:.4;cursor:not-allowed;border-style:dashed}
 .legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--muted)}
@@ -234,7 +236,7 @@ details.passage summary{cursor:pointer;font-weight:700}
       <p class="note">Do one set a day. Every set has 40 new words and 50 new questions. ทำวันละ 1 ชุด ทุกชุดมีคำศัพท์ใหม่ 40 คำ และข้อสอบใหม่ 50 ข้อ</p>
     </div>
     <div class="setgrid" id="setgrid"></div>
-    <div class="legend"><span>Green = done (best score)</span><span>Thick blue = next</span><span>Dashed = being written, coming soon</span></div>
+    <div class="legend"><span>Blue = in progress (answers saved)</span><span>Green = done (best score)</span><span>Thick blue = next</span><span>Dashed = being written, coming soon</span></div>
   </div>
 </section>
 
@@ -249,6 +251,7 @@ details.passage summary{cursor:pointer;font-weight:700}
     <button role="tab" id="tab-ans" aria-selected="false" data-view="answers">3 · Answers</button>
   </nav>
   <div id="loadMsg" class="err-msg" hidden></div>
+  <div class="today" id="restoreNote" style="display:block;margin-bottom:16px" hidden></div>
 
   <section id="view-vocab" class="sheet stack">
     <div class="stack" style="gap:6px">
@@ -394,6 +397,21 @@ addEventListener("pagehide",flushNow);
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="hidden")flushNow()});
 const store={get(k,d){if(k in mem)return mem[k];try{const v=localStorage.getItem(k);if(v)return mem[k]=JSON.parse(v)}catch(e){}return d},
   set(k,v,t){mem[k]=v;touch(k,t);try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}cloud.push(k)}};
+/* ---------- never lose answers ---------- */
+function nAns(a){return a&&a.answers?Object.keys(a.answers).length:0}
+function sameAns(a,b){return JSON.stringify(a&&a.answers||{})===JSON.stringify(b&&b.answers||{})&&JSON.stringify(a&&a.order||[])===JSON.stringify(b&&b.order||[])}
+/* Keep the copy with the most answers as a backup, so an empty or shorter copy can never erase your work. */
+function keepBackup(set,att){if(!att||att.submitted||!nAns(att))return;const k="rt20-b-"+set,bk=store.get(k,null);
+  if(!bk||nAns(att)>=nAns(bk))store.set(k,{order:att.order,answers:att.answers,saved:Date.now()})}
+/* Apply a copy from the server: the newest copy wins, and whichever copy loses is backed up if it has more answers. */
+function takeRemote(k,v,rt){
+  const local=store.get(k,null),lt=tmOf(k);
+  if(local!==null&&lt>rt){
+    if(k.startsWith("rt20-a-")&&nAns(v)>nAns(local)&&!sameAns(v,local))keepBackup(k.slice(7),v);
+    return false}
+  if(k.startsWith("rt20-a-")&&local&&nAns(local)>nAns(v)&&!sameAns(v,local))keepBackup(k.slice(7),local);
+  mem[k]=v;TM[k]=rt;try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}
+  return true}
 function setSync(st){const el=$("#sync");if(!el)return;
   el.className="sync"+(st==="cloud"?" on":" warn");
   el.textContent=st==="cloud"?"✓ Saved to your account, on any device · บันทึกในบัญชีแล้ว เปิดเครื่องไหนก็เจอ"
@@ -421,19 +439,21 @@ function examText(){return S.q.map((q,i)=>({i,txt:(q.s+" "+(q.t==="err"?"":q.o.j
 
 /* ---------- home ---------- */
 function bestOf(k){const h=store.get("rt20-h-"+k,[]);return h.length?Math.max(...h.map(x=>x.s)):null}
-function nextSet(){for(let k=1;k<=READY;k++)if(bestOf(k)===null)return k;return READY||1}
+function inProg(k){const a=store.get("rt20-a-"+k,null);return a&&!a.submitted?nAns(a):0}
+function nextSet(){for(let k=1;k<=READY;k++)if(bestOf(k)===null&&inProg(k))return k;for(let k=1;k<=READY;k++)if(bestOf(k)===null)return k;return READY||1}
 function renderHome(){
   let done=0,html="";const nx=nextSet();
   for(let k=1;k<=TOTAL;k++){
     const b=bestOf(k);if(b!==null)done++;
-    const ready=k<=READY;
-    html+=`<button class="tile${b!==null?" done":""}${k===nx&&ready?" next":""}" data-set="${k}" ${ready?"":"disabled"} aria-label="Set ${k}${b!==null?", best "+b+" of 50":""}"><span class="n">${k}</span><span class="s">${b!==null?b+"/50":ready?"New":"Soon"}</span></button>`;
+    const ready=k<=READY,ip=b===null?inProg(k):0;
+    html+=`<button class="tile${b!==null?" done":ip?" prog":""}${k===nx&&ready?" next":""}" data-set="${k}" ${ready?"":"disabled"} aria-label="Set ${k}${b!==null?", best "+b+" of 50":ip?", "+ip+" of 50 answered, not submitted":""}"><span class="n">${k}</span><span class="s">${b!==null?b+"/50":ip?(ip>=50?"Submit":ip+"/50"):ready?"New":"Soon"}</span></button>`;
   }
   $("#setgrid").innerHTML=html;
   $("#doneCount").textContent=`${done} of ${TOTAL} sets done`;
   $("#todayName").textContent=READY?`Set ${nx}`:"Sets are being written";
-  $("#todayNote").textContent=READY?(bestOf(nx)!==null?`All ready sets done. Best score here: ${bestOf(nx)}/50.`:"Study the 40 words, then take the exam. อ่านคำศัพท์ 40 คำ แล้วทำข้อสอบ"):"Check back soon.";
-  $("#todayBtn").hidden=!READY;
+  const ipn=inProg(nx);
+  $("#todayNote").textContent=READY?(ipn&&bestOf(nx)===null?(ipn>=50?`All 50 answered. Open it and press Submit to see your score. ตอบครบแล้ว กดส่งเพื่อดูคะแนน`:`In progress: ${ipn}/50 answered and saved. Continue where you stopped. ทำค้างไว้ ${ipn}/50 ข้อ ทำต่อได้เลย`):bestOf(nx)!==null?`All ready sets done. Best score here: ${bestOf(nx)}/50.`:"Study the 40 words, then take the exam. อ่านคำศัพท์ 40 คำ แล้วทำข้อสอบ"):"Check back soon.";
+  $("#todayBtn").hidden=!READY;$("#todayBtn").textContent=ipn&&bestOf(nx)===null?"Continue":"Start";
   renderBank();
   const na=allAttempts().length;$("#histNote").textContent=na?`${na} test${na>1?"s":""} submitted. Tap to see any of them again. ส่งแล้ว ${na} ครั้ง แตะเพื่อดูย้อนหลัง`:"Every test you submit is kept with your answers. ทุกชุดที่ส่งแล้วจะเก็บคำตอบไว้ให้ดูย้อนหลัง";
   const now=new Date(),exam=new Date(2027,2,20);
@@ -461,8 +481,13 @@ async function openSet(k){
   $("#loadMsg").hidden=true;["vocab","exam","answers"].forEach(v=>$("#view-"+v).hidden=true);
   try{const r=await fetch(`sets/set${pad(k)}.json`);if(!r.ok)throw 0;S=await r.json()}
   catch(e){$("#loadMsg").textContent="This set couldn't load. Check your internet connection and open it again. โหลดชุดนี้ไม่ได้ กรุณาตรวจสอบอินเทอร์เน็ตแล้วลองใหม่";$("#loadMsg").hidden=false;return}
+  $("#loadMsg").textContent="Loading your saved answers… กำลังโหลดคำตอบที่บันทึกไว้";$("#loadMsg").hidden=false;
+  await Promise.race([syncReady,sleep(6000)]);
+  await Promise.race([pullKeys(["rt20-a-"+k,"rt20-h-"+k,"rt20-b-"+k]),sleep(5000)]).catch(()=>{});
+  $("#loadMsg").hidden=true;if(cur!==k)return;
   const sv=store.get("rt20-a-"+k,null);
   if(sv&&sv.order&&sv.order.length===S.q.length){order=sv.order;answers=sv.answers||{};submitted=!!sv.submitted}else newAttempt();
+  renderRestore();
   vFilter="all";aFilter="all";
   renderVocab();renderExam();
   viewA=null;
@@ -472,7 +497,27 @@ async function openSet(k){
   if(OPEN_AT!==null){const h=store.get("rt20-h-"+k,[]);viewA=(submitted&&OPEN_AT===h.length-1)?null:OPEN_AT;OPEN_AT=null;renderAnswers();show("answers")}
 }
 let OPEN_AT=null,userRetry=false;
+function renderRestore(){
+  const bk=store.get("rt20-b-"+cur,null),el=$("#restoreNote");
+  const show=bk&&!submitted&&bk.order&&bk.order.length===S.q.length&&nAns(bk)>nAns({answers});
+  el.hidden=!show;if(!show)return;
+  const d=new Date(bk.saved||Date.now());
+  el.innerHTML=`<b>We kept ${nAns(bk)} answers you chose earlier</b> (saved ${d.getDate()}/${d.getMonth()+1} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}). Right now only ${nAns({answers})} are filled in. พบคำตอบที่คุณเคยเลือกไว้ ${nAns(bk)} ข้อ กดกู้คืนได้เลย
+    <div class="row" style="margin-top:8px"><button class="btn" id="restoreYes">Restore my ${nAns(bk)} answers · กู้คืน</button><button class="btn ghost" id="restoreNo">No, keep this</button></div>`;
+}
+$("#restoreNote").addEventListener("click",e=>{
+  if(e.target.closest("#restoreYes")){const bk=store.get("rt20-b-"+cur,null);if(bk){order=bk.order;answers={...bk.answers};submitted=false;save();store.set("rt20-b-"+cur,null);renderExam();renderRestore();show("exam")}}
+  if(e.target.closest("#restoreNo")){keepBackup(cur,null);store.set("rt20-b-"+cur,null);renderRestore()}
+});
+/* Coming back to this tab: fetch anything saved from another tab or device. */
+document.addEventListener("visibilitychange",async()=>{
+  if(document.visibilityState!=="visible"||!cur||$("#setview").hidden)return;
+  const before=JSON.stringify(store.get("rt20-a-"+cur,null));
+  try{await pullKeys(["rt20-a-"+cur,"rt20-h-"+cur,"rt20-b-"+cur])}catch(e){}
+  if(JSON.stringify(store.get("rt20-a-"+cur,null))!==before)openSet(cur);else if(S)renderRestore();
+});
 function newAttempt(){
+  if(!submitted&&nAns({answers}))keepBackup(cur,{order,answers});
   answers={};submitted=false;
   order=S.q.map(q=>{const a=[0,1,2,3];if(q.t!=="err")for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a});
   save(!userRetry);userRetry=false;
@@ -509,7 +554,8 @@ function renderExam(){
   });
   $("#exam").innerHTML=html;updateProgress();$("#confirm").hidden=true;
 }
-function updateProgress(){$("#progress").textContent=`${Object.keys(answers).length} / ${S.q.length} answered`}
+function updateProgress(){const n=Object.keys(answers).length,N=S.q.length;
+  $("#progress").textContent=n>=N?`All ${N} answered ✓ Press Submit to finish · ตอบครบแล้ว กดส่งเพื่อดูคะแนน`:`${n} / ${N} answered · saved ✓`}
 $("#exam").addEventListener("change",e=>{if(e.target.name){answers[+e.target.name.slice(1)]=+e.target.value;updateProgress();save()}});
 
 function grade(A){A=A||answers;
@@ -1014,6 +1060,13 @@ $("#grammarBtn").addEventListener("click",()=>{$("#home").hidden=true;$("#gramma
 $("#gBack").addEventListener("click",goHome);
 
 /* ---------- account sync ---------- */
+let syncDone;const syncReady=new Promise(r=>syncDone=r);
+async function pullKeys(keys){
+  if(!cloud.on)return;
+  const r=await fetch(API,{credentials:"same-origin",cache:"no-store"});if(!r.ok)return;
+  const {items}=await r.json();keys.forEach(k=>{const b=items&&items[k];if(b&&"v" in b)takeRemote(k,b.v,+b.t||0)});
+  try{localStorage.setItem("rt20-_t",JSON.stringify(TM))}catch(e){}
+}
 async function syncFromServer(){
   try{
     const r=await fetch(API,{credentials:"same-origin",cache:"no-store"});
@@ -1021,9 +1074,8 @@ async function syncFromServer(){
     if(!r.ok)throw new Error(r.status);
     const {items}=await r.json();const remote=new Set();let curChanged=false;
     Object.entries(items||{}).forEach(([k,b])=>{if(!k.startsWith("rt20-")||!b||!("v" in b))return;
-      const rt=+b.t||0,lt=tmOf(k),hasLocal=(k in mem)||(()=>{try{return localStorage.getItem(k)!==null}catch(e){return false}})();
-      if(hasLocal&&lt>rt)return; /* this device has a newer copy: keep it and upload below */
-      remote.add(k);mem[k]=b.v;TM[k]=rt;try{localStorage.setItem(k,JSON.stringify(b.v))}catch(e){}
+      if(!takeRemote(k,b.v,+b.t||0))return; /* this device has a newer copy: keep it and upload below */
+      remote.add(k);
       if(k==="rt20-a-"+cur||k==="rt20-h-"+cur)curChanged=true});
     try{localStorage.setItem("rt20-_t",JSON.stringify(TM))}catch(e){}
     cloud.on=true;setSync("cloud");
@@ -1032,7 +1084,8 @@ async function syncFromServer(){
     cloud.flush();
     if(curChanged&&!$("#setview").hidden&&cur)openSet(cur);
     if(!$("#home").hidden)renderHome();
-  }catch(e){setSync("offline");setTimeout(syncFromServer,15000)}
+    syncDone();
+  }catch(e){setSync("offline");syncDone();setTimeout(syncFromServer,15000)}
 }
 (async()=>{await syncFromServer();backfill()})();
 addEventListener("online",()=>{if(cloud.on)cloud.flush();else syncFromServer()});
