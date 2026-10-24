@@ -183,6 +183,7 @@ details.passage summary{cursor:pointer;font-weight:700}
 </head>
 <body>
 
+<div id="jsErr" class="err-msg" style="position:sticky;top:0;z-index:20;margin:8px" hidden></div>
 <div class="wrap">
 <header>
   <span class="eyebrow">100 sets · 50 questions each · A1 → B2 · 4,000 words</span>
@@ -236,7 +237,7 @@ details.passage summary{cursor:pointer;font-weight:700}
       <p class="note">Do one set a day. Every set has 40 new words and 50 new questions. ทำวันละ 1 ชุด ทุกชุดมีคำศัพท์ใหม่ 40 คำ และข้อสอบใหม่ 50 ข้อ</p>
     </div>
     <div class="setgrid" id="setgrid"></div>
-    <div class="legend"><span>Blue = in progress (answers saved)</span><span>Green = done (best score)</span><span>Thick blue = next</span><span>Dashed = being written, coming soon</span></div>
+    <div class="legend"><span>Version 20</span><span>Blue = in progress (answers saved)</span><span>Green = done (best score)</span><span>Thick blue = next</span><span>Dashed = being written, coming soon</span></div>
   </div>
 </section>
 
@@ -368,6 +369,8 @@ details.passage summary{cursor:pointer;font-weight:700}
 </div>
 
 <script>
+window.addEventListener("error",e=>{const el=document.getElementById("jsErr");if(el){el.hidden=false;el.textContent="Error (please send a screenshot): "+(e.message||e.error)+" @"+(e.lineno||"")}});
+window.addEventListener("unhandledrejection",e=>{const el=document.getElementById("jsErr");if(el){el.hidden=false;el.textContent="Error (please send a screenshot): "+((e.reason&&(e.reason.message||e.reason.code))||e.reason)}});
 const READY=100, TOTAL=100;
 const PART={gap:["Part 1","Complete the sentence","เลือกคำที่ถูกต้องมาเติมในประโยค"],err:["Part 2","Find the mistake","หาส่วนที่ผิดในประโยค (A, B, C หรือ D)"],dlg:["Part 3","Complete the conversation","เลือกคำตอบที่เหมาะสมมาเติมบทสนทนา"],read:["Part 4","Reading","อ่านเรื่องแล้วตอบคำถาม"]};
 const L="ABCD";
@@ -523,7 +526,7 @@ function newAttempt(){
   save(!userRetry);userRetry=false;
 }
 /* A brand-new empty attempt is stamped as old (1), so it never replaces answers already saved in your account. */
-function save(fresh){store.set("rt20-a-"+cur,{order,answers,submitted},fresh?1:0)}
+function save(fresh){const empty=!submitted&&!Object.keys(answers).length&&!userRetry;store.set("rt20-a-"+cur,{order,answers,submitted},fresh||empty?1:0)}
 function show(view){
   ["vocab","exam","answers"].forEach(v=>{$("#view-"+v).hidden=v!==view});
   document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-selected",b.dataset.view===view));
@@ -556,7 +559,10 @@ function renderExam(){
 }
 function updateProgress(){const n=Object.keys(answers).length,N=S.q.length;
   $("#progress").textContent=n>=N?`All ${N} answered ✓ Press Submit to finish · ตอบครบแล้ว กดส่งเพื่อดูคะแนน`:`${n} / ${N} answered · saved ✓`}
-$("#exam").addEventListener("change",e=>{if(e.target.name){answers[+e.target.name.slice(1)]=+e.target.value;updateProgress();save()}});
+function onPick(inp){if(!inp||!inp.name||!/^q\d+$/.test(inp.name))return;const i=+inp.name.slice(1),v=+inp.value;
+  if(answers[i]===v&&inp.checked)return;inp.checked=true;answers[i]=v;updateProgress();save()}
+$("#exam").addEventListener("change",e=>onPick(e.target));
+$("#exam").addEventListener("click",e=>{const lab=e.target.closest("label");if(!lab)return;const inp=lab.querySelector("input[type=radio]");if(inp)setTimeout(()=>onPick(inp),0)});
 
 function grade(A){A=A||answers;
   let score=0;const lv={A1:[0,0],A2:[0,0],B1:[0,0],B2:[0,0]},pt={gap:[0,0],err:[0,0],dlg:[0,0],read:[0,0]};
