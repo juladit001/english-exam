@@ -1,0 +1,1627 @@
+{
+"id": 43,
+"theme": "Farming and the countryside",
+"v": [
+[
+"cow",
+"noun",
+"A1",
+"วัว",
+"The *cow* gives milk."
+],
+[
+"pig",
+"noun",
+"A1",
+"หมู",
+"There are five *pigs* on the farm."
+],
+[
+"chicken",
+"noun",
+"A1",
+"ไก่",
+"We have ten *chickens*."
+],
+[
+"egg",
+"noun",
+"A1",
+"ไข่",
+"I eat an *egg* every morning."
+],
+[
+"field",
+"noun",
+"A1",
+"ทุ่ง, ไร่, นา",
+"The children ran across the *field*."
+],
+[
+"grow",
+"verb",
+"A1",
+"ปลูก, เติบโต",
+"My grandfather *grows* vegetables."
+],
+[
+"milk",
+"noun/verb",
+"A1",
+"นม, รีดนม",
+"Would you like some *milk*?"
+],
+[
+"duck",
+"noun",
+"A1",
+"เป็ด",
+"*Ducks* are swimming in the pond."
+],
+[
+"sheep",
+"noun",
+"A2",
+"แกะ",
+"*Sheep* give us wool."
+],
+[
+"goat",
+"noun",
+"A2",
+"แพะ",
+"The *goat* ate my hat!"
+],
+[
+"crop",
+"noun",
+"A2",
+"พืชผล",
+"Rice is the main *crop* in Thailand."
+],
+[
+"seed",
+"noun",
+"A2",
+"เมล็ดพันธุ์",
+"Plant the *seeds* in spring."
+],
+[
+"soil",
+"noun",
+"A2",
+"ดิน",
+"The *soil* here is very rich."
+],
+[
+"tractor",
+"noun",
+"A2",
+"รถแทรกเตอร์",
+"The farmer drives a *tractor*."
+],
+[
+"village",
+"noun",
+"A2",
+"หมู่บ้าน",
+"She grew up in a small *village*."
+],
+[
+"buffalo",
+"noun",
+"A2",
+"ควาย",
+"Farmers used *buffaloes* to work in the fields."
+],
+[
+"weed",
+"noun",
+"A2",
+"วัชพืช",
+"Pull out the *weeds* in the garden."
+],
+[
+"barn",
+"noun",
+"A2",
+"โรงนา, ยุ้งฉาง",
+"The animals sleep in the *barn*."
+],
+[
+"harvest",
+"noun/verb",
+"B1",
+"การเก็บเกี่ยว, เก็บเกี่ยว",
+"The rice *harvest* is in November."
+],
+[
+"rural",
+"adjective",
+"B1",
+"ชนบท",
+"He lives in a *rural* area."
+],
+[
+"irrigation",
+"noun",
+"B1",
+"การชลประทาน",
+"*Irrigation* brings water to the fields."
+],
+[
+"fertiliser",
+"noun",
+"B1",
+"ปุ๋ย",
+"Too much *fertiliser* can harm rivers."
+],
+[
+"pesticide",
+"noun",
+"B1",
+"ยาฆ่าแมลง",
+"Wash fruit to remove *pesticides*."
+],
+[
+"livestock",
+"noun",
+"B1",
+"ปศุสัตว์",
+"The family keeps *livestock*."
+],
+[
+"plough",
+"verb/noun",
+"B1",
+"ไถ, คันไถ",
+"They *plough* the fields before planting."
+],
+[
+"orchard",
+"noun",
+"B1",
+"สวนผลไม้",
+"We picked mangoes in the *orchard*."
+],
+[
+"sow",
+"verb",
+"B1",
+"หว่าน (เมล็ด)",
+"Farmers *sow* rice in the rainy season."
+],
+[
+"paddy",
+"noun",
+"B1",
+"นาข้าว",
+"The *paddy* fields are bright green."
+],
+[
+"rainfall",
+"noun",
+"B1",
+"ปริมาณน้ำฝน",
+"*Rainfall* was low this year."
+],
+[
+"yield",
+"noun/verb",
+"B2",
+"ผลผลิต, ให้ผล",
+"New seeds increased the *yield*."
+],
+[
+"genetically modified",
+"adjective",
+"B2",
+"ดัดแปลงพันธุกรรม",
+"Are *genetically modified* crops safe?"
+],
+[
+"subsistence",
+"noun",
+"B2",
+"การยังชีพ",
+"Many families practise *subsistence* farming."
+],
+[
+"monoculture",
+"noun",
+"B2",
+"การปลูกพืชเชิงเดี่ยว",
+"*Monoculture* damages the soil."
+],
+[
+"cultivate",
+"verb",
+"B2",
+"เพาะปลูก",
+"They *cultivate* coffee in the hills."
+],
+[
+"arable",
+"adjective",
+"B2",
+"(ที่ดิน) ทำการเพาะปลูกได้",
+"Only 30% of the land is *arable*."
+],
+[
+"mechanisation",
+"noun",
+"B2",
+"การใช้เครื่องจักร",
+"*Mechanisation* reduced the need for workers."
+],
+[
+"smallholder",
+"noun",
+"B2",
+"เกษตรกรรายย่อย",
+"Most farmers are *smallholders*."
+],
+[
+"cooperative",
+"noun",
+"B2",
+"สหกรณ์",
+"Farmers formed a *cooperative* to sell rice."
+],
+[
+"self-sufficient",
+"adjective",
+"B2",
+"พึ่งพาตนเองได้",
+"The village is *self-sufficient* in food."
+],
+[
+"crop rotation",
+"noun",
+"B2",
+"การปลูกพืชหมุนเวียน",
+"*Crop rotation* keeps soil healthy."
+]
+],
+"p": [
+{
+"t": "Grandpa's Farm",
+"x": "Every school holiday, I go to my grandpa's farm in Nakhon Ratchasima. It's near a small village, and there are fields everywhere. My grandpa grows rice and vegetables, and he has many animals.\nIn the morning, I help him feed the chickens and collect their eggs. Then we give food to the pigs and the ducks. Grandpa has two cows, and my grandma makes delicious milk drinks. He also has some goats, but no sheep.\nIn the past, Grandpa used a buffalo to work in the fields. Now he has a small tractor. The soil on his farm is very good. My job is to pull out the weeds and plant seeds in the garden. In the evening, we sit near the barn and look at the stars. I love the farm because it's quiet and the air is fresh."
+},
+{
+"t": "A Year in the Rice Fields",
+"x": "Rice is the most important crop in Thailand, and life in many rural areas follows the rice year.\nIn May or June, when the rainy season begins, farmers plough their fields. In the past they used buffaloes, but today most use machines. Then they sow the rice seeds, or plant young rice plants by hand in the paddy fields, which are covered with water. Rainfall is very important; in a dry year, farmers depend on irrigation from rivers and canals.\nDuring the growing season, farmers must protect the rice from insects and disease. Many use fertiliser and pesticides, but some are now choosing organic methods because chemicals can be expensive and harmful.\nThe harvest usually takes place in November or December. Families and neighbours often work together to cut the rice. After the harvest, some farmers grow other vegetables or keep livestock such as cows and chickens. Others work in orchards, growing fruit like mangoes and longans."
+},
+{
+"t": "The Future of Farming",
+"x": "Agriculture faces a difficult challenge: by 2050, farmers will need to feed nearly ten billion people, using less water and less arable land, in a climate that is becoming less predictable.\nIn many developing countries, most farmers are smallholders, cultivating just a few hectares. Some still practise subsistence farming, growing only enough to feed their families. For them, the main problems are low incomes and vulnerability to bad weather. One successful solution has been the cooperative, in which farmers combine resources to buy equipment and negotiate better prices.\nIn richer countries, mechanisation transformed farming during the twentieth century. Tractors and harvesters allowed a single farmer to manage huge areas, and new seeds and chemicals dramatically increased yields. However, this model has costs. Large farms often rely on monoculture, growing the same crop year after year, which exhausts the soil and encourages pests. Traditional methods such as crop rotation, in which different crops are grown in turn, are now being rediscovered.\nTechnology may offer further answers. Genetically modified crops can resist drought or disease, although many consumers remain suspicious of them. Meanwhile, sensors and drones allow farmers to give each plant exactly the water it needs. Some experts argue that the goal should not be for every country to be self-sufficient, but for the global food system as a whole to become more resilient."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "The ___ gives us milk every morning.",
+"o": [
+"cow",
+"cool",
+"cow's",
+"coin"
+],
+"en": "Cows give milk.",
+"th": "วัวให้นม",
+"x": [
+[
+"'cool' is an adjective.",
+"cool = เย็นสบาย"
+],
+[
+"Possessive doesn't fit.",
+"รูปแสดงความเป็นเจ้าของไม่เข้า"
+],
+[
+"A coin is money.",
+"coin = เหรียญ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I'd like two fried ___ for breakfast, please.",
+"o": [
+"eggs",
+"legs",
+"bags",
+"pegs"
+],
+"en": "Fried eggs are breakfast food.",
+"th": "ไข่ดาว",
+"x": [
+[
+"Legs are body parts.",
+"leg = ขา"
+],
+[
+"Bags carry things.",
+"bag = กระเป๋า"
+],
+[
+"Pegs hang clothes.",
+"peg = ไม้หนีบผ้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "My grandfather ___ tomatoes in his garden.",
+"o": [
+"grows",
+"glows",
+"goes",
+"gives"
+],
+"en": "Grow = plant and look after.",
+"th": "grow = ปลูก",
+"x": [
+[
+"'glow' means shine softly.",
+"glow = เรืองแสง"
+],
+[
+"'goes' needs a place.",
+"goes ต้องมีสถานที่"
+],
+[
+"'gives' needs a person.",
+"gives ต้องมีผู้รับ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The children are running across the ___.",
+"o": [
+"field",
+"feel",
+"fill",
+"film"
+],
+"en": "A field is an open area of land.",
+"th": "field = ทุ่ง",
+"x": [
+[
+"'feel' is a verb.",
+"feel = รู้สึก"
+],
+[
+"'fill' is a verb.",
+"fill = เติม"
+],
+[
+"A film is a movie.",
+"film = ภาพยนตร์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The farmer drove his ___ into the field.",
+"o": [
+"tractor",
+"tractors'",
+"trailer park",
+"traitor"
+],
+"en": "A tractor is a farm vehicle.",
+"th": "tractor = รถแทรกเตอร์",
+"x": [
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"A trailer park is housing.",
+"trailer park = ที่จอดรถบ้าน"
+],
+[
+"A traitor betrays people.",
+"traitor = คนทรยศ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Rice is the most important ___ in Thailand.",
+"o": [
+"crop",
+"crap",
+"drop",
+"cramp"
+],
+"en": "A crop is a plant grown for food.",
+"th": "crop = พืชผล",
+"x": [
+[
+"Rude word.",
+"คำหยาบ"
+],
+[
+"A drop is a small amount of liquid.",
+"drop = หยด"
+],
+[
+"A cramp is muscle pain.",
+"cramp = ตะคริว"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Plant the ___ about two centimetres deep.",
+"o": [
+"seeds",
+"seats",
+"sheds",
+"seas"
+],
+"en": "You plant seeds.",
+"th": "ปลูกเมล็ด",
+"x": [
+[
+"Seats are for sitting.",
+"seat = ที่นั่ง"
+],
+[
+"Sheds are small buildings.",
+"shed = เพิงเก็บของ"
+],
+[
+"Seas are large waters.",
+"sea = ทะเล"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I spent the afternoon pulling ___ out of the garden.",
+"o": [
+"weeds",
+"weekends",
+"wheels",
+"woods"
+],
+"en": "Weeds are unwanted plants.",
+"th": "weed = วัชพืช",
+"x": [
+[
+"Weekends are days.",
+"weekend = วันหยุด"
+],
+[
+"Wheels are on cars.",
+"wheel = ล้อ"
+],
+[
+"Woods are forests.",
+"woods = ป่า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Farmers ___ the rice in November when it is golden.",
+"o": [
+"harvest",
+"harness",
+"harass",
+"heaven"
+],
+"en": "Harvest = collect crops.",
+"th": "harvest = เก็บเกี่ยว",
+"x": [
+[
+"'harness' means control or equipment for horses.",
+"harness = ควบคุม/สายรัด"
+],
+[
+"'harass' means annoy someone.",
+"harass = คุกคาม"
+],
+[
+"Heaven is paradise.",
+"heaven = สวรรค์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "___ systems bring water from the river to the fields.",
+"o": [
+"Irrigation",
+"Irritation",
+"Immigration",
+"Imitation"
+],
+"en": "Irrigation supplies water to crops.",
+"th": "irrigation = ชลประทาน",
+"x": [
+[
+"Irritation is annoyance.",
+"irritation = ความรำคาญ"
+],
+[
+"Immigration is moving to a country.",
+"immigration = การย้ายถิ่นฐาน"
+],
+[
+"Imitation is copying.",
+"imitation = การเลียนแบบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Many people prefer fruit grown without ___.",
+"o": [
+"pesticides",
+"pastries",
+"pesticidal",
+"pets"
+],
+"en": "Pesticides are chemicals that kill insects.",
+"th": "pesticide = ยาฆ่าแมลง",
+"x": [
+[
+"Pastries are baked food.",
+"pastry = ขนมอบ"
+],
+[
+"'pesticidal' is an adjective.",
+"pesticidal เป็นคุณศัพท์"
+],
+[
+"Pets are animals.",
+"pet = สัตว์เลี้ยง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Life in ___ areas is quieter than in the city.",
+"o": [
+"rural",
+"royal",
+"rural's",
+"ruler"
+],
+"en": "Rural = countryside.",
+"th": "rural = ชนบท",
+"x": [
+[
+"'royal' is about kings.",
+"royal = ราชวงศ์"
+],
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"A ruler measures or governs.",
+"ruler = ไม้บรรทัด/ผู้ปกครอง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The new rice variety has a much higher ___ per hectare.",
+"o": [
+"yield",
+"yell",
+"yelled",
+"yeast"
+],
+"en": "Yield = amount produced.",
+"th": "yield = ผลผลิต",
+"x": [
+[
+"'yell' means shout.",
+"yell = ตะโกน"
+],
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"Yeast is used in bread.",
+"yeast = ยีสต์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Growing only one crop on huge areas is called ___.",
+"o": [
+"monoculture",
+"monopoly",
+"monologue",
+"monotony"
+],
+"en": "Monoculture = one crop only.",
+"th": "monoculture = พืชเชิงเดี่ยว",
+"x": [
+[
+"A monopoly is control of a market.",
+"monopoly = การผูกขาด"
+],
+[
+"A monologue is one person speaking.",
+"monologue = การพูดคนเดียว"
+],
+[
+"Monotony is boredom from sameness.",
+"monotony = ความซ้ำซาก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The farmers joined a ___ to sell their coffee at better prices.",
+"o": [
+"cooperative",
+"cooperation",
+"corporate",
+"coordinate"
+],
+"en": "A cooperative is a group owned by its members.",
+"th": "cooperative = สหกรณ์",
+"x": [
+[
+"'cooperation' is the act of working together, not an organisation you join.",
+"cooperation = ความร่วมมือ"
+],
+[
+"'corporate' is an adjective.",
+"corporate = เกี่ยวกับบริษัท"
+],
+[
+"'coordinate' is a verb.",
+"coordinate = ประสานงาน"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[There] [are] [three] [sheeps] on the farm.",
+"a": 3,
+"fix": "There are three sheep on the farm.",
+"en": "The plural of 'sheep' is 'sheep'.",
+"th": "พหูพจน์ของ sheep คือ sheep",
+"x": [
+[
+"'There' is correct.",
+"There ถูกต้อง"
+],
+[
+"'are' is correct.",
+"are ถูกต้อง"
+],
+[
+"'three' is correct.",
+"three ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[My] grandpa [have] [a lot of] [animals].",
+"a": 1,
+"fix": "My grandpa has a lot of animals.",
+"en": "He/she: has.",
+"th": "he/she: has",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'a lot of' is correct.",
+"a lot of ถูกต้อง"
+],
+[
+"'animals' is correct.",
+"animals ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Did] you [go] to the farm [in] [last] summer?",
+"a": 2,
+"fix": "Did you go to the farm last summer?",
+"en": "No preposition before 'last + time'.",
+"th": "หน้า last + เวลา ไม่ใช้บุพบท",
+"x": [
+[
+"'Did' is correct.",
+"Did ถูกต้อง"
+],
+[
+"'go' is correct.",
+"go ถูกต้อง"
+],
+[
+"'last' is correct.",
+"last ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Farmers] [works] [in] the fields [every] day.",
+"a": 1,
+"fix": "Farmers work in the fields every day.",
+"en": "Plural subject: work (no -s).",
+"th": "ประธานพหูพจน์: work (ไม่เติม s)",
+"x": [
+[
+"'Farmers' is correct.",
+"Farmers ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'every' is correct.",
+"every ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[How] [much] [chickens] [does] your grandma have?",
+"a": 1,
+"fix": "How many chickens does your grandma have?",
+"en": "Countable noun: How many.",
+"th": "นามนับได้: How many",
+"x": [
+[
+"'How' is correct.",
+"How ถูกต้อง"
+],
+[
+"'chickens' is correct.",
+"chickens ถูกต้อง"
+],
+[
+"'does' is correct.",
+"does ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[The] rice [is] [harvesting] [in] November.",
+"a": 2,
+"fix": "The rice is harvested in November.",
+"en": "Passive: is harvested.",
+"th": "passive: is harvested",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'in' is correct with months.",
+"in ใช้กับเดือน ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] it [doesn't] rain soon, the crops [would] [die].",
+"a": 2,
+"fix": "If it doesn't rain soon, the crops will die.",
+"en": "First conditional: will.",
+"th": "first conditional: will",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'doesn't' is correct.",
+"doesn't ถูกต้อง"
+],
+[
+"'die' is correct.",
+"die ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Much] farmers [now] [use] [machines] instead of buffaloes.",
+"a": 0,
+"fix": "Many farmers now use machines instead of buffaloes.",
+"en": "Countable noun: many.",
+"th": "นามนับได้: many",
+"x": [
+[
+"'now' is correct.",
+"now ถูกต้อง"
+],
+[
+"'use' is correct.",
+"use ถูกต้อง"
+],
+[
+"'machines' is correct.",
+"machines ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Scarcely] [the farmers had] [planted] the rice [when] the floods came.",
+"a": 1,
+"fix": "Scarcely had the farmers planted the rice when the floods came.",
+"en": "After 'Scarcely' at the start, invert: had the farmers.",
+"th": "ขึ้นต้น Scarcely ต้องสลับ: had the farmers",
+"x": [
+[
+"'Scarcely' is correct.",
+"Scarcely ถูกต้อง"
+],
+[
+"'planted' is correct.",
+"planted ถูกต้อง"
+],
+[
+"'when' is correct with 'scarcely'.",
+"when ใช้คู่ scarcely ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Were] farmers [to receive] fairer prices, fewer young people [will leave] [rural] areas.",
+"a": 2,
+"fix": "Were farmers to receive fairer prices, fewer young people would leave rural areas.",
+"en": "Hypothetical 'Were… to' needs 'would'.",
+"th": "Were... to (สมมติ) ต้องใช้ would",
+"x": [
+[
+"'Were' is correct inversion.",
+"Were ถูกต้อง"
+],
+[
+"'to receive' is correct.",
+"to receive ถูกต้อง"
+],
+[
+"'rural' is correct.",
+"rural ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What animals does your grandpa have?\nB: ___",
+"o": [
+"Cows, pigs and chickens.",
+"On a farm.",
+"Every day.",
+"Yes, he does."
+],
+"en": "B lists animals.",
+"th": "B บอกชื่อสัตว์",
+"x": [
+[
+"Place.",
+"สถานที่"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Not an answer to 'what'.",
+"ไม่ตอบ what"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you like eggs?\nB: ___ I eat one every day.",
+"o": [
+"Yes, I do.",
+"No, I don't.",
+"I'm an egg.",
+"Eggs are white."
+],
+"en": "Eating one daily → yes.",
+"th": "กินทุกวัน จึงชอบ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Where do ducks live?\nB: ___",
+"o": [
+"Near water, like ponds and rivers.",
+"In the sky.",
+"At school.",
+"Ducks are birds."
+],
+"en": "B gives a place.",
+"th": "B บอกที่อยู่",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not a place.",
+"ไม่ใช่สถานที่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Would you like to live in a village?\nB: ___ I love the quiet and fresh air.",
+"o": [
+"Yes, I'd love to.",
+"No, I'd hate it.",
+"I live in a city.",
+"Villages are small."
+],
+"en": "B loves the quiet → yes.",
+"th": "B ชอบความเงียบ จึงอยากอยู่",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Can I help you on the farm?\nB: ___ You can collect the eggs.",
+"o": [
+"Sure, thanks!",
+"No, go away.",
+"I'm a farmer.",
+"It's sunny."
+],
+"en": "B accepts and gives a task.",
+"th": "B ตอบรับและให้งาน",
+"x": [
+[
+"It contradicts giving a task.",
+"ขัดกับการให้งาน"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What does a farmer do in the morning?\nB: ___",
+"o": [
+"He feeds the animals and checks the crops.",
+"At six o'clock.",
+"In the field.",
+"Very tired."
+],
+"en": "B describes activities.",
+"th": "B อธิบายกิจกรรม",
+"x": [
+[
+"Time.",
+"เวลา"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Feeling.",
+"ความรู้สึก"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Why are some farmers switching to organic methods?\nB: ___",
+"o": [
+"Chemicals are expensive and can harm the environment.",
+"Because organic food is cheaper to grow everywhere.",
+"They don't like rice.",
+"Because tractors are organic."
+],
+"en": "B gives a reason from the passage.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Not necessarily true.",
+"ไม่จริงเสมอไป"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: The rainfall was very low this year.\nB: ___",
+"o": [
+"That's bad news for the rice harvest.",
+"Great for the paddy fields!",
+"Let's water the sea.",
+"Rain is wet."
+],
+"en": "Low rain → bad for rice.",
+"th": "ฝนน้อยไม่ดีต่อข้าว",
+"x": [
+[
+"Rice needs water.",
+"ข้าวต้องใช้น้ำ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should we be worried about genetically modified crops?\nB: ___ Most research suggests they're safe, but some people worry about long-term effects.",
+"o": [
+"Opinions differ.",
+"Yes, they're poison.",
+"No, nobody has concerns.",
+"I've never eaten food."
+],
+"en": "B presents different views.",
+"th": "B นำเสนอความเห็นที่แตกต่าง",
+"x": [
+[
+"It contradicts the research.",
+"ขัดกับงานวิจัย"
+],
+[
+"It contradicts 'some people worry'.",
+"ขัดกับ some people worry"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should every country try to be self-sufficient in food?\nB: ___ Trade can make the system more resilient when one region has a bad harvest.",
+"o": [
+"Not necessarily.",
+"Absolutely, trade is dangerous.",
+"Yes, nobody should import anything.",
+"Food isn't important."
+],
+"en": "B argues for trade.",
+"th": "B สนับสนุนการค้า",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where is Grandpa's farm?",
+"o": [
+"In Nakhon Ratchasima",
+"In Bangkok",
+"In the mountains",
+"By the sea"
+],
+"en": "'…my grandpa's farm in Nakhon Ratchasima.'",
+"th": "นครราชสีมา",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the writer do in the morning?",
+"o": [
+"Feeds the chickens and collects eggs",
+"Drives the tractor",
+"Milks the cows",
+"Goes to school"
+],
+"en": "'I help him feed the chickens and collect their eggs.'",
+"th": "ให้อาหารไก่และเก็บไข่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It's a holiday.",
+"เป็นช่วงปิดเทอม"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Which animal does Grandpa NOT have?",
+"o": [
+"Sheep",
+"Goats",
+"Cows",
+"Ducks"
+],
+"en": "'He also has some goats, but no sheep.'",
+"th": "แกะ",
+"x": [
+[
+"He has goats.",
+"มีแพะ"
+],
+[
+"He has cows.",
+"มีวัว"
+],
+[
+"He has ducks.",
+"มีเป็ด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did Grandpa use in the past to work in the fields?",
+"o": [
+"A buffalo",
+"A tractor",
+"A horse",
+"A car"
+],
+"en": "'In the past, Grandpa used a buffalo.'",
+"th": "ควาย",
+"x": [
+[
+"That's now.",
+"นั่นคือตอนนี้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Why does the writer love the farm?",
+"o": [
+"It's quiet and the air is fresh.",
+"There are many shops.",
+"It's close to school.",
+"There's fast internet."
+],
+"en": "'…it's quiet and the air is fresh.'",
+"th": "เงียบและอากาศบริสุทธิ์",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "When do farmers plough their fields?",
+"o": [
+"In May or June",
+"In November",
+"In December",
+"All year"
+],
+"en": "'In May or June… farmers plough their fields.'",
+"th": "พฤษภาคมหรือมิถุนายน",
+"x": [
+[
+"That's the harvest.",
+"นั่นคือฤดูเก็บเกี่ยว"
+],
+[
+"That's the harvest.",
+"นั่นคือฤดูเก็บเกี่ยว"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do farmers depend on in a dry year?",
+"o": [
+"Irrigation from rivers and canals",
+"Pesticides",
+"Buffaloes",
+"Orchards"
+],
+"en": "'…farmers depend on irrigation from rivers and canals.'",
+"th": "การชลประทานจากแม่น้ำและคลอง",
+"x": [
+[
+"Not related to water.",
+"ไม่เกี่ยวกับน้ำ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why are some farmers choosing organic methods?",
+"o": [
+"Chemicals can be expensive and harmful.",
+"Organic rice grows faster.",
+"The government requires it.",
+"Insects have disappeared."
+],
+"en": "'…because chemicals can be expensive and harmful.'",
+"th": "สารเคมีแพงและเป็นอันตราย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How is the harvest often done?",
+"o": [
+"Families and neighbours work together.",
+"Only by machines",
+"By tourists",
+"By one farmer alone"
+],
+"en": "'Families and neighbours often work together to cut the rice.'",
+"th": "ครอบครัวและเพื่อนบ้านช่วยกัน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do some farmers do after the harvest?",
+"o": [
+"Grow vegetables, keep livestock or work in orchards",
+"Sell their land",
+"Go on holiday abroad",
+"Plant rice again immediately"
+],
+"en": "'…some farmers grow other vegetables or keep livestock… Others work in orchards.'",
+"th": "ปลูกผัก เลี้ยงสัตว์ หรือทำสวนผลไม้",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What challenge will agriculture face by 2050?",
+"o": [
+"Feeding nearly ten billion people with fewer resources",
+"Having too much land",
+"A shortage of farmers' tractors",
+"Too much rain everywhere"
+],
+"en": "'…feed nearly ten billion people, using less water and less arable land.'",
+"th": "เลี้ยงคนเกือบหมื่นล้านด้วยทรัพยากรที่น้อยลง",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"'Less predictable' climate.",
+"สภาพอากาศคาดเดายาก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How have cooperatives helped smallholders?",
+"o": [
+"By combining resources and negotiating better prices",
+"By giving them free land",
+"By replacing them with machines",
+"By banning monoculture"
+],
+"en": "'…farmers combine resources to buy equipment and negotiate better prices.'",
+"th": "รวมทรัพยากรและต่อรองราคา",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What problem does monoculture cause?",
+"o": [
+"It exhausts the soil and encourages pests.",
+"It needs too many workers.",
+"It produces too many different crops.",
+"It reduces mechanisation."
+],
+"en": "'…which exhausts the soil and encourages pests.'",
+"th": "ทำให้ดินเสื่อมและเกิดศัตรูพืช",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is crop rotation?",
+"o": [
+"Growing different crops in turn",
+"Growing one crop every year",
+"Moving farms to new land",
+"Using drones to water plants"
+],
+"en": "'…in which different crops are grown in turn.'",
+"th": "การปลูกพืชต่างชนิดหมุนเวียนกัน",
+"x": [
+[
+"That's monoculture.",
+"นั่นคือพืชเชิงเดี่ยว"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That's sensors and drones.",
+"นั่นคือเซนเซอร์และโดรน"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do some experts think the goal should be?",
+"o": [
+"A more resilient global food system",
+"Every country being self-sufficient",
+"More monoculture",
+"Banning technology"
+],
+"en": "'…for the global food system as a whole to become more resilient.'",
+"th": "ระบบอาหารโลกที่ยืดหยุ่นมากขึ้น",
+"x": [
+[
+"The writer says 'not'.",
+"ผู้เขียนบอกว่าไม่ใช่"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

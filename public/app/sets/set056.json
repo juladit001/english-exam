@@ -1,0 +1,1627 @@
+{
+"id": 56,
+"theme": "Startups",
+"v": [
+[
+"own",
+"verb/adjective",
+"A1",
+"เป็นเจ้าของ, ของตัวเอง",
+"She *owns* a small café."
+],
+[
+"problem",
+"noun",
+"A1",
+"ปัญหา",
+"Every business has *problems*."
+],
+[
+"solve",
+"verb",
+"A1",
+"แก้ (ปัญหา)",
+"The app *solves* a common problem."
+],
+[
+"lucky",
+"adjective",
+"A1",
+"โชคดี",
+"We were *lucky* to find an investor."
+],
+[
+"success",
+"noun",
+"A1",
+"ความสำเร็จ",
+"The new product was a big *success*."
+],
+[
+"hard-working",
+"adjective",
+"A1",
+"ขยัน",
+"He's very *hard-working*."
+],
+[
+"risk",
+"noun",
+"A1",
+"ความเสี่ยง",
+"Starting a business is a *risk*."
+],
+[
+"succeed",
+"verb",
+"A1",
+"ประสบความสำเร็จ",
+"Only some startups *succeed*."
+],
+[
+"founder",
+"noun",
+"A2",
+"ผู้ก่อตั้ง",
+"The *founder* is only 25."
+],
+[
+"business plan",
+"noun",
+"A2",
+"แผนธุรกิจ",
+"Write a clear *business plan*."
+],
+[
+"funding",
+"noun",
+"A2",
+"เงินทุน",
+"They got *funding* from a bank."
+],
+[
+"growth",
+"noun",
+"A2",
+"การเติบโต",
+"The company has seen fast *growth*."
+],
+[
+"pitch",
+"noun/verb",
+"A2",
+"การนำเสนอขาย (ไอเดีย)",
+"She *pitched* her idea to investors."
+],
+[
+"prototype",
+"noun",
+"A2",
+"ต้นแบบ",
+"They built a *prototype* of the robot."
+],
+[
+"network",
+"noun/verb",
+"A2",
+"เครือข่าย, สร้างเครือข่าย",
+"Use your *network* to find customers."
+],
+[
+"co-founder",
+"noun",
+"A2",
+"ผู้ร่วมก่อตั้ง",
+"He started the company with a *co-founder*."
+],
+[
+"expand",
+"verb",
+"A2",
+"ขยาย",
+"They want to *expand* into Vietnam."
+],
+[
+"ambition",
+"noun",
+"A2",
+"ความทะเยอทะยาน",
+"Her *ambition* is to build a global brand."
+],
+[
+"innovative",
+"adjective",
+"B1",
+"มีนวัตกรรม, แปลกใหม่",
+"It's an *innovative* idea."
+],
+[
+"scale",
+"verb",
+"B1",
+"ขยายขนาด (ธุรกิจ)",
+"It's hard to *scale* a business quickly."
+],
+[
+"stake",
+"noun",
+"B1",
+"หุ้นส่วน, ส่วนได้เสีย",
+"The investor bought a 20% *stake*."
+],
+[
+"incubator",
+"noun",
+"B1",
+"ศูนย์บ่มเพาะธุรกิจ",
+"The startup began in a university *incubator*."
+],
+[
+"break even",
+"phrasal verb",
+"B1",
+"คุ้มทุน",
+"We hope to *break even* next year."
+],
+[
+"cash flow",
+"noun",
+"B1",
+"กระแสเงินสด",
+"Poor *cash flow* kills many small firms."
+],
+[
+"overheads",
+"noun",
+"B1",
+"ค่าใช้จ่ายดำเนินงาน",
+"Rent is our biggest *overhead*."
+],
+[
+"crowdfunding",
+"noun",
+"B1",
+"การระดมทุนจากมวลชน",
+"They raised money through *crowdfunding*."
+],
+[
+"target market",
+"noun",
+"B1",
+"ตลาดเป้าหมาย",
+"Our *target market* is students."
+],
+[
+"patent",
+"noun",
+"B1",
+"สิทธิบัตร",
+"They applied for a *patent* on the design."
+],
+[
+"setback",
+"noun",
+"B1",
+"อุปสรรค, ความถดถอย",
+"Losing the client was a big *setback*."
+],
+[
+"venture capital",
+"noun",
+"B2",
+"เงินร่วมลงทุน",
+"They received *venture capital* from Singapore."
+],
+[
+"disrupt",
+"verb",
+"B2",
+"สร้างความเปลี่ยนแปลงอย่างพลิกโฉม (ตลาด)",
+"Ride-sharing *disrupted* the taxi industry."
+],
+[
+"valuation",
+"noun",
+"B2",
+"การประเมินมูลค่า",
+"The company's *valuation* is $50 million."
+],
+[
+"equity",
+"noun",
+"B2",
+"ส่วนของผู้ถือหุ้น, หุ้นทุน",
+"The founders gave up 30% *equity*."
+],
+[
+"unicorn",
+"noun",
+"B2",
+"สตาร์ทอัพมูลค่าเกินพันล้านดอลลาร์",
+"Thailand now has several *unicorns*."
+],
+[
+"accelerator",
+"noun",
+"B2",
+"โครงการเร่งการเติบโต (สตาร์ทอัพ)",
+"They joined a three-month *accelerator*."
+],
+[
+"lean",
+"adjective",
+"B2",
+"ประหยัด, ไม่สิ้นเปลือง",
+"Keep the team *lean* at first."
+],
+[
+"pivot",
+"verb/noun",
+"B2",
+"เปลี่ยนทิศทางธุรกิจ",
+"The company *pivoted* from games to education."
+],
+[
+"burn rate",
+"noun",
+"B2",
+"อัตราการใช้เงินทุน",
+"Their *burn rate* is $100,000 a month."
+],
+[
+"bootstrap",
+"verb",
+"B2",
+"สร้างธุรกิจด้วยทุนตัวเอง",
+"They *bootstrapped* the company with savings."
+],
+[
+"perseverance",
+"noun",
+"B2",
+"ความเพียรพยายาม",
+"Success requires *perseverance*."
+]
+],
+"p": [
+{
+"t": "My Sister's Business",
+"x": "My sister, Mint, is 26 and she owns a small business. She makes healthy snacks from Thai fruit. At first, she worked from our kitchen. She was very hard-working: she cooked in the morning and sold her snacks at markets in the afternoon.\nThere were many problems. Sometimes the fruit was too expensive, and sometimes nobody bought her snacks. But Mint never gave up. She solved each problem one by one.\nThen she was lucky. A big supermarket tried her snacks and loved them! Now her snacks are in fifty shops. Starting a business was a risk, but for Mint it was a big success. She says, \"Anyone can succeed if they work hard.\""
+},
+{
+"t": "From Idea to Company",
+"x": "Every year, thousands of young people in Thailand try to start their own companies. The founder of a startup usually begins with an idea to solve a problem. For example, Ploy and her co-founder Bank noticed that many students couldn't find cheap tutors, so they created an app to connect them.\nFirst, they wrote a business plan explaining their target market, their costs and how they would make money. Then they built a simple prototype and tested it with friends. They joined a university incubator, which gave them office space and advice.\nNext, they needed funding. Ploy practised her pitch many times before meeting investors. One investor bought a 15% stake in the company. Ploy also used her network to find their first customers, and some money came from crowdfunding.\nThe first year was hard. Rent and salaries were big overheads, and cash flow was a constant worry. When a large competitor copied their idea, it was a serious setback. Luckily, they had applied for a patent on one feature. By the end of the second year, they managed to break even. Now they plan to scale the business and expand to other countries. \"You need ambition,\" says Ploy, \"but you also need an innovative idea and a lot of patience.\" The company's growth has been impressive."
+},
+{
+"t": "The Startup Myth",
+"x": "Popular culture loves the story of the startup founder who drops out of university, builds an app in a garage and becomes a billionaire. These success stories, featuring 'unicorns' with a valuation of over a billion dollars, have inspired a generation. Yet the reality is far less glamorous: most startups fail within five years.\nOne common reason is running out of money. Many startups depend on venture capital, giving investors equity in exchange for funding. This allows rapid growth, but it also creates pressure to expand quickly. A company with a high burn rate, spending far more each month than it earns, may collapse if new investment does not arrive in time.\nFor this reason, some founders prefer to bootstrap, funding the business from savings and early revenue. Growth may be slower, but they keep control. Advocates of the 'lean startup' approach recommend testing ideas cheaply and quickly, listening carefully to customers, and being ready to pivot when an idea is not working. Some of today's most famous companies began with a completely different product.\nPrograms such as accelerators, which offer training and connections in exchange for a small stake, can help. But perhaps the most important quality is perseverance. Founders who disrupt established industries rarely succeed on their first attempt; they learn from failure, adjust and try again. As one investor put it, \"I don't invest in ideas. I invest in people who won't give up.\""
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "She ___ a small café in the city centre.",
+"o": [
+"owns",
+"owes",
+"owls",
+"opens up"
+],
+"en": "Own = have as your property.",
+"th": "own = เป็นเจ้าของ",
+"x": [
+[
+"'owe' means need to pay back.",
+"owe = ติดหนี้"
+],
+[
+"Owls are birds.",
+"owl = นกฮูก"
+],
+[
+"Needs an object directly; meaning differs.",
+"ความหมายต่างกัน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "This app helps you ___ everyday problems.",
+"o": [
+"solve",
+"save",
+"serve",
+"sell"
+],
+"en": "Solve a problem = find an answer.",
+"th": "solve = แก้ปัญหา",
+"x": [
+[
+"'save' means keep or rescue.",
+"save = ประหยัด ช่วย"
+],
+[
+"'serve' means give food or help customers.",
+"serve = บริการ"
+],
+[
+"'sell' means exchange for money.",
+"sell = ขาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "He works 12 hours a day. He's very ___.",
+"o": [
+"hard-working",
+"hard-boiled",
+"hardware",
+"hardly"
+],
+"en": "Hard-working = works a lot.",
+"th": "hard-working = ขยัน",
+"x": [
+[
+"'hard-boiled' is for eggs.",
+"hard-boiled = ต้มสุก"
+],
+[
+"Hardware is equipment.",
+"hardware = ฮาร์ดแวร์"
+],
+[
+"'hardly' means almost not.",
+"hardly = แทบจะไม่"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "We were ___ to meet a great investor at the event.",
+"o": [
+"lucky",
+"luck",
+"luckily",
+"lack"
+],
+"en": "Be lucky = have good luck.",
+"th": "be lucky = โชคดี",
+"x": [
+[
+"'luck' is a noun.",
+"luck เป็นคำนาม"
+],
+[
+"'luckily' is an adverb.",
+"luckily เป็นกริยาวิเศษณ์"
+],
+[
+"'lack' means not have.",
+"lack = ขาด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The ___ of the company started it when she was 22.",
+"o": [
+"founder",
+"finder",
+"foundation",
+"fountain"
+],
+"en": "A founder starts a company.",
+"th": "founder = ผู้ก่อตั้ง",
+"x": [
+[
+"A finder finds things.",
+"finder = ผู้ค้นพบ"
+],
+[
+"A foundation is a base or charity.",
+"foundation = ฐานราก มูลนิธิ"
+],
+[
+"A fountain sprays water.",
+"fountain = น้ำพุ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Before making the real product, they built a ___ to test.",
+"o": [
+"prototype",
+"protein",
+"protest",
+"protocol"
+],
+"en": "A prototype is a first model.",
+"th": "prototype = ต้นแบบ",
+"x": [
+[
+"Protein is in food.",
+"protein = โปรตีน"
+],
+[
+"A protest is a demonstration.",
+"protest = การประท้วง"
+],
+[
+"A protocol is a set of rules.",
+"protocol = ระเบียบปฏิบัติ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She ___ her idea to five investors in one day.",
+"o": [
+"pitched",
+"pinched",
+"pitied",
+"pictured"
+],
+"en": "Pitch an idea = present it to persuade.",
+"th": "pitch = นำเสนอขายไอเดีย",
+"x": [
+[
+"'pinch' means squeeze.",
+"pinch = หยิก"
+],
+[
+"'pity' means feel sorry for.",
+"pity = สงสาร"
+],
+[
+"'picture' means imagine.",
+"picture = นึกภาพ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The company wants to ___ into new markets abroad.",
+"o": [
+"expand",
+"expend",
+"expect",
+"explain"
+],
+"en": "Expand = grow bigger.",
+"th": "expand = ขยาย",
+"x": [
+[
+"'expend' means use up.",
+"expend = ใช้จ่าย"
+],
+[
+"'expect' means think will happen.",
+"expect = คาดหวัง"
+],
+[
+"'explain' means make clear.",
+"explain = อธิบาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "We hope to ___ next year, when our income will equal our costs.",
+"o": [
+"break even",
+"break down",
+"break up",
+"break out"
+],
+"en": "Break even = no profit, no loss.",
+"th": "break even = คุ้มทุน",
+"x": [
+[
+"'break down' means stop working.",
+"break down = เสีย"
+],
+[
+"'break up' means end a relationship.",
+"break up = เลิกกัน"
+],
+[
+"'break out' means start suddenly.",
+"break out = ปะทุ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "They raised $50,000 through ___, with 2,000 people giving small amounts.",
+"o": [
+"crowdfunding",
+"crowding",
+"fundraiser's",
+"crowd control"
+],
+"en": "Crowdfunding = many people give small amounts online.",
+"th": "crowdfunding = ระดมทุนจากมวลชน",
+"x": [
+[
+"Crowding is many people in a space.",
+"crowding = ความแออัด"
+],
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"Crowd control manages crowds.",
+"crowd control = การควบคุมฝูงชน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Losing our biggest client was a serious ___.",
+"o": [
+"setback",
+"setting",
+"set-up",
+"outset"
+],
+"en": "A setback is a problem that delays progress.",
+"th": "setback = อุปสรรค",
+"x": [
+[
+"A setting is a place or level.",
+"setting = การตั้งค่า ฉาก"
+],
+[
+"A set-up is an arrangement.",
+"set-up = การจัดตั้ง"
+],
+[
+"The outset is the beginning.",
+"outset = จุดเริ่มต้น"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "They applied for a ___ so nobody could copy their invention.",
+"o": [
+"patent",
+"patient",
+"pattern",
+"parent"
+],
+"en": "A patent protects an invention.",
+"th": "patent = สิทธิบัตร",
+"x": [
+[
+"A patient is in hospital.",
+"patient = ผู้ป่วย"
+],
+[
+"A pattern is a design.",
+"pattern = ลวดลาย"
+],
+[
+"A parent is a mother or father.",
+"parent = พ่อแม่"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "When the idea failed, the company decided to ___ and focus on education.",
+"o": [
+"pivot",
+"pilot",
+"pivotal",
+"pirate"
+],
+"en": "Pivot = change business direction.",
+"th": "pivot = เปลี่ยนทิศทางธุรกิจ",
+"x": [
+[
+"'pilot' means test or fly.",
+"pilot = ทดลอง ขับเครื่องบิน"
+],
+[
+"'pivotal' is an adjective.",
+"pivotal = สำคัญยิ่ง"
+],
+[
+"'pirate' means copy illegally.",
+"pirate = ละเมิดลิขสิทธิ์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Instead of taking investors' money, they ___ the business with their savings.",
+"o": [
+"bootstrapped",
+"booked",
+"boosted",
+"bootlegged"
+],
+"en": "Bootstrap = fund it yourself.",
+"th": "bootstrap = สร้างธุรกิจด้วยทุนตัวเอง",
+"x": [
+[
+"'book' means reserve.",
+"book = จอง"
+],
+[
+"'boost' means increase; doesn't fit 'with their savings' as precisely.",
+"boost = เพิ่ม"
+],
+[
+"'bootleg' means make illegally.",
+"bootleg = ผลิตเถื่อน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Ride-sharing apps ___ the traditional taxi industry.",
+"o": [
+"disrupted",
+"disrespected",
+"disappeared",
+"discouraged"
+],
+"en": "Disrupt = change an industry dramatically.",
+"th": "disrupt = พลิกโฉมอุตสาหกรรม",
+"x": [
+[
+"'disrespect' means be rude to.",
+"disrespect = ไม่เคารพ"
+],
+[
+"'disappear' has no object.",
+"disappear ไม่มีกรรม"
+],
+[
+"'discourage' means make less likely.",
+"discourage = ทำให้ท้อ"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Do] she [own] [a] [shop]?",
+"a": 0,
+"fix": "Does she own a shop?",
+"en": "She: Does.",
+"th": "she ใช้ Does",
+"x": [
+[
+"'own' is correct after 'does'.",
+"own ถูกต้องหลัง does"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+],
+[
+"'shop' is correct.",
+"shop ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[We] [had] [a] [big problems].",
+"a": 3,
+"fix": "We had a big problem.",
+"en": "After 'a', use a singular noun.",
+"th": "หลัง a ใช้นามเอกพจน์",
+"x": [
+[
+"'We' is correct.",
+"We ถูกต้อง"
+],
+[
+"'had' is correct.",
+"had ถูกต้อง"
+],
+[
+"'a' is correct with 'problem'.",
+"a ถูกต้องกับ problem"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[My] friend [have] [started] [a] company.",
+"a": 1,
+"fix": "My friend has started a company.",
+"en": "Singular subject: has.",
+"th": "ประธานเอกพจน์: has",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'started' is correct.",
+"started ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Start] a business [is] [very] [risky].",
+"a": 0,
+"fix": "Starting a business is very risky.",
+"en": "An activity as subject: Starting.",
+"th": "กิจกรรมเป็นประธาน: Starting",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'risky' is correct.",
+"risky ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[They] [need] more money [for] [expand] the business.",
+"a": 2,
+"fix": "They need more money to expand the business.",
+"en": "Purpose: to + verb.",
+"th": "จุดประสงค์: to + V1",
+"x": [
+[
+"'They' is correct.",
+"They ถูกต้อง"
+],
+[
+"'need' is correct.",
+"need ถูกต้อง"
+],
+[
+"'expand' is correct; only 'for' needs to change to 'to'.",
+"expand ถูกต้อง เปลี่ยนแค่ for เป็น to"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] the company [doesn't] [break even] this year, it [would] close.",
+"a": 3,
+"fix": "If the company doesn't break even this year, it will close.",
+"en": "First conditional: will.",
+"th": "first conditional: will",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'doesn't' is correct.",
+"doesn't ถูกต้อง"
+],
+[
+"'break even' is correct.",
+"break even ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Despite] [having] no experience, she [succeeded] [to build] a successful company.",
+"a": 3,
+"fix": "Despite having no experience, she succeeded in building a successful company.",
+"en": "'Succeed in + -ing'.",
+"th": "succeed in + V-ing",
+"x": [
+[
+"'Despite' is correct.",
+"Despite ถูกต้อง"
+],
+[
+"'having' is correct after despite.",
+"having ถูกต้องหลัง despite"
+],
+[
+"'succeeded' is correct.",
+"succeeded ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Much] startups [fail] [in] [their] first year.",
+"a": 0,
+"fix": "Many startups fail in their first year.",
+"en": "Countable plural: many.",
+"th": "นามนับได้พหูพจน์: many",
+"x": [
+[
+"'fail' is correct.",
+"fail ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'their' is correct.",
+"their ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Had] the founders [listened] to feedback, the company [might] [survive].",
+"a": 3,
+"fix": "Had the founders listened to feedback, the company might have survived.",
+"en": "Third conditional: might have survived.",
+"th": "third conditional: might have survived",
+"x": [
+[
+"'Had' is correct inversion.",
+"Had ถูกต้อง"
+],
+[
+"'listened' is correct.",
+"listened ถูกต้อง"
+],
+[
+"'might' is correct.",
+"might ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[The] number of unicorns [have] [grown] [rapidly].",
+"a": 1,
+"fix": "The number of unicorns has grown rapidly.",
+"en": "'The number of…' is singular: has.",
+"th": "The number of... เป็นเอกพจน์: has",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'grown' is correct.",
+"grown ถูกต้อง"
+],
+[
+"'rapidly' is correct.",
+"rapidly ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What does your sister do?\nB: ___",
+"o": [
+"She owns a snack business.",
+"She's 26.",
+"In Bangkok.",
+"Yes, she does."
+],
+"en": "'What does she do?' asks about a job.",
+"th": "ถามอาชีพ",
+"x": [
+[
+"Age.",
+"อายุ"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Is your business a success?\nB: ___ We sell in fifty shops now.",
+"o": [
+"Yes, it is.",
+"No, it isn't.",
+"It's a business.",
+"I'm a success."
+],
+"en": "Fifty shops → yes.",
+"th": "ขายใน 50 ร้าน จึงสำเร็จ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not natural.",
+"ไม่เป็นธรรมชาติ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: I have a problem with my computer.\nB: ___",
+"o": [
+"Let me help you.",
+"Great!",
+"I don't have a computer.",
+"Problems are big."
+],
+"en": "B offers help.",
+"th": "B เสนอความช่วยเหลือ",
+"x": [
+[
+"Wrong reaction.",
+"ปฏิกิริยาผิด"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Why did you start your own company?\nB: ___",
+"o": [
+"I wanted to solve a problem I had myself.",
+"Last year.",
+"In my kitchen.",
+"With my co-founder."
+],
+"en": "B gives a reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Time.",
+"เวลา"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Person.",
+"บุคคล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Did the investors like your pitch?\nB: ___ One of them wants to meet again next week.",
+"o": [
+"I think so!",
+"No, they hated it.",
+"I didn't pitch.",
+"Pitches are short."
+],
+"en": "A second meeting → they liked it.",
+"th": "นัดพบอีกครั้ง แสดงว่าชอบ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How big is your team?\nB: ___",
+"o": [
+"Just five people.",
+"Very good.",
+"Since 2023.",
+"In an office."
+],
+"en": "'How big' asks for size.",
+"th": "how big ถามขนาด",
+"x": [
+[
+"Quality.",
+"คุณภาพ"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Place.",
+"สถานที่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: We're running out of money.\nB: ___",
+"o": [
+"Let's cut our overheads and look for new funding.",
+"Let's spend more on advertising.",
+"Money isn't important.",
+"Close the business tomorrow."
+],
+"en": "B suggests a sensible plan.",
+"th": "B เสนอแผนที่สมเหตุผล",
+"x": [
+[
+"Risky without money.",
+"เสี่ยงเมื่อไม่มีเงิน"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Extreme.",
+"สุดโต่ง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Should I give an investor 40% of my company?\nB: ___ You'd lose a lot of control.",
+"o": [
+"I'd think carefully about that.",
+"Definitely, give 90%.",
+"Investors don't want equity.",
+"Companies can't be shared."
+],
+"en": "B advises caution.",
+"th": "B แนะนำให้ระวัง",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Our app isn't growing. Should we give up?\nB: ___ Many successful companies changed direction before they found the right product.",
+"o": [
+"Not necessarily. Maybe it's time to pivot.",
+"Yes, just quit.",
+"Apps never grow.",
+"Keep everything exactly the same."
+],
+"en": "B suggests pivoting.",
+"th": "B แนะนำให้เปลี่ยนทิศทาง",
+"x": [
+[
+"It contradicts B's point.",
+"ขัดกับประเด็นของ B"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"It contradicts B's point.",
+"ขัดกับประเด็นของ B"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Is venture capital always the best way to fund a startup?\nB: ___ It brings fast growth, but you give up equity and control.",
+"o": [
+"Not always.",
+"Yes, always.",
+"Never; it's illegal.",
+"Venture capital is a city."
+],
+"en": "B gives a balanced view.",
+"th": "B ให้มุมมองที่สมดุล",
+"x": [
+[
+"B mentions downsides.",
+"B พูดถึงข้อเสีย"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Mint make?",
+"o": [
+"Healthy snacks from Thai fruit",
+"Clothes",
+"Furniture",
+"Apps"
+],
+"en": "'She makes healthy snacks from Thai fruit.'",
+"th": "ขนมเพื่อสุขภาพจากผลไม้ไทย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where did Mint work at first?",
+"o": [
+"In the family kitchen",
+"In a factory",
+"In a supermarket",
+"In an office"
+],
+"en": "'At first, she worked from our kitchen.'",
+"th": "ในครัวของครอบครัว",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That came later.",
+"เป็นเรื่องภายหลัง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did Mint do with each problem?",
+"o": [
+"She solved it one by one.",
+"She gave up.",
+"She asked her parents to solve it.",
+"She ignored it."
+],
+"en": "'She solved each problem one by one.'",
+"th": "แก้ปัญหาทีละอย่าง",
+"x": [
+[
+"'Mint never gave up.'",
+"ไม่เคยยอมแพ้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How was Mint lucky?",
+"o": [
+"A big supermarket loved her snacks.",
+"She won money.",
+"Fruit became cheap.",
+"She met a famous chef."
+],
+"en": "'A big supermarket tried her snacks and loved them!'",
+"th": "ซูเปอร์มาร์เก็ตใหญ่ชอบขนมของเธอ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Mint believe?",
+"o": [
+"Anyone can succeed if they work hard.",
+"Business is only for rich people.",
+"Luck is everything.",
+"Kitchens are the best offices."
+],
+"en": "'Anyone can succeed if they work hard.'",
+"th": "ใครก็สำเร็จได้ถ้าขยัน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What problem did Ploy and Bank want to solve?",
+"o": [
+"Students couldn't find cheap tutors.",
+"Tutors had no students.",
+"Universities were too expensive.",
+"Apps were too slow."
+],
+"en": "'…many students couldn't find cheap tutors.'",
+"th": "นักเรียนหาครูสอนพิเศษราคาถูกไม่ได้",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What did the university incubator give them?",
+"o": [
+"Office space and advice",
+"Money",
+"Customers",
+"A patent"
+],
+"en": "'…which gave them office space and advice.'",
+"th": "พื้นที่สำนักงานและคำแนะนำ",
+"x": [
+[
+"Investors and crowdfunding did.",
+"นักลงทุนและการระดมทุนให้"
+],
+[
+"Their network did.",
+"เครือข่ายช่วยหา"
+],
+[
+"They applied themselves.",
+"พวกเขายื่นขอเอง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How much of the company did one investor buy?",
+"o": [
+"15%",
+"50%",
+"40%",
+"5%"
+],
+"en": "'One investor bought a 15% stake.'",
+"th": "15%",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What was a serious setback?",
+"o": [
+"A large competitor copied their idea.",
+"They lost their patent.",
+"Ploy left the company.",
+"The incubator closed."
+],
+"en": "'When a large competitor copied their idea, it was a serious setback.'",
+"th": "คู่แข่งรายใหญ่ลอกไอเดีย",
+"x": [
+[
+"They had a patent.",
+"พวกเขามีสิทธิบัตร"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What happened by the end of the second year?",
+"o": [
+"They broke even.",
+"They went bankrupt.",
+"They sold the company.",
+"They became a unicorn."
+],
+"en": "'By the end of the second year, they managed to break even.'",
+"th": "คุ้มทุน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is the reality behind the startup myth?",
+"o": [
+"Most startups fail within five years.",
+"Most founders become billionaires.",
+"All unicorns started in garages.",
+"Startups never need money."
+],
+"en": "'…most startups fail within five years.'",
+"th": "สตาร์ทอัพส่วนใหญ่ล้มเหลวภายในห้าปี",
+"x": [
+[
+"That's the myth.",
+"นั่นคือความเชื่อผิดๆ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is a 'high burn rate'?",
+"o": [
+"Spending much more each month than you earn",
+"Earning more than you spend",
+"Growing slowly",
+"Keeping control of the company"
+],
+"en": "'…spending far more each month than it earns.'",
+"th": "ใช้เงินต่อเดือนมากกว่ารายได้มาก",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"That's bootstrapping.",
+"นั่นคือการใช้ทุนตัวเอง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is an advantage of bootstrapping?",
+"o": [
+"Founders keep control.",
+"Growth is faster.",
+"No savings are needed.",
+"Investors give more money."
+],
+"en": "'Growth may be slower, but they keep control.'",
+"th": "ผู้ก่อตั้งยังคงควบคุมบริษัท",
+"x": [
+[
+"Growth may be slower.",
+"การเติบโตอาจช้ากว่า"
+],
+[
+"They use savings.",
+"ใช้เงินออม"
+],
+[
+"No investors.",
+"ไม่มีนักลงทุน"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the 'lean startup' approach recommend?",
+"o": [
+"Testing ideas cheaply and being ready to pivot",
+"Spending as much as possible",
+"Never listening to customers",
+"Avoiding change"
+],
+"en": "'…testing ideas cheaply and quickly, listening carefully to customers, and being ready to pivot.'",
+"th": "ทดสอบไอเดียอย่างประหยัดและพร้อมเปลี่ยนทิศทาง",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the investor's quote suggest?",
+"o": [
+"Perseverance matters more than the idea itself.",
+"Ideas are everything.",
+"Founders should give up quickly.",
+"Investors avoid people."
+],
+"en": "'I invest in people who won't give up.'",
+"th": "ความเพียรสำคัญกว่าไอเดีย",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+}
+]
+}

@@ -1,0 +1,1627 @@
+{
+"id": 17,
+"theme": "Clothes and fashion",
+"v": [
+[
+"shirt",
+"noun",
+"A1",
+"เสื้อเชิ้ต",
+"He's wearing a white *shirt*."
+],
+[
+"shoes",
+"noun",
+"A1",
+"รองเท้า",
+"These *shoes* are very comfortable."
+],
+[
+"dress",
+"noun",
+"A1",
+"ชุดกระโปรง, เดรส",
+"She bought a new *dress* for the party."
+],
+[
+"hat",
+"noun",
+"A1",
+"หมวก",
+"Wear a *hat* in the sun."
+],
+[
+"wear",
+"verb",
+"A1",
+"สวม, ใส่",
+"I *wear* glasses."
+],
+[
+"colour",
+"noun",
+"A1",
+"สี",
+"What *colour* is your car?"
+],
+[
+"skirt",
+"noun",
+"A1",
+"กระโปรง",
+"Her school *skirt* is dark blue."
+],
+[
+"trousers",
+"noun",
+"A1",
+"กางเกงขายาว",
+"These *trousers* are too long."
+],
+[
+"jacket",
+"noun",
+"A2",
+"แจ็คเก็ต, เสื้อแจ็คเก็ต",
+"Take a *jacket*; it's cold at night."
+],
+[
+"jeans",
+"noun",
+"A2",
+"กางเกงยีนส์",
+"I usually wear *jeans* at the weekend."
+],
+[
+"fashion",
+"noun",
+"A2",
+"แฟชั่น",
+"She's interested in *fashion*."
+],
+[
+"style",
+"noun",
+"A2",
+"สไตล์, รูปแบบ",
+"I love your *style*!"
+],
+[
+"smart",
+"adjective",
+"A2",
+"(แต่งตัว) ดูดี เรียบร้อย, ฉลาด",
+"You look very *smart* in that suit."
+],
+[
+"casual",
+"adjective",
+"A2",
+"ลำลอง, สบายๆ",
+"We wear *casual* clothes on Fridays."
+],
+[
+"pocket",
+"noun",
+"A2",
+"กระเป๋า (เสื้อ/กางเกง)",
+"My keys are in my *pocket*."
+],
+[
+"boots",
+"noun",
+"A2",
+"รองเท้าบูท",
+"She wore black *boots*."
+],
+[
+"tight",
+"adjective",
+"A2",
+"คับ, รัด",
+"These shoes are too *tight*."
+],
+[
+"loose",
+"adjective",
+"A2",
+"หลวม",
+"Wear *loose* clothes when it's hot."
+],
+[
+"fabric",
+"noun",
+"B1",
+"ผ้า, เนื้อผ้า",
+"Silk is a soft *fabric*."
+],
+[
+"cotton",
+"noun",
+"B1",
+"ผ้าฝ้าย, ฝ้าย",
+"This T-shirt is 100% *cotton*."
+],
+[
+"outfit",
+"noun",
+"B1",
+"ชุด (เสื้อผ้าทั้งชุด)",
+"I love your *outfit*!"
+],
+[
+"trend",
+"noun",
+"B1",
+"แนวโน้ม, กระแส",
+"Wide trousers are a big *trend* this year."
+],
+[
+"designer",
+"noun",
+"B1",
+"นักออกแบบ, ดีไซเนอร์",
+"She wants to be a fashion *designer*."
+],
+[
+"suit",
+"verb/noun",
+"B1",
+"เหมาะกับ, ชุดสูท",
+"Red really *suits* you."
+],
+[
+"fashionable",
+"adjective",
+"B1",
+"ทันสมัย, ตามแฟชั่น",
+"Wide trousers are very *fashionable* this year."
+],
+[
+"second-hand",
+"adjective",
+"B1",
+"มือสอง",
+"I bought a *second-hand* bike."
+],
+[
+"accessories",
+"noun",
+"B1",
+"เครื่องประดับ, ของประกอบการแต่งกาย",
+"Bags and belts are *accessories*."
+],
+[
+"sleeve",
+"noun",
+"B1",
+"แขนเสื้อ",
+"This shirt has short *sleeves*."
+],
+[
+"label",
+"noun",
+"B1",
+"ป้าย (ติดเสื้อ/สินค้า)",
+"Read the washing instructions on the *label*."
+],
+[
+"garment",
+"noun",
+"B2",
+"เสื้อผ้า (หนึ่งชิ้น)",
+"Each *garment* is made by hand."
+],
+[
+"synthetic",
+"adjective",
+"B2",
+"สังเคราะห์",
+"Nylon is a *synthetic* material."
+],
+[
+"durable",
+"adjective",
+"B2",
+"ทนทาน",
+"These boots are very *durable*."
+],
+[
+"tailored",
+"adjective",
+"B2",
+"ตัดเย็บพอดีตัว, สั่งตัด",
+"He wore a *tailored* suit."
+],
+[
+"sweatshop",
+"noun",
+"B2",
+"โรงงานที่กดขี่แรงงาน",
+"The brand was accused of using *sweatshops*."
+],
+[
+"ethical",
+"adjective",
+"B2",
+"มีจริยธรรม, ถูกต้องตามศีลธรรม",
+"She only buys from *ethical* brands."
+],
+[
+"flattering",
+"adjective",
+"B2",
+"ทำให้ดูดี (เสื้อผ้า)",
+"That colour is very *flattering* on you."
+],
+[
+"vintage",
+"adjective",
+"B2",
+"วินเทจ, ของเก่าที่มีคุณค่า",
+"She collects *vintage* dresses from the 1960s."
+],
+[
+"textile",
+"noun",
+"B2",
+"สิ่งทอ",
+"Thailand has a large *textile* industry."
+],
+[
+"mass-produced",
+"adjective",
+"B2",
+"ผลิตจำนวนมาก",
+"*Mass-produced* clothes are cheap."
+],
+[
+"versatile",
+"adjective",
+"B2",
+"ใช้ได้หลากหลาย, อเนกประสงค์",
+"A black jacket is very *versatile*."
+]
+],
+"p": [
+{
+"t": "What We Wear",
+"x": "Every country has different ideas about clothes. In Thailand, students usually wear a uniform: boys wear a white shirt and dark trousers or shorts, and girls wear a white shirt and a dark blue or black skirt. At university, many students still wear a uniform, but on Fridays some wear casual clothes, like jeans and a T-shirt, to show their own style.\nOffice workers often wear smart clothes. Men wear a shirt and sometimes a tie, and women wear a dress or a skirt with a blouse. In the rainy season, people carry an umbrella and wear shoes that are easy to dry, not leather boots.\nWhen Thais travel to cold countries, they need a warm jacket, a hat and gloves. My cousin went to Japan in January. She said, \"I wore three sweaters, but I was still cold! Next time I'll buy a big coat with deep pockets for my hands.\" Her favourite colour is pink, so of course the coat will be pink!"
+},
+{
+"t": "Why I Shop Second-Hand",
+"x": "Two years ago, I made a decision: no more new clothes. Instead, I buy everything second-hand, from markets, charity shops and online. People often ask me why.\nFirst, it's cheaper. Last month I found a designer jacket with the original label still inside for just 500 baht. In a shop, it would cost twenty times that. Second, the fabric is often better. Older clothes were usually made of natural materials like cotton and wool, and they were made to last.\nI also enjoy creating my own look instead of following every new trend or buying whatever is fashionable. I think about what suits me and what matches the clothes I already have. Accessories like scarves and belts can completely change an outfit. Sometimes I have to make small changes, for example shortening a sleeve, but that's part of the fun.\nOf course, there are disadvantages. Finding the right size can take a long time, and you can't always return things. But I've saved money, and I feel good knowing that I'm not adding to the mountain of clothes that are thrown away every year."
+},
+{
+"t": "The Hidden Price of Fast Fashion",
+"x": "Fast fashion has transformed the way we dress. Global brands now release new collections every few weeks, offering mass-produced garments at astonishingly low prices. A T-shirt can cost less than a cup of coffee. But who really pays?\nMuch of the clothing is made in countries where labour is cheap, and investigations have uncovered sweatshop conditions: long hours, unsafe buildings and wages too low to live on. The environmental impact is also enormous. The textile industry uses huge amounts of water, and synthetic fibres such as polyester release tiny plastic particles every time they are washed. Because cheap clothes are rarely durable, they are often thrown away after only a few wears.\nIn response, a growing movement is calling for more ethical fashion. Some consumers now buy fewer, better-quality items and choose versatile pieces that can be worn in many ways. Others turn to vintage shops or have clothes tailored to fit them perfectly, so they will be worn for years. Critics point out that these options are often more expensive. Still, as one designer puts it, \"The most flattering outfit is the one you already own.\""
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "It's very sunny. Wear a ___ to protect your head.",
+"o": [
+"hat",
+"skirt",
+"shirt",
+"shoe"
+],
+"en": "A hat goes on your head.",
+"th": "หมวก (hat) สวมบนศีรษะ",
+"x": [
+[
+"A skirt isn't for your head.",
+"กระโปรงไม่ได้ใส่ที่หัว"
+],
+[
+"A shirt isn't for your head.",
+"เสื้อไม่ได้ใส่ที่หัว"
+],
+[
+"A shoe is for your foot.",
+"รองเท้าใส่ที่เท้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "She's wearing a beautiful red ___ to the party.",
+"o": [
+"dress",
+"trousers",
+"shoes",
+"jeans"
+],
+"en": "After 'a', we need a singular noun: a dress.",
+"th": "หลัง a ต้องเป็นนามเอกพจน์: a dress",
+"x": [
+[
+"'trousers' is always plural; we don't say 'a trousers'.",
+"trousers เป็นพหูพจน์เสมอ ไม่ใช้ a"
+],
+[
+"'shoes' is plural.",
+"shoes เป็นพหูพจน์"
+],
+[
+"'jeans' is always plural.",
+"jeans เป็นพหูพจน์เสมอ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "What ___ is your new bag? – Black.",
+"o": [
+"colour",
+"size",
+"price",
+"shop"
+],
+"en": "Black is a colour.",
+"th": "สีดำเป็นสี (colour)",
+"x": [
+[
+"Black isn't a size.",
+"สีดำไม่ใช่ขนาด"
+],
+[
+"Black isn't a price.",
+"สีดำไม่ใช่ราคา"
+],
+[
+"Black isn't a shop.",
+"สีดำไม่ใช่ร้าน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Students ___ a uniform at my school.",
+"o": [
+"wear",
+"wears",
+"wearing",
+"are wear"
+],
+"en": "Plural subject in Present Simple: no -s.",
+"th": "ประธานพหูพจน์ใน Present Simple ไม่เติม s",
+"x": [
+[
+"No -s with a plural subject.",
+"ประธานพหูพจน์ไม่เติม s"
+],
+[
+"'wearing' needs 'are'.",
+"wearing ต้องมี are"
+],
+[
+"'are' + base verb is wrong.",
+"are + กริยาช่อง 1 ผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "These jeans are too ___. I can't breathe!",
+"o": [
+"tight",
+"loose",
+"long",
+"cheap"
+],
+"en": "Tight clothes press on your body.",
+"th": "tight = คับ รัด",
+"x": [
+[
+"'loose' is the opposite.",
+"loose = หลวม ตรงข้าม"
+],
+[
+"Long jeans don't stop you breathing.",
+"กางเกงยาวไม่ทำให้หายใจไม่ออก"
+],
+[
+"Price doesn't affect breathing.",
+"ราคาไม่เกี่ยวกับการหายใจ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Put your phone in your ___ so you don't lose it.",
+"o": [
+"pocket",
+"packet",
+"pot",
+"post"
+],
+"en": "A pocket is part of your clothes.",
+"th": "pocket = กระเป๋าเสื้อ/กางเกง",
+"x": [
+[
+"A packet is a small box or bag for products.",
+"packet = ซอง ห่อ"
+],
+[
+"A pot is for cooking or plants.",
+"pot = หม้อ กระถาง"
+],
+[
+"Post is letters.",
+"post = ไปรษณีย์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "For the job interview, you should look ___: wear a shirt and tie.",
+"o": [
+"smart",
+"casual",
+"dirty",
+"funny"
+],
+"en": "Smart = neat and formal.",
+"th": "smart = แต่งตัวเรียบร้อย ดูดี",
+"x": [
+[
+"Casual is relaxed, the opposite of a shirt and tie.",
+"casual = ลำลอง ตรงข้าม"
+],
+[
+"You shouldn't look dirty.",
+"ไม่ควรดูสกปรก"
+],
+[
+"You shouldn't look funny.",
+"ไม่ควรดูตลก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "It's a ___ party, so you can wear jeans and a T-shirt.",
+"o": [
+"casual",
+"formal",
+"smart",
+"serious"
+],
+"en": "Jeans and a T-shirt are casual clothes.",
+"th": "ยีนส์กับเสื้อยืดเป็นชุดลำลอง (casual)",
+"x": [
+[
+"Formal parties need smart clothes.",
+"งานทางการต้องแต่งตัวสุภาพ"
+],
+[
+"Smart doesn't match jeans and a T-shirt.",
+"smart ไม่เข้ากับยีนส์และเสื้อยืด"
+],
+[
+"'serious party' doesn't match.",
+"serious party ไม่เข้ากัน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "This shirt is made of 100% ___, so it's cool in hot weather.",
+"o": [
+"cotton",
+"coffee",
+"copper",
+"carton"
+],
+"en": "Cotton is a natural fabric.",
+"th": "cotton = ผ้าฝ้าย",
+"x": [
+[
+"Coffee is a drink.",
+"coffee = กาแฟ"
+],
+[
+"Copper is a metal.",
+"copper = ทองแดง"
+],
+[
+"A carton is a box for milk or juice.",
+"carton = กล่องกระดาษ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "That colour really ___ you. You should buy it.",
+"o": [
+"suits",
+"fits",
+"matches",
+"wears"
+],
+"en": "Suit = look good on someone.",
+"th": "suit = เหมาะกับ ทำให้ดูดี",
+"x": [
+[
+"'fit' is about size, not colour.",
+"fit เกี่ยวกับขนาด"
+],
+[
+"Things match other things, not people.",
+"match ใช้กับของเข้ากับของ"
+],
+[
+"People wear clothes, not the other way round.",
+"คนสวมเสื้อผ้า ไม่ใช่สีสวมคน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Her shoes ___ her bag perfectly; they're both bright red.",
+"o": [
+"match",
+"suit",
+"fit",
+"wear"
+],
+"en": "Match = look good together (same or similar colour or style).",
+"th": "match = เข้ากัน",
+"x": [
+[
+"'suit' is about looking good on a person.",
+"suit ใช้กับคน"
+],
+[
+"'fit' is about size.",
+"fit เกี่ยวกับขนาด"
+],
+[
+"Shoes don't wear bags.",
+"รองเท้าไม่ได้สวมกระเป๋า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "She bought a ___ dress for only 200 baht at the market.",
+"o": [
+"second-hand",
+"second hand's",
+"secondly",
+"seconds"
+],
+"en": "Second-hand = used before by someone else.",
+"th": "second-hand = มือสอง",
+"x": [
+[
+"Not a correct form.",
+"รูปไม่ถูกต้อง"
+],
+[
+"'secondly' is used in lists.",
+"secondly = ประการที่สอง"
+],
+[
+"'seconds' is time, or a second helping of food.",
+"seconds = วินาที"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "This jacket is very ___; you can wear it to work or to a party.",
+"o": [
+"versatile",
+"vertical",
+"verbal",
+"volatile"
+],
+"en": "Versatile = useful in many situations.",
+"th": "versatile = ใช้ได้หลากหลาย",
+"x": [
+[
+"'vertical' means straight up.",
+"vertical = แนวตั้ง"
+],
+[
+"'verbal' means spoken.",
+"verbal = ทางวาจา"
+],
+[
+"'volatile' means changing suddenly.",
+"volatile = ผันผวน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Polyester is a ___ fabric made from oil.",
+"o": [
+"synthetic",
+"sympathetic",
+"synonymous",
+"symphonic"
+],
+"en": "Synthetic = man-made, not natural.",
+"th": "synthetic = สังเคราะห์",
+"x": [
+[
+"'sympathetic' means understanding.",
+"sympathetic = เห็นใจ"
+],
+[
+"'synonymous' means having the same meaning.",
+"synonymous = มีความหมายเหมือนกัน"
+],
+[
+"'symphonic' is about music.",
+"symphonic = เกี่ยวกับดนตรีซิมโฟนี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Good-quality boots are expensive, but they're ___ and last for years.",
+"o": [
+"durable",
+"disposable",
+"dutiful",
+"doubtful"
+],
+"en": "Durable = lasting a long time.",
+"th": "durable = ทนทาน",
+"x": [
+[
+"'disposable' means used once and thrown away.",
+"disposable = ใช้แล้วทิ้ง"
+],
+[
+"'dutiful' means doing your duty.",
+"dutiful = มีหน้าที่"
+],
+[
+"'doubtful' means uncertain.",
+"doubtful = สงสัย ไม่แน่ใจ"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "My shoes [is] [too] [small] [for] me.",
+"a": 0,
+"fix": "My shoes are too small for me.",
+"en": "'Shoes' is plural: are.",
+"th": "shoes เป็นพหูพจน์: are",
+"x": [
+[
+"'too' is correct.",
+"too ถูกต้อง"
+],
+[
+"'small' is correct.",
+"small ถูกต้อง"
+],
+[
+"'for' is correct.",
+"for ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "I [like] your shirt. [Where] [did] you [bought] it?",
+"a": 3,
+"fix": "I like your shirt. Where did you buy it?",
+"en": "After 'did', use the base form: buy.",
+"th": "หลัง did ใช้กริยาช่อง 1: buy",
+"x": [
+[
+"'like' is correct.",
+"like ถูกต้อง"
+],
+[
+"'Where' is correct.",
+"Where ถูกต้อง"
+],
+[
+"'did' is correct.",
+"did ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[This] jeans [are] [too] [long].",
+"a": 0,
+"fix": "These jeans are too long.",
+"en": "'Jeans' is plural: these.",
+"th": "jeans เป็นพหูพจน์: these",
+"x": [
+[
+"'are' is correct.",
+"are ถูกต้อง"
+],
+[
+"'too' is correct.",
+"too ถูกต้อง"
+],
+[
+"'long' is correct.",
+"long ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "Can I [try] [it] [in]? [It] looks nice.",
+"a": 2,
+"fix": "Can I try it on? It looks nice.",
+"en": "The phrasal verb is 'try on' clothes.",
+"th": "กริยาวลีที่ถูกคือ try on (ลองสวม)",
+"x": [
+[
+"'try' is correct.",
+"try ถูกต้อง"
+],
+[
+"'it' is correct.",
+"it ถูกต้อง"
+],
+[
+"'It' is correct.",
+"It ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "He [wears] [usually] [jeans] [at] the weekend.",
+"a": 1,
+"fix": "He usually wears jeans at the weekend.",
+"en": "Frequency adverbs go before the main verb: usually wears.",
+"th": "กริยาวิเศษณ์บอกความถี่วางหน้ากริยาแท้: usually wears",
+"x": [
+[
+"'wears' is correct.",
+"wears ถูกต้อง"
+],
+[
+"'jeans' is correct.",
+"jeans ถูกต้อง"
+],
+[
+"'at the weekend' is correct (British).",
+"at the weekend ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "This dress [was] [designed] [from] [a] famous designer.",
+"a": 2,
+"fix": "This dress was designed by a famous designer.",
+"en": "In the passive, the person who does the action comes after 'by'.",
+"th": "ใน passive ผู้กระทำอยู่หลัง by",
+"x": [
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'designed' is correct.",
+"designed ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "I [can't] [decide] [what] [wearing] to the party.",
+"a": 3,
+"fix": "I can't decide what to wear to the party.",
+"en": "'What' + to-infinitive: what to wear.",
+"th": "what + to + V1: what to wear",
+"x": [
+[
+"'can't' is correct.",
+"can't ถูกต้อง"
+],
+[
+"'decide' is correct.",
+"decide ถูกต้อง"
+],
+[
+"'what' is correct.",
+"what ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Wearing] the right clothes [make] you [feel] [confident].",
+"a": 1,
+"fix": "Wearing the right clothes makes you feel confident.",
+"en": "The subject is 'Wearing…' (one activity), so the verb is singular: makes.",
+"th": "ประธานคือ Wearing... (กิจกรรมเดียว) กริยาเอกพจน์: makes",
+"x": [
+[
+"'Wearing' is a correct subject.",
+"Wearing เป็นประธานได้"
+],
+[
+"'make someone feel' is correct.",
+"make someone feel ถูกต้อง"
+],
+[
+"'confident' is correct.",
+"confident ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "If I [had] [known] it was a formal dinner, I [would wear] a suit [instead].",
+"a": 2,
+"fix": "If I had known it was a formal dinner, I would have worn a suit instead.",
+"en": "Third conditional: would have + past participle (worn).",
+"th": "third conditional: would have + V3 (worn)",
+"x": [
+[
+"'had' is correct.",
+"had ถูกต้อง"
+],
+[
+"'known' is correct.",
+"known ถูกต้อง"
+],
+[
+"'instead' is correct.",
+"instead ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "The more [cheap] the clothes [are], the [faster] they [wear] out.",
+"a": 0,
+"fix": "The cheaper the clothes are, the faster they wear out.",
+"en": "'The + comparative…, the + comparative': the cheaper.",
+"th": "The + ขั้นกว่า..., the + ขั้นกว่า: the cheaper",
+"x": [
+[
+"'are' is correct.",
+"are ถูกต้อง"
+],
+[
+"'faster' is correct.",
+"faster ถูกต้อง"
+],
+[
+"'wear out' is correct.",
+"wear out ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: I like your shoes!\nB: ___",
+"o": [
+"Thanks! They're new.",
+"You're welcome.",
+"Yes, I like.",
+"They're shoes."
+],
+"en": "B thanks A for the compliment.",
+"th": "B ขอบคุณสำหรับคำชม",
+"x": [
+[
+"It replies to 'Thank you'.",
+"ใช้ตอบคำขอบคุณ"
+],
+[
+"'I like' needs an object.",
+"I like ต้องมีกรรม"
+],
+[
+"Not a natural reply.",
+"ไม่ใช่คำตอบที่เป็นธรรมชาติ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What are you wearing to the party?\nB: ___",
+"o": [
+"My new blue dress.",
+"At eight o'clock.",
+"With my friends.",
+"Yes, I am."
+],
+"en": "B names clothes.",
+"th": "B บอกชุดที่จะใส่",
+"x": [
+[
+"This answers 'What time?'",
+"ตอบ What time?"
+],
+[
+"This answers 'Who with?'",
+"ตอบ Who with?"
+],
+[
+"'What' isn't a yes/no question.",
+"What ไม่ใช่คำถาม yes/no"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Is this your hat?\nB: ___",
+"o": [
+"No, it's my brother's.",
+"Yes, it's a hat.",
+"No, I'm a hat.",
+"It's on my head."
+],
+"en": "B answers whose hat it is.",
+"th": "B ตอบว่าเป็นหมวกของใคร",
+"x": [
+[
+"It doesn't say whose.",
+"ไม่ได้บอกว่าของใคร"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"It doesn't answer the question.",
+"ไม่ได้ตอบคำถาม"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Can I try this jacket on?\nB: ___",
+"o": [
+"Of course. The changing room is over there.",
+"Yes, it's a jacket.",
+"No, it's 900 baht.",
+"I'm wearing it."
+],
+"en": "The shop assistant agrees and helps.",
+"th": "พนักงานอนุญาตและบอกทาง",
+"x": [
+[
+"It doesn't answer the request.",
+"ไม่ได้ตอบคำขอ"
+],
+[
+"The price isn't a reason to say no.",
+"ราคาไม่ใช่เหตุผลที่จะปฏิเสธ"
+],
+[
+"It doesn't make sense.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Does this shirt look OK for the interview?\nB: ___ Maybe wear a smarter one.",
+"o": [
+"It's a bit too casual.",
+"It's perfect.",
+"You look amazing.",
+"I love it."
+],
+"en": "B suggests a smarter shirt, so this one is too casual.",
+"th": "B แนะนำเสื้อที่สุภาพกว่า แสดงว่าตัวนี้ลำลองเกินไป",
+"x": [
+[
+"It contradicts the suggestion.",
+"ขัดกับคำแนะนำ"
+],
+[
+"It contradicts the suggestion.",
+"ขัดกับคำแนะนำ"
+],
+[
+"It contradicts the suggestion.",
+"ขัดกับคำแนะนำ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: These trousers are too long.\nB: ___",
+"o": [
+"Would you like a shorter pair?",
+"Would you like a longer pair?",
+"They look too short.",
+"Long trousers are cheap."
+],
+"en": "Too long, so B offers shorter ones.",
+"th": "ยาวเกินไป จึงเสนอตัวที่สั้นกว่า",
+"x": [
+[
+"Longer is the wrong direction.",
+"ยาวขึ้นผิดทาง"
+],
+[
+"A said they're too long.",
+"A บอกว่ายาวเกินไป"
+],
+[
+"It doesn't help.",
+"ไม่ได้ช่วย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: What do you think of this outfit?\nB: ___",
+"o": [
+"It looks great, but maybe try a different belt.",
+"I bought it last week.",
+"It's in my wardrobe.",
+"Outfits are clothes."
+],
+"en": "B gives an opinion.",
+"th": "B ให้ความเห็น",
+"x": [
+[
+"It's not an opinion.",
+"ไม่ใช่ความเห็น"
+],
+[
+"It's not an opinion.",
+"ไม่ใช่ความเห็น"
+],
+[
+"It's not an opinion.",
+"ไม่ใช่ความเห็น"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Do you follow fashion trends?\nB: ___ I just wear what's comfortable.",
+"o": [
+"Not really.",
+"Yes, all the time.",
+"Of course, I love trends.",
+"I'm a fashion designer."
+],
+"en": "B wears what's comfortable, so B doesn't follow trends.",
+"th": "B ใส่สิ่งที่สบาย แสดงว่าไม่ตามกระแส",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+],
+[
+"It doesn't fit the reason.",
+"ไม่เข้ากับเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Why do you only buy vintage clothes?\nB: ___",
+"o": [
+"They're unique, and it's more ethical than fast fashion.",
+"Because they're mass-produced.",
+"Because they're brand new.",
+"I don't wear clothes."
+],
+"en": "B gives sensible reasons.",
+"th": "B ให้เหตุผลที่สมเหตุสมผล",
+"x": [
+[
+"Vintage is not mass-produced new clothing.",
+"วินเทจไม่ใช่ของผลิตจำนวนมากใหม่ๆ"
+],
+[
+"Vintage means old.",
+"วินเทจคือของเก่า"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think school uniforms should be abolished?\nB: ___ They reduce pressure on poor families, but students can't express themselves.",
+"o": [
+"There are good arguments on both sides.",
+"Definitely, abolish them now.",
+"No, never change anything.",
+"Uniforms are fashion."
+],
+"en": "B gives one argument for and one against.",
+"th": "B ให้เหตุผลทั้งสองด้าน",
+"x": [
+[
+"B sees advantages too.",
+"B เห็นข้อดีด้วย"
+],
+[
+"B sees disadvantages too.",
+"B เห็นข้อเสียด้วย"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What do Thai schoolboys usually wear?",
+"o": [
+"A white shirt and dark trousers or shorts",
+"Jeans and a T-shirt",
+"A dark blue skirt",
+"A tie and a jacket"
+],
+"en": "'Boys wear a white shirt and dark trousers or shorts.'",
+"th": "เด็กผู้ชายใส่เสื้อเชิ้ตสีขาวกับกางเกงสีเข้ม",
+"x": [
+[
+"That's casual Friday at university.",
+"นั่นคือชุดลำลองวันศุกร์ที่มหาวิทยาลัย"
+],
+[
+"That's for girls.",
+"นั่นคือของเด็กผู้หญิง"
+],
+[
+"That's office workers.",
+"นั่นคือพนักงานออฟฟิศ"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "When do some university students wear casual clothes?",
+"o": [
+"On Fridays",
+"Every day",
+"On Mondays",
+"Never"
+],
+"en": "'On Fridays some wear casual clothes.'",
+"th": "วันศุกร์บางคนใส่ชุดลำลอง",
+"x": [
+[
+"Many still wear a uniform.",
+"หลายคนยังใส่เครื่องแบบ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They do on Fridays.",
+"ใส่ในวันศุกร์"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What kind of shoes do people wear in the rainy season?",
+"o": [
+"Shoes that are easy to dry",
+"Leather boots",
+"No shoes",
+"Expensive shoes"
+],
+"en": "'…wear shoes that are easy to dry, not leather boots.'",
+"th": "รองเท้าที่แห้งง่าย ไม่ใช่บูทหนัง",
+"x": [
+[
+"The text says NOT leather boots.",
+"บอกว่าไม่ใช่บูทหนัง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the writer's cousin say about Japan?",
+"o": [
+"She was cold even with three sweaters.",
+"She bought a pink coat there.",
+"It was too hot.",
+"She lost her gloves."
+],
+"en": "'I wore three sweaters, but I was still cold!'",
+"th": "ใส่เสื้อกันหนาวสามตัวแต่ยังหนาว",
+"x": [
+[
+"She'll buy it next time.",
+"เธอจะซื้อครั้งหน้า"
+],
+[
+"It was cold.",
+"อากาศหนาว"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Why will the new coat be pink?",
+"o": [
+"Pink is her favourite colour.",
+"Pink coats are warmer.",
+"It's cheaper.",
+"The writer likes pink."
+],
+"en": "'Her favourite colour is pink, so of course the coat will be pink!'",
+"th": "สีโปรดของเธอคือชมพู",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It's the cousin's favourite.",
+"เป็นสีโปรดของลูกพี่ลูกน้อง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What decision did the writer make two years ago?",
+"o": [
+"To stop buying new clothes",
+"To become a designer",
+"To open a charity shop",
+"To buy only expensive clothes"
+],
+"en": "'No more new clothes. Instead, I buy everything second-hand.'",
+"th": "เลิกซื้อเสื้อผ้าใหม่ ซื้อมือสองทั้งหมด",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"She buys from charity shops.",
+"เธอซื้อจากร้านการกุศล"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What was special about the designer jacket?",
+"o": [
+"It still had its original label and was very cheap.",
+"It was brand new from a shop.",
+"It was made of plastic.",
+"It cost 10,000 baht."
+],
+"en": "'A designer jacket with the original label still inside for just 500 baht.'",
+"th": "แจ็คเก็ตดีไซเนอร์ที่ยังมีป้ายเดิม ราคาแค่ 500 บาท",
+"x": [
+[
+"It was second-hand.",
+"เป็นมือสอง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It cost 500 baht; 10,000 is the shop price.",
+"ราคา 500 บาท 10,000 คือราคาในร้าน"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why does the writer think older clothes are often better?",
+"o": [
+"They were made of natural materials and made to last.",
+"They are more colourful.",
+"They are always bigger.",
+"They have more pockets."
+],
+"en": "'Made of natural materials like cotton and wool, and they were made to last.'",
+"th": "ทำจากวัสดุธรรมชาติและทำให้ทนทาน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Size is a problem.",
+"ขนาดเป็นปัญหา"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How does the writer change an outfit?",
+"o": [
+"With accessories like scarves and belts",
+"By buying new clothes every week",
+"By following trends",
+"By returning clothes"
+],
+"en": "'Accessories like scarves and belts can completely change an outfit.'",
+"th": "เครื่องประดับอย่างผ้าพันคอและเข็มขัดเปลี่ยนชุดได้",
+"x": [
+[
+"She buys second-hand.",
+"เธอซื้อมือสอง"
+],
+[
+"She avoids following every trend.",
+"เธอไม่ตามทุกกระแส"
+],
+[
+"Returns are difficult.",
+"คืนของยาก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which disadvantage does the writer mention?",
+"o": [
+"Finding the right size can take a long time.",
+"Second-hand clothes are expensive.",
+"The fabric is poor.",
+"Markets are far away."
+],
+"en": "'Finding the right size can take a long time.'",
+"th": "หาไซซ์ที่พอดีใช้เวลานาน",
+"x": [
+[
+"They're cheaper.",
+"ราคาถูกกว่า"
+],
+[
+"The fabric is often better.",
+"เนื้อผ้ามักดีกว่า"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What point does the writer make with 'A T-shirt can cost less than a cup of coffee'?",
+"o": [
+"Fast fashion is extremely cheap.",
+"Coffee is too expensive.",
+"T-shirts are high quality.",
+"People prefer coffee."
+],
+"en": "It shows how 'astonishingly low' the prices are.",
+"th": "แสดงว่าราคาถูกอย่างน่าตกใจ",
+"x": [
+[
+"Coffee isn't the point.",
+"กาแฟไม่ใช่ประเด็น"
+],
+[
+"They're 'rarely durable'.",
+"มักไม่ทนทาน"
+],
+[
+"Not the point.",
+"ไม่ใช่ประเด็น"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What are 'sweatshop conditions', according to the passage?",
+"o": [
+"Long hours, unsafe buildings and very low pay",
+"Hot weather in factories",
+"Clothes for sport",
+"Shops selling sweaters"
+],
+"en": "'Long hours, unsafe buildings and wages too low to live on.'",
+"th": "ทำงานนาน อาคารไม่ปลอดภัย ค่าแรงต่ำจนอยู่ไม่ได้",
+"x": [
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why are synthetic fibres a problem?",
+"o": [
+"They release tiny plastic particles when washed.",
+"They use no water.",
+"They are too durable.",
+"They are made from cotton."
+],
+"en": "'Synthetic fibres… release tiny plastic particles every time they are washed.'",
+"th": "เส้นใยสังเคราะห์ปล่อยอนุภาคพลาสติกทุกครั้งที่ซัก",
+"x": [
+[
+"The industry uses huge amounts of water.",
+"อุตสาหกรรมใช้น้ำมาก"
+],
+[
+"Cheap clothes are rarely durable.",
+"เสื้อผ้าราคาถูกไม่ค่อยทนทาน"
+],
+[
+"Cotton is natural.",
+"ฝ้ายเป็นวัสดุธรรมชาติ"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do some consumers now do?",
+"o": [
+"Buy fewer, better-quality, versatile items",
+"Buy more clothes every week",
+"Shop only at global brands",
+"Stop wearing clothes"
+],
+"en": "'Some consumers now buy fewer, better-quality items and choose versatile pieces.'",
+"th": "ซื้อน้อยลง คุณภาพดีขึ้น และเลือกชิ้นที่ใช้ได้หลากหลาย",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the designer's quote suggest?",
+"o": [
+"Wearing what you already own is the best choice.",
+"You should buy new outfits often.",
+"Old clothes never look good.",
+"Only expensive clothes are flattering."
+],
+"en": "'The most flattering outfit is the one you already own.'",
+"th": "ชุดที่ดูดีที่สุดคือชุดที่คุณมีอยู่แล้ว",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

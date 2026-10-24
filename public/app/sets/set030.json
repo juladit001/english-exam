@@ -1,0 +1,1627 @@
+{
+"id": 30,
+"theme": "Love and relationships",
+"v": [
+[
+"love",
+"verb/noun",
+"A1",
+"รัก, ความรัก",
+"I *love* my parents."
+],
+[
+"husband",
+"noun",
+"A1",
+"สามี",
+"Her *husband* is a doctor."
+],
+[
+"wife",
+"noun",
+"A1",
+"ภรรยา",
+"He lives with his *wife* and two children."
+],
+[
+"aunt",
+"noun",
+"A1",
+"ป้า, น้า, อา (ผู้หญิง)",
+"My *aunt* lives in Korat."
+],
+[
+"uncle",
+"noun",
+"A1",
+"ลุง, น้า, อา (ผู้ชาย)",
+"My *uncle* is a farmer."
+],
+[
+"cousin",
+"noun",
+"A1",
+"ลูกพี่ลูกน้อง",
+"I have ten *cousins*."
+],
+[
+"meet",
+"verb",
+"A1",
+"พบ, เจอ",
+"Nice to *meet* you."
+],
+[
+"kiss",
+"verb/noun",
+"A1",
+"จูบ",
+"She gave her baby a *kiss*."
+],
+[
+"marry",
+"verb",
+"A2",
+"แต่งงาน",
+"He wants to *marry* her."
+],
+[
+"married",
+"adjective",
+"A2",
+"แต่งงานแล้ว",
+"Are you *married*?"
+],
+[
+"wedding",
+"noun",
+"A2",
+"งานแต่งงาน",
+"We're going to a *wedding* on Saturday."
+],
+[
+"boyfriend",
+"noun",
+"A2",
+"แฟน (ผู้ชาย)",
+"Her *boyfriend* is very kind."
+],
+[
+"girlfriend",
+"noun",
+"A2",
+"แฟน (ผู้หญิง)",
+"He met his *girlfriend* at work."
+],
+[
+"date",
+"noun",
+"A2",
+"การนัดเดท, วันที่",
+"They went on a *date* to the cinema."
+],
+[
+"couple",
+"noun",
+"A2",
+"คู่รัก, คู่",
+"They're a lovely *couple*."
+],
+[
+"single",
+"adjective",
+"A2",
+"โสด, เดี่ยว",
+"She's *single* and happy."
+],
+[
+"hug",
+"verb/noun",
+"A2",
+"กอด",
+"Give me a *hug*!"
+],
+[
+"miss",
+"verb",
+"A2",
+"คิดถึง, พลาด",
+"I *miss* you so much."
+],
+[
+"divorce",
+"noun/verb",
+"B1",
+"การหย่าร้าง, หย่า",
+"Her parents got a *divorce* last year."
+],
+[
+"romantic",
+"adjective",
+"B1",
+"โรแมนติก",
+"They had a *romantic* dinner by the sea."
+],
+[
+"relationship",
+"noun",
+"B1",
+"ความสัมพันธ์",
+"They have a good *relationship*."
+],
+[
+"engaged",
+"adjective",
+"B1",
+"หมั้น",
+"We got *engaged* last month!"
+],
+[
+"honeymoon",
+"noun",
+"B1",
+"ฮันนีมูน",
+"They went to the Maldives for their *honeymoon*."
+],
+[
+"anniversary",
+"noun",
+"B1",
+"วันครบรอบ",
+"Happy *anniversary*!"
+],
+[
+"argument",
+"noun",
+"B1",
+"การทะเลาะ, การโต้เถียง",
+"They had an *argument* about money."
+],
+[
+"break up",
+"phrasal verb",
+"B1",
+"เลิกกัน",
+"Did they *break up*?"
+],
+[
+"attractive",
+"adjective",
+"B1",
+"มีเสน่ห์, น่าดึงดูด",
+"He's very *attractive*."
+],
+[
+"loyal",
+"adjective",
+"B1",
+"ซื่อสัตย์, จงรักภักดี",
+"Dogs are *loyal* animals."
+],
+[
+"nephew",
+"noun",
+"B1",
+"หลานชาย (ลูกของพี่น้อง)",
+"My *nephew* is five years old."
+],
+[
+"commitment",
+"noun",
+"B2",
+"ความมุ่งมั่น, ความผูกพัน",
+"Marriage is a big *commitment*."
+],
+[
+"compromise",
+"noun/verb",
+"B2",
+"การประนีประนอม, ยอมกันคนละครึ่ง",
+"We reached a *compromise*."
+],
+[
+"affection",
+"noun",
+"B2",
+"ความรักใคร่, ความเสน่หา",
+"She showed great *affection* for her grandson."
+],
+[
+"propose",
+"verb",
+"B2",
+"ขอแต่งงาน, เสนอ",
+"He *proposed* to her on the beach."
+],
+[
+"bride",
+"noun",
+"B2",
+"เจ้าสาว",
+"The *bride* looked beautiful."
+],
+[
+"groom",
+"noun",
+"B2",
+"เจ้าบ่าว",
+"The *groom* was very nervous."
+],
+[
+"soulmate",
+"noun",
+"B2",
+"เนื้อคู่",
+"She believes he is her *soulmate*."
+],
+[
+"heartbroken",
+"adjective",
+"B2",
+"อกหัก, ใจสลาย",
+"He was *heartbroken* when she left."
+],
+[
+"long-distance",
+"adjective",
+"B2",
+"ทางไกล, (ความสัมพันธ์) ระยะไกล",
+"They're in a *long-distance* relationship."
+],
+[
+"in-law",
+"noun",
+"B2",
+"ญาติฝ่ายสามี/ภรรยา (in-laws)",
+"I get on well with my *in-laws*."
+],
+[
+"widow",
+"noun",
+"B2",
+"แม่หม้าย (สามีเสียชีวิต)",
+"She became a *widow* at 60."
+]
+],
+"p": [
+{
+"t": "My Sister's Wedding",
+"x": "Last Saturday, my older sister Ploy got married. Her husband, Tom, is from Australia. They first got to know each other at university in Bangkok five years ago. At first they were just friends, but then Tom asked her on a date, and she became his girlfriend. Tom says he was in love with her from the first day!\nThe wedding was in a beautiful garden in Chiang Mai. More than 200 guests came, including all our aunts, uncles and cousins. In the morning, there was a traditional Thai ceremony, and in the evening there was a big party. When the couple kissed, everyone cheered. My grandmother cried and gave everyone a hug.\nNow Ploy and Tom are married, and they live in Melbourne. I really miss my sister, but we video chat every week. Tom's family is very kind to her. I'm happy that she's not single anymore and that she has found a husband who loves her."
+},
+{
+"t": "How to Keep a Relationship Strong",
+"x": "At the start of a relationship, everything feels exciting. Couples go on romantic dinners, send sweet messages and find each other incredibly attractive. But after a few years, especially once they are engaged or married, daily life can get in the way. So how do happy couples keep their relationship strong?\nFirst, they communicate. Small problems can turn into a big argument if partners don't talk about them. Psychologists say that it's not arguing itself that causes couples to break up, but the way they argue. Respectful discussion is healthy; shouting and insults are not.\nSecond, happy couples make time for each other. Many celebrate their wedding anniversary with a trip, like a second honeymoon. Others simply have a \"date night\" every week. Third, they are loyal and supportive, especially during difficult times.\nEven so, not every relationship lasts. In Thailand, the number of couples who divorce has risen over the past twenty years. My nephew, who works as a family counsellor, says the most common reason is that couples stop making an effort."
+},
+{
+"t": "Love Without Borders",
+"x": "When Nok, a Thai engineer, met Lucas, a French architect, at a conference in Singapore, neither of them expected their relationship to last. For two years, they had a long-distance relationship, communicating through daily video calls and meeting only a few times a year. \"It tested our commitment,\" Nok admits. \"But it also taught us to express affection in words, not just actions.\"\nWhen Lucas finally decided to propose, he flew to Bangkok without telling her and asked her family's permission first. The wedding combined both cultures: the bride wore a traditional Thai dress for the morning ceremony and a white gown in the evening, while the groom learned to perform a Thai blessing ritual.\nCross-cultural marriages bring their own challenges. Nok and Lucas have had to compromise on everything from food to holidays, and getting to know each other's in-laws was not always easy. \"My mother-in-law and I didn't speak the same language at first,\" Nok laughs.\nNok's grandmother, a widow who had been married for fifty years, gave them simple advice: \"Love isn't about finding your soulmate. It's about choosing the same person every day.\" Some friends warned Nok that she would end up heartbroken. Ten years later, the couple are still happily married."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "My mother's brother is my ___.",
+"o": [
+"uncle",
+"aunt",
+"cousin",
+"nephew"
+],
+"en": "Your parent's brother is your uncle.",
+"th": "พี่ชาย/น้องชายของแม่ คือ ลุง/น้า (uncle)",
+"x": [
+[
+"An aunt is a woman.",
+"aunt เป็นผู้หญิง"
+],
+[
+"A cousin is your uncle's child.",
+"cousin คือลูกของลุง/ป้า"
+],
+[
+"A nephew is your sibling's son.",
+"nephew คือลูกชายของพี่น้อง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I ___ my family very much.",
+"o": [
+"love",
+"loves",
+"loving",
+"am love"
+],
+"en": "With 'I', no -s: I love.",
+"th": "ประธาน I ไม่เติม s: I love",
+"x": [
+[
+"-s is for he/she/it.",
+"เติม s กับ he/she/it"
+],
+[
+"'loving' needs 'am'.",
+"loving ต้องมี am"
+],
+[
+"'am' + base verb is wrong.",
+"am + กริยาช่อง 1 ผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "My uncle's children are my ___.",
+"o": [
+"cousins",
+"brothers",
+"nephews",
+"uncles"
+],
+"en": "Your uncle's children are your cousins.",
+"th": "ลูกของลุง/น้า คือ ลูกพี่ลูกน้อง",
+"x": [
+[
+"Brothers have the same parents as you.",
+"พี่น้องมีพ่อแม่เดียวกัน"
+],
+[
+"Nephews are your siblings' sons.",
+"nephews คือลูกของพี่น้อง"
+],
+[
+"Uncles are your parents' brothers.",
+"uncles คือพี่น้องของพ่อแม่"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Nice to ___ you!",
+"o": [
+"meet",
+"met",
+"meeting",
+"meets"
+],
+"en": "The phrase is 'Nice to meet you.'",
+"th": "วลีคือ Nice to meet you",
+"x": [
+[
+"Past form doesn't follow 'to'.",
+"หลัง to ไม่ใช้อดีต"
+],
+[
+"No -ing after 'to'.",
+"หลัง to ไม่ใช้ -ing"
+],
+[
+"No -s after 'to'.",
+"หลัง to ไม่เติม s"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "They got ___ last year, and now they have a baby.",
+"o": [
+"married",
+"marry",
+"marriage",
+"marrying"
+],
+"en": "'Get married' is the phrase.",
+"th": "get married = แต่งงาน",
+"x": [
+[
+"'get marry' is wrong.",
+"get marry ผิด"
+],
+[
+"'marriage' is a noun.",
+"marriage เป็นคำนาม"
+],
+[
+"'get marrying' is wrong.",
+"get marrying ผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I ___ my family a lot when I studied abroad.",
+"o": [
+"missed",
+"miss",
+"missing",
+"to miss"
+],
+"en": "'When I studied' is past: missed.",
+"th": "when I studied เป็นอดีต: missed",
+"x": [
+[
+"Present doesn't fit.",
+"ปัจจุบันไม่เข้ากัน"
+],
+[
+"'missing' needs 'was'.",
+"missing ต้องมี was"
+],
+[
+"'to miss' isn't a main verb.",
+"to miss ไม่ใช่กริยาหลัก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "He's ___; he doesn't have a girlfriend.",
+"o": [
+"single",
+"married",
+"engaged",
+"couple"
+],
+"en": "Single = not in a relationship.",
+"th": "single = โสด",
+"x": [
+[
+"Married people have a partner.",
+"แต่งงานแล้วมีคู่"
+],
+[
+"Engaged people have a partner.",
+"หมั้นแล้วมีคู่"
+],
+[
+"'couple' is a noun for two people.",
+"couple เป็นคำนาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "They're a lovely ___; they've been together for 40 years.",
+"o": [
+"couple",
+"cousin",
+"single",
+"wedding"
+],
+"en": "A couple is two people in a relationship.",
+"th": "couple = คู่รัก",
+"x": [
+[
+"A cousin is a relative.",
+"cousin = ลูกพี่ลูกน้อง"
+],
+[
+"'single' means not in a relationship.",
+"single = โสด"
+],
+[
+"A wedding is an event.",
+"wedding = งานแต่ง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "They had a big ___ and didn't speak for two days.",
+"o": [
+"argument",
+"agreement",
+"arrangement",
+"argue"
+],
+"en": "An argument is an angry disagreement.",
+"th": "argument = การทะเลาะ",
+"x": [
+[
+"An agreement is the opposite.",
+"agreement = ข้อตกลง ตรงข้าม"
+],
+[
+"An arrangement is a plan.",
+"arrangement = การจัดการ"
+],
+[
+"'argue' is a verb.",
+"argue เป็นกริยา"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "After five years of marriage, they decided to get a ___.",
+"o": [
+"divorce",
+"diversion",
+"device",
+"divide"
+],
+"en": "'Get a divorce' = end a marriage legally.",
+"th": "get a divorce = หย่า",
+"x": [
+[
+"A diversion is a different route.",
+"diversion = ทางเบี่ยง"
+],
+[
+"A device is a machine.",
+"device = อุปกรณ์"
+],
+[
+"'divide' is a verb.",
+"divide เป็นกริยา"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "They went to Bali for their ___ after the wedding.",
+"o": [
+"honeymoon",
+"honey",
+"moonlight",
+"holiday home"
+],
+"en": "A honeymoon is a holiday after the wedding.",
+"th": "honeymoon = ฮันนีมูน",
+"x": [
+[
+"Honey is food.",
+"honey = น้ำผึ้ง"
+],
+[
+"Moonlight is light from the moon.",
+"moonlight = แสงจันทร์"
+],
+[
+"A holiday home is a second house.",
+"holiday home = บ้านพักตากอากาศ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Today is our tenth wedding ___.",
+"o": [
+"anniversary",
+"birthday",
+"annual",
+"adversary"
+],
+"en": "A wedding anniversary is the date of your wedding each year.",
+"th": "wedding anniversary = วันครบรอบแต่งงาน",
+"x": [
+[
+"We don't say 'wedding birthday'.",
+"ไม่พูดว่า wedding birthday"
+],
+[
+"'annual' is an adjective.",
+"annual เป็นคุณศัพท์"
+],
+[
+"An adversary is an enemy.",
+"adversary = ศัตรู"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Marriage needs ___: both people have to give up something sometimes.",
+"o": [
+"compromise",
+"comprise",
+"complain",
+"comply"
+],
+"en": "Compromise = each person accepts less than they want.",
+"th": "compromise = การประนีประนอม",
+"x": [
+[
+"'comprise' means consist of.",
+"comprise = ประกอบด้วย"
+],
+[
+"'complain' means say you're unhappy.",
+"complain = บ่น"
+],
+[
+"'comply' means obey.",
+"comply = ปฏิบัติตาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "He went down on one knee to ___ to her.",
+"o": [
+"propose",
+"purpose",
+"suppose",
+"oppose"
+],
+"en": "Propose = ask someone to marry you.",
+"th": "propose = ขอแต่งงาน",
+"x": [
+[
+"A purpose is a reason.",
+"purpose = จุดประสงค์"
+],
+[
+"'suppose' means think or guess.",
+"suppose = คิดว่า"
+],
+[
+"'oppose' means be against.",
+"oppose = คัดค้าน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "When her husband died, she became a ___.",
+"o": [
+"widow",
+"window",
+"widower",
+"willow"
+],
+"en": "A widow is a woman whose husband has died.",
+"th": "widow = แม่หม้าย",
+"x": [
+[
+"A window is in a wall.",
+"window = หน้าต่าง"
+],
+[
+"A widower is a man whose wife has died.",
+"widower = พ่อหม้าย (ผู้ชาย)"
+],
+[
+"A willow is a tree.",
+"willow = ต้นหลิว"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[He] [is] [my] [sister].",
+"a": 0,
+"fix": "She is my sister.",
+"en": "A sister is female: She.",
+"th": "sister เป็นผู้หญิง: She",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'my' is correct.",
+"my ถูกต้อง"
+],
+[
+"'sister' is correct.",
+"sister ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "I [have] [two] [brother] [and] one sister.",
+"a": 2,
+"fix": "I have two brothers and one sister.",
+"en": "After 'two', plural: brothers.",
+"th": "หลัง two เป็นพหูพจน์: brothers",
+"x": [
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'two' is correct.",
+"two ถูกต้อง"
+],
+[
+"'and' is correct.",
+"and ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "My parents [have] [been] married [since] [30 years].",
+"a": 2,
+"fix": "My parents have been married for 30 years.",
+"en": "'30 years' is a period: for.",
+"th": "30 years เป็นระยะเวลา: for",
+"x": [
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'been' is correct.",
+"been ถูกต้อง"
+],
+[
+"'30 years' is correct.",
+"30 years ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "She [is] [married] [with] [a] doctor.",
+"a": 2,
+"fix": "She is married to a doctor.",
+"en": "The phrase is 'married to' someone.",
+"th": "วลีคือ married to (แต่งงานกับ)",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'married' is correct.",
+"married ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Did] you [went] to [your] cousin's [wedding]?",
+"a": 1,
+"fix": "Did you go to your cousin's wedding?",
+"en": "After 'did', the base form: go.",
+"th": "หลัง did ใช้ช่อง 1: go",
+"x": [
+[
+"'Did' is correct.",
+"Did ถูกต้อง"
+],
+[
+"'your' is correct.",
+"your ถูกต้อง"
+],
+[
+"'wedding' is correct.",
+"wedding ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "They [have broken up] [last] [month], [so] she's very sad.",
+"a": 0,
+"fix": "They broke up last month, so she's very sad.",
+"en": "'Last month' needs Past Simple: broke up.",
+"th": "last month ต้องใช้ Past Simple: broke up",
+"x": [
+[
+"'last' is correct.",
+"last ถูกต้อง"
+],
+[
+"'month' is correct.",
+"month ถูกต้อง"
+],
+[
+"'so' is correct.",
+"so ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "My nephew [is] [very] [loyal] [with] his friends.",
+"a": 3,
+"fix": "My nephew is very loyal to his friends.",
+"en": "The phrase is 'loyal to'.",
+"th": "วลีคือ loyal to",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'loyal' is correct.",
+"loyal ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] they [didn't] argue so much, they [will be] [happier].",
+"a": 2,
+"fix": "If they didn't argue so much, they would be happier.",
+"en": "If + past (imaginary) goes with 'would'.",
+"th": "If + อดีต (สมมติ) ใช้ would",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'didn't' is correct.",
+"didn't ถูกต้อง"
+],
+[
+"'happier' is correct.",
+"happier ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "She [regrets] [to break] up [with] him; she still [loves] him.",
+"a": 1,
+"fix": "She regrets breaking up with him; she still loves him.",
+"en": "'Regret' + verb-ing for something you did in the past.",
+"th": "regret + V-ing สำหรับสิ่งที่ทำไปแล้ว",
+"x": [
+[
+"'regrets' is correct.",
+"regrets ถูกต้อง"
+],
+[
+"'with' is correct.",
+"with ถูกต้อง"
+],
+[
+"'loves' is correct.",
+"loves ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Seldom] [I have met] a couple [so] [in love].",
+"a": 1,
+"fix": "Seldom have I met a couple so in love.",
+"en": "After 'Seldom' at the start, use inversion: have I met.",
+"th": "Seldom ขึ้นต้นต้องสลับ: have I met",
+"x": [
+[
+"'Seldom' is correct.",
+"Seldom ถูกต้อง"
+],
+[
+"'so' is correct.",
+"so ถูกต้อง"
+],
+[
+"'in love' is correct.",
+"in love ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: This is my wife, Ann.\nB: ___",
+"o": [
+"Nice to meet you, Ann.",
+"Goodbye, Ann.",
+"Thank you, Ann.",
+"I'm Ann."
+],
+"en": "Greeting someone new.",
+"th": "ทักทายคนใหม่",
+"x": [
+[
+"They just met.",
+"เพิ่งพบกัน"
+],
+[
+"Not a greeting.",
+"ไม่ใช่การทักทาย"
+],
+[
+"B isn't Ann.",
+"B ไม่ใช่แอน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you have any brothers or sisters?\nB: ___",
+"o": [
+"Yes, I have one brother.",
+"Yes, I'm a brother.",
+"No, I have two sisters.",
+"I like my family."
+],
+"en": "B answers clearly.",
+"th": "B ตอบชัดเจน",
+"x": [
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"'No' contradicts having sisters.",
+"No ขัดกับการมีพี่สาว"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: I love you!\nB: ___",
+"o": [
+"I love you too!",
+"You're welcome.",
+"Me neither.",
+"Excuse me?"
+],
+"en": "The natural reply is 'I love you too!'",
+"th": "คำตอบที่เป็นธรรมชาติ: I love you too!",
+"x": [
+[
+"It replies to thanks.",
+"ใช้ตอบคำขอบคุณ"
+],
+[
+"'neither' replies to negatives.",
+"neither ใช้ตอบประโยคปฏิเสธ"
+],
+[
+"It sounds confused or rude.",
+"ฟังดูงงหรือไม่สุภาพ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Are you going to Joy's wedding?\nB: ___ I've already bought a new dress.",
+"o": [
+"Of course!",
+"No, I'm not.",
+"I don't know Joy.",
+"Weddings are boring."
+],
+"en": "Buying a dress shows B is going.",
+"th": "ซื้อชุดใหม่แสดงว่าจะไป",
+"x": [
+[
+"It contradicts buying a dress.",
+"ขัดกับการซื้อชุด"
+],
+[
+"It contradicts buying a dress.",
+"ขัดกับการซื้อชุด"
+],
+[
+"It doesn't fit.",
+"ไม่เข้ากัน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How long have you and your boyfriend been together?\nB: ___",
+"o": [
+"About two years.",
+"At a party.",
+"He's very kind.",
+"Next month."
+],
+"en": "'How long' asks for a period.",
+"th": "How long ถามระยะเวลา",
+"x": [
+[
+"This answers 'Where?'",
+"ตอบ Where?"
+],
+[
+"Not a time.",
+"ไม่ใช่เวลา"
+],
+[
+"Future, not 'how long'.",
+"อนาคต ไม่ใช่ระยะเวลา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I really miss my family.\nB: ___",
+"o": [
+"Why don't you call them tonight?",
+"Great, that's good news.",
+"Me neither.",
+"Who is your family?"
+],
+"en": "B gives a kind suggestion.",
+"th": "B ให้คำแนะนำที่ใจดี",
+"x": [
+[
+"It's sad, not good news.",
+"เป็นเรื่องเศร้า"
+],
+[
+"'neither' doesn't fit a positive sentence.",
+"neither ไม่เข้ากับประโยคบอกเล่า"
+],
+[
+"Strange question.",
+"คำถามแปลก"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: How did your parents meet?\nB: ___",
+"o": [
+"They met at university in Chiang Mai.",
+"They've been married for 30 years.",
+"They're very happy.",
+"My dad is older."
+],
+"en": "B says how/where they met.",
+"th": "B บอกว่าพบกันอย่างไร",
+"x": [
+[
+"This answers 'How long?'",
+"ตอบ How long?"
+],
+[
+"Not how they met.",
+"ไม่ใช่วิธีที่พบกัน"
+],
+[
+"Not how they met.",
+"ไม่ใช่วิธีที่พบกัน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I heard Ploy and Tom broke up.\nB: ___ They seemed so happy together.",
+"o": [
+"Really? I'm surprised.",
+"Yes, I knew it would happen.",
+"That's great news!",
+"Who are they?"
+],
+"en": "They seemed happy, so B is surprised.",
+"th": "ดูมีความสุข B จึงแปลกใจ",
+"x": [
+[
+"It contradicts 'seemed so happy'.",
+"ขัดกับ ดูมีความสุข"
+],
+[
+"Breaking up isn't great news.",
+"การเลิกกันไม่ใช่ข่าวดี"
+],
+[
+"B clearly knows them.",
+"B รู้จักพวกเขา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think long-distance relationships can work?\nB: ___ It needs a lot of trust and commitment.",
+"o": [
+"They can, but it isn't easy.",
+"Never, it's impossible.",
+"They're easier than normal ones.",
+"Distance doesn't matter at all."
+],
+"en": "B says it's possible but difficult.",
+"th": "B บอกว่าเป็นไปได้แต่ไม่ง่าย",
+"x": [
+[
+"Too negative.",
+"ด้านลบเกินไป"
+],
+[
+"It contradicts 'needs a lot'.",
+"ขัดกับ ต้องใช้มาก"
+],
+[
+"It contradicts B's point.",
+"ขัดกับประเด็นของ B"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: My in-laws want to visit for a whole month!\nB: ___",
+"o": [
+"That's a long time. Maybe you could compromise on two weeks?",
+"Great, ask them to stay for a year!",
+"In-laws are your parents' friends.",
+"Tell them they're not welcome."
+],
+"en": "B suggests a reasonable compromise.",
+"th": "B เสนอการประนีประนอม",
+"x": [
+[
+"The opposite of helpful.",
+"ไม่ช่วย"
+],
+[
+"Wrong meaning.",
+"ความหมายผิด"
+],
+[
+"Rude.",
+"หยาบคาย"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where is Tom from?",
+"o": [
+"Australia",
+"Thailand",
+"England",
+"America"
+],
+"en": "'Her husband, Tom, is from Australia.'",
+"th": "ทอมมาจากออสเตรเลีย",
+"x": [
+[
+"Ploy is from Thailand.",
+"พลอยมาจากไทย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where did Ploy and Tom first get to know each other?",
+"o": [
+"At university in Bangkok",
+"At a wedding",
+"In Australia",
+"On a dating app"
+],
+"en": "'They first got to know each other at university in Bangkok.'",
+"th": "รู้จักกันที่มหาวิทยาลัยในกรุงเทพฯ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They live there now.",
+"ตอนนี้อยู่ที่นั่น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where was the wedding?",
+"o": [
+"In a garden in Chiang Mai",
+"In Melbourne",
+"At a temple in Bangkok",
+"On a beach"
+],
+"en": "'The wedding was in a beautiful garden in Chiang Mai.'",
+"th": "ในสวนที่เชียงใหม่",
+"x": [
+[
+"They live there now.",
+"ตอนนี้อยู่ที่นั่น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What happened when the couple kissed?",
+"o": [
+"Everyone cheered.",
+"The grandmother laughed.",
+"The music stopped.",
+"Tom cried."
+],
+"en": "'When the couple kissed, everyone cheered.'",
+"th": "ทุกคนส่งเสียงเชียร์",
+"x": [
+[
+"The grandmother cried.",
+"คุณยายร้องไห้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How does the writer stay in touch with Ploy?",
+"o": [
+"They video chat every week.",
+"They write letters.",
+"They meet every weekend.",
+"They don't talk."
+],
+"en": "'We video chat every week.'",
+"th": "วิดีโอคอลทุกสัปดาห์",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They live in different countries.",
+"อยู่คนละประเทศ"
+],
+[
+"They do talk.",
+"คุยกัน"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What can happen after a few years of a relationship?",
+"o": [
+"Daily life can get in the way.",
+"Couples stop being engaged.",
+"They go on too many dinners.",
+"They move to different countries."
+],
+"en": "'After a few years… daily life can get in the way.'",
+"th": "หลายปีผ่านไป ชีวิตประจำวันอาจเข้ามาขวาง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "According to psychologists, what causes couples to break up?",
+"o": [
+"The way they argue",
+"Arguing at all",
+"Romantic dinners",
+"Sweet messages"
+],
+"en": "'It's not arguing itself… but the way they argue.'",
+"th": "ไม่ใช่การทะเลาะ แต่เป็นวิธีที่ทะเลาะ",
+"x": [
+[
+"They say arguing itself is NOT the cause.",
+"บอกว่าการทะเลาะไม่ใช่สาเหตุ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which is an example of making time for each other?",
+"o": [
+"Having a weekly 'date night'",
+"Shouting during arguments",
+"Working longer hours",
+"Getting divorced"
+],
+"en": "'Others simply have a \"date night\" every week.'",
+"th": "มีคืนเดทสัปดาห์ละครั้ง",
+"x": [
+[
+"Not healthy.",
+"ไม่ดีต่อความสัมพันธ์"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What has happened in Thailand over the past twenty years?",
+"o": [
+"More couples have divorced.",
+"Fewer people have married.",
+"Nobody celebrates anniversaries.",
+"All couples have date nights."
+],
+"en": "'The number of couples who divorce has risen over the past twenty years.'",
+"th": "จำนวนคู่ที่หย่าร้างเพิ่มขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "According to the writer's nephew, what is the most common reason for divorce?",
+"o": [
+"Couples stop making an effort.",
+"Money problems",
+"Living abroad",
+"Having children"
+],
+"en": "'The most common reason is that couples stop making an effort.'",
+"th": "คู่รักเลิกพยายาม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How did Nok and Lucas stay in touch during their long-distance relationship?",
+"o": [
+"Daily video calls and visits a few times a year",
+"Monthly letters",
+"They lived together",
+"They didn't communicate"
+],
+"en": "'…daily video calls and meeting only a few times a year.'",
+"th": "วิดีโอคอลทุกวันและเจอกันปีละไม่กี่ครั้ง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It was long-distance.",
+"เป็นความสัมพันธ์ทางไกล"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What did the long-distance relationship teach them?",
+"o": [
+"To express affection in words",
+"To avoid arguments completely",
+"To live alone",
+"To speak French"
+],
+"en": "'It also taught us to express affection in words.'",
+"th": "สอนให้แสดงความรักผ่านคำพูด",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What did Lucas do before proposing?",
+"o": [
+"He asked Nok's family for permission.",
+"He bought a house.",
+"He moved to Bangkok permanently.",
+"He learned to cook Thai food."
+],
+"en": "'He… asked her family's permission first.'",
+"th": "ขออนุญาตครอบครัวของนกก่อน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"He flew there; moving isn't stated.",
+"เขาบินไป แต่ไม่ได้ย้าย"
+],
+[
+"He learned a blessing ritual, not cooking.",
+"เขาเรียนพิธีรดน้ำ ไม่ใช่ทำอาหาร"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which challenge of cross-cultural marriage is mentioned?",
+"o": [
+"Compromising and getting to know in-laws",
+"Finding a wedding venue",
+"Learning to drive",
+"Choosing a job"
+],
+"en": "'They have had to compromise… and getting to know each other's in-laws was not always easy.'",
+"th": "ต้องประนีประนอมและทำความรู้จักญาติอีกฝ่าย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What was the grandmother's advice?",
+"o": [
+"Love means choosing the same person every day.",
+"You must find your soulmate.",
+"Never marry a foreigner.",
+"Marriage is always easy."
+],
+"en": "'Love isn't about finding your soulmate. It's about choosing the same person every day.'",
+"th": "ความรักคือการเลือกคนเดิมทุกวัน",
+"x": [
+[
+"She says love ISN'T about this.",
+"เธอบอกว่าไม่ใช่เรื่องนี้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

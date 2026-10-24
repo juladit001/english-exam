@@ -1,0 +1,1627 @@
+{
+"id": 20,
+"theme": "Restaurants and service",
+"v": [
+[
+"waiter",
+"noun",
+"A1",
+"พนักงานเสิร์ฟ (ชาย)",
+"The *waiter* brought our drinks."
+],
+[
+"plate",
+"noun",
+"A1",
+"จาน",
+"Put the rice on a *plate*."
+],
+[
+"cup",
+"noun",
+"A1",
+"ถ้วย",
+"Would you like a *cup* of tea?"
+],
+[
+"glass",
+"noun",
+"A1",
+"แก้ว",
+"Can I have a *glass* of water?"
+],
+[
+"fork",
+"noun",
+"A1",
+"ส้อม",
+"Thai people eat with a spoon and *fork*."
+],
+[
+"knife",
+"noun",
+"A1",
+"มีด",
+"Use a *knife* to cut the steak."
+],
+[
+"soup",
+"noun",
+"A1",
+"ซุป",
+"This *soup* is very hot."
+],
+[
+"salad",
+"noun",
+"A1",
+"สลัด",
+"I'll have a chicken *salad*."
+],
+[
+"bill",
+"noun",
+"A2",
+"ใบเรียกเก็บเงิน, บิล",
+"Can we have the *bill*, please?"
+],
+[
+"tip",
+"noun",
+"A2",
+"ทิป, เงินพิเศษให้พนักงาน",
+"We left a 50-baht *tip*."
+],
+[
+"chef",
+"noun",
+"A2",
+"พ่อครัว, เชฟ",
+"The *chef* is from Italy."
+],
+[
+"sauce",
+"noun",
+"A2",
+"ซอส",
+"This *sauce* is very spicy."
+],
+[
+"noodles",
+"noun",
+"A2",
+"ก๋วยเตี๋ยว, บะหมี่",
+"I had fried *noodles* for lunch."
+],
+[
+"sweet",
+"adjective",
+"A2",
+"หวาน",
+"This mango is very *sweet*."
+],
+[
+"sour",
+"adjective",
+"A2",
+"เปรี้ยว",
+"Lemons are *sour*."
+],
+[
+"salty",
+"adjective",
+"A2",
+"เค็ม",
+"The soup is too *salty*."
+],
+[
+"fresh",
+"adjective",
+"A2",
+"สด",
+"Buy *fresh* fish at the market."
+],
+[
+"takeaway",
+"noun",
+"A2",
+"อาหารสั่งกลับบ้าน",
+"Let's get a *takeaway* tonight."
+],
+[
+"starter",
+"noun",
+"B1",
+"อาหารเรียกน้ำย่อย, ของว่างก่อนอาหารจานหลัก",
+"We had soup as a *starter*."
+],
+[
+"main course",
+"noun",
+"B1",
+"อาหารจานหลัก",
+"For the *main course*, I'll have the fish."
+],
+[
+"serve",
+"verb",
+"B1",
+"เสิร์ฟ, ให้บริการ",
+"Breakfast is *served* from 7 a.m."
+],
+[
+"napkin",
+"noun",
+"B1",
+"ผ้าเช็ดปาก, กระดาษเช็ดปาก",
+"Could I have a *napkin*, please?"
+],
+[
+"vegan",
+"adjective/noun",
+"B1",
+"วีแกน (ไม่กินผลิตภัณฑ์จากสัตว์)",
+"Do you have any *vegan* dishes?"
+],
+[
+"service",
+"noun",
+"B1",
+"การบริการ",
+"The *service* here is excellent."
+],
+[
+"buffet",
+"noun",
+"B1",
+"บุฟเฟต์",
+"The hotel has a breakfast *buffet*."
+],
+[
+"cashier",
+"noun",
+"B1",
+"แคชเชียร์, พนักงานเก็บเงิน",
+"Please pay the *cashier*."
+],
+[
+"tasty",
+"adjective",
+"B1",
+"อร่อย, มีรสชาติดี",
+"These snacks are really *tasty*."
+],
+[
+"greasy",
+"adjective",
+"B1",
+"มันเยิ้ม",
+"Fried food can be *greasy*."
+],
+[
+"delivery",
+"noun",
+"B1",
+"การส่ง (สินค้า/อาหาร)",
+"Food *delivery* is very popular in Bangkok."
+],
+[
+"complimentary",
+"adjective",
+"B2",
+"ฟรี (ให้เป็นมารยาท), ที่แถมให้",
+"The hotel offers *complimentary* water."
+],
+[
+"gourmet",
+"adjective",
+"B2",
+"สำหรับผู้ชื่นชอบอาหารรสเลิศ, หรูหรา",
+"They sell *gourmet* sandwiches."
+],
+[
+"ambience",
+"noun",
+"B2",
+"บรรยากาศ (ของสถานที่)",
+"The restaurant has a romantic *ambience*."
+],
+[
+"cutlery",
+"noun",
+"B2",
+"ช้อนส้อมมีด",
+"Please put the *cutlery* in the drawer."
+],
+[
+"hygiene",
+"noun",
+"B2",
+"สุขอนามัย",
+"Good *hygiene* is important in kitchens."
+],
+[
+"signature",
+"adjective/noun",
+"B2",
+"(อาหาร) ขึ้นชื่อ/เป็นเอกลักษณ์, ลายเซ็น",
+"Crab curry is the chef's *signature* dish."
+],
+[
+"seasonal",
+"adjective",
+"B2",
+"ตามฤดูกาล",
+"We use *seasonal* fruit in our desserts."
+],
+[
+"palate",
+"noun",
+"B2",
+"ประสาทรับรส, ความชอบด้านรสชาติ",
+"This wine pleases even the most demanding *palate*."
+],
+[
+"indulge",
+"verb",
+"B2",
+"ตามใจตัวเอง, ปล่อยตัวสนุก",
+"On my birthday I *indulge* in chocolate cake."
+],
+[
+"cater",
+"verb",
+"B2",
+"จัดเตรียม (อาหาร/บริการ) ให้, รองรับ",
+"The restaurant can *cater* for vegetarians."
+],
+[
+"beverage",
+"noun",
+"B2",
+"เครื่องดื่ม",
+"Hot *beverages* are served in the lobby."
+]
+],
+"p": [
+{
+"t": "My Birthday Dinner",
+"x": "For my birthday, my family took me to a small Thai restaurant near the river. The waiter was very friendly. He gave us a table by the window and brought us glasses of cold water.\nWe ordered lots of dishes to share. First, we had a spicy papaya salad and a big bowl of tom yum soup. The soup was sweet and sour, and it had fresh prawns in it. Then the waiter brought plates of fried noodles with a special peanut sauce. My little brother couldn't use chopsticks, so he asked for a fork and a knife.\nAt the end of the meal, the chef came out of the kitchen and sang \"Happy Birthday\" with all the staff. When the bill came, my father paid by card and left a big tip. It was the best birthday dinner ever!"
+},
+{
+"t": "Life Behind the Counter",
+"x": "Ning has worked at a busy restaurant in Bangkok for three years. She started as a cashier, taking payments at the front counter, but now she is a supervisor. \"Restaurant work is hard,\" she says. \"You're on your feet all day, and customers can be very demanding.\"\nLunchtime is the busiest period. The restaurant serves a buffet for office workers, and at the same time, delivery riders arrive every few minutes to collect takeaway orders. Ning's job is to make sure everything runs smoothly. She checks that tables are cleaned quickly, that napkins and sauces are refilled, and that starters arrive before main courses.\nThe restaurant's menu has changed a lot. \"Ten years ago, nobody asked about vegan food,\" Ning says. \"Now we have five vegan dishes, and they're very popular.\" The chef has also reduced the amount of oil, because many customers complained that some dishes were too greasy.\nWhat does Ning like most about her job? \"When customers say the food was tasty and the service was excellent, it makes all the hard work worth it.\""
+},
+{
+"t": "The Rise of Thai Fine Dining",
+"x": "Not long ago, the idea of paying 5,000 baht for a Thai meal would have seemed absurd. Thai food was associated with cheap, delicious street stalls, not with gourmet restaurants. Today, however, Bangkok has several restaurants with international awards, and chefs are reinventing traditional recipes for a more demanding palate.\nThese restaurants offer far more than food. Diners pay for the ambience: elegant lighting, attentive staff and beautiful tableware, from hand-made plates to silver cutlery. Many places serve a tasting menu of ten or more small courses, often including the chef's signature dish. A complimentary glass of fruit juice or a small surprise course between dishes adds to the sense of luxury. Some restaurants offer carefully chosen beverage pairings, matching each course with a different drink.\nFine-dining chefs often emphasise seasonal ingredients from small local farms, and kitchens follow strict hygiene standards. Some also cater for guests with special diets, creating entire menus without meat or gluten.\nCritics argue that fine dining is an expensive way to indulge, and that the best Thai food is still found on the street. Supporters reply that the two worlds can exist side by side, and that the global attention helps promote Thai cuisine as a whole."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "It's hot. Could I have a ___ of iced water, please?",
+"o": [
+"glass",
+"plate",
+"fork",
+"knife"
+],
+"en": "Water is served in a glass.",
+"th": "น้ำใส่แก้ว (glass)",
+"x": [
+[
+"A plate is for food.",
+"จานใส่อาหาร"
+],
+[
+"A fork is for eating.",
+"ส้อมใช้กิน"
+],
+[
+"A knife is for cutting.",
+"มีดใช้หั่น"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "We eat soup with a spoon and cut meat with a ___.",
+"o": [
+"knife",
+"fork",
+"cup",
+"glass"
+],
+"en": "You cut with a knife.",
+"th": "ใช้มีดหั่น",
+"x": [
+[
+"A fork holds food; it doesn't cut well.",
+"ส้อมใช้จิ้ม หั่นไม่ได้"
+],
+[
+"A cup is for drinks.",
+"ถ้วยใส่เครื่องดื่ม"
+],
+[
+"A glass is for drinks.",
+"แก้วใส่เครื่องดื่ม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The ___ brought us the menu and took our order.",
+"o": [
+"waiter",
+"chef",
+"customer",
+"driver"
+],
+"en": "A waiter serves customers at the table.",
+"th": "พนักงานเสิร์ฟ (waiter) ให้บริการที่โต๊ะ",
+"x": [
+[
+"The chef cooks in the kitchen.",
+"เชฟทำอาหารในครัว"
+],
+[
+"We are the customers.",
+"เราเป็นลูกค้า"
+],
+[
+"A driver drives.",
+"คนขับรถ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I'd like a green ___ with tomatoes, please.",
+"o": [
+"salad",
+"cup",
+"plate",
+"fork"
+],
+"en": "A salad is made of vegetables like lettuce and tomatoes.",
+"th": "สลัดทำจากผักอย่างผักกาดและมะเขือเทศ",
+"x": [
+[
+"You don't eat a cup.",
+"ไม่ได้กินถ้วย"
+],
+[
+"You don't eat a plate.",
+"ไม่ได้กินจาน"
+],
+[
+"You don't eat a fork.",
+"ไม่ได้กินส้อม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Could we have the ___, please? We'd like to pay.",
+"o": [
+"bill",
+"menu",
+"tip",
+"chef"
+],
+"en": "The bill shows how much you must pay.",
+"th": "bill = ใบเรียกเก็บเงิน",
+"x": [
+[
+"The menu is for choosing food.",
+"เมนูใช้เลือกอาหาร"
+],
+[
+"The tip is extra money you give.",
+"ทิปเป็นเงินพิเศษที่เราให้"
+],
+[
+"The chef cooks.",
+"เชฟทำอาหาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "In Thailand, many people leave a small ___ for the waiter.",
+"o": [
+"tip",
+"top",
+"tap",
+"type"
+],
+"en": "A tip is extra money for good service.",
+"th": "tip = เงินพิเศษสำหรับบริการ",
+"x": [
+[
+"A top is the highest part.",
+"top = ส่วนบนสุด"
+],
+[
+"A tap gives water.",
+"tap = ก๊อกน้ำ"
+],
+[
+"A type is a kind.",
+"type = ประเภท"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "This fish is very ___; it was caught this morning.",
+"o": [
+"fresh",
+"frozen",
+"stale",
+"old"
+],
+"en": "Caught this morning = fresh.",
+"th": "จับมาเมื่อเช้า = สด (fresh)",
+"x": [
+[
+"Frozen food has been in a freezer.",
+"frozen = แช่แข็ง"
+],
+[
+"'stale' is for old bread or cake.",
+"stale = เก่า ไม่สด (ขนมปัง)"
+],
+[
+"It's the opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Tom yum is hot and ___ because of the lime juice.",
+"o": [
+"sour",
+"sweet",
+"salty",
+"bitter"
+],
+"en": "Lime juice tastes sour.",
+"th": "น้ำมะนาวมีรสเปรี้ยว",
+"x": [
+[
+"Sugar is sweet, not lime.",
+"น้ำตาลหวาน ไม่ใช่มะนาว"
+],
+[
+"Salt is salty, not lime.",
+"เกลือเค็ม ไม่ใช่มะนาว"
+],
+[
+"Coffee can be bitter; lime is sour.",
+"กาแฟขม มะนาวเปรี้ยว"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "As a ___, we had spring rolls, then green curry for the main course.",
+"o": [
+"starter",
+"dessert",
+"drink",
+"bill"
+],
+"en": "A starter is a small dish before the main course.",
+"th": "starter = อาหารเรียกน้ำย่อยก่อนจานหลัก",
+"x": [
+[
+"Dessert comes after the main course.",
+"ของหวานมาหลังจานหลัก"
+],
+[
+"Spring rolls aren't a drink.",
+"ปอเปี๊ยะไม่ใช่เครื่องดื่ม"
+],
+[
+"The bill comes at the end.",
+"บิลมาตอนท้าย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The food was good, but the ___ was very slow; we waited an hour.",
+"o": [
+"service",
+"servant",
+"serve",
+"serving"
+],
+"en": "Service = how staff look after customers.",
+"th": "service = การบริการ",
+"x": [
+[
+"A servant is a person who works in a house.",
+"servant = คนรับใช้"
+],
+[
+"'serve' is a verb.",
+"serve เป็นกริยา"
+],
+[
+"A serving is one portion.",
+"serving = หนึ่งที่"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I don't eat meat, fish, eggs or milk. I'm ___.",
+"o": [
+"vegan",
+"vegetable",
+"vague",
+"vegetarian"
+],
+"en": "Vegans eat no animal products, including eggs and milk.",
+"th": "วีแกนไม่กินผลิตภัณฑ์จากสัตว์ รวมถึงไข่และนม",
+"x": [
+[
+"A vegetable is food, not a person.",
+"vegetable = ผัก"
+],
+[
+"'vague' means unclear.",
+"vague = คลุมเครือ"
+],
+[
+"Many vegetarians still eat eggs and milk.",
+"มังสวิรัติหลายคนยังกินไข่และนม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The hotel has a breakfast ___, so you can eat as much as you like.",
+"o": [
+"buffet",
+"budget",
+"bucket",
+"buffer"
+],
+"en": "At a buffet, you serve yourself as much as you like.",
+"th": "บุฟเฟต์ = ตักกินเองได้ไม่จำกัด",
+"x": [
+[
+"A budget is a spending plan.",
+"budget = งบประมาณ"
+],
+[
+"A bucket holds water.",
+"bucket = ถัง"
+],
+[
+"A buffer is protection between things.",
+"buffer = กันชน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Our hotel offers ___ drinks on arrival; you don't have to pay.",
+"o": [
+"complimentary",
+"complementary",
+"compulsory",
+"competitive"
+],
+"en": "Complimentary = given free.",
+"th": "complimentary = ฟรี (ให้เป็นมารยาท)",
+"x": [
+[
+"'complementary' means going well together (spelled with e).",
+"complementary = เข้ากันได้ดี"
+],
+[
+"'compulsory' means required.",
+"compulsory = บังคับ"
+],
+[
+"'competitive' is about competition or prices.",
+"competitive = แข่งขัน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Pad thai is the restaurant's ___ dish; everyone orders it.",
+"o": [
+"signature",
+"signal",
+"significant",
+"signatory"
+],
+"en": "A signature dish is the one a restaurant is famous for.",
+"th": "signature dish = อาหารขึ้นชื่อของร้าน",
+"x": [
+[
+"A signal is a sign.",
+"signal = สัญญาณ"
+],
+[
+"'significant' means important, but it isn't used this way.",
+"significant = สำคัญ ไม่ใช้แบบนี้"
+],
+[
+"A signatory is a person who signs.",
+"signatory = ผู้ลงนาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The restaurant failed its ___ inspection because the kitchen was dirty.",
+"o": [
+"hygiene",
+"hydrogen",
+"hysteria",
+"hygienic"
+],
+"en": "Hygiene = cleanliness to prevent disease. We need a noun before 'inspection'.",
+"th": "hygiene = สุขอนามัย (คำนาม)",
+"x": [
+[
+"Hydrogen is a gas.",
+"hydrogen = ไฮโดรเจน"
+],
+[
+"Hysteria is extreme emotion.",
+"hysteria = ฮิสทีเรีย"
+],
+[
+"'hygienic' is an adjective.",
+"hygienic เป็นคุณศัพท์"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "Can I [have] [a] [soups], [please]?",
+"a": 2,
+"fix": "Can I have a soup, please? (or: some soup)",
+"en": "After 'a', the noun is singular.",
+"th": "หลัง a ต้องเป็นเอกพจน์",
+"x": [
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'a' is correct with one soup.",
+"a ถูกต้อง"
+],
+[
+"'please' is correct.",
+"please ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Do] the restaurant [open] [on] [Sundays]?",
+"a": 0,
+"fix": "Does the restaurant open on Sundays?",
+"en": "'The restaurant' = it: Does.",
+"th": "the restaurant = it ใช้ Does",
+"x": [
+[
+"'open' is correct after does.",
+"open ถูกต้อง"
+],
+[
+"'on' is correct with days.",
+"on ถูกต้อง"
+],
+[
+"'Sundays' is correct.",
+"Sundays ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "My brother [is] a chef, [and] he [cooks] [very good].",
+"a": 3,
+"fix": "My brother is a chef, and he cooks very well.",
+"en": "To describe a verb (cooks), use an adverb: well.",
+"th": "ขยายกริยา (cooks) ต้องใช้กริยาวิเศษณ์: well",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'and' is correct.",
+"and ถูกต้อง"
+],
+[
+"'cooks' is correct.",
+"cooks ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I'd [like] [order] [the] green curry, [please].",
+"a": 1,
+"fix": "I'd like to order the green curry, please.",
+"en": "'Would like' is followed by 'to' + verb.",
+"th": "would like ตามด้วย to + V1",
+"x": [
+[
+"'like' is correct.",
+"like ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'please' is correct.",
+"please ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Waiter] brought [the] bill, [and] [we] paid.",
+"a": 0,
+"fix": "The waiter brought the bill, and we paid.",
+"en": "A singular countable noun needs an article: The waiter.",
+"th": "นามนับได้เอกพจน์ต้องมี article: The waiter",
+"x": [
+[
+"'the bill' is correct.",
+"the bill ถูกต้อง"
+],
+[
+"'and' is correct.",
+"and ถูกต้อง"
+],
+[
+"'we' is correct.",
+"we ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "We [had] [already] [eaten] when our friends [have arrived].",
+"a": 3,
+"fix": "We had already eaten when our friends arrived.",
+"en": "The second action in a past story is Past Simple: arrived.",
+"th": "เหตุการณ์ที่สองในอดีตใช้ Past Simple: arrived",
+"x": [
+[
+"'had' is correct.",
+"had ถูกต้อง"
+],
+[
+"'already' is correct.",
+"already ถูกต้อง"
+],
+[
+"'eaten' is correct.",
+"eaten ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "The restaurant [where] we had dinner [was] [recommending] [by] a friend.",
+"a": 2,
+"fix": "The restaurant where we had dinner was recommended by a friend.",
+"en": "Passive: was + past participle (recommended).",
+"th": "passive: was + V3 (recommended)",
+"x": [
+[
+"'where' is correct for a place.",
+"where ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'by' is correct.",
+"by ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Do] you mind [to bring] us [some] more [water]?",
+"a": 1,
+"fix": "Do you mind bringing us some more water?",
+"en": "'Do you mind' is followed by verb-ing.",
+"th": "Do you mind ตามด้วย V-ing",
+"x": [
+[
+"'Do' is correct.",
+"Do ถูกต้อง"
+],
+[
+"'some' is correct in requests.",
+"some ถูกต้อง"
+],
+[
+"'water' is correct.",
+"water ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "It's [the] [best] restaurant [I've] ever [been].",
+"a": 3,
+"fix": "It's the best restaurant I've ever been to.",
+"en": "We 'go to' a restaurant, so the preposition must stay: been to.",
+"th": "go to a restaurant ต้องมี to: been to",
+"x": [
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'best' is correct.",
+"best ถูกต้อง"
+],
+[
+"'I've' is correct.",
+"I've ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "I [would] rather we [go] to a [quieter] restaurant [tonight].",
+"a": 1,
+"fix": "I would rather we went to a quieter restaurant tonight.",
+"en": "'Would rather + another person' takes a past form: we went.",
+"th": "would rather + คนอื่น ตามด้วยรูปอดีต: we went",
+"x": [
+[
+"'would' is correct.",
+"would ถูกต้อง"
+],
+[
+"'quieter' is correct.",
+"quieter ถูกต้อง"
+],
+[
+"'tonight' is correct.",
+"tonight ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can I have a fork, please?\nB: ___",
+"o": [
+"Of course. Here you are.",
+"Yes, you can't.",
+"No, I'm a waiter.",
+"You're welcome."
+],
+"en": "B agrees and gives it.",
+"th": "B ตกลงและยื่นให้",
+"x": [
+[
+"'Yes' and 'can't' contradict.",
+"Yes ขัดกับ can't"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"It replies to 'thank you'.",
+"ใช้ตอบคำขอบคุณ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you want soup or salad?\nB: ___",
+"o": [
+"Salad, please.",
+"Yes, please.",
+"No, thank you.",
+"I'm hungry."
+],
+"en": "An 'or' question needs a choice.",
+"th": "คำถามที่มี or ต้องเลือก",
+"x": [
+[
+"It doesn't choose.",
+"ไม่ได้เลือก"
+],
+[
+"It doesn't choose.",
+"ไม่ได้เลือก"
+],
+[
+"It doesn't choose.",
+"ไม่ได้เลือก"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Is everything OK with your meal?\nB: ___",
+"o": [
+"Yes, it's delicious, thanks.",
+"Yes, I'm a meal.",
+"It's seven o'clock.",
+"No, I'm fine."
+],
+"en": "B says the food is good.",
+"th": "B ตอบว่าอาหารอร่อย",
+"x": [
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"This is a time.",
+"เป็นเวลา"
+],
+[
+"'No' and 'I'm fine' contradict.",
+"No ขัดกับ I'm fine"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: A table for four, please.\nB: ___",
+"o": [
+"Certainly. Follow me, please.",
+"Four tables?",
+"Yes, it's a table.",
+"Sorry, I'm not hungry."
+],
+"en": "The waiter agrees and shows the way.",
+"th": "พนักงานตกลงและพาไปที่โต๊ะ",
+"x": [
+[
+"A asked for one table for four people.",
+"A ขอโต๊ะเดียวสำหรับ 4 คน"
+],
+[
+"It doesn't help.",
+"ไม่ได้ช่วย"
+],
+[
+"The waiter isn't eating.",
+"พนักงานไม่ได้กิน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How would you like to pay?\nB: ___",
+"o": [
+"By card, please.",
+"Yes, I'd like to pay.",
+"The food was great.",
+"Three hundred baht."
+],
+"en": "'How' asks about the method of payment.",
+"th": "How ถามวิธีจ่ายเงิน",
+"x": [
+[
+"'How' isn't a yes/no question.",
+"How ไม่ใช่คำถาม yes/no"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"That's an amount, not a method.",
+"เป็นจำนวนเงิน ไม่ใช่วิธี"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Excuse me, this soup is cold.\nB: ___",
+"o": [
+"I'm so sorry. I'll heat it up for you.",
+"Great! Enjoy your meal.",
+"Yes, it's soup.",
+"Cold soup is free."
+],
+"en": "The waiter apologises and solves the problem.",
+"th": "พนักงานขอโทษและแก้ปัญหา",
+"x": [
+[
+"It ignores the problem.",
+"ไม่สนใจปัญหา"
+],
+[
+"It doesn't help.",
+"ไม่ได้ช่วย"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Would you like a starter?\nB: ___ I'm not very hungry, so I'll just have a main course.",
+"o": [
+"No, thank you.",
+"Yes, two please.",
+"Of course, I'm starving.",
+"I'd love three."
+],
+"en": "B isn't very hungry, so B says no.",
+"th": "B ไม่ค่อยหิว จึงปฏิเสธ",
+"x": [
+[
+"It contradicts 'not very hungry'.",
+"ขัดกับ ไม่ค่อยหิว"
+],
+[
+"It contradicts 'not very hungry'.",
+"ขัดกับ ไม่ค่อยหิว"
+],
+[
+"It contradicts 'not very hungry'.",
+"ขัดกับ ไม่ค่อยหิว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Do you have any vegan dishes?\nB: ___",
+"o": [
+"Yes, the tofu curry and the vegetable stir-fry are both vegan.",
+"Yes, we have chicken and pork.",
+"Vegans don't eat.",
+"No, we only have vegetables."
+],
+"en": "B names suitable dishes.",
+"th": "B บอกเมนูที่เหมาะสม",
+"x": [
+[
+"Chicken and pork aren't vegan.",
+"ไก่และหมูไม่ใช่วีแกน"
+],
+[
+"Untrue and rude.",
+"ไม่จริงและไม่สุภาพ"
+],
+[
+"Vegetables ARE vegan, so 'No' contradicts.",
+"ผักเป็นวีแกน No จึงขัดกัน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: The ambience here is lovely, isn't it?\nB: ___ The candles and the soft music make it really relaxing.",
+"o": [
+"Yes, it's wonderful.",
+"No, it's very noisy.",
+"I can't hear anything.",
+"The food is cold."
+],
+"en": "B agrees and explains why.",
+"th": "B เห็นด้วยและบอกเหตุผล",
+"x": [
+[
+"It contradicts 'soft music'.",
+"ขัดกับ เพลงเบาๆ"
+],
+[
+"It contradicts 'soft music'.",
+"ขัดกับ เพลงเบาๆ"
+],
+[
+"Not about the ambience.",
+"ไม่เกี่ยวกับบรรยากาศ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should we leave a tip? The service was terrible.\nB: ___ The waiter ignored us for half an hour.",
+"o": [
+"I don't think they deserve one.",
+"Of course, a big one.",
+"Yes, the service was excellent.",
+"Let's give them double."
+],
+"en": "Bad service means no tip.",
+"th": "บริการแย่จึงไม่ควรให้ทิป",
+"x": [
+[
+"It contradicts the bad service.",
+"ขัดกับบริการที่แย่"
+],
+[
+"It contradicts the bad service.",
+"ขัดกับบริการที่แย่"
+],
+[
+"It contradicts the bad service.",
+"ขัดกับบริการที่แย่"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where did the family go for dinner?",
+"o": [
+"A small Thai restaurant near the river",
+"A hotel buffet",
+"Grandmother's house",
+"A food court"
+],
+"en": "'A small Thai restaurant near the river.'",
+"th": "ร้านอาหารไทยเล็กๆ ริมแม่น้ำ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was in the tom yum soup?",
+"o": [
+"Fresh prawns",
+"Chicken",
+"Noodles",
+"Peanuts"
+],
+"en": "'It had fresh prawns in it.'",
+"th": "มีกุ้งสด",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The noodles were a different dish.",
+"ก๋วยเตี๋ยวเป็นอีกจาน"
+],
+[
+"The peanut sauce was with the noodles.",
+"ซอสถั่วอยู่กับก๋วยเตี๋ยว"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Why did the little brother ask for a fork and knife?",
+"o": [
+"He couldn't use chopsticks.",
+"He wanted to cut the soup.",
+"His spoon was dirty.",
+"The waiter forgot them."
+],
+"en": "'My little brother couldn't use chopsticks, so he asked for a fork and a knife.'",
+"th": "น้องใช้ตะเกียบไม่เป็น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the chef do?",
+"o": [
+"Sang 'Happy Birthday' with the staff",
+"Brought the bill",
+"Made a cake",
+"Gave a discount"
+],
+"en": "'The chef came out… and sang \"Happy Birthday\" with all the staff.'",
+"th": "เชฟออกมาร้องเพลงวันเกิดกับพนักงาน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How did the father pay?",
+"o": [
+"By card",
+"In cash",
+"He didn't pay",
+"By phone"
+],
+"en": "'My father paid by card.'",
+"th": "พ่อจ่ายด้วยบัตร",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"He paid.",
+"เขาจ่ายแล้ว"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What was Ning's first job at the restaurant?",
+"o": [
+"Cashier",
+"Supervisor",
+"Chef",
+"Delivery rider"
+],
+"en": "'She started as a cashier.'",
+"th": "เริ่มงานเป็นแคชเชียร์",
+"x": [
+[
+"That's her job now.",
+"นั่นคืองานปัจจุบัน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Delivery riders collect orders.",
+"ไรเดอร์มารับอาหาร"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why is lunchtime the busiest period?",
+"o": [
+"There's a buffet and many takeaway orders at the same time.",
+"The restaurant only opens at lunch.",
+"The chef arrives late.",
+"There are no waiters at lunch."
+],
+"en": "'The restaurant serves a buffet… and at the same time, delivery riders arrive… to collect takeaway orders.'",
+"th": "มีบุฟเฟต์และออเดอร์กลับบ้านพร้อมกัน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which of these is NOT part of Ning's job?",
+"o": [
+"Cooking the main courses",
+"Checking that tables are cleaned",
+"Making sure napkins and sauces are refilled",
+"Making sure starters arrive first"
+],
+"en": "Cooking is the chef's job. The other three are listed as Ning's tasks.",
+"th": "การทำอาหารเป็นงานของเชฟ อีกสามข้อเป็นงานของหนิง",
+"x": [
+[
+"This is Ning's job.",
+"เป็นงานของหนิง"
+],
+[
+"This is Ning's job.",
+"เป็นงานของหนิง"
+],
+[
+"This is Ning's job.",
+"เป็นงานของหนิง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why did the chef reduce the amount of oil?",
+"o": [
+"Customers complained some dishes were too greasy.",
+"Oil became too expensive.",
+"Vegans don't eat oil.",
+"There was a new law."
+],
+"en": "'…because many customers complained that some dishes were too greasy.'",
+"th": "ลูกค้าบ่นว่าอาหารบางอย่างมันเกินไป",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does Ning enjoy most?",
+"o": [
+"Hearing customers praise the food and service",
+"Working long hours",
+"Being a cashier",
+"Eating vegan food"
+],
+"en": "'When customers say the food was tasty and the service was excellent…'",
+"th": "เมื่อลูกค้าชมว่าอาหารอร่อยและบริการดี",
+"x": [
+[
+"She says the work is hard.",
+"เธอบอกว่างานหนัก"
+],
+[
+"She's a supervisor now.",
+"ตอนนี้เธอเป็นหัวหน้า"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How has the image of Thai food changed?",
+"o": [
+"It is now also linked with expensive, award-winning restaurants.",
+"It is no longer sold on the street.",
+"It has become cheaper.",
+"It is eaten only by tourists."
+],
+"en": "'Bangkok has several restaurants with international awards.'",
+"th": "ปัจจุบันมีร้านอาหารไทยหรูที่ได้รางวัลระดับโลก",
+"x": [
+[
+"Street food still exists.",
+"อาหารริมทางยังมีอยู่"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "According to the passage, what do diners pay for besides food?",
+"o": [
+"The atmosphere and service",
+"Cooking lessons",
+"Street-food tours",
+"Free takeaway"
+],
+"en": "'Diners pay for the ambience: elegant lighting, attentive staff and beautiful tableware.'",
+"th": "จ่ายเพื่อบรรยากาศ พนักงาน และภาชนะสวยงาม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is a 'tasting menu' in the passage?",
+"o": [
+"Many small courses served one after another",
+"A menu with only drinks",
+"A list of street stalls",
+"A buffet"
+],
+"en": "'A tasting menu of ten or more small courses.'",
+"th": "เมนูที่มีอาหารจานเล็ก 10 อย่างขึ้นไป",
+"x": [
+[
+"Drinks are 'beverage pairings'.",
+"เครื่องดื่มเป็นอีกส่วน"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do fine-dining chefs often focus on?",
+"o": [
+"Seasonal ingredients from local farms",
+"Frozen imported food",
+"The cheapest ingredients",
+"Dishes without vegetables"
+],
+"en": "'Fine-dining chefs often emphasise seasonal ingredients from small local farms.'",
+"th": "เชฟเน้นวัตถุดิบตามฤดูกาลจากฟาร์มท้องถิ่น",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How do supporters respond to the critics?",
+"o": [
+"Fine dining and street food can exist together, and fine dining promotes Thai food.",
+"Street food should be banned.",
+"Fine dining is cheaper than street food.",
+"Critics are always right."
+],
+"en": "'The two worlds can exist side by side, and… the global attention helps promote Thai cuisine as a whole.'",
+"th": "ทั้งสองแบบอยู่ร่วมกันได้ และช่วยโปรโมตอาหารไทย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"They disagree with critics.",
+"พวกเขาไม่เห็นด้วยกับนักวิจารณ์"
+]
+]
+}
+]
+}

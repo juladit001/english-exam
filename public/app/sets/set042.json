@@ -1,0 +1,1627 @@
+{
+"id": 42,
+"theme": "Staying safe online",
+"v": [
+[
+"name",
+"noun",
+"A1",
+"ชื่อ",
+"Don't put your full *name* online."
+],
+[
+"address",
+"noun",
+"A1",
+"ที่อยู่",
+"Never share your home *address* with strangers."
+],
+[
+"age",
+"noun",
+"A1",
+"อายุ",
+"You must be over 13 to join; what's your *age*?"
+],
+[
+"careful",
+"adjective",
+"A1",
+"ระมัดระวัง",
+"Be *careful* when you use the internet."
+],
+[
+"tell",
+"verb",
+"A1",
+"บอก",
+"*Tell* your parents if something is wrong."
+],
+[
+"parent",
+"noun",
+"A1",
+"พ่อหรือแม่, ผู้ปกครอง",
+"Ask a *parent* for help."
+],
+[
+"secret",
+"noun/adjective",
+"A1",
+"ความลับ, ลับ",
+"Keep your password *secret*."
+],
+[
+"code",
+"noun",
+"A1",
+"รหัส",
+"Enter the *code* we sent to your phone."
+],
+[
+"stranger",
+"noun",
+"A2",
+"คนแปลกหน้า",
+"Don't talk to *strangers* online."
+],
+[
+"hacker",
+"noun",
+"A2",
+"แฮกเกอร์",
+"A *hacker* got into the company's system."
+],
+[
+"virus",
+"noun",
+"A2",
+"ไวรัส (คอมพิวเตอร์)",
+"My laptop has a *virus*."
+],
+[
+"login",
+"noun",
+"A2",
+"การเข้าสู่ระบบ",
+"Enter your *login* details."
+],
+[
+"personal",
+"adjective",
+"A2",
+"ส่วนตัว",
+"Don't share *personal* information."
+],
+[
+"spam",
+"noun",
+"A2",
+"อีเมลขยะ",
+"Most of my emails are *spam*."
+],
+[
+"pop-up",
+"noun",
+"A2",
+"หน้าต่างเด้ง (ป๊อปอัป)",
+"Close the *pop-up* without clicking it."
+],
+[
+"hack",
+"verb",
+"A2",
+"เจาะระบบ",
+"Someone *hacked* my Facebook account."
+],
+[
+"bully",
+"verb/noun",
+"A2",
+"รังแก, คนรังแก",
+"Some students *bully* others online."
+],
+[
+"screenshot",
+"noun",
+"A2",
+"ภาพหน้าจอ",
+"Take a *screenshot* of the message."
+],
+[
+"cyberbully",
+"verb",
+"B1",
+"กลั่นแกล้งทางออนไลน์",
+"She was *cyberbullied* by classmates."
+],
+[
+"attachment",
+"noun",
+"B1",
+"ไฟล์แนบ",
+"Don't open *attachments* from unknown people."
+],
+[
+"antivirus",
+"adjective/noun",
+"B1",
+"(โปรแกรม) ป้องกันไวรัส",
+"Install *antivirus* software."
+],
+[
+"firewall",
+"noun",
+"B1",
+"ไฟร์วอลล์",
+"The *firewall* blocks dangerous connections."
+],
+[
+"suspicious",
+"adjective",
+"B1",
+"น่าสงสัย",
+"I got a *suspicious* email."
+],
+[
+"verify",
+"verb",
+"B1",
+"ตรวจสอบยืนยัน",
+"Please *verify* your email address."
+],
+[
+"scammer",
+"noun",
+"B1",
+"มิจฉาชีพ, นักต้มตุ๋น",
+"The *scammer* pretended to be a bank."
+],
+[
+"warning sign",
+"noun",
+"B1",
+"สัญญาณเตือน",
+"Spelling mistakes are a *warning sign*."
+],
+[
+"identity theft",
+"noun",
+"B1",
+"การขโมยข้อมูลตัวตน",
+"*Identity theft* is growing fast."
+],
+[
+"phishing",
+"noun",
+"B1",
+"ฟิชชิง (หลอกเอาข้อมูล)",
+"This email is a *phishing* attempt."
+],
+[
+"malware",
+"noun",
+"B1",
+"มัลแวร์",
+"*Malware* can steal your files."
+],
+[
+"encrypt",
+"verb",
+"B2",
+"เข้ารหัส",
+"The app *encrypts* your messages."
+],
+[
+"two-factor authentication",
+"noun",
+"B2",
+"การยืนยันตัวตนสองขั้นตอน",
+"Turn on *two-factor authentication*."
+],
+[
+"breach",
+"noun",
+"B2",
+"การละเมิด, การรั่วไหล (ข้อมูล)",
+"The data *breach* affected millions."
+],
+[
+"vulnerability",
+"noun",
+"B2",
+"ช่องโหว่, จุดอ่อน",
+"Hackers used a *vulnerability* in the software."
+],
+[
+"fraudulent",
+"adjective",
+"B2",
+"ฉ้อฉล, หลอกลวง",
+"The bank stopped a *fraudulent* payment."
+],
+[
+"consent",
+"noun",
+"B2",
+"ความยินยอม",
+"Don't share photos without *consent*."
+],
+[
+"digital footprint",
+"noun",
+"B2",
+"ร่องรอยดิจิทัล",
+"Everything you post adds to your *digital footprint*."
+],
+[
+"surveillance",
+"noun",
+"B2",
+"การสอดแนม, การเฝ้าติดตาม",
+"Online *surveillance* worries many people."
+],
+[
+"impersonate",
+"verb",
+"B2",
+"ปลอมตัวเป็น",
+"Scammers *impersonate* police officers."
+],
+[
+"legitimate",
+"adjective",
+"B2",
+"ถูกต้องตามกฎหมาย, ของจริง",
+"Is this website *legitimate*?"
+],
+[
+"blackmail",
+"verb/noun",
+"B2",
+"แบล็กเมล, ข่มขู่กรรโชก",
+"He was *blackmailed* with private photos."
+]
+],
+"p": [
+{
+"t": "Internet Rules for Kids",
+"x": "At our school, every student learns the same internet rules.\nRule 1: Keep your password secret. Don't tell it to your friends. Only your parent can know it.\nRule 2: Don't share personal information. Never write your full name, your home address or your age on a website or game.\nRule 3: Be careful with strangers. Some people online are not who they say they are. If a stranger asks to meet you, tell an adult immediately.\nRule 4: Don't click on pop-ups or open spam emails. They can give your computer a virus.\nRule 5: Be kind. Never bully other people online. If someone is unkind to you, take a screenshot and show it to a teacher.\nRule 6: If a website asks for a login code from your phone, ask an adult first. Some hackers try to hack children's game accounts this way."
+},
+{
+"t": "How to Spot a Scam",
+"x": "Every day, millions of people receive messages from scammers. Some are easy to recognise, but others look very real. Here are some warning signs.\nFirst, check the sender. A phishing email may look like it comes from your bank, but the address is often strange, such as 'k-bank-help123@mail.com'. Real banks never ask you to send your password by email.\nSecond, be suspicious of urgent messages. Scammers often say, \"Your account will be closed in 24 hours!\" to make you panic.\nThird, don't open attachments or click links unless you are sure they are safe. They may contain malware, which can steal your files or your bank details. This is how identity theft often begins.\nFinally, protect your devices. Use antivirus software, keep your firewall turned on and update your apps regularly. If you're not sure whether a message is real, verify it by calling the company directly.\nYoung people face other dangers, too. Some are cyberbullied by classmates, and this can be very harmful. If it happens to you or a friend, talk to someone you trust."
+},
+{
+"t": "Privacy in the Digital Age",
+"x": "Each time we search the web, post a photo or use a free app, we leave a trail of data behind us. This digital footprint can reveal a surprising amount: where we live, who our friends are, what we buy and even what we believe. Much of this information is collected legally, often with our consent, buried in long terms and conditions that few people read.\nThe risks are not only commercial. When a company suffers a data breach, criminals may gain access to millions of passwords and personal records. Hackers frequently exploit a single vulnerability in widely used software, and stolen data can be sold, used to impersonate victims or used to make fraudulent purchases. In the worst cases, criminals use private images to blackmail people.\nThere are, fortunately, simple ways to reduce the danger. Two-factor authentication, which requires a code from a second device in addition to a password, blocks the vast majority of attacks on personal accounts. Messaging apps that encrypt conversations from end to end make it far harder for anyone, including the app company, to read them. And before entering details on a website, it is worth checking that it is legitimate.\nThe question of government surveillance is more controversial. Supporters argue that monitoring online activity helps prevent crime and terrorism; critics fear that it threatens freedom of expression. Most experts agree that, whatever the balance, citizens deserve to know what data is being collected about them and why."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "Be ___ when you meet people online.",
+"o": [
+"careful",
+"carefully",
+"care",
+"caring"
+],
+"en": "After 'be', use an adjective: careful.",
+"th": "หลัง be ใช้คุณศัพท์: careful",
+"x": [
+[
+"'carefully' is an adverb.",
+"carefully เป็นกริยาวิเศษณ์"
+],
+[
+"'care' is a noun or verb.",
+"care เป็นคำนาม/กริยา"
+],
+[
+"'caring' means kind.",
+"caring = เอาใจใส่"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Keep your password ___. Don't tell anyone.",
+"o": [
+"secret",
+"secretary",
+"second",
+"seed"
+],
+"en": "Secret = not known by others.",
+"th": "secret = เป็นความลับ",
+"x": [
+[
+"A secretary is a job.",
+"secretary = เลขานุการ"
+],
+[
+"'second' is a number or time.",
+"second = ที่สอง วินาที"
+],
+[
+"A seed grows into a plant.",
+"seed = เมล็ด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "If someone is unkind to you online, ___ a teacher.",
+"o": [
+"tell",
+"say",
+"speak",
+"talk"
+],
+"en": "Tell + person.",
+"th": "tell + บุคคล",
+"x": [
+[
+"'say' doesn't take a person directly.",
+"say ไม่ตามด้วยบุคคลโดยตรง"
+],
+[
+"'speak' needs 'to'.",
+"speak ต้องมี to"
+],
+[
+"'talk' needs 'to'.",
+"talk ต้องมี to"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Enter the six-number ___ we sent to your phone.",
+"o": [
+"code",
+"coat",
+"cold",
+"coal"
+],
+"en": "A code is a secret number.",
+"th": "code = รหัส",
+"x": [
+[
+"A coat is clothing.",
+"coat = เสื้อโค้ท"
+],
+[
+"'cold' means not warm.",
+"cold = เย็น"
+],
+[
+"Coal is a fuel.",
+"coal = ถ่านหิน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Never meet a ___ from the internet without telling an adult.",
+"o": [
+"stranger",
+"strange",
+"stronger",
+"stranded"
+],
+"en": "A stranger is someone you don't know.",
+"th": "stranger = คนแปลกหน้า",
+"x": [
+[
+"'strange' is an adjective.",
+"strange เป็นคุณศัพท์"
+],
+[
+"'stronger' is a comparative.",
+"stronger = แข็งแรงกว่า"
+],
+[
+"'stranded' means stuck.",
+"stranded = ติดค้าง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My computer is very slow. I think it has a ___.",
+"o": [
+"virus",
+"version",
+"vision",
+"visa"
+],
+"en": "A virus is harmful software.",
+"th": "virus = ไวรัสคอมพิวเตอร์",
+"x": [
+[
+"A version is a form of something.",
+"version = เวอร์ชัน"
+],
+[
+"Vision is sight.",
+"vision = การมองเห็น"
+],
+[
+"A visa is for travel.",
+"visa = วีซ่า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Don't share ___ information like your phone number.",
+"o": [
+"personal",
+"personnel",
+"personality",
+"person"
+],
+"en": "Personal = private, about you.",
+"th": "personal = ส่วนตัว",
+"x": [
+[
+"Personnel are employees.",
+"personnel = บุคลากร"
+],
+[
+"Personality is character.",
+"personality = บุคลิกภาพ"
+],
+[
+"'person' is a noun.",
+"person เป็นคำนาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Someone ___ my account and posted strange messages.",
+"o": [
+"hacked",
+"hacking",
+"hacker",
+"hack"
+],
+"en": "Past Simple: hacked.",
+"th": "Past Simple: hacked",
+"x": [
+[
+"Needs 'was'.",
+"ต้องมี was"
+],
+[
+"'hacker' is a person.",
+"hacker เป็นบุคคล"
+],
+[
+"Present doesn't fit.",
+"ปัจจุบันไม่เข้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Don't open the ___; it might contain malware.",
+"o": [
+"attachment",
+"attendance",
+"atmosphere",
+"attraction"
+],
+"en": "An attachment is a file sent with an email.",
+"th": "attachment = ไฟล์แนบ",
+"x": [
+[
+"Attendance is being present.",
+"attendance = การเข้าร่วม"
+],
+[
+"Atmosphere is air or mood.",
+"atmosphere = บรรยากาศ"
+],
+[
+"An attraction is a place to visit.",
+"attraction = สถานที่ท่องเที่ยว"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The email looked ___, so I deleted it.",
+"o": [
+"suspicious",
+"delicious",
+"superstitious",
+"spacious"
+],
+"en": "Suspicious = possibly dishonest.",
+"th": "suspicious = น่าสงสัย",
+"x": [
+[
+"'delicious' is for food.",
+"delicious = อร่อย"
+],
+[
+"'superstitious' is about luck.",
+"superstitious = เชื่อโชคลาง"
+],
+[
+"'spacious' means big inside.",
+"spacious = กว้างขวาง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Please ___ your phone number by entering the code.",
+"o": [
+"verify",
+"vary",
+"verbal",
+"very"
+],
+"en": "Verify = confirm it's true.",
+"th": "verify = ยืนยัน",
+"x": [
+[
+"'vary' means change.",
+"vary = แตกต่าง"
+],
+[
+"'verbal' is an adjective.",
+"verbal = ด้วยวาจา"
+],
+[
+"'very' is an adverb.",
+"very = มาก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "A ___ email pretends to be from your bank to steal your password.",
+"o": [
+"phishing",
+"fishing",
+"finishing",
+"polishing"
+],
+"en": "Phishing = tricking people into giving information.",
+"th": "phishing = หลอกเอาข้อมูล",
+"x": [
+[
+"Fishing is catching fish (same sound).",
+"fishing = ตกปลา (ออกเสียงเหมือนกัน)"
+],
+[
+"'finishing' means ending.",
+"finishing = เสร็จสิ้น"
+],
+[
+"'polishing' means making shiny.",
+"polishing = ขัดเงา"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The company admitted that a data ___ had exposed customers' details.",
+"o": [
+"breach",
+"breath",
+"bleach",
+"beach"
+],
+"en": "A data breach = data stolen or leaked.",
+"th": "data breach = ข้อมูลรั่วไหล",
+"x": [
+[
+"Breath is air you breathe.",
+"breath = ลมหายใจ"
+],
+[
+"Bleach is a cleaning chemical.",
+"bleach = น้ำยาฟอกขาว"
+],
+[
+"A beach is by the sea.",
+"beach = ชายหาด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Never post photos of other people without their ___.",
+"o": [
+"consent",
+"content",
+"consensus",
+"concern"
+],
+"en": "Consent = permission.",
+"th": "consent = ความยินยอม",
+"x": [
+[
+"Content is material.",
+"content = เนื้อหา"
+],
+[
+"Consensus is general agreement.",
+"consensus = ฉันทามติ"
+],
+[
+"Concern is worry.",
+"concern = ความกังวล"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Scammers sometimes ___ police officers to frighten victims.",
+"o": [
+"impersonate",
+"impress",
+"imprison",
+"implement"
+],
+"en": "Impersonate = pretend to be someone.",
+"th": "impersonate = ปลอมตัวเป็น",
+"x": [
+[
+"'impress' means make people admire you.",
+"impress = ทำให้ประทับใจ"
+],
+[
+"'imprison' means put in prison.",
+"imprison = จำคุก"
+],
+[
+"'implement' means put into action.",
+"implement = ดำเนินการ"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Don't] [tells] [anyone] [your] password.",
+"a": 1,
+"fix": "Don't tell anyone your password.",
+"en": "After 'Don't', use the base verb: tell.",
+"th": "หลัง Don't ใช้ V1: tell",
+"x": [
+[
+"'Don't' is correct.",
+"Don't ถูกต้อง"
+],
+[
+"'anyone' is correct.",
+"anyone ถูกต้อง"
+],
+[
+"'your' is correct.",
+"your ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[What] [is] [you] [name]?",
+"a": 2,
+"fix": "What is your name?",
+"en": "Possessive: your.",
+"th": "แสดงความเป็นเจ้าของ: your",
+"x": [
+[
+"'What' is correct.",
+"What ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'name' is correct.",
+"name ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Some] [informations] [on] [this] website is false.",
+"a": 1,
+"fix": "Some information on the internet is false.",
+"en": "'Information' is uncountable: no -s.",
+"th": "information นับไม่ได้ ไม่เติม s",
+"x": [
+[
+"'Some' is correct.",
+"Some ถูกต้อง"
+],
+[
+"'on' is correct.",
+"on ถูกต้อง"
+],
+[
+"'this' is correct.",
+"this ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[You] [should] [to change] your password [often].",
+"a": 2,
+"fix": "You should change your password often.",
+"en": "'Should' + base verb (no 'to').",
+"th": "should + V1 (ไม่มี to)",
+"x": [
+[
+"'You' is correct.",
+"You ถูกต้อง"
+],
+[
+"'should' is correct.",
+"should ถูกต้อง"
+],
+[
+"'often' is correct.",
+"often ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Did] you [received] [a strange] email [yesterday]?",
+"a": 1,
+"fix": "Did you receive a strange email yesterday?",
+"en": "After 'Did', use the base verb: receive.",
+"th": "หลัง Did ใช้ V1: receive",
+"x": [
+[
+"'Did' is correct.",
+"Did ถูกต้อง"
+],
+[
+"'a strange' is correct.",
+"a strange ถูกต้อง"
+],
+[
+"'yesterday' is correct.",
+"yesterday ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Unless] you [don't] [use] antivirus software, your computer [may] get a virus.",
+"a": 1,
+"fix": "Unless you use antivirus software, your computer may get a virus.",
+"en": "'Unless' = if not; no extra negative.",
+"th": "unless = if not ไม่ต้องใส่ปฏิเสธซ้ำ",
+"x": [
+[
+"'Unless' is correct.",
+"Unless ถูกต้อง"
+],
+[
+"'use' is correct.",
+"use ถูกต้อง"
+],
+[
+"'may' is correct.",
+"may ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[My] account [was hacked] [while] I [am] on holiday.",
+"a": 3,
+"fix": "My account was hacked while I was on holiday.",
+"en": "Past context: was.",
+"th": "บริบทอดีต: was",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'was hacked' is correct.",
+"was hacked ถูกต้อง"
+],
+[
+"'while' is correct.",
+"while ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Avoid] [to click] on links [in] [suspicious] emails.",
+"a": 1,
+"fix": "Avoid clicking on links in suspicious emails.",
+"en": "'Avoid + -ing'.",
+"th": "avoid + V-ing",
+"x": [
+[
+"'Avoid' is correct.",
+"Avoid ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'suspicious' is correct.",
+"suspicious ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Had] I [turned on] two-factor authentication, my account [wouldn't be] [hacked] last week.",
+"a": 2,
+"fix": "Had I turned on two-factor authentication, my account wouldn't have been hacked last week.",
+"en": "Third conditional passive: wouldn't have been hacked.",
+"th": "third conditional passive: wouldn't have been hacked",
+"x": [
+[
+"'Had' is correct inversion.",
+"Had ถูกต้อง"
+],
+[
+"'turned on' is correct.",
+"turned on ถูกต้อง"
+],
+[
+"'hacked' is correct as part of the passive.",
+"hacked ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Whom] sent you this email? I [don't] [recognise] [the] address.",
+"a": 0,
+"fix": "Who sent you this email? I don't recognise the address.",
+"en": "For the subject of a verb, use 'who', not 'whom'.",
+"th": "ประธานของกริยาใช้ who ไม่ใช่ whom",
+"x": [
+[
+"'don't' is correct.",
+"don't ถูกต้อง"
+],
+[
+"'recognise' is correct.",
+"recognise ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can I tell you my password?\nB: ___ Keep it secret.",
+"o": [
+"No, don't!",
+"Yes, please.",
+"What's a password?",
+"Thanks!"
+],
+"en": "'Keep it secret' → don't tell.",
+"th": "Keep it secret แปลว่าอย่าบอก",
+"x": [
+[
+"It contradicts 'keep it secret'.",
+"ขัดกับ keep it secret"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"It contradicts 'keep it secret'.",
+"ขัดกับ keep it secret"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: A stranger sent me a message.\nB: ___",
+"o": [
+"Don't answer. Tell your mum.",
+"Send him your address.",
+"Meet him today.",
+"Great, a new friend!"
+],
+"en": "B gives safe advice.",
+"th": "B ให้คำแนะนำที่ปลอดภัย",
+"x": [
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Unsafe attitude.",
+"ทัศนคติไม่ปลอดภัย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: How old are you?\nB: ___",
+"o": [
+"I'm twelve.",
+"I'm fine.",
+"I'm at home.",
+"I'm a student."
+],
+"en": "'How old' asks for age.",
+"th": "how old ถามอายุ",
+"x": [
+[
+"Health.",
+"สุขภาพ"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Job.",
+"อาชีพ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: A pop-up says I've won a free iPhone!\nB: ___ It's probably a scam.",
+"o": [
+"Don't click on it.",
+"Click it quickly!",
+"Lucky you!",
+"Give them your bank details."
+],
+"en": "B warns A.",
+"th": "B เตือน A",
+"x": [
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"It contradicts 'scam'.",
+"ขัดกับ scam"
+],
+[
+"Dangerous.",
+"อันตราย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Someone is bullying my sister online.\nB: ___",
+"o": [
+"She should take screenshots and tell a teacher.",
+"Tell her to ignore it forever.",
+"Bully them back.",
+"It's not important."
+],
+"en": "B gives sensible advice.",
+"th": "B ให้คำแนะนำที่เหมาะสม",
+"x": [
+[
+"Ignoring forever may not help.",
+"เพิกเฉยตลอดอาจไม่ช่วย"
+],
+[
+"That makes it worse.",
+"ทำให้แย่ลง"
+],
+[
+"Dismissive.",
+"ไม่ใส่ใจ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How often do you change your password?\nB: ___",
+"o": [
+"Every few months.",
+"It's 'abc123'.",
+"On my computer.",
+"Very secret."
+],
+"en": "'How often' asks about frequency.",
+"th": "how often ถามความถี่",
+"x": [
+[
+"Never share it!",
+"อย่าบอกรหัส"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Not frequency.",
+"ไม่ใช่ความถี่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I got an email from my bank asking for my password.\nB: ___ Banks never ask for that.",
+"o": [
+"It's definitely a phishing email.",
+"Send it to them right away.",
+"Your bank is very helpful.",
+"Reply with your PIN too."
+],
+"en": "B identifies the scam.",
+"th": "B ระบุว่าเป็นการหลอกลวง",
+"x": [
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"It contradicts 'never ask'.",
+"ขัดกับ never ask"
+],
+[
+"Dangerous.",
+"อันตราย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: How can I check if this online shop is real?\nB: ___",
+"o": [
+"Look for reviews on other websites and check the contact details.",
+"Just buy something and see.",
+"All online shops are real.",
+"Pay by bank transfer to be safe."
+],
+"en": "B gives practical advice.",
+"th": "B ให้คำแนะนำที่ใช้ได้จริง",
+"x": [
+[
+"Risky.",
+"เสี่ยง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Bank transfers are harder to recover.",
+"โอนเงินเรียกคืนยาก"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I don't care about privacy. I have nothing to hide.\nB: ___ Data can still be misused, even if you've done nothing wrong.",
+"o": [
+"I understand, but that's a bit naive.",
+"You're absolutely right.",
+"Then post your password online.",
+"Privacy doesn't exist."
+],
+"en": "B politely disagrees.",
+"th": "B ไม่เห็นด้วยอย่างสุภาพ",
+"x": [
+[
+"It contradicts B's point.",
+"ขัดกับประเด็นของ B"
+],
+[
+"Sarcastic and unhelpful.",
+"ประชดและไม่ช่วย"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Is government surveillance of the internet justified?\nB: ___ It may prevent some crimes, but it also risks limiting free speech.",
+"o": [
+"It's a difficult balance.",
+"Yes, without question.",
+"No, it's always evil.",
+"The internet isn't real."
+],
+"en": "B gives a balanced view.",
+"th": "B ให้มุมมองที่สมดุล",
+"x": [
+[
+"B mentions risks.",
+"B พูดถึงความเสี่ยง"
+],
+[
+"B mentions benefits.",
+"B พูดถึงประโยชน์"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Who can know your password, according to Rule 1?",
+"o": [
+"Only your parent",
+"Your friends",
+"Your teacher",
+"Everyone"
+],
+"en": "'Only your parent can know it.'",
+"th": "เฉพาะผู้ปกครอง",
+"x": [
+[
+"'Don't tell it to your friends.'",
+"อย่าบอกเพื่อน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Which information should you NOT write online?",
+"o": [
+"Your home address",
+"Your favourite colour",
+"Your school subject",
+"Your pet's food"
+],
+"en": "'Never write… your home address…'",
+"th": "ที่อยู่บ้าน",
+"x": [
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What should you do if a stranger asks to meet you?",
+"o": [
+"Tell an adult immediately",
+"Meet them in a park",
+"Ignore it and tell nobody",
+"Send them a photo"
+],
+"en": "'Tell an adult immediately.'",
+"th": "บอกผู้ใหญ่ทันที",
+"x": [
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"You should tell someone.",
+"ควรบอกผู้ใหญ่"
+],
+[
+"Dangerous.",
+"อันตราย"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What can pop-ups and spam emails do?",
+"o": [
+"Give your computer a virus",
+"Make your computer faster",
+"Help you learn",
+"Win you prizes"
+],
+"en": "'They can give your computer a virus.'",
+"th": "ทำให้คอมพิวเตอร์ติดไวรัส",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What should you do if someone is unkind to you?",
+"o": [
+"Take a screenshot and show a teacher",
+"Be unkind back",
+"Delete your account",
+"Tell nobody"
+],
+"en": "'Take a screenshot and show it to a teacher.'",
+"th": "ถ่ายภาพหน้าจอแล้วให้ครูดู",
+"x": [
+[
+"'Never bully other people.'",
+"อย่ารังแกผู้อื่น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not advised.",
+"ไม่ได้แนะนำ"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is strange about many phishing emails?",
+"o": [
+"The sender's address",
+"The colour",
+"The length",
+"The language"
+],
+"en": "'The address is often strange.'",
+"th": "ที่อยู่อีเมลผู้ส่ง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do scammers send urgent messages?",
+"o": [
+"To make people panic",
+"Because they are busy",
+"To help customers",
+"Because banks require it"
+],
+"en": "'…to make you panic.'",
+"th": "ทำให้คนตื่นตระหนก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What can malware do?",
+"o": [
+"Steal your files or bank details",
+"Protect your computer",
+"Update your apps",
+"Turn on your firewall"
+],
+"en": "'…malware, which can steal your files or your bank details.'",
+"th": "ขโมยไฟล์หรือข้อมูลธนาคาร",
+"x": [
+[
+"That's antivirus.",
+"นั่นคือแอนตี้ไวรัส"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How can you verify whether a message is real?",
+"o": [
+"Call the company directly",
+"Reply to the message",
+"Click the link",
+"Ask the sender"
+],
+"en": "'…verify it by calling the company directly.'",
+"th": "โทรหาบริษัทโดยตรง",
+"x": [
+[
+"Risky.",
+"เสี่ยง"
+],
+[
+"Risky.",
+"เสี่ยง"
+],
+[
+"The sender may be the scammer.",
+"ผู้ส่งอาจเป็นมิจฉาชีพ"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What advice is given about cyberbullying?",
+"o": [
+"Talk to someone you trust.",
+"Ignore it.",
+"Delete the internet.",
+"It isn't harmful."
+],
+"en": "'…talk to someone you trust.'",
+"th": "คุยกับคนที่ไว้ใจ",
+"x": [
+[
+"Not advised.",
+"ไม่ได้แนะนำ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"'This can be very harmful.'",
+"อาจเป็นอันตรายมาก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What can a digital footprint reveal?",
+"o": [
+"Where we live, our friends, what we buy and what we believe",
+"Only our name",
+"Nothing important",
+"Only our passwords"
+],
+"en": "'…where we live, who our friends are, what we buy and even what we believe.'",
+"th": "ที่อยู่ เพื่อน สิ่งที่ซื้อ และความเชื่อ",
+"x": [
+[
+"Too limited.",
+"จำกัดเกินไป"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How is much of our data collected?",
+"o": [
+"Legally, often with our consent in long terms and conditions",
+"Always illegally",
+"Only by hackers",
+"Only by governments"
+],
+"en": "'Much of this information is collected legally, often with our consent.'",
+"th": "อย่างถูกกฎหมาย โดยมักได้รับความยินยอม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which is NOT mentioned as a use of stolen data?",
+"o": [
+"Winning competitions",
+"Impersonating victims",
+"Fraudulent purchases",
+"Blackmail"
+],
+"en": "Winning competitions isn't mentioned.",
+"th": "ไม่ได้กล่าวถึงการชนะการแข่งขัน",
+"x": [
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why is two-factor authentication effective?",
+"o": [
+"It requires a code from a second device as well as a password.",
+"It encrypts all websites.",
+"It deletes your digital footprint.",
+"It stops government surveillance."
+],
+"en": "'…requires a code from a second device in addition to a password.'",
+"th": "ต้องใช้รหัสจากอุปกรณ์ที่สองร่วมกับรหัสผ่าน",
+"x": [
+[
+"That's encryption apps.",
+"นั่นคือแอปเข้ารหัส"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do most experts agree on?",
+"o": [
+"Citizens should know what data is collected and why.",
+"Surveillance should be banned.",
+"Surveillance is always good.",
+"Privacy is not important."
+],
+"en": "'…citizens deserve to know what data is being collected about them and why.'",
+"th": "ประชาชนควรรู้ว่าข้อมูลใดถูกเก็บและเพราะอะไร",
+"x": [
+[
+"Not agreed by all.",
+"ไม่ได้เห็นด้วยทั้งหมด"
+],
+[
+"Not agreed by all.",
+"ไม่ได้เห็นด้วยทั้งหมด"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

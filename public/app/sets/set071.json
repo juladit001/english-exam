@@ -1,0 +1,1627 @@
+{
+"id": 71,
+"theme": "Fitness and exercise",
+"v": [
+[
+"strong",
+"adjective",
+"A1",
+"แข็งแรง",
+"Exercise makes you *strong*."
+],
+[
+"weak",
+"adjective",
+"A1",
+"อ่อนแอ",
+"I felt *weak* after being ill."
+],
+[
+"sweat",
+"verb/noun",
+"A1",
+"เหงื่อออก, เหงื่อ",
+"I *sweat* a lot when I run."
+],
+[
+"breath",
+"noun",
+"A1",
+"ลมหายใจ",
+"Take a deep *breath*."
+],
+[
+"cycling",
+"noun",
+"A1",
+"การปั่นจักรยาน",
+"*Cycling* is good for your legs."
+],
+[
+"fitness",
+"noun",
+"A1",
+"ความฟิต, สมรรถภาพทางกาย",
+"Swimming improves your *fitness*."
+],
+[
+"fat",
+"noun/adjective",
+"A1",
+"ไขมัน, อ้วน",
+"Exercise helps you burn *fat*."
+],
+[
+"push-up",
+"noun",
+"A1",
+"วิดพื้น",
+"I can do 30 *push-ups*."
+],
+[
+"sit-up",
+"noun",
+"A2",
+"ซิทอัพ",
+"Do 20 *sit-ups* every morning."
+],
+[
+"squat",
+"noun/verb",
+"A2",
+"สควอท",
+"*Squats* make your legs strong."
+],
+[
+"weights",
+"noun",
+"A2",
+"ลูกน้ำหนัก",
+"He lifts *weights* at the gym."
+],
+[
+"treadmill",
+"noun",
+"A2",
+"ลู่วิ่งไฟฟ้า",
+"I run on the *treadmill* when it rains."
+],
+[
+"workout",
+"noun",
+"A2",
+"การออกกำลังกาย (ชุดหนึ่ง)",
+"My *workout* takes 45 minutes."
+],
+[
+"warm-up",
+"noun",
+"A2",
+"การวอร์มอัพ",
+"Always do a *warm-up* first."
+],
+[
+"cool-down",
+"noun",
+"A2",
+"การคูลดาวน์",
+"Finish with a five-minute *cool-down*."
+],
+[
+"rest day",
+"noun",
+"A2",
+"วันพัก",
+"Sunday is my *rest day*."
+],
+[
+"ache",
+"verb/noun",
+"A2",
+"ปวด",
+"My legs *ache* after running."
+],
+[
+"pace",
+"noun",
+"A2",
+"ความเร็ว, จังหวะ",
+"Run at a steady *pace*."
+],
+[
+"personal trainer",
+"noun",
+"B1",
+"เทรนเนอร์ส่วนตัว",
+"My *personal trainer* plans my workouts."
+],
+[
+"gym membership",
+"noun",
+"B1",
+"สมาชิกฟิตเนส",
+"A *gym membership* costs 1,500 baht a month."
+],
+[
+"cardio",
+"noun",
+"B1",
+"คาร์ดิโอ (ออกกำลังกายแบบแอโรบิก)",
+"Running is good *cardio*."
+],
+[
+"flexibility",
+"noun",
+"B1",
+"ความยืดหยุ่น",
+"Yoga improves *flexibility*."
+],
+[
+"rep",
+"noun",
+"B1",
+"ครั้ง (ในการยกน้ำหนัก)",
+"Do three sets of ten *reps*."
+],
+[
+"supplement",
+"noun",
+"B1",
+"อาหารเสริม",
+"Do you take any *supplements*?"
+],
+[
+"recovery",
+"noun",
+"B1",
+"การฟื้นตัว",
+"Sleep is important for *recovery*."
+],
+[
+"progress",
+"noun",
+"B1",
+"ความก้าวหน้า",
+"I've made good *progress* this month."
+],
+[
+"motivation",
+"noun",
+"B1",
+"แรงจูงใจ",
+"Music gives me *motivation*."
+],
+[
+"heart rate",
+"noun",
+"B1",
+"อัตราการเต้นของหัวใจ",
+"My *heart rate* was 160 during the run."
+],
+[
+"step count",
+"noun",
+"B1",
+"จำนวนก้าว",
+"My *step count* today is 12,000."
+],
+[
+"intensity",
+"noun",
+"B2",
+"ความเข้มข้น, ความหนัก",
+"Increase the *intensity* slowly."
+],
+[
+"interval training",
+"noun",
+"B2",
+"การฝึกแบบอินเทอร์วัล (สลับหนักเบา)",
+"*Interval training* burns a lot of calories."
+],
+[
+"protein shake",
+"noun",
+"B2",
+"เวย์โปรตีน, เครื่องดื่มโปรตีน",
+"He drinks a *protein shake* after the gym."
+],
+[
+"consistency",
+"noun",
+"B2",
+"ความสม่ำเสมอ",
+"*Consistency* is more important than intensity."
+],
+[
+"body weight",
+"noun",
+"B2",
+"น้ำหนักตัว",
+"*Body weight* exercises need no equipment."
+],
+[
+"toned",
+"adjective",
+"B2",
+"(กล้ามเนื้อ) กระชับ, ได้รูป",
+"She has *toned* arms."
+],
+[
+"six-pack",
+"noun",
+"B2",
+"ซิกซ์แพ็ก",
+"He's training to get a *six-pack*."
+],
+[
+"fitness tracker",
+"noun",
+"B2",
+"สายรัดข้อมือติดตามสุขภาพ",
+"My *fitness tracker* counts my steps."
+],
+[
+"overtraining",
+"noun",
+"B2",
+"การฝึกหนักเกินไป",
+"*Overtraining* can cause injuries."
+],
+[
+"dehydration",
+"noun",
+"B2",
+"ภาวะขาดน้ำ",
+"Drink water to avoid *dehydration*."
+],
+[
+"pilates",
+"noun",
+"B2",
+"พิลาทิส",
+"*Pilates* strengthens your core."
+]
+],
+"p": [
+{
+"t": "My Fitness Journey",
+"x": "A year ago, I felt weak and tired all the time. I couldn't run for five minutes without losing my breath. So I decided to improve my fitness.\nFirst, I started cycling to work. It was hard at first, and I sweated a lot! Then I joined a free exercise class in the park. We did push-ups, jumping and running.\nNow I feel strong and healthy. I've lost some fat, and I have more energy. My friends say I look happier too. The most important thing I learned is that small steps every day make a big difference."
+},
+{
+"t": "A Beginner's Guide to the Gym",
+"x": "Going to the gym for the first time can be scary. Here are some tips.\nStart with a warm-up. Five to ten minutes on the treadmill or a bike prepares your body for exercise. Walk or jog at a comfortable pace.\nNext, try some simple exercises. Squats, sit-ups and push-ups use your own body. When you feel ready, you can start lifting light weights. Don't try heavy weights too soon!\nAt the end of your workout, do a cool-down and some gentle stretching. This helps your muscles relax.\nIt's normal for your muscles to ache the next day. That's why you need a rest day between hard workouts. Recovery is when your body becomes stronger.\nIf you're not sure what to do, a personal trainer can help. Many gyms include a free session with a gym membership. Mix cardio, like running, with exercises for strength and flexibility. Do each exercise for about ten reps. Track your progress, like your heart rate or daily step count, and keep your motivation high by setting small goals. You don't need expensive supplements; good food is enough."
+},
+{
+"t": "The Science of Getting Fit",
+"x": "The fitness industry is full of promises: get a six-pack in 30 days, burn fat fast, transform your body with one simple trick. Scientists, however, say that real fitness is less about dramatic changes and more about consistency.\nResearch shows that the intensity of exercise matters, but only up to a point. Interval training, which alternates short bursts of hard effort with periods of rest, can improve fitness efficiently, especially for busy people. Yet pushing too hard, too often, can lead to overtraining, a state of exhaustion that increases the risk of injury and illness. The body needs time to recover and rebuild.\nNutrition is equally important. Many gym-goers rely on protein shakes and other products, but most people can get enough protein from a balanced diet. Water is often overlooked: even mild dehydration can reduce performance.\nTechnology has made it easier to monitor progress. A fitness tracker can record steps, sleep and heart rate, providing motivation for many users. However, some experts warn that focusing too much on numbers can make exercise feel like a chore. Activities such as pilates, dancing or body weight training at home may be less measurable, but they can be just as effective.\nFinally, appearance is not the best measure of health. A toned body may look impressive, but fitness also means having the strength and energy to enjoy daily life. As one researcher put it, the best exercise is the one you will actually keep doing."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "After running up the stairs, I was out of ___.",
+"o": [
+"breath",
+"breathe",
+"bread",
+"breadth"
+],
+"en": "Out of breath = breathing hard.",
+"th": "out of breath = หายใจหอบ",
+"x": [
+[
+"'breathe' is the verb.",
+"breathe เป็นกริยา"
+],
+[
+"Bread is food.",
+"bread = ขนมปัง"
+],
+[
+"Breadth is width.",
+"breadth = ความกว้าง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I go ___ to work every day; it's good exercise.",
+"o": [
+"cycling",
+"cyclone",
+"cycle lane",
+"circling"
+],
+"en": "Go cycling = ride a bike.",
+"th": "go cycling = ปั่นจักรยาน",
+"x": [
+[
+"A cyclone is a storm.",
+"cyclone = พายุไซโคลน"
+],
+[
+"A cycle lane is a road area.",
+"cycle lane = ช่องทางจักรยาน"
+],
+[
+"'circling' means moving in a circle.",
+"circling = วนรอบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "When it's hot, I ___ a lot during exercise.",
+"o": [
+"sweat",
+"sweet",
+"swear",
+"sweep"
+],
+"en": "Sweat = produce water on skin.",
+"th": "sweat = เหงื่อออก",
+"x": [
+[
+"'sweet' tastes of sugar.",
+"sweet = หวาน"
+],
+[
+"'swear' means use bad words or promise.",
+"swear = สาบาน สบถ"
+],
+[
+"'sweep' means clean with a brush.",
+"sweep = กวาด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "After being ill for a week, I felt very ___.",
+"o": [
+"weak",
+"week",
+"wake",
+"wick"
+],
+"en": "Weak = not strong.",
+"th": "weak = อ่อนแอ",
+"x": [
+[
+"A week is seven days (same sound).",
+"week = สัปดาห์"
+],
+[
+"'wake' means stop sleeping.",
+"wake = ตื่น"
+],
+[
+"A wick is in a candle.",
+"wick = ไส้เทียน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Always do a ___ before you start running.",
+"o": [
+"warm-up",
+"warm welcome",
+"warning",
+"warmth"
+],
+"en": "A warm-up prepares your body.",
+"th": "warm-up = การวอร์มอัพ",
+"x": [
+[
+"A warm welcome is a friendly greeting.",
+"warm welcome = การต้อนรับอบอุ่น"
+],
+[
+"A warning is a caution.",
+"warning = คำเตือน"
+],
+[
+"Warmth is heat.",
+"warmth = ความอบอุ่น"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "When it rains, I run on the ___ at the gym.",
+"o": [
+"treadmill",
+"windmill",
+"treasure",
+"tread"
+],
+"en": "A treadmill is a running machine.",
+"th": "treadmill = ลู่วิ่ง",
+"x": [
+[
+"A windmill uses wind.",
+"windmill = กังหันลม"
+],
+[
+"Treasure is valuable things.",
+"treasure = สมบัติ"
+],
+[
+"A tread is a step or tyre pattern.",
+"tread = ดอกยาง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My legs ___ after yesterday's long run.",
+"o": [
+"ache",
+"acre",
+"act",
+"ace"
+],
+"en": "Ache = hurt continuously.",
+"th": "ache = ปวด",
+"x": [
+[
+"An acre is land size.",
+"acre = เอเคอร์"
+],
+[
+"'act' means perform.",
+"act = แสดง"
+],
+[
+"An ace is a card or expert.",
+"ace = ไพ่เอซ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Run at a slow, steady ___ if you're a beginner.",
+"o": [
+"pace",
+"peace",
+"piece",
+"pass"
+],
+"en": "Pace = speed.",
+"th": "pace = ความเร็ว",
+"x": [
+[
+"Peace is calm.",
+"peace = สันติภาพ"
+],
+[
+"A piece is a part.",
+"piece = ชิ้น"
+],
+[
+"'pass' means go past.",
+"pass = ผ่าน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Yoga is great for improving ___; I can touch my toes now!",
+"o": [
+"flexibility",
+"flexible",
+"reflexivity",
+"flex"
+],
+"en": "Flexibility (noun) = ability to bend.",
+"th": "flexibility = ความยืดหยุ่น",
+"x": [
+[
+"'flexible' is an adjective.",
+"flexible เป็นคุณศัพท์"
+],
+[
+"Not the right word.",
+"ไม่ใช่คำที่ถูก"
+],
+[
+"'flex' is a verb.",
+"flex เป็นกริยา"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Do three sets of twelve ___ for each exercise.",
+"o": [
+"reps",
+"rips",
+"raps",
+"repos"
+],
+"en": "Reps are repetitions.",
+"th": "rep = ครั้ง",
+"x": [
+[
+"Rips are tears.",
+"rip = รอยขาด"
+],
+[
+"Raps are music or knocks.",
+"rap = แร็ป"
+],
+[
+"Not the right word.",
+"ไม่ใช่คำที่ถูก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Good sleep is essential for muscle ___.",
+"o": [
+"recovery",
+"recover",
+"discovery",
+"delivery"
+],
+"en": "Recovery (noun) = getting better.",
+"th": "recovery = การฟื้นตัว",
+"x": [
+[
+"'recover' is a verb.",
+"recover เป็นกริยา"
+],
+[
+"A discovery is finding something.",
+"discovery = การค้นพบ"
+],
+[
+"A delivery is bringing goods.",
+"delivery = การส่งของ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Listening to music gives me the ___ to keep running.",
+"o": [
+"motivation",
+"motive",
+"motor",
+"motion"
+],
+"en": "Motivation = reason and energy to act.",
+"th": "motivation = แรงจูงใจ",
+"x": [
+[
+"A motive is a reason for a crime or action.",
+"motive = แรงจูงใจ (คดี)"
+],
+[
+"A motor is an engine.",
+"motor = มอเตอร์"
+],
+[
+"Motion is movement.",
+"motion = การเคลื่อนไหว"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Training too hard without rest can lead to ___.",
+"o": [
+"overtraining",
+"overtaking",
+"overthinking",
+"overdrawing"
+],
+"en": "Overtraining = training too much.",
+"th": "overtraining = ฝึกหนักเกินไป",
+"x": [
+[
+"Overtaking is passing cars.",
+"overtaking = การแซง"
+],
+[
+"Overthinking is thinking too much.",
+"overthinking = คิดมาก"
+],
+[
+"Overdrawing is spending more than you have.",
+"overdrawing = การเบิกเกินบัญชี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Drink enough water to avoid ___ during long runs.",
+"o": [
+"dehydration",
+"decoration",
+"dedication",
+"delegation"
+],
+"en": "Dehydration = lack of water in the body.",
+"th": "dehydration = ภาวะขาดน้ำ",
+"x": [
+[
+"Decoration is making things pretty.",
+"decoration = การตกแต่ง"
+],
+[
+"Dedication is commitment.",
+"dedication = ความทุ่มเท"
+],
+[
+"A delegation is a group of representatives.",
+"delegation = คณะผู้แทน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Experts say ___ matters more than intensity: exercise a little every day.",
+"o": [
+"consistency",
+"constituency",
+"consultancy",
+"conspiracy"
+],
+"en": "Consistency = doing it regularly.",
+"th": "consistency = ความสม่ำเสมอ",
+"x": [
+[
+"A constituency is a voting area.",
+"constituency = เขตเลือกตั้ง"
+],
+[
+"A consultancy is an advice business.",
+"consultancy = บริษัทที่ปรึกษา"
+],
+[
+"A conspiracy is a secret plan.",
+"conspiracy = การสมคบคิด"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Does] you [go] [to] [the] gym?",
+"a": 0,
+"fix": "Do you go to the gym?",
+"en": "'You' uses 'Do'.",
+"th": "you ใช้ Do",
+"x": [
+[
+"'go' is correct.",
+"go ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[I] [can] [do] [twenty push-up].",
+"a": 3,
+"fix": "I can do twenty push-ups.",
+"en": "Plural after 'twenty': push-ups.",
+"th": "หลัง twenty ใช้พหูพจน์: push-ups",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'can' is correct.",
+"can ถูกต้อง"
+],
+[
+"'do' is correct.",
+"do ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Go] cycling [is] [good] [for] your legs.",
+"a": 0,
+"fix": "Going cycling is good for your legs.",
+"en": "An activity as subject: Going.",
+"th": "กิจกรรมเป็นประธาน: Going",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'good' is correct.",
+"good ถูกต้อง"
+],
+[
+"'for' is correct.",
+"for ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[She] [goes] [to] the gym [three time] a week.",
+"a": 3,
+"fix": "She goes to the gym three times a week.",
+"en": "Plural: three times.",
+"th": "พหูพจน์: three times",
+"x": [
+[
+"'She' is correct.",
+"She ถูกต้อง"
+],
+[
+"'goes' is correct.",
+"goes ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[My] legs [ache] [because] I [run] 10 km yesterday.",
+"a": 3,
+"fix": "My legs ache because I ran 10 km yesterday.",
+"en": "'Yesterday' needs past: ran.",
+"th": "yesterday ต้องใช้อดีต: ran",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'ache' is correct (present feeling).",
+"ache ถูกต้อง"
+],
+[
+"'because' is correct.",
+"because ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Much] people [quit] [the] gym [after] a month.",
+"a": 0,
+"fix": "Many people quit the gym after a month.",
+"en": "Countable 'people': many.",
+"th": "people นับได้: many",
+"x": [
+[
+"'quit' is correct.",
+"quit ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'after' is correct.",
+"after ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[It] took [me] [six months] [seeing] real progress.",
+"a": 3,
+"fix": "It took me six months to see real progress.",
+"en": "'It takes + time + to do'.",
+"th": "It takes + เวลา + to do",
+"x": [
+[
+"'It' is correct.",
+"It ถูกต้อง"
+],
+[
+"'me' is correct.",
+"me ถูกต้อง"
+],
+[
+"'six months' is correct.",
+"six months ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[My] personal trainer [make] [me] [do] 50 squats.",
+"a": 1,
+"fix": "My personal trainer makes me do 50 squats.",
+"en": "Singular subject: makes.",
+"th": "ประธานเอกพจน์: makes",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'me' is correct.",
+"me ถูกต้อง"
+],
+[
+"'do' is correct after 'make me'.",
+"do ถูกต้องหลัง make me"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Hardly I had] [started] the workout [when] I [felt] dizzy.",
+"a": 0,
+"fix": "Hardly had I started the workout when I felt dizzy.",
+"en": "After 'Hardly' at the start, invert: had I.",
+"th": "ขึ้นต้น Hardly ต้องสลับ: had I",
+"x": [
+[
+"'started' is correct.",
+"started ถูกต้อง"
+],
+[
+"'when' is correct with 'hardly'.",
+"when ใช้คู่ hardly ถูกต้อง"
+],
+[
+"'felt' is correct.",
+"felt ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[The] key to fitness [is] consistency, [not] [intensely].",
+"a": 3,
+"fix": "The key to fitness is consistency, not intensity.",
+"en": "Parallel nouns: consistency… intensity.",
+"th": "คำนามคู่ขนาน: consistency... intensity",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'not' is correct.",
+"not ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: How often do you do some kind of exercise?\nB: ___",
+"o": [
+"Four times a week.",
+"In the park.",
+"With my friend.",
+"For fun."
+],
+"en": "'How often' asks about frequency.",
+"th": "how often ถามความถี่",
+"x": [
+[
+"Place.",
+"สถานที่"
+],
+[
+"Person.",
+"บุคคล"
+],
+[
+"Reason.",
+"เหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Are you tired?\nB: ___ I just ran 5 km!",
+"o": [
+"Yes, very!",
+"No, not at all.",
+"I'm a runner.",
+"5 km is far."
+],
+"en": "Running 5 km → tired.",
+"th": "วิ่ง 5 กม. จึงเหนื่อย",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Let's go cycling!\nB: ___ I'll get my bike.",
+"o": [
+"Good idea!",
+"No way.",
+"I'm a bike.",
+"Cycling is a word."
+],
+"en": "Getting the bike → agrees.",
+"th": "ไปเอาจักรยาน จึงตกลง",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: My legs really ache today.\nB: ___",
+"o": [
+"Maybe you should take a rest day.",
+"Run another 20 km!",
+"That's good news.",
+"Legs don't ache."
+],
+"en": "B gives sensible advice.",
+"th": "B ให้คำแนะนำที่เหมาะสม",
+"x": [
+[
+"Could cause injury.",
+"อาจบาดเจ็บ"
+],
+[
+"Wrong reaction.",
+"ปฏิกิริยาผิด"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How long is your workout?\nB: ___",
+"o": [
+"About 45 minutes.",
+"Three times a week.",
+"At the gym.",
+"Very hard."
+],
+"en": "'How long' asks for duration.",
+"th": "how long ถามระยะเวลา",
+"x": [
+[
+"Frequency.",
+"ความถี่"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Description.",
+"คำบรรยาย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Do you do a warm-up before running?\nB: ___ It helps me avoid injuries.",
+"o": [
+"Always.",
+"Never.",
+"Running is warm.",
+"I'm cold."
+],
+"en": "Avoiding injuries → always.",
+"th": "ช่วยป้องกันการบาดเจ็บ จึงทำเสมอ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I've lost my motivation to exercise.\nB: ___",
+"o": [
+"Try exercising with a friend or setting a small goal.",
+"Just stop forever.",
+"Buy more supplements.",
+"Motivation isn't important."
+],
+"en": "B gives practical advice.",
+"th": "B ให้คำแนะนำที่ใช้ได้จริง",
+"x": [
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Not the solution.",
+"ไม่ใช่ทางแก้"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Is a gym membership worth the money?\nB: ___ If you actually go regularly, it is.",
+"o": [
+"It depends.",
+"Never.",
+"Always, even if you don't go.",
+"Gyms are free."
+],
+"en": "B says it depends.",
+"th": "B บอกว่าขึ้นอยู่กับ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I train hard every day without rest. That's the fastest way to get fit, right?\nB: ___ Your body needs time to recover.",
+"o": [
+"Not really; you risk overtraining.",
+"Exactly, rest is for the weak.",
+"Train twice as hard.",
+"Fitness doesn't need training."
+],
+"en": "B warns about overtraining.",
+"th": "B เตือนเรื่องการฝึกหนักเกินไป",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do I need protein shakes to build muscle?\nB: ___ Most people get enough protein from a balanced diet.",
+"o": [
+"Not necessarily.",
+"Yes, ten a day.",
+"Protein is unhealthy.",
+"Muscles don't need protein."
+],
+"en": "B says they're not essential.",
+"th": "B บอกว่าไม่จำเป็น",
+"x": [
+[
+"Extreme.",
+"สุดโต่ง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How did the writer feel a year ago?",
+"o": [
+"Weak and tired",
+"Strong and healthy",
+"Happy",
+"Very fit"
+],
+"en": "'A year ago, I felt weak and tired all the time.'",
+"th": "อ่อนแอและเหนื่อย",
+"x": [
+[
+"That's now.",
+"นั่นคือตอนนี้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the writer start doing first?",
+"o": [
+"Cycling to work",
+"Going to the gym",
+"Swimming",
+"Doing yoga"
+],
+"en": "'First, I started cycling to work.'",
+"th": "ปั่นจักรยานไปทำงาน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where was the exercise class?",
+"o": [
+"In the park",
+"At a gym",
+"At school",
+"At home"
+],
+"en": "'…a free exercise class in the park.'",
+"th": "ในสวนสาธารณะ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What do the writer's friends say?",
+"o": [
+"The writer looks happier.",
+"The writer is too thin.",
+"The writer should stop.",
+"The writer is tired."
+],
+"en": "'My friends say I look happier too.'",
+"th": "ดูมีความสุขขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What is the most important thing the writer learned?",
+"o": [
+"Small steps every day make a big difference.",
+"Exercise is boring.",
+"Cycling is dangerous.",
+"Gyms are expensive."
+],
+"en": "'…small steps every day make a big difference.'",
+"th": "ก้าวเล็กๆ ทุกวันสร้างความแตกต่างใหญ่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What should you do at the start of a gym session?",
+"o": [
+"A warm-up on the treadmill or bike",
+"Lift heavy weights",
+"Take a protein shake",
+"A cool-down"
+],
+"en": "'Start with a warm-up.'",
+"th": "วอร์มอัพบนลู่วิ่งหรือจักรยาน",
+"x": [
+[
+"Not too soon!",
+"อย่าเพิ่งรีบ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That's at the end.",
+"นั่นคือตอนจบ"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do you need a rest day?",
+"o": [
+"Your muscles need time to recover.",
+"Gyms are closed.",
+"To eat more.",
+"Because exercise is bad."
+],
+"en": "'…you need a rest day… Recovery is when your body becomes stronger.'",
+"th": "กล้ามเนื้อต้องฟื้นตัว",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do many gyms include with a membership?",
+"o": [
+"A free session with a personal trainer",
+"Free supplements",
+"A free treadmill",
+"Free weights to take home"
+],
+"en": "'Many gyms include a free session with a gym membership.'",
+"th": "เซสชันฟรีกับเทรนเนอร์",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How can you keep your motivation high?",
+"o": [
+"By setting small goals",
+"By training every day without rest",
+"By buying supplements",
+"By lifting heavy weights"
+],
+"en": "'…keep your motivation high by setting small goals.'",
+"th": "ตั้งเป้าหมายเล็กๆ",
+"x": [
+[
+"Not advised.",
+"ไม่ได้แนะนำ"
+],
+[
+"Not needed.",
+"ไม่จำเป็น"
+],
+[
+"Not advised.",
+"ไม่ได้แนะนำ"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does the writer say about supplements?",
+"o": [
+"You don't need them; good food is enough.",
+"Everyone needs them.",
+"They are dangerous.",
+"They replace exercise."
+],
+"en": "'You don't need expensive supplements; good food is enough.'",
+"th": "ไม่จำเป็น อาหารดีเพียงพอ",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "According to scientists, what is real fitness about?",
+"o": [
+"Consistency",
+"Dramatic changes",
+"Getting a six-pack quickly",
+"Expensive equipment"
+],
+"en": "'…real fitness is less about dramatic changes and more about consistency.'",
+"th": "ความสม่ำเสมอ",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"That's a marketing promise.",
+"นั่นคือคำโฆษณา"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is interval training?",
+"o": [
+"Alternating short bursts of hard effort with rest",
+"Running slowly for hours",
+"Lifting weights only",
+"Training once a month"
+],
+"en": "'…alternates short bursts of hard effort with periods of rest.'",
+"th": "สลับช่วงออกแรงหนักกับช่วงพัก",
+"x": [
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is said about dehydration?",
+"o": [
+"Even mild dehydration can reduce performance.",
+"It improves fitness.",
+"It only affects old people.",
+"It is caused by protein shakes."
+],
+"en": "'…even mild dehydration can reduce performance.'",
+"th": "แม้ขาดน้ำเล็กน้อยก็ลดประสิทธิภาพได้",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What concern do some experts have about fitness trackers?",
+"o": [
+"Focusing on numbers can make exercise feel like a chore.",
+"They are inaccurate.",
+"They cause injuries.",
+"They are too cheap."
+],
+"en": "'…focusing too much on numbers can make exercise feel like a chore.'",
+"th": "การจดจ่อกับตัวเลขทำให้การออกกำลังกายเหมือนงานบ้าน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the researcher's quote suggest?",
+"o": [
+"The best exercise is one you will keep doing.",
+"Only gym exercise counts.",
+"Appearance is everything.",
+"Pilates is the best exercise."
+],
+"en": "'…the best exercise is the one you will actually keep doing.'",
+"th": "การออกกำลังกายที่ดีที่สุดคือที่ทำได้ต่อเนื่อง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The writer disagrees.",
+"ผู้เขียนไม่เห็นด้วย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

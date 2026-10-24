@@ -1,0 +1,1627 @@
+{
+"id": 74,
+"theme": "Teenage life",
+"v": [
+[
+"teenager",
+"noun",
+"A1",
+"วัยรุ่น",
+"My brother is a *teenager*; he's fifteen."
+],
+[
+"school",
+"noun",
+"A1",
+"โรงเรียน",
+"I walk to *school* every day."
+],
+[
+"cool",
+"adjective",
+"A1",
+"เท่, เจ๋ง",
+"Your new jacket is really *cool*."
+],
+[
+"text",
+"verb/noun",
+"A1",
+"ส่งข้อความ, ข้อความ",
+"*Text* me when you get home."
+],
+[
+"mall",
+"noun",
+"A1",
+"ห้างสรรพสินค้า",
+"We meet at the *mall* on Saturdays."
+],
+[
+"rules",
+"noun",
+"A1",
+"กฎ",
+"My parents have strict *rules*."
+],
+[
+"sneakers",
+"noun",
+"A1",
+"รองเท้าผ้าใบ",
+"I want new white *sneakers*."
+],
+[
+"gaming",
+"noun",
+"A1",
+"การเล่นเกม",
+"*Gaming* is his favourite hobby."
+],
+[
+"hang out",
+"phrasal verb",
+"A2",
+"ไปเที่ยวเล่น, ใช้เวลาด้วยกัน",
+"We *hang out* at the park after school."
+],
+[
+"curfew",
+"noun",
+"A2",
+"เวลาที่ต้องกลับบ้าน",
+"My *curfew* is 9 p.m."
+],
+[
+"grounded",
+"adjective",
+"A2",
+"ถูกทำโทษห้ามออกไปไหน",
+"I was *grounded* for a week."
+],
+[
+"part-time job",
+"noun",
+"A2",
+"งานพาร์ทไทม์",
+"She has a *part-time job* in a café."
+],
+[
+"allowance",
+"noun",
+"A2",
+"เงินค่าขนม (รายสัปดาห์/เดือน)",
+"My weekly *allowance* is 300 baht."
+],
+[
+"social media",
+"noun",
+"A2",
+"โซเชียลมีเดีย",
+"Teenagers spend hours on *social media*."
+],
+[
+"screen time",
+"noun",
+"A2",
+"เวลาหน้าจอ",
+"My parents limit my *screen time*."
+],
+[
+"slang",
+"noun",
+"A2",
+"คำสแลง",
+"Teenagers use a lot of *slang*."
+],
+[
+"embarrassing",
+"adjective",
+"A2",
+"น่าอาย",
+"My dad's dancing is so *embarrassing*!"
+],
+[
+"braces",
+"noun",
+"A2",
+"เหล็กดัดฟัน",
+"I had *braces* when I was thirteen."
+],
+[
+"rebellious",
+"adjective",
+"B1",
+"ดื้อ, ขัดขืน",
+"He was very *rebellious* as a teenager."
+],
+[
+"identity",
+"noun",
+"B1",
+"ตัวตน",
+"Teenagers try to find their *identity*."
+],
+[
+"fit in",
+"phrasal verb",
+"B1",
+"เข้ากับคนอื่นได้",
+"It's hard to *fit in* at a new school."
+],
+[
+"stand out",
+"phrasal verb",
+"B1",
+"โดดเด่น",
+"She wants to *stand out* from the crowd."
+],
+[
+"first love",
+"noun",
+"B1",
+"รักแรก",
+"She never forgot her *first love*."
+],
+[
+"mood swings",
+"noun",
+"B1",
+"อารมณ์แปรปรวน",
+"Teenagers often have *mood swings*."
+],
+[
+"self-conscious",
+"adjective",
+"B1",
+"ประหม่า, กังวลว่าคนอื่นมอง",
+"I felt *self-conscious* about my height."
+],
+[
+"acne",
+"noun",
+"B1",
+"สิว",
+"Many teenagers suffer from *acne*."
+],
+[
+"exam stress",
+"noun",
+"B1",
+"ความเครียดจากการสอบ",
+"*Exam stress* affects many students."
+],
+[
+"gap year",
+"noun",
+"B1",
+"ปีที่พักก่อนเข้ามหาวิทยาลัย",
+"She took a *gap year* to travel."
+],
+[
+"awkward",
+"adjective",
+"B1",
+"อึดอัด, เก้อเขิน",
+"The first date was very *awkward*."
+],
+[
+"puberty",
+"noun",
+"B2",
+"วัยเจริญพันธุ์",
+"*Puberty* brings many physical changes."
+],
+[
+"hormones",
+"noun",
+"B2",
+"ฮอร์โมน",
+"*Hormones* affect teenagers' moods."
+],
+[
+"body image",
+"noun",
+"B2",
+"ภาพลักษณ์ร่างกาย (ในมุมมองตัวเอง)",
+"Social media can harm *body image*."
+],
+[
+"mature",
+"adjective",
+"B2",
+"เป็นผู้ใหญ่",
+"She's very *mature* for her age."
+],
+[
+"immature",
+"adjective",
+"B2",
+"ไม่เป็นผู้ใหญ่, ยังเด็ก",
+"Don't be so *immature*!"
+],
+[
+"adolescent",
+"noun/adjective",
+"B2",
+"วัยรุ่น (ทางการ)",
+"*Adolescents* need plenty of sleep."
+],
+[
+"generation gap",
+"noun",
+"B2",
+"ช่องว่างระหว่างวัย",
+"There's a big *generation gap* in my family."
+],
+[
+"influence",
+"noun/verb",
+"B2",
+"อิทธิพล, มีอิทธิพล",
+"Friends have a strong *influence* on teenagers."
+],
+[
+"risk-taking",
+"noun",
+"B2",
+"การเสี่ยง",
+"*Risk-taking* is common in adolescence."
+],
+[
+"coming of age",
+"noun",
+"B2",
+"การเติบโตเป็นผู้ใหญ่",
+"It's a *coming of age* film about friendship."
+],
+[
+"autonomy",
+"noun",
+"B2",
+"ความเป็นอิสระในการตัดสินใจ",
+"Teenagers want more *autonomy*."
+]
+],
+"p": [
+{
+"t": "A Day in My Life",
+"x": "I'm Nat, and I'm a teenager. I'm fifteen years old. On weekdays, I go to school from 8 a.m. to 4 p.m. My favourite subject is art.\nAfter school, I text my friends and we meet at the mall. We like looking at clothes and cool sneakers, but we don't have much money! In the evening, I do my homework. Then, if I have time, I play games online. Gaming is my favourite hobby.\nMy parents have some rules. I can't use my phone at dinner, and I must be in bed by 10:30. Sometimes I think the rules are too strict, but I know my parents care about me."
+},
+{
+"t": "Growing Up in the Digital Age",
+"x": "Being a teenager today is very different from twenty years ago. Most teenagers spend hours on social media every day. They share photos, chat with friends and follow celebrities. Many parents worry about screen time and set limits.\nTeenagers also want more freedom. They want to hang out with friends at the weekend and stay out late, but many parents set a curfew. If teenagers break the rules, they might get grounded and not be allowed to go out.\nSome older teenagers get a part-time job in a café or shop to earn extra money, while younger ones usually receive an allowance from their parents. Teenagers also have their own language: slang words that their parents often don't understand!\nAdolescence can be a difficult time. Many teenagers feel self-conscious about their appearance, especially if they have acne or braces. They experience mood swings and may become rebellious. Exam stress is also a big problem, especially before university entrance exams. Some students choose to take a gap year before university to travel or work.\nMost of all, teenagers are trying to discover their identity. They want to fit in with their friends but also stand out as individuals. Everything from their first love to an embarrassing moment in class can feel enormously important, and even ordinary conversations can feel awkward."
+},
+{
+"t": "The Teenage Brain",
+"x": "For a long time, adults explained teenage behaviour simply as the effect of hormones. Recent research in neuroscience, however, has revealed a more complex picture. During puberty and the years that follow, the brain undergoes major reorganisation, and this process continues until the mid-twenties.\nThe areas of the brain responsible for emotion and reward develop relatively early, while the prefrontal cortex, which controls planning, judgement and self-control, matures later. This imbalance may explain why adolescents are more likely to engage in risk-taking, particularly when their friends are watching. The influence of peers is especially powerful: studies show that teenagers take more risks in experiments when they believe other young people are observing them.\nThis does not mean that teenagers are simply immature. The same brain flexibility that makes them vulnerable also makes them exceptionally good at learning, adapting and generating new ideas. Many researchers now see adolescence as a period of opportunity rather than merely a problem to be managed. Teenagers who are given appropriate autonomy, with clear limits, often become more confident and mature adults.\nSocial media adds new challenges. Constant comparison with edited images can damage body image, and online pressures can intensify the generation gap, as parents struggle to understand worlds they did not grow up in. Yet the fundamental experience of coming of age, with its uncertainty, excitement and search for meaning, remains remarkably similar across generations."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "___ me when you get home so I know you're safe.",
+"o": [
+"Text",
+"Test",
+"Taste",
+"Tent"
+],
+"en": "Text = send a message.",
+"th": "text = ส่งข้อความ",
+"x": [
+[
+"A test is an exam.",
+"test = แบบทดสอบ"
+],
+[
+"'taste' is about food.",
+"taste = ชิม"
+],
+[
+"A tent is for camping.",
+"tent = เต็นท์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Your new jacket looks really ___!",
+"o": [
+"cool",
+"cold",
+"coal",
+"cook"
+],
+"en": "Cool = fashionable, great.",
+"th": "cool = เท่",
+"x": [
+[
+"'cold' means low temperature.",
+"cold = หนาว"
+],
+[
+"Coal is fuel.",
+"coal = ถ่านหิน"
+],
+[
+"'cook' means make food.",
+"cook = ทำอาหาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "We meet our friends at the ___ every Saturday.",
+"o": [
+"mall",
+"mail",
+"male",
+"mole"
+],
+"en": "A mall is a shopping centre.",
+"th": "mall = ห้างสรรพสินค้า",
+"x": [
+[
+"Mail is letters.",
+"mail = จดหมาย"
+],
+[
+"'male' means man.",
+"male = เพศชาย"
+],
+[
+"A mole is an animal or skin mark.",
+"mole = ตัวตุ่น ไฝ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I want some new white ___ for school.",
+"o": [
+"sneakers",
+"sneezes",
+"snakes",
+"snacks"
+],
+"en": "Sneakers are sports shoes.",
+"th": "sneakers = รองเท้าผ้าใบ",
+"x": [
+[
+"Sneezes are 'achoo!'.",
+"sneeze = จาม"
+],
+[
+"Snakes are animals.",
+"snake = งู"
+],
+[
+"Snacks are food.",
+"snack = ของว่าง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My ___ is 10 p.m., so I must be home by then.",
+"o": [
+"curfew",
+"curve",
+"curfews'",
+"curtain"
+],
+"en": "A curfew is a time you must be home.",
+"th": "curfew = เวลาที่ต้องกลับบ้าน",
+"x": [
+[
+"A curve is a bend.",
+"curve = เส้นโค้ง"
+],
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"A curtain covers a window.",
+"curtain = ผ้าม่าน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I was ___ for a week because I came home late.",
+"o": [
+"grounded",
+"ground",
+"grinding",
+"grounding's"
+],
+"en": "Grounded = not allowed to go out as punishment.",
+"th": "grounded = ถูกทำโทษห้ามออกไปไหน",
+"x": [
+[
+"'ground' is a noun.",
+"ground = พื้นดิน"
+],
+[
+"'grinding' means crushing.",
+"grinding = บด"
+],
+[
+"Wrong form.",
+"รูปผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My dad danced at my party. It was so ___!",
+"o": [
+"embarrassing",
+"embarrassed",
+"embracing",
+"emerging"
+],
+"en": "Things are embarrassing; people are embarrassed.",
+"th": "สิ่งที่ทำให้อายใช้ embarrassing",
+"x": [
+[
+"'embarrassed' describes a person.",
+"embarrassed ใช้กับคน"
+],
+[
+"'embracing' means hugging.",
+"embracing = โอบกอด"
+],
+[
+"'emerging' means appearing.",
+"emerging = เกิดขึ้นใหม่"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "After school, we usually ___ at the park.",
+"o": [
+"hang out",
+"hang up",
+"hand out",
+"hang on"
+],
+"en": "Hang out = spend time relaxing together.",
+"th": "hang out = ใช้เวลาด้วยกัน",
+"x": [
+[
+"'hang up' means end a phone call.",
+"hang up = วางสาย"
+],
+[
+"'hand out' means distribute.",
+"hand out = แจก"
+],
+[
+"'hang on' means wait.",
+"hang on = รอสักครู่"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "It was hard to ___ at my new school because I didn't know anyone.",
+"o": [
+"fit in",
+"fit out",
+"fill in",
+"feel in"
+],
+"en": "Fit in = be accepted by a group.",
+"th": "fit in = เข้ากับคนอื่นได้",
+"x": [
+[
+"'fit out' means equip.",
+"fit out = ติดตั้งอุปกรณ์"
+],
+[
+"'fill in' means complete a form.",
+"fill in = กรอก"
+],
+[
+"Not a phrase.",
+"ไม่ใช่วลี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I felt ___ about my braces and didn't want to smile.",
+"o": [
+"self-conscious",
+"self-confident",
+"selfish",
+"self-employed"
+],
+"en": "Self-conscious = worried about how others see you.",
+"th": "self-conscious = ประหม่า",
+"x": [
+[
+"'self-confident' is the opposite.",
+"self-confident = มั่นใจ (ตรงข้าม)"
+],
+[
+"'selfish' means not caring about others.",
+"selfish = เห็นแก่ตัว"
+],
+[
+"'self-employed' means working for yourself.",
+"self-employed = ทำงานอิสระ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "She took a ___ before university to work and travel in Australia.",
+"o": [
+"gap year",
+"leap year",
+"gap filler",
+"school year"
+],
+"en": "A gap year is a year off before university.",
+"th": "gap year = ปีที่พักก่อนเข้ามหาวิทยาลัย",
+"x": [
+[
+"A leap year has 366 days.",
+"leap year = ปีอธิกสุรทิน"
+],
+[
+"Not a phrase.",
+"ไม่ใช่วลี"
+],
+[
+"A school year is a year of study.",
+"school year = ปีการศึกษา"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Our first conversation was a bit ___; neither of us knew what to say.",
+"o": [
+"awkward",
+"awful",
+"awake",
+"aware"
+],
+"en": "Awkward = uncomfortable.",
+"th": "awkward = อึดอัด",
+"x": [
+[
+"'awful' means terrible.",
+"awful = แย่มาก"
+],
+[
+"'awake' means not sleeping.",
+"awake = ตื่น"
+],
+[
+"'aware' means knowing.",
+"aware = ตระหนัก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "During ___, the body goes through many physical changes.",
+"o": [
+"puberty",
+"purity",
+"poverty",
+"property"
+],
+"en": "Puberty is when a child's body becomes adult.",
+"th": "puberty = วัยเจริญพันธุ์",
+"x": [
+[
+"Purity is being pure.",
+"purity = ความบริสุทธิ์"
+],
+[
+"Poverty is being poor.",
+"poverty = ความยากจน"
+],
+[
+"Property is things owned.",
+"property = ทรัพย์สิน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "She's very ___ for her age; she makes sensible decisions.",
+"o": [
+"mature",
+"nature",
+"manure",
+"matter"
+],
+"en": "Mature = behaving like an adult.",
+"th": "mature = เป็นผู้ใหญ่",
+"x": [
+[
+"Nature is the natural world.",
+"nature = ธรรมชาติ"
+],
+[
+"Manure is animal waste.",
+"manure = ปุ๋ยคอก"
+],
+[
+"Matter is substance.",
+"matter = สสาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "My grandparents and I don't understand each other's music; there's a big ___.",
+"o": [
+"generation gap",
+"generation game",
+"general gap",
+"gap year"
+],
+"en": "The generation gap is the difference between age groups.",
+"th": "generation gap = ช่องว่างระหว่างวัย",
+"x": [
+[
+"Not a phrase.",
+"ไม่ใช่วลี"
+],
+[
+"Not a phrase.",
+"ไม่ใช่วลี"
+],
+[
+"A gap year is a year off.",
+"gap year = ปีที่พัก"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Do] your brother [play] [video] [games]?",
+"a": 0,
+"fix": "Does your brother play video games?",
+"en": "Singular subject: Does.",
+"th": "ประธานเอกพจน์: Does",
+"x": [
+[
+"'play' is correct after 'does'.",
+"play ถูกต้องหลัง does"
+],
+[
+"'video' is correct.",
+"video ถูกต้อง"
+],
+[
+"'games' is correct.",
+"games ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[My] sister [is] [a] [teenagers].",
+"a": 3,
+"fix": "My sister is a teenager.",
+"en": "After 'a', use a singular noun.",
+"th": "หลัง a ใช้นามเอกพจน์",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Me] and my friends [hang] [out] [at] the mall.",
+"a": 0,
+"fix": "My friends and I hang out at the mall.",
+"en": "Subject pronoun: I (and put yourself last).",
+"th": "ประธานใช้ I (และวางตัวเองไว้ท้าย)",
+"x": [
+[
+"'hang' is correct.",
+"hang ถูกต้อง"
+],
+[
+"'out' is correct.",
+"out ถูกต้อง"
+],
+[
+"'at' is correct.",
+"at ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I [got] [grounded] [because] I [come] home late.",
+"a": 3,
+"fix": "I got grounded because I came home late.",
+"en": "Past event: came.",
+"th": "เหตุการณ์ในอดีต: came",
+"x": [
+[
+"'got' is correct.",
+"got ถูกต้อง"
+],
+[
+"'grounded' is correct.",
+"grounded ถูกต้อง"
+],
+[
+"'because' is correct.",
+"because ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[How] [much] [hours] [do] you spend on social media?",
+"a": 1,
+"fix": "How many hours do you spend on social media?",
+"en": "Countable 'hours': How many.",
+"th": "hours นับได้: How many",
+"x": [
+[
+"'How' is correct.",
+"How ถูกต้อง"
+],
+[
+"'hours' is correct.",
+"hours ถูกต้อง"
+],
+[
+"'do' is correct.",
+"do ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Teenager] [often] [feel] [self-conscious].",
+"a": 0,
+"fix": "Teenagers often feel self-conscious.",
+"en": "General statement: plural teenagers.",
+"th": "ข้อความทั่วไปใช้พหูพจน์: teenagers",
+"x": [
+[
+"'often' is correct.",
+"often ถูกต้อง"
+],
+[
+"'feel' is correct with a plural subject.",
+"feel ถูกต้องกับประธานพหูพจน์"
+],
+[
+"'self-conscious' is correct.",
+"self-conscious ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[When] I [was] fourteen, I [used to] [being] very shy.",
+"a": 3,
+"fix": "When I was fourteen, I used to be very shy.",
+"en": "'Used to + base verb': be.",
+"th": "used to + V1: be",
+"x": [
+[
+"'When' is correct.",
+"When ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'used to' is correct.",
+"used to ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[She] [wants] [stand] [out] from the crowd.",
+"a": 2,
+"fix": "She wants to stand out from the crowd.",
+"en": "'Want to + verb'.",
+"th": "want to + V1",
+"x": [
+[
+"'She' is correct.",
+"She ถูกต้อง"
+],
+[
+"'wants' is correct.",
+"wants ถูกต้อง"
+],
+[
+"'out' is correct.",
+"out ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Adolescent] [often] [take] [more risks] than adults.",
+"a": 0,
+"fix": "Adolescents often take more risks than adults.",
+"en": "Plural subject needed: Adolescents.",
+"th": "ต้องใช้ประธานพหูพจน์: Adolescents",
+"x": [
+[
+"'often' is correct.",
+"often ถูกต้อง"
+],
+[
+"'take' is correct with a plural subject.",
+"take ถูกต้องกับประธานพหูพจน์"
+],
+[
+"'more risks' is correct.",
+"more risks ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "Studies [suggest] [that] the teenage brain [is not] fully [develop] until 25.",
+"a": 3,
+"fix": "Studies suggest that the teenage brain is not fully developed until 25.",
+"en": "Passive/adjective: developed.",
+"th": "ใช้ developed",
+"x": [
+[
+"'suggest' is correct.",
+"suggest ถูกต้อง"
+],
+[
+"'that' is correct.",
+"that ถูกต้อง"
+],
+[
+"'is not' is correct.",
+"is not ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Hi! I'm Nat. How old are you?\nB: ___",
+"o": [
+"I'm fifteen.",
+"I'm a student.",
+"I'm fine.",
+"I'm at school."
+],
+"en": "'How old' asks for age.",
+"th": "how old ถามอายุ",
+"x": [
+[
+"Job.",
+"อาชีพ"
+],
+[
+"Health.",
+"สุขภาพ"
+],
+[
+"Place.",
+"สถานที่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you like gaming?\nB: ___ I play every evening.",
+"o": [
+"Yes, I love it.",
+"No, I hate it.",
+"Games are fun.",
+"I'm a game."
+],
+"en": "Playing every evening → yes.",
+"th": "เล่นทุกเย็น จึงชอบ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not a direct answer.",
+"ไม่ได้ตอบตรง"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can I go to the mall, Mum?\nB: ___ Be home by six.",
+"o": [
+"OK, but don't be late.",
+"No, never.",
+"The mall is big.",
+"I'm busy."
+],
+"en": "B agrees with a condition.",
+"th": "B อนุญาตพร้อมเงื่อนไข",
+"x": [
+[
+"It contradicts 'be home by six'.",
+"ขัดกับ be home by six"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What time is your curfew?\nB: ___",
+"o": [
+"Ten o'clock on weekends.",
+"At the mall.",
+"With my friends.",
+"Very strict."
+],
+"en": "'What time' asks for a time.",
+"th": "what time ถามเวลา",
+"x": [
+[
+"Place.",
+"สถานที่"
+],
+[
+"People.",
+"บุคคล"
+],
+[
+"Description.",
+"คำบรรยาย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Why can't you come out tonight?\nB: ___",
+"o": [
+"I'm grounded for breaking curfew.",
+"Because tonight is dark.",
+"At nine.",
+"My phone is cool."
+],
+"en": "B gives a reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Not a real reason.",
+"ไม่ใช่เหตุผลจริง"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Do you get an allowance?\nB: ___ but I have to do chores for it.",
+"o": [
+"Yes, every week,",
+"No, never,",
+"I'm rich,",
+"Allowance is money,"
+],
+"en": "'But I have to do chores for it' → yes.",
+"th": "ต้องทำงานบ้านแลก จึงได้",
+"x": [
+[
+"It contradicts 'for it'.",
+"ขัดกับ for it"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: My daughter is so moody these days.\nB: ___ It's a normal part of being a teenager.",
+"o": [
+"Don't worry too much.",
+"She must be ill.",
+"Ground her forever.",
+"Teenagers are never moody."
+],
+"en": "B reassures A.",
+"th": "B ปลอบใจ",
+"x": [
+[
+"Not likely.",
+"ไม่น่าใช่"
+],
+[
+"Too harsh.",
+"รุนแรงเกินไป"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I'm so stressed about my exams.\nB: ___",
+"o": [
+"Try making a study plan and taking regular breaks.",
+"Don't study at all.",
+"Stay up all night every night.",
+"Exams don't matter."
+],
+"en": "B gives practical advice.",
+"th": "B ให้คำแนะนำที่ใช้ได้จริง",
+"x": [
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Unhealthy.",
+"ไม่ดีต่อสุขภาพ"
+],
+[
+"Dismissive.",
+"ไม่ใส่ใจ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Teenagers today are lazier than we were.\nB: ___ They face pressures we never had, like social media and intense competition.",
+"o": [
+"I'm not sure that's fair.",
+"Absolutely, they do nothing.",
+"We were lazier.",
+"Teenagers don't exist."
+],
+"en": "B challenges the claim.",
+"th": "B แย้งข้อกล่าวอ้าง",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not B's point.",
+"ไม่ใช่ประเด็นของ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should teenagers be allowed to make their own decisions?\nB: ___ Some autonomy helps them grow, but they still need guidance.",
+"o": [
+"Within limits, yes.",
+"Never.",
+"Completely, with no rules.",
+"Only adults can decide."
+],
+"en": "B supports limited autonomy.",
+"th": "B สนับสนุนความอิสระที่มีขอบเขต",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"It contradicts 'guidance'.",
+"ขัดกับ guidance"
+],
+[
+"It contradicts B.",
+"ขัดกับ B"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How old is Nat?",
+"o": [
+"Fifteen",
+"Thirteen",
+"Sixteen",
+"Eighteen"
+],
+"en": "'I'm fifteen years old.'",
+"th": "15 ปี",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What is Nat's favourite subject?",
+"o": [
+"Art",
+"Maths",
+"English",
+"Science"
+],
+"en": "'My favourite subject is art.'",
+"th": "ศิลปะ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What do Nat and friends like looking at in the mall?",
+"o": [
+"Clothes and sneakers",
+"Books",
+"Phones",
+"Food"
+],
+"en": "'We like looking at clothes and cool sneakers.'",
+"th": "เสื้อผ้าและรองเท้าผ้าใบ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What is Nat's favourite hobby?",
+"o": [
+"Gaming",
+"Art",
+"Shopping",
+"Texting"
+],
+"en": "'Gaming is my favourite hobby.'",
+"th": "เล่นเกม",
+"x": [
+[
+"That's a subject.",
+"นั่นคือวิชา"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Which is one of the parents' rules?",
+"o": [
+"No phone at dinner",
+"No gaming ever",
+"No friends",
+"No homework"
+],
+"en": "'I can't use my phone at dinner.'",
+"th": "ห้ามใช้โทรศัพท์ตอนกินข้าว",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do many parents worry about?",
+"o": [
+"Screen time",
+"Too much homework",
+"School uniforms",
+"Sports"
+],
+"en": "'Many parents worry about screen time.'",
+"th": "เวลาหน้าจอ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What might happen if teenagers break the rules?",
+"o": [
+"They might get grounded.",
+"They get more money.",
+"They get a part-time job.",
+"They take a gap year."
+],
+"en": "'…they might get grounded.'",
+"th": "อาจถูกทำโทษห้ามออกไปไหน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not related.",
+"ไม่เกี่ยว"
+],
+[
+"Not related.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why might teenagers feel self-conscious?",
+"o": [
+"Because of acne or braces",
+"Because of good grades",
+"Because of their curfew",
+"Because of slang"
+],
+"en": "'…especially if they have acne or braces.'",
+"th": "เพราะสิวหรือเหล็กดัดฟัน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do some students take a gap year?",
+"o": [
+"To travel or work before university",
+"Because they failed school",
+"To play games",
+"Because of curfews"
+],
+"en": "'…take a gap year before university to travel or work.'",
+"th": "เพื่อท่องเที่ยวหรือทำงานก่อนเข้ามหาวิทยาลัย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What are teenagers trying to discover, according to the writer?",
+"o": [
+"Their identity",
+"New slang",
+"Cheaper sneakers",
+"Better games"
+],
+"en": "'…teenagers are trying to discover their identity.'",
+"th": "ตัวตนของตนเอง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How has research changed the explanation of teenage behaviour?",
+"o": [
+"It shows the brain reorganises until the mid-twenties.",
+"It shows hormones explain everything.",
+"It shows teenagers' brains are fully developed.",
+"It shows behaviour never changes."
+],
+"en": "'…the brain undergoes major reorganisation… until the mid-twenties.'",
+"th": "สมองมีการจัดระบบใหม่จนถึงกลางวัยยี่สิบ",
+"x": [
+[
+"The old view.",
+"มุมมองเก่า"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why might adolescents take more risks?",
+"o": [
+"Emotion areas develop before self-control areas.",
+"They have no hormones.",
+"Adults encourage it.",
+"Their brains stop growing at 12."
+],
+"en": "'The areas… for emotion and reward develop relatively early, while the prefrontal cortex… matures later.'",
+"th": "สมองส่วนอารมณ์พัฒนาก่อนส่วนควบคุมตนเอง",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "When do teenagers take more risks in experiments?",
+"o": [
+"When they believe other young people are watching",
+"When they are alone",
+"When parents are present",
+"When they are tired"
+],
+"en": "'…teenagers take more risks… when they believe other young people are observing them.'",
+"th": "เมื่อคิดว่ามีวัยรุ่นคนอื่นกำลังดู",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How do many researchers now see adolescence?",
+"o": [
+"As a period of opportunity",
+"As only a problem",
+"As unimportant",
+"As identical to childhood"
+],
+"en": "'…see adolescence as a period of opportunity rather than merely a problem.'",
+"th": "ช่วงแห่งโอกาส",
+"x": [
+[
+"The writer says 'rather than merely'.",
+"ไม่ใช่แค่ปัญหา"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What remains similar across generations?",
+"o": [
+"The basic experience of coming of age",
+"Social media use",
+"Body image pressures",
+"The generation gap"
+],
+"en": "'…the fundamental experience of coming of age… remains remarkably similar across generations.'",
+"th": "ประสบการณ์พื้นฐานของการเติบโตเป็นผู้ใหญ่",
+"x": [
+[
+"That's new.",
+"สิ่งนี้ใหม่"
+],
+[
+"Made worse by social media.",
+"แย่ลงเพราะโซเชียล"
+],
+[
+"Intensified now.",
+"รุนแรงขึ้น"
+]
+]
+}
+]
+}

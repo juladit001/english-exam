@@ -1,0 +1,1627 @@
+{
+"id": 24,
+"theme": "Crime and the law",
+"v": [
+[
+"police",
+"noun",
+"A1",
+"ตำรวจ",
+"Call the *police*!"
+],
+[
+"thief",
+"noun",
+"A1",
+"ขโมย",
+"The *thief* took my bag."
+],
+[
+"help",
+"verb/noun",
+"A1",
+"ช่วย, ความช่วยเหลือ",
+"Can you *help* me, please?"
+],
+[
+"lock",
+"verb/noun",
+"A1",
+"ล็อก, กุญแจล็อก",
+"Did you *lock* the door?"
+],
+[
+"camera",
+"noun",
+"A1",
+"กล้อง",
+"There's a security *camera* outside."
+],
+[
+"stop",
+"verb",
+"A1",
+"หยุด",
+"*Stop*! Don't move!"
+],
+[
+"wrong",
+"adjective",
+"A1",
+"ผิด",
+"Stealing is *wrong*."
+],
+[
+"dark",
+"adjective",
+"A1",
+"มืด",
+"It's *dark* outside. Be careful."
+],
+[
+"steal",
+"verb",
+"A2",
+"ขโมย",
+"Someone tried to *steal* my car."
+],
+[
+"law",
+"noun",
+"A2",
+"กฎหมาย",
+"It's against the *law* to drive drunk."
+],
+[
+"prison",
+"noun",
+"A2",
+"คุก, เรือนจำ",
+"He spent five years in *prison*."
+],
+[
+"judge",
+"noun",
+"A2",
+"ผู้พิพากษา",
+"The *judge* listened carefully."
+],
+[
+"guilty",
+"adjective",
+"A2",
+"มีความผิด, รู้สึกผิด",
+"The man was found *guilty*."
+],
+[
+"rob",
+"verb",
+"A2",
+"ปล้น",
+"Two men *rob* a bank in the film."
+],
+[
+"illegal",
+"adjective",
+"A2",
+"ผิดกฎหมาย",
+"It's *illegal* to sell drugs."
+],
+[
+"fine",
+"noun",
+"A2",
+"ค่าปรับ",
+"I got a 1,000-baht *fine* for speeding."
+],
+[
+"arrest",
+"verb",
+"A2",
+"จับกุม",
+"The police *arrested* the thief."
+],
+[
+"emergency",
+"noun",
+"A2",
+"เหตุฉุกเฉิน",
+"In an *emergency*, call 191."
+],
+[
+"witness",
+"noun",
+"B1",
+"พยาน",
+"The *witness* told the police what she saw."
+],
+[
+"victim",
+"noun",
+"B1",
+"เหยื่อ, ผู้เสียหาย",
+"The *victim* was taken to hospital."
+],
+[
+"evidence",
+"noun",
+"B1",
+"หลักฐาน",
+"There's no *evidence* that he did it."
+],
+[
+"suspect",
+"noun",
+"B1",
+"ผู้ต้องสงสัย",
+"The police questioned the *suspect*."
+],
+[
+"burglar",
+"noun",
+"B1",
+"ขโมยที่งัดบ้าน",
+"A *burglar* broke into our house."
+],
+[
+"court",
+"noun",
+"B1",
+"ศาล",
+"The case will go to *court* next month."
+],
+[
+"trial",
+"noun",
+"B1",
+"การพิจารณาคดี",
+"The *trial* lasted two weeks."
+],
+[
+"innocent",
+"adjective",
+"B1",
+"บริสุทธิ์, ไม่มีความผิด",
+"He says he is *innocent*."
+],
+[
+"lawyer",
+"noun",
+"B1",
+"ทนายความ",
+"You should speak to a *lawyer*."
+],
+[
+"punishment",
+"noun",
+"B1",
+"การลงโทษ",
+"The *punishment* was too harsh."
+],
+[
+"security",
+"noun",
+"B1",
+"ความปลอดภัย, การรักษาความปลอดภัย",
+"*Security* at the airport is strict."
+],
+[
+"verdict",
+"noun",
+"B2",
+"คำตัดสิน",
+"The jury gave a *verdict* of guilty."
+],
+[
+"jury",
+"noun",
+"B2",
+"คณะลูกขุน",
+"The *jury* found him not guilty."
+],
+[
+"convict",
+"verb",
+"B2",
+"ตัดสินว่ามีความผิด",
+"She was *convicted* of fraud."
+],
+[
+"prosecute",
+"verb",
+"B2",
+"ฟ้องร้องดำเนินคดี",
+"Shoplifters will be *prosecuted*."
+],
+[
+"deterrent",
+"noun",
+"B2",
+"สิ่งที่ทำให้ไม่กล้าทำผิด",
+"Cameras are a good *deterrent* to thieves."
+],
+[
+"rehabilitation",
+"noun",
+"B2",
+"การฟื้นฟู (ผู้กระทำผิด/ผู้ป่วย)",
+"The prison offers *rehabilitation* programmes."
+],
+[
+"forensic",
+"adjective",
+"B2",
+"ทางนิติวิทยาศาสตร์",
+"*Forensic* experts examined the scene."
+],
+[
+"alibi",
+"noun",
+"B2",
+"ข้อแก้ตัวว่าอยู่ที่อื่นขณะเกิดเหตุ",
+"He had a strong *alibi*."
+],
+[
+"vandalism",
+"noun",
+"B2",
+"การทำลายทรัพย์สินสาธารณะ",
+"*Vandalism* in the park is a problem."
+],
+[
+"corruption",
+"noun",
+"B2",
+"การคอร์รัปชัน, การทุจริต",
+"*Corruption* damages the economy."
+],
+[
+"bribe",
+"noun/verb",
+"B2",
+"สินบน, ติดสินบน",
+"He offered the officer a *bribe*."
+]
+],
+"p": [
+{
+"t": "The Thief on the Bus",
+"x": "Last Friday evening, Mai was on a crowded bus in Bangkok. She was tired and was looking at her phone. Suddenly, a man pushed past her and took the phone from her hand. \"Stop! Thief!\" she shouted. The bus stopped, and the man jumped off and ran into a dark street.\nTwo passengers helped Mai and called the police. The police officers arrived quickly. They asked Mai what the thief looked like. \"He was young and thin, and he had a red cap,\" she said.\nThe next day, the police watched video from a camera on the street. They saw the man clearly. Three days later, they arrested him in a market. He had taken five phones that week! He is now waiting to see a judge, and he may go to prison. Mai got her phone back. \"Now I always keep my phone in my bag on the bus,\" she says."
+},
+{
+"t": "A Day in Court",
+"x": "Last month, our law class visited the city court to watch a real trial. The case was about a burglar who had broken into a jewellery shop at night. The suspect, a man in his thirties, said he was innocent.\nFirst, the lawyer for the shop owner presented the evidence. Security cameras had filmed a man in a black hoodie entering the shop at 2 a.m., and his fingerprints were found on a broken window. Then a witness, a taxi driver, described seeing the man running down the street with a heavy bag.\nThe suspect's lawyer argued that the video was not clear and that the fingerprints could have been left earlier, when the man had visited the shop as a customer. The victim, the shop owner, looked very nervous when she answered questions.\nIn the end, the judge decided the man was guilty. His punishment was three years in prison. Our teacher explained that he could have received a longer sentence, but it was his first crime, and he had never tried to rob anyone before. It was fascinating to see how the law works in real life."
+},
+{
+"t": "Punishment or Second Chances?",
+"x": "When a court reaches a guilty verdict, the next question is how the offender should be punished. In some countries, a jury of ordinary citizens decides whether someone is guilty, while a judge decides the sentence. Supporters of long prison sentences argue that harsh punishment acts as a deterrent: if people know they will spend years in jail, they will think twice before committing a crime.\nCritics disagree. They point out that many people who are convicted of crimes such as vandalism or theft go on to reoffend after release. Prison, they argue, can teach young offenders more about crime than about honest work. Instead, they call for rehabilitation: education, job training and therapy that help prisoners return to society.\nModern technology has also changed how crimes are solved. Forensic science, such as DNA testing, means that a suspect's alibi can now be checked far more accurately. This has led to some innocent people being released after years in prison, and to more guilty people being successfully prosecuted.\nFinally, experts warn that no justice system can work well where corruption exists. If police officers or officials accept a bribe, public trust disappears, and the law loses its power."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "Call the ___! Someone has taken my bag!",
+"o": [
+"police",
+"teacher",
+"doctor",
+"chef"
+],
+"en": "You call the police when something is stolen.",
+"th": "เมื่อของถูกขโมยให้เรียกตำรวจ",
+"x": [
+[
+"A teacher can't help with crime.",
+"ครูช่วยเรื่องอาชญากรรมไม่ได้"
+],
+[
+"A doctor helps sick people.",
+"หมอช่วยคนป่วย"
+],
+[
+"A chef cooks.",
+"เชฟทำอาหาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Always ___ your door when you go out.",
+"o": [
+"lock",
+"look",
+"lake",
+"luck"
+],
+"en": "Lock the door so nobody can enter.",
+"th": "ล็อกประตูเพื่อไม่ให้ใครเข้ามา",
+"x": [
+[
+"'look' means use your eyes.",
+"look = มอง"
+],
+[
+"A lake is water.",
+"lake = ทะเลสาบ"
+],
+[
+"Luck is good fortune.",
+"luck = โชค"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The ___ took my wallet from my pocket.",
+"o": [
+"thief",
+"teacher",
+"police",
+"judge"
+],
+"en": "A thief takes things that aren't his.",
+"th": "ขโมย (thief) เอาของที่ไม่ใช่ของตัวเอง",
+"x": [
+[
+"Teachers don't take wallets.",
+"ครูไม่ได้เอากระเป๋าตังค์"
+],
+[
+"The police catch thieves.",
+"ตำรวจจับขโมย"
+],
+[
+"A judge works in court.",
+"ผู้พิพากษาทำงานในศาล"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Don't walk alone in the park when it's ___.",
+"o": [
+"dark",
+"bright",
+"sunny",
+"early"
+],
+"en": "Walking alone in the dark can be dangerous.",
+"th": "การเดินคนเดียวตอนมืดอาจอันตราย",
+"x": [
+[
+"Bright isn't a danger.",
+"สว่างไม่อันตราย"
+],
+[
+"Sunny isn't a danger.",
+"แดดออกไม่อันตราย"
+],
+[
+"'early' doesn't suggest danger.",
+"early ไม่ได้บอกถึงอันตราย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Someone ___ my bike last night!",
+"o": [
+"stole",
+"stolen",
+"steal",
+"robbed"
+],
+"en": "Past Simple of steal = stole. We steal things.",
+"th": "อดีตของ steal คือ stole และ steal ใช้กับสิ่งของ",
+"x": [
+[
+"'stolen' is the past participle; it needs 'has'.",
+"stolen เป็นช่อง 3 ต้องมี has"
+],
+[
+"'last night' needs the past.",
+"last night ต้องใช้อดีต"
+],
+[
+"We rob a person or place, not a bike.",
+"rob ใช้กับคนหรือสถานที่"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "It's against the ___ to drive without a licence.",
+"o": [
+"law",
+"low",
+"row",
+"raw"
+],
+"en": "'Against the law' = illegal.",
+"th": "against the law = ผิดกฎหมาย",
+"x": [
+[
+"'low' means not high.",
+"low = ต่ำ"
+],
+[
+"A row is a line.",
+"row = แถว"
+],
+[
+"'raw' means not cooked.",
+"raw = ดิบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "He went to ___ for ten years for robbing a bank.",
+"o": [
+"prison",
+"prism",
+"poison",
+"person"
+],
+"en": "Criminals are sent to prison.",
+"th": "อาชญากรถูกส่งเข้าคุก",
+"x": [
+[
+"A prism is a glass shape.",
+"prism = ปริซึม"
+],
+[
+"Poison can kill you.",
+"poison = ยาพิษ"
+],
+[
+"A person is a human.",
+"person = บุคคล"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I got a 500-baht ___ for parking in the wrong place.",
+"o": [
+"fine",
+"fee",
+"tip",
+"prize"
+],
+"en": "A fine is money you pay as a punishment.",
+"th": "fine = ค่าปรับ",
+"x": [
+[
+"A fee is for a service.",
+"fee = ค่าธรรมเนียม"
+],
+[
+"A tip is for good service.",
+"tip = ทิป"
+],
+[
+"A prize is a reward.",
+"prize = รางวัล"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "A ___ saw the man run away and told the police.",
+"o": [
+"witness",
+"victim",
+"suspect",
+"judge"
+],
+"en": "A witness sees a crime and reports it.",
+"th": "witness = พยาน ผู้เห็นเหตุการณ์",
+"x": [
+[
+"The victim is the person harmed.",
+"victim = ผู้เสียหาย"
+],
+[
+"The suspect is the person who may have done it.",
+"suspect = ผู้ต้องสงสัย"
+],
+[
+"A judge works in court.",
+"ผู้พิพากษาอยู่ในศาล"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The police found new ___: the robber's fingerprints on the window.",
+"o": [
+"evidence",
+"evident",
+"evidently",
+"event"
+],
+"en": "Evidence = facts or things that prove something.",
+"th": "evidence = หลักฐาน",
+"x": [
+[
+"'evident' is an adjective.",
+"evident เป็นคุณศัพท์"
+],
+[
+"'evidently' is an adverb.",
+"evidently เป็นกริยาวิเศษณ์"
+],
+[
+"An event is something that happens.",
+"event = เหตุการณ์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The court decided that she was ___ and let her go free.",
+"o": [
+"innocent",
+"guilty",
+"illegal",
+"arrested"
+],
+"en": "Innocent = not guilty, so she was freed.",
+"th": "innocent = บริสุทธิ์ จึงได้รับการปล่อยตัว",
+"x": [
+[
+"Guilty people aren't usually freed.",
+"คนผิดมักไม่ได้รับการปล่อยตัว"
+],
+[
+"'illegal' describes actions, not people.",
+"illegal ใช้กับการกระทำ"
+],
+[
+"Being arrested doesn't mean going free.",
+"การถูกจับไม่ได้หมายถึงได้รับอิสระ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "A ___ broke into our house while we were on holiday.",
+"o": [
+"burglar",
+"burger",
+"bugler",
+"banker"
+],
+"en": "A burglar enters buildings to steal.",
+"th": "burglar = ขโมยที่งัดบ้าน",
+"x": [
+[
+"A burger is food.",
+"burger = แฮมเบอร์เกอร์"
+],
+[
+"A bugler plays the bugle.",
+"bugler = คนเป่าแตร"
+],
+[
+"A banker works in a bank.",
+"banker = นายธนาคาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "After two days, the ___ found him guilty.",
+"o": [
+"jury",
+"journey",
+"juice",
+"jewellery"
+],
+"en": "A jury decides if someone is guilty.",
+"th": "jury = คณะลูกขุน",
+"x": [
+[
+"A journey is travel.",
+"journey = การเดินทาง"
+],
+[
+"Juice is a drink.",
+"juice = น้ำผลไม้"
+],
+[
+"Jewellery is rings and necklaces.",
+"jewellery = เครื่องประดับ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "He tried to ___ the police officer with 5,000 baht, but she refused.",
+"o": [
+"bribe",
+"bride",
+"brief",
+"bribery"
+],
+"en": "To bribe = to offer money to get someone to do something dishonest.",
+"th": "bribe = ติดสินบน",
+"x": [
+[
+"A bride is a woman getting married.",
+"bride = เจ้าสาว"
+],
+[
+"'brief' means short.",
+"brief = สั้น"
+],
+[
+"'bribery' is a noun.",
+"bribery เป็นคำนาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "His ___ was that he was at the cinema when the crime happened.",
+"o": [
+"alibi",
+"alias",
+"album",
+"ally"
+],
+"en": "An alibi is proof you were somewhere else.",
+"th": "alibi = หลักฐานว่าอยู่ที่อื่นขณะเกิดเหตุ",
+"x": [
+[
+"An alias is a false name.",
+"alias = ชื่อแฝง"
+],
+[
+"An album is music or photos.",
+"album = อัลบั้ม"
+],
+[
+"An ally is a friend or partner.",
+"ally = พันธมิตร"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "The [police] [is] [coming] [now].",
+"a": 1,
+"fix": "The police are coming now.",
+"en": "'Police' is always plural: are.",
+"th": "police เป็นพหูพจน์เสมอ: are",
+"x": [
+[
+"'police' is correct.",
+"police ถูกต้อง"
+],
+[
+"'coming' is correct.",
+"coming ถูกต้อง"
+],
+[
+"'now' is correct.",
+"now ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "Somebody [took] [my] bag [and] [run] away!",
+"a": 3,
+"fix": "Somebody took my bag and ran away!",
+"en": "Both actions are past: ran.",
+"th": "ทั้งสองการกระทำเป็นอดีต: ran",
+"x": [
+[
+"'took' is correct.",
+"took ถูกต้อง"
+],
+[
+"'my' is correct.",
+"my ถูกต้อง"
+],
+[
+"'and' is correct.",
+"and ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Steal] [is] [always] [wrong].",
+"a": 0,
+"fix": "Stealing is always wrong.",
+"en": "An activity as subject: Stealing.",
+"th": "กิจกรรมเป็นประธาน: Stealing",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'always' is correct.",
+"always ถูกต้อง"
+],
+[
+"'wrong' is correct.",
+"wrong ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "She [was] [very] [frightening] [when] she saw the thief.",
+"a": 2,
+"fix": "She was very frightened when she saw the thief.",
+"en": "People feel '-ed': frightened.",
+"th": "คนรู้สึกใช้ -ed: frightened",
+"x": [
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'when' is correct.",
+"when ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I [heard] [a] noise, [so] I [call] the police.",
+"a": 3,
+"fix": "I heard a noise, so I called the police.",
+"en": "The story is past: called.",
+"th": "เรื่องเป็นอดีต: called",
+"x": [
+[
+"'heard' is correct.",
+"heard ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+],
+[
+"'so' is correct.",
+"so ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "The suspect [denied] [to steal] [the] [money].",
+"a": 1,
+"fix": "The suspect denied stealing the money.",
+"en": "'Deny' + verb-ing.",
+"th": "deny + V-ing",
+"x": [
+[
+"'denied' is correct.",
+"denied ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'money' is correct.",
+"money ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] I [saw] a crime, I [will] [call] the police.",
+"a": 2,
+"fix": "If I saw a crime, I would call the police.",
+"en": "If + past (imaginary) needs 'would'.",
+"th": "If + อดีต (สมมติ) ต้องใช้ would",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'saw' is correct for an imaginary situation.",
+"saw ถูกต้อง"
+],
+[
+"'call' is correct.",
+"call ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "My car [was stolen] [while] I [was shopping] [in] Monday.",
+"a": 3,
+"fix": "My car was stolen while I was shopping on Monday.",
+"en": "Use 'on' with days.",
+"th": "ใช้ on กับวัน",
+"x": [
+[
+"'was stolen' is correct passive.",
+"was stolen ถูกต้อง"
+],
+[
+"'while' is correct.",
+"while ถูกต้อง"
+],
+[
+"'was shopping' is correct.",
+"was shopping ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "The man [is said] [to steal] millions [from] the company [last year].",
+"a": 1,
+"fix": "The man is said to have stolen millions from the company last year.",
+"en": "For a past action after 'is said', use 'to have + past participle'.",
+"th": "การกระทำในอดีตหลัง is said ใช้ to have + V3",
+"x": [
+[
+"'is said' is correct.",
+"is said ถูกต้อง"
+],
+[
+"'from' is correct.",
+"from ถูกต้อง"
+],
+[
+"'last year' is correct.",
+"last year ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Had] the police [arrived] [sooner], the thief [wouldn't escape].",
+"a": 3,
+"fix": "Had the police arrived sooner, the thief wouldn't have escaped.",
+"en": "Third conditional result: wouldn't have + past participle.",
+"th": "ผลของ third conditional: wouldn't have + V3",
+"x": [
+[
+"'Had' is correct inversion.",
+"Had ถูกต้อง"
+],
+[
+"'arrived' is correct.",
+"arrived ถูกต้อง"
+],
+[
+"'sooner' is correct.",
+"sooner ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Help! Someone took my phone!\nB: ___",
+"o": [
+"Oh no! Call the emergency number, 191.",
+"Thank you!",
+"Nice phone.",
+"Good morning."
+],
+"en": "B reacts and gives helpful advice.",
+"th": "B ตอบสนองและให้คำแนะนำ",
+"x": [
+[
+"Not a reaction to a crime.",
+"ไม่ใช่การตอบสนองต่ออาชญากรรม"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Is this area safe?\nB: ___ But lock your car.",
+"o": [
+"Yes, quite safe.",
+"No, very dangerous.",
+"I'm a police officer.",
+"It's dark."
+],
+"en": "'But lock your car' adds a small warning to a positive answer.",
+"th": "But lock your car เป็นคำเตือนเล็กน้อยต่อจากคำตอบด้านบวก",
+"x": [
+[
+"Too negative for 'but'.",
+"ด้านลบเกินไป"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Excuse me, where is the police station?\nB: ___",
+"o": [
+"It's next to the bank.",
+"It's very big.",
+"At night.",
+"Yes, it is."
+],
+"en": "'Where' asks for a place.",
+"th": "Where ถามสถานที่",
+"x": [
+[
+"Not a place.",
+"ไม่ใช่สถานที่"
+],
+[
+"Not a place.",
+"ไม่ใช่สถานที่"
+],
+[
+"'Where' isn't a yes/no question.",
+"Where ไม่ใช่คำถาม yes/no"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I think someone stole my wallet.\nB: ___",
+"o": [
+"When did you last have it?",
+"That's great!",
+"Me too, I love wallets.",
+"It's in prison."
+],
+"en": "B asks a helpful question.",
+"th": "B ถามคำถามที่ช่วยได้",
+"x": [
+[
+"It's bad news.",
+"เป็นข่าวร้าย"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยวข้อง"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What did the thief look like?\nB: ___",
+"o": [
+"He was tall and wore a black jacket.",
+"He ran very fast.",
+"He took my bag.",
+"He was in the street."
+],
+"en": "'Look like' asks for appearance.",
+"th": "look like ถามรูปร่างหน้าตา",
+"x": [
+[
+"That's what he did.",
+"นั่นคือสิ่งที่เขาทำ"
+],
+[
+"That's what he did.",
+"นั่นคือสิ่งที่เขาทำ"
+],
+[
+"That's where he was.",
+"นั่นคือที่ที่เขาอยู่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Is it illegal to ride a motorbike without a helmet?\nB: ___ You can get a fine.",
+"o": [
+"Yes, it is.",
+"No, it's fine.",
+"It's legal everywhere.",
+"I don't have a motorbike."
+],
+"en": "A fine means it is illegal.",
+"th": "มีค่าปรับแสดงว่าผิดกฎหมาย",
+"x": [
+[
+"It contradicts 'fine'.",
+"ขัดกับ ค่าปรับ"
+],
+[
+"It contradicts 'fine'.",
+"ขัดกับ ค่าปรับ"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Did anyone witness the accident?\nB: ___",
+"o": [
+"Yes, a woman saw everything from her window.",
+"Yes, the accident witnessed.",
+"No, it was a car.",
+"Accidents are dangerous."
+],
+"en": "B says who saw it.",
+"th": "B บอกว่าใครเห็น",
+"x": [
+[
+"Wrong grammar and meaning.",
+"ผิดทั้งไวยากรณ์และความหมาย"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Do you think the suspect is guilty?\nB: ___ There isn't enough evidence yet.",
+"o": [
+"It's too early to say.",
+"Definitely, he did it.",
+"Yes, I saw him do it.",
+"Of course, he's in prison."
+],
+"en": "Without evidence, B can't decide.",
+"th": "ไม่มีหลักฐานพอ B จึงยังตัดสินไม่ได้",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"Then there would be evidence.",
+"ถ้าเห็นก็มีหลักฐาน"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should young offenders be sent to prison?\nB: ___ Rehabilitation programmes often work better.",
+"o": [
+"Not necessarily.",
+"Yes, for as long as possible.",
+"Prison is always the answer.",
+"They should never face any consequences."
+],
+"en": "B suggests an alternative, so B partly disagrees.",
+"th": "B เสนอทางเลือกอื่น จึงไม่เห็นด้วยบางส่วน",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"Too extreme; rehabilitation is still a consequence.",
+"เกินไป การฟื้นฟูก็เป็นผลที่ตามมา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: The politician was accused of taking bribes.\nB: ___",
+"o": [
+"Corruption like that destroys public trust.",
+"Bribes are a kind of fruit.",
+"That's very honest of him.",
+"Good for him!"
+],
+"en": "B comments critically on the corruption.",
+"th": "B วิจารณ์การคอร์รัปชัน",
+"x": [
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"Taking bribes is dishonest.",
+"รับสินบนไม่ซื่อสัตย์"
+],
+[
+"Inappropriate.",
+"ไม่เหมาะสม"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where was Mai when her phone was taken?",
+"o": [
+"On a crowded bus",
+"In a market",
+"At home",
+"In a taxi"
+],
+"en": "'Mai was on a crowded bus in Bangkok.'",
+"th": "ไหมอยู่บนรถเมล์ที่คนแน่น",
+"x": [
+[
+"The thief was arrested in a market.",
+"ขโมยถูกจับที่ตลาด"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did Mai shout?",
+"o": [
+"\"Stop! Thief!\"",
+"\"Help me, please!\"",
+"\"Call a taxi!\"",
+"\"Good evening!\""
+],
+"en": "'\"Stop! Thief!\" she shouted.'",
+"th": "เธอตะโกนว่า หยุด! ขโมย!",
+"x": [
+[
+"Not what she said.",
+"ไม่ใช่สิ่งที่เธอพูด"
+],
+[
+"Not what she said.",
+"ไม่ใช่สิ่งที่เธอพูด"
+],
+[
+"Not what she said.",
+"ไม่ใช่สิ่งที่เธอพูด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Who called the police?",
+"o": [
+"Two passengers",
+"Mai",
+"The bus driver",
+"The thief"
+],
+"en": "'Two passengers helped Mai and called the police.'",
+"th": "ผู้โดยสารสองคนช่วยไหมและโทรเรียกตำรวจ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How did the police find the thief?",
+"o": [
+"They watched video from a street camera.",
+"Mai followed him.",
+"He came to the police station.",
+"A taxi driver told them."
+],
+"en": "'The police watched video from a camera on the street.'",
+"th": "ตำรวจดูวิดีโอจากกล้องบนถนน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They arrested him in a market.",
+"จับได้ที่ตลาด"
+],
+[
+"Not in this story.",
+"ไม่อยู่ในเรื่องนี้"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Mai do now?",
+"o": [
+"She keeps her phone in her bag on the bus.",
+"She never takes the bus.",
+"She doesn't have a phone.",
+"She works for the police."
+],
+"en": "'Now I always keep my phone in my bag on the bus.'",
+"th": "ตอนนี้เก็บโทรศัพท์ในกระเป๋าเวลาขึ้นรถเมล์",
+"x": [
+[
+"She still takes the bus.",
+"ยังขึ้นรถเมล์"
+],
+[
+"She got it back.",
+"ได้คืนแล้ว"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why did the class go to court?",
+"o": [
+"To watch a real trial",
+"Because something was stolen from them",
+"To meet the police",
+"To become lawyers that day"
+],
+"en": "'…visited the city court to watch a real trial.'",
+"th": "ไปดูการพิจารณาคดีจริง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What evidence did the shop owner's lawyer present?",
+"o": [
+"Security camera video and fingerprints",
+"A letter from the suspect",
+"The stolen jewellery",
+"A photo of the taxi"
+],
+"en": "'Security cameras had filmed a man… and his fingerprints were found.'",
+"th": "วิดีโอจากกล้องวงจรปิดและรอยนิ้วมือ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What did the witness see?",
+"o": [
+"A man running with a heavy bag",
+"The suspect buying jewellery",
+"A car accident",
+"The judge"
+],
+"en": "'…seeing the man running down the street with a heavy bag.'",
+"th": "เห็นผู้ชายวิ่งพร้อมกระเป๋าหนัก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How did the suspect's lawyer explain the fingerprints?",
+"o": [
+"The man had visited the shop earlier as a customer.",
+"They belonged to the taxi driver.",
+"The camera was broken.",
+"The victim was lying."
+],
+"en": "'…the fingerprints could have been left earlier, when the man had visited the shop as a customer.'",
+"th": "รอยนิ้วมืออาจเกิดตอนเขามาเป็นลูกค้า",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The lawyer said the video wasn't clear, not broken.",
+"ทนายบอกว่าวิดีโอไม่ชัด"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why didn't the man get a longer sentence?",
+"o": [
+"It was his first crime.",
+"The judge liked him.",
+"He gave back the jewellery.",
+"The witness changed his story."
+],
+"en": "'It was his first crime, and he had never tried to rob anyone before.'",
+"th": "เป็นความผิดครั้งแรก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "In some countries, who decides whether someone is guilty?",
+"o": [
+"A jury of ordinary citizens",
+"Only the police",
+"The victim",
+"The suspect's family"
+],
+"en": "'A jury of ordinary citizens decides whether someone is guilty.'",
+"th": "คณะลูกขุนซึ่งเป็นประชาชนทั่วไปเป็นผู้ตัดสิน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is a 'deterrent', according to the passage?",
+"o": [
+"Something that discourages people from committing crimes",
+"A type of prison",
+"A judge's decision",
+"A kind of evidence"
+],
+"en": "'…if people know they will spend years in jail, they will think twice.'",
+"th": "สิ่งที่ทำให้คนไม่กล้าทำผิด",
+"x": [
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"That's a verdict or sentence.",
+"นั่นคือคำตัดสิน"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do critics say about prison for young offenders?",
+"o": [
+"It may teach them more about crime than about honest work.",
+"It always stops them from reoffending.",
+"It is too short.",
+"It is too comfortable."
+],
+"en": "'Prison… can teach young offenders more about crime than about honest work.'",
+"th": "คุกอาจสอนเรื่องอาชญากรรมมากกว่าการทำงานสุจริต",
+"x": [
+[
+"They say many reoffend.",
+"หลายคนกลับไปทำผิดซ้ำ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How has forensic science changed justice?",
+"o": [
+"Alibis can be checked more accurately.",
+"Juries are no longer needed.",
+"Crime has stopped.",
+"Prisons are smaller."
+],
+"en": "'A suspect's alibi can now be checked far more accurately.'",
+"th": "ตรวจสอบข้ออ้างได้แม่นยำขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why is corruption a serious problem for the justice system?",
+"o": [
+"It destroys public trust in the law.",
+"It makes trials faster.",
+"It helps innocent people.",
+"It reduces crime."
+],
+"en": "'Public trust disappears, and the law loses its power.'",
+"th": "ความเชื่อมั่นของประชาชนหายไป",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

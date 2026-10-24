@@ -1,0 +1,1627 @@
+{
+"id": 27,
+"theme": "Art and culture",
+"v": [
+[
+"art",
+"noun",
+"A1",
+"ศิลปะ",
+"I love modern *art*."
+],
+[
+"artist",
+"noun",
+"A1",
+"ศิลปิน",
+"She is a famous *artist*."
+],
+[
+"paint",
+"verb",
+"A1",
+"วาดภาพ (ด้วยสี), ทาสี",
+"He *paints* pictures of the sea."
+],
+[
+"draw",
+"verb",
+"A1",
+"วาด (เส้น)",
+"Can you *draw* a horse?"
+],
+[
+"poem",
+"noun",
+"A1",
+"บทกวี",
+"She wrote a *poem* about her mother."
+],
+[
+"beautiful",
+"adjective",
+"A1",
+"สวยงาม",
+"What a *beautiful* painting!"
+],
+[
+"writer",
+"noun",
+"A1",
+"นักเขียน",
+"My uncle is a *writer*."
+],
+[
+"story",
+"noun",
+"A1",
+"เรื่องราว, นิทาน",
+"Tell me a *story*, please."
+],
+[
+"painting",
+"noun",
+"A2",
+"ภาพวาด (ด้วยสี)",
+"There's a big *painting* on the wall."
+],
+[
+"drawing",
+"noun",
+"A2",
+"ภาพวาดลายเส้น",
+"Her *drawings* are very detailed."
+],
+[
+"gallery",
+"noun",
+"A2",
+"หอศิลป์, แกลเลอรี",
+"We visited an art *gallery*."
+],
+[
+"theatre",
+"noun",
+"A2",
+"โรงละคร",
+"We saw a play at the *theatre*."
+],
+[
+"stage",
+"noun",
+"A2",
+"เวที",
+"The actors came onto the *stage*."
+],
+[
+"culture",
+"noun",
+"A2",
+"วัฒนธรรม",
+"I'm interested in Japanese *culture*."
+],
+[
+"traditional",
+"adjective",
+"A2",
+"ดั้งเดิม, ตามประเพณี",
+"She wore a *traditional* Thai dress."
+],
+[
+"design",
+"noun/verb",
+"A2",
+"การออกแบบ, ออกแบบ",
+"He *designs* furniture."
+],
+[
+"photograph",
+"noun",
+"A2",
+"ภาพถ่าย",
+"This *photograph* was taken in 1950."
+],
+[
+"talent",
+"noun",
+"A2",
+"พรสวรรค์",
+"She has a *talent* for music."
+],
+[
+"sculpture",
+"noun",
+"B1",
+"ประติมากรรม, รูปปั้น",
+"There's a metal *sculpture* in the park."
+],
+[
+"novel",
+"noun",
+"B1",
+"นวนิยาย",
+"I'm reading a great *novel*."
+],
+[
+"author",
+"noun",
+"B1",
+"ผู้แต่ง",
+"Who is the *author* of this book?"
+],
+[
+"craft",
+"noun",
+"B1",
+"งานฝีมือ, หัตถกรรม",
+"Basket weaving is a traditional *craft*."
+],
+[
+"pottery",
+"noun",
+"B1",
+"เครื่องปั้นดินเผา",
+"She makes beautiful *pottery*."
+],
+[
+"exhibition",
+"noun",
+"B1",
+"นิทรรศการ",
+"The *exhibition* opens next week."
+],
+[
+"portrait",
+"noun",
+"B1",
+"ภาพเหมือน (บุคคล)",
+"He painted a *portrait* of his wife."
+],
+[
+"creative",
+"adjective",
+"B1",
+"สร้างสรรค์",
+"She's very *creative*."
+],
+[
+"imagination",
+"noun",
+"B1",
+"จินตนาการ",
+"Use your *imagination*!"
+],
+[
+"inspire",
+"verb",
+"B1",
+"สร้างแรงบันดาลใจ",
+"Her story *inspired* me."
+],
+[
+"collection",
+"noun",
+"B1",
+"ของสะสม, คอลเลกชัน",
+"He has a big stamp *collection*."
+],
+[
+"masterpiece",
+"noun",
+"B2",
+"ผลงานชิ้นเอก",
+"This film is a *masterpiece*."
+],
+[
+"abstract",
+"adjective",
+"B2",
+"นามธรรม",
+"I don't understand *abstract* paintings."
+],
+[
+"contemporary",
+"adjective",
+"B2",
+"ร่วมสมัย",
+"The museum shows *contemporary* art."
+],
+[
+"curator",
+"noun",
+"B2",
+"ภัณฑารักษ์",
+"The *curator* chose the paintings for the show."
+],
+[
+"mural",
+"noun",
+"B2",
+"ภาพจิตรกรรมฝาผนัง",
+"There's a huge *mural* on the school wall."
+],
+[
+"graffiti",
+"noun",
+"B2",
+"กราฟฟิตี้, ภาพ/ข้อความพ่นบนกำแพง",
+"The wall was covered in *graffiti*."
+],
+[
+"aesthetic",
+"adjective/noun",
+"B2",
+"เกี่ยวกับความงาม, สุนทรียะ",
+"The building has great *aesthetic* value."
+],
+[
+"interpret",
+"verb",
+"B2",
+"ตีความ",
+"How do you *interpret* this poem?"
+],
+[
+"commission",
+"verb/noun",
+"B2",
+"ว่าจ้าง (ให้สร้างผลงาน), ค่านายหน้า",
+"The city *commissioned* a new statue."
+],
+[
+"literature",
+"noun",
+"B2",
+"วรรณกรรม",
+"She studied English *literature*."
+],
+[
+"auction",
+"noun",
+"B2",
+"การประมูล",
+"The painting was sold at *auction*."
+]
+],
+"p": [
+{
+"t": "My Aunt the Artist",
+"x": "My aunt Nid is an artist. She lives in Chiang Mai and has a small gallery in the old city. She paints pictures of the mountains, rice fields and temples. Her paintings are bright and beautiful, and tourists love them.\nWhen I visit her, she teaches me how to draw. \"Start with simple shapes,\" she says. My drawings aren't very good, but she always tells me I have talent. She also designs traditional Thai patterns for clothes and bags, and she says Thai culture gives her lots of ideas.\nLast year, a magazine took a photograph of her gallery and wrote a story about her. Now more people come to see her art. Aunt Nid says, \"Being an artist is not easy, but I love my job. I'm lucky because I can do what I enjoy every day.\" One day, I want to be a writer and tell stories like the ones in her paintings."
+},
+{
+"t": "Review: Hands of the North",
+"x": "\"Hands of the North\", a new exhibition at the Bangkok Art Centre, celebrates traditional crafts from northern Thailand. The collection includes more than 200 objects, from hand-woven silk and wooden sculptures to delicate pottery that is still made using methods hundreds of years old.\nThe most impressive part of the exhibition is a room of portraits. A young photographer spent two years visiting villages and photographing the craftspeople at work. Each portrait is displayed next to the object the person made, so visitors can see the face behind the art.\nThe exhibition also shows how these traditions inspire modern artists. One section displays creative designs by young Thai artists who combine old patterns with new materials. A famous novel about village life, written by a northern author in the 1950s, is quoted on the walls, adding a literary touch.\nOverall, the show is a wonderful example of imagination and skill. My only criticism is that some labels are only in Thai, so foreign visitors may miss important information."
+},
+{
+"t": "Vandalism or Masterpiece?",
+"x": "Few forms of art provoke as much debate as graffiti. To some, spray-painted words and images on public walls are simply vandalism that damages property and makes neighbourhoods look neglected. To others, graffiti is a powerful form of contemporary art, giving a voice to people who are excluded from traditional galleries.\nThe line between the two has become increasingly blurred. Some cities now commission artists to paint large murals on the sides of buildings, turning grey streets into tourist attractions. Works by the anonymous British artist Banksy, originally painted illegally, have been removed from walls and sold at auction for millions of pounds. Gallery curators who once ignored street art now organise major exhibitions of it.\nCritics argue that much modern art, from graffiti to abstract painting, lacks the skill of older masterpieces. Supporters reply that art has always challenged aesthetic rules, and that the meaning of a work depends on how viewers interpret it. After all, many novels now considered great literature were attacked when they were first published.\nPerhaps the real question is not whether graffiti is art, but who has the right to decide what art is."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "My little sister likes to ___ pictures of animals.",
+"o": [
+"draw",
+"drawn",
+"drew",
+"drawing"
+],
+"en": "'Like to' + base form: like to draw.",
+"th": "like to + กริยาช่อง 1: like to draw",
+"x": [
+[
+"'drawn' is the past participle.",
+"drawn เป็นช่อง 3"
+],
+[
+"'drew' is past.",
+"drew เป็นอดีต"
+],
+[
+"After 'to', no -ing.",
+"หลัง to ไม่ใช้ -ing"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Picasso was a famous ___.",
+"o": [
+"artist",
+"art",
+"arts",
+"artistic"
+],
+"en": "An artist is a person who makes art.",
+"th": "artist = ศิลปิน",
+"x": [
+[
+"Art is the thing, not the person.",
+"art = ศิลปะ ไม่ใช่คน"
+],
+[
+"'arts' is plural, not a person.",
+"arts ไม่ใช่คน"
+],
+[
+"'artistic' is an adjective.",
+"artistic เป็นคุณศัพท์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "What a ___ picture! I love the colours.",
+"o": [
+"beautiful",
+"beauty",
+"beautifully",
+"beautify"
+],
+"en": "Before a noun, use an adjective: beautiful.",
+"th": "หน้าคำนามใช้คุณศัพท์: beautiful",
+"x": [
+[
+"'beauty' is a noun.",
+"beauty เป็นคำนาม"
+],
+[
+"'beautifully' is an adverb.",
+"beautifully เป็นกริยาวิเศษณ์"
+],
+[
+"'beautify' is a verb.",
+"beautify เป็นกริยา"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "We had to write a short ___ about the sea.",
+"o": [
+"poem",
+"poet",
+"poetry",
+"post"
+],
+"en": "A poem is a piece of writing; 'a short poem'.",
+"th": "a poem = บทกวีหนึ่งบท",
+"x": [
+[
+"A poet is a person.",
+"poet = กวี"
+],
+[
+"'poetry' is uncountable; we can't say 'a poetry'.",
+"poetry นับไม่ได้ ไม่ใช้ a"
+],
+[
+"A post is an online message, which doesn't fit 'write about the sea' here.",
+"post = โพสต์ ไม่เข้ากับบริบท"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The Mona Lisa is a famous ___ by Leonardo da Vinci.",
+"o": [
+"painting",
+"painter",
+"paint",
+"painted"
+],
+"en": "A painting is a picture made with paint.",
+"th": "painting = ภาพวาด",
+"x": [
+[
+"A painter is a person.",
+"painter = จิตรกร"
+],
+[
+"Paint is the liquid colour.",
+"paint = สี"
+],
+[
+"'painted' is a verb form.",
+"painted เป็นกริยา"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "We went to the ___ to see a play.",
+"o": [
+"theatre",
+"theory",
+"therapy",
+"thermometer"
+],
+"en": "Plays are performed in a theatre.",
+"th": "ละครเวทีแสดงที่โรงละคร",
+"x": [
+[
+"A theory is an idea.",
+"theory = ทฤษฎี"
+],
+[
+"Therapy is treatment.",
+"therapy = การบำบัด"
+],
+[
+"A thermometer measures temperature.",
+"thermometer = เทอร์โมมิเตอร์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Thai ___ dance is very slow and elegant.",
+"o": [
+"traditional",
+"tradition",
+"traditionally",
+"trade"
+],
+"en": "Before a noun (dance), use an adjective.",
+"th": "หน้าคำนาม (dance) ใช้คุณศัพท์",
+"x": [
+[
+"'tradition' is a noun.",
+"tradition เป็นคำนาม"
+],
+[
+"'traditionally' is an adverb.",
+"traditionally เป็นกริยาวิเศษณ์"
+],
+[
+"'trade' means buying and selling.",
+"trade = การค้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She has a real ___ for music; she can play five instruments.",
+"o": [
+"talent",
+"talented",
+"tablet",
+"tenant"
+],
+"en": "'Have a talent for' = be naturally good at.",
+"th": "have a talent for = มีพรสวรรค์ด้าน...",
+"x": [
+[
+"'talented' is an adjective.",
+"talented เป็นคุณศัพท์"
+],
+[
+"A tablet is a device or pill.",
+"tablet = แท็บเล็ต ยาเม็ด"
+],
+[
+"A tenant rents a home.",
+"tenant = ผู้เช่า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Ernest Hemingway was the ___ of 'The Old Man and the Sea'.",
+"o": [
+"author",
+"authority",
+"audience",
+"artery"
+],
+"en": "The author is the person who wrote a book.",
+"th": "author = ผู้แต่ง",
+"x": [
+[
+"Authority is power or an official group.",
+"authority = อำนาจ"
+],
+[
+"The audience is people watching.",
+"audience = ผู้ชม"
+],
+[
+"An artery carries blood.",
+"artery = หลอดเลือดแดง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Children have a wonderful ___; they can invent amazing stories.",
+"o": [
+"imagination",
+"imaginary",
+"image",
+"immigration"
+],
+"en": "Imagination = the ability to create ideas in your mind.",
+"th": "imagination = จินตนาการ",
+"x": [
+[
+"'imaginary' is an adjective.",
+"imaginary เป็นคุณศัพท์"
+],
+[
+"An image is a picture.",
+"image = ภาพ"
+],
+[
+"Immigration is moving to a country.",
+"immigration = การย้ายถิ่นเข้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The museum has a large ___ of ancient Thai coins.",
+"o": [
+"collection",
+"connection",
+"correction",
+"collision"
+],
+"en": "A collection is a group of objects collected together.",
+"th": "collection = ของสะสม",
+"x": [
+[
+"A connection is a link.",
+"connection = การเชื่อมต่อ"
+],
+[
+"A correction fixes a mistake.",
+"correction = การแก้ไข"
+],
+[
+"A collision is a crash.",
+"collision = การชน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Her grandmother's stories ___ her to become a writer.",
+"o": [
+"inspired",
+"inspected",
+"insisted",
+"insulted"
+],
+"en": "Inspire = give someone the idea or wish to do something.",
+"th": "inspire = สร้างแรงบันดาลใจ",
+"x": [
+[
+"'inspect' means check carefully.",
+"inspect = ตรวจสอบ"
+],
+[
+"'insist' needs 'on' or 'that'.",
+"insist ต้องใช้ on หรือ that"
+],
+[
+"'insult' means say rude things.",
+"insult = ดูถูก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Many people think the Mona Lisa is Leonardo's ___.",
+"o": [
+"masterpiece",
+"mastermind",
+"masterclass",
+"master key"
+],
+"en": "A masterpiece is an artist's best work.",
+"th": "masterpiece = ผลงานชิ้นเอก",
+"x": [
+[
+"A mastermind plans something clever.",
+"mastermind = ผู้วางแผน"
+],
+[
+"A masterclass is a lesson from an expert.",
+"masterclass = ชั้นเรียนจากผู้เชี่ยวชาญ"
+],
+[
+"A master key opens many doors.",
+"master key = กุญแจผี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "I don't understand ___ art; it's just shapes and colours.",
+"o": [
+"abstract",
+"abstain",
+"absent",
+"absolute"
+],
+"en": "Abstract art doesn't show real objects.",
+"th": "abstract art = ศิลปะนามธรรม",
+"x": [
+[
+"'abstain' means not do something.",
+"abstain = งดเว้น"
+],
+[
+"'absent' means not present.",
+"absent = ขาด"
+],
+[
+"'absolute' means complete.",
+"absolute = สมบูรณ์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The painting was sold at ___ for 20 million dollars.",
+"o": [
+"auction",
+"action",
+"caution",
+"audition"
+],
+"en": "An auction is a sale where people bid.",
+"th": "auction = การประมูล",
+"x": [
+[
+"Action is doing something.",
+"action = การกระทำ"
+],
+[
+"Caution is care.",
+"caution = ความระมัดระวัง"
+],
+[
+"An audition is a test for performers.",
+"audition = การคัดเลือกนักแสดง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "My brother [is] [a] [famous] [artists].",
+"a": 3,
+"fix": "My brother is a famous artist.",
+"en": "After 'a', the noun is singular.",
+"th": "หลัง a ต้องเป็นเอกพจน์",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+],
+[
+"'famous' is correct.",
+"famous ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "We [went] to the gallery [and] [see] [some] paintings.",
+"a": 2,
+"fix": "We went to the gallery and saw some paintings.",
+"en": "Both verbs are past: saw.",
+"th": "กริยาทั้งสองเป็นอดีต: saw",
+"x": [
+[
+"'went' is correct.",
+"went ถูกต้อง"
+],
+[
+"'and' is correct.",
+"and ถูกต้อง"
+],
+[
+"'some' is correct.",
+"some ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Paint] is [my] [favourite] [hobby].",
+"a": 0,
+"fix": "Painting is my favourite hobby.",
+"en": "An activity as subject: Painting.",
+"th": "กิจกรรมเป็นประธาน: Painting",
+"x": [
+[
+"'my' is correct.",
+"my ถูกต้อง"
+],
+[
+"'favourite' is correct.",
+"favourite ถูกต้อง"
+],
+[
+"'hobby' is correct.",
+"hobby ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Who] [did paint] [this] [picture]?",
+"a": 1,
+"fix": "Who painted this picture?",
+"en": "When 'who' is the subject, don't use 'did': Who painted…?",
+"th": "เมื่อ who เป็นประธาน ไม่ใช้ did: Who painted...?",
+"x": [
+[
+"'Who' is correct.",
+"Who ถูกต้อง"
+],
+[
+"'this' is correct.",
+"this ถูกต้อง"
+],
+[
+"'picture' is correct.",
+"picture ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "The gallery has [a lot of] [beautiful] [painting] [from] Thailand.",
+"a": 2,
+"fix": "The gallery has a lot of beautiful paintings from Thailand.",
+"en": "'Painting' is countable, so after 'a lot of' it must be plural: paintings.",
+"th": "painting นับได้ หลัง a lot of ต้องเป็นพหูพจน์: paintings",
+"x": [
+[
+"'a lot of' is correct.",
+"a lot of ถูกต้อง"
+],
+[
+"'beautiful' is correct.",
+"beautiful ถูกต้อง"
+],
+[
+"'from' is correct.",
+"from ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "This novel [was written] [by] my favourite author [since] [1990].",
+"a": 2,
+"fix": "This novel was written by my favourite author in 1990.",
+"en": "With a past year and Past Simple passive, use 'in': in 1990.",
+"th": "ปีในอดีตกับ Past Simple ใช้ in: in 1990",
+"x": [
+[
+"'was written' is correct.",
+"was written ถูกต้อง"
+],
+[
+"'by' is correct.",
+"by ถูกต้อง"
+],
+[
+"'1990' is correct.",
+"1990 ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "I'm [looking forward] [to see] [the] exhibition [next] week.",
+"a": 1,
+"fix": "I'm looking forward to seeing the exhibition next week.",
+"en": "'Look forward to' + verb-ing.",
+"th": "look forward to + V-ing",
+"x": [
+[
+"'looking forward' is correct.",
+"looking forward ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'next' is correct.",
+"next ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "If I [had] more [talent], I [will] [become] an artist.",
+"a": 2,
+"fix": "If I had more talent, I would become an artist.",
+"en": "If + past (imaginary) goes with 'would'.",
+"th": "If + อดีต (สมมติ) ใช้ would",
+"x": [
+[
+"'had' is correct.",
+"had ถูกต้อง"
+],
+[
+"'talent' is correct.",
+"talent ถูกต้อง"
+],
+[
+"'become' is correct.",
+"become ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[It is] [this] painting, not the others, [that] [have] made her famous.",
+"a": 3,
+"fix": "It is this painting, not the others, that has made her famous.",
+"en": "The subject is 'this painting' (singular): has.",
+"th": "ประธานคือ this painting (เอกพจน์): has",
+"x": [
+[
+"'It is' is correct for emphasis.",
+"It is ถูกต้อง"
+],
+[
+"'this' is correct.",
+"this ถูกต้อง"
+],
+[
+"'that' is correct.",
+"that ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Painted] [in] 1503, [many people] [consider] it the greatest portrait ever.",
+"a": 2,
+"fix": "Painted in 1503, the Mona Lisa is considered by many people to be the greatest portrait ever.",
+"en": "The subject after the comma must be the thing that was painted, not 'many people'.",
+"th": "ประธานหลังจุลภาคต้องเป็นสิ่งที่ถูกวาด ไม่ใช่ many people",
+"x": [
+[
+"'Painted' is correct.",
+"Painted ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'consider' is correct in the fixed sentence form.",
+"consider ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can you draw?\nB: ___",
+"o": [
+"Yes, a little. I like drawing cats.",
+"Yes, I do.",
+"No, I'm a picture.",
+"It's a pen."
+],
+"en": "B answers 'Can you…?' correctly.",
+"th": "B ตอบ Can you...? ถูกต้อง",
+"x": [
+[
+"Wrong helping verb.",
+"กริยาช่วยผิด"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Look at my painting!\nB: ___",
+"o": [
+"Wow, it's beautiful!",
+"Thank you!",
+"I'm sorry.",
+"Goodbye."
+],
+"en": "B compliments the painting.",
+"th": "B ชมภาพวาด",
+"x": [
+[
+"A didn't give B anything.",
+"A ไม่ได้ให้อะไร"
+],
+[
+"Nothing bad happened.",
+"ไม่มีอะไรไม่ดี"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Who wrote this book?\nB: ___",
+"o": [
+"A Thai writer called Sri Burapha.",
+"Last year.",
+"It's a good story.",
+"In a library."
+],
+"en": "'Who' asks for a person.",
+"th": "Who ถามถึงคน",
+"x": [
+[
+"This answers 'When?'",
+"ตอบ When?"
+],
+[
+"Not a person.",
+"ไม่ใช่คน"
+],
+[
+"This answers 'Where?'",
+"ตอบ Where?"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Would you like to go to the theatre on Saturday?\nB: ___ Who's on stage?",
+"o": [
+"I'd love to!",
+"No, thanks.",
+"Sorry, I can't.",
+"I hate plays."
+],
+"en": "B asks for details, so B is interested.",
+"th": "B ถามรายละเอียด แสดงว่าสนใจ",
+"x": [
+[
+"It contradicts the interest.",
+"ขัดกับความสนใจ"
+],
+[
+"It contradicts the interest.",
+"ขัดกับความสนใจ"
+],
+[
+"It contradicts the interest.",
+"ขัดกับความสนใจ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What kind of photographs do you take?\nB: ___",
+"o": [
+"Mostly landscapes and street life.",
+"With my phone.",
+"Every day.",
+"In Chiang Mai."
+],
+"en": "'What kind' asks for a type.",
+"th": "What kind ถามประเภท",
+"x": [
+[
+"This answers 'How?'",
+"ตอบ How?"
+],
+[
+"This answers 'How often?'",
+"ตอบ How often?"
+],
+[
+"This answers 'Where?'",
+"ตอบ Where?"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Is this design traditional or modern?\nB: ___ It's based on an old Thai pattern.",
+"o": [
+"It's traditional.",
+"It's very modern.",
+"It's red.",
+"It's a design."
+],
+"en": "An old pattern means traditional.",
+"th": "ลายเก่าแสดงว่าเป็นแบบดั้งเดิม",
+"x": [
+[
+"It contradicts 'old pattern'.",
+"ขัดกับ ลายเก่า"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: What did you think of the exhibition?\nB: ___",
+"o": [
+"I loved the sculptures, but the paintings were a bit boring.",
+"It was on the second floor.",
+"It closes at six.",
+"I went with my sister."
+],
+"en": "B gives an opinion.",
+"th": "B ให้ความเห็น",
+"x": [
+[
+"This answers 'Where?'",
+"ตอบ Where?"
+],
+[
+"This answers 'When?'",
+"ตอบ When?"
+],
+[
+"This answers 'Who with?'",
+"ตอบ Who with?"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Where do you get the inspiration for your stories?\nB: ___",
+"o": [
+"Mostly from my childhood memories.",
+"From a bookshop.",
+"At night.",
+"On my laptop."
+],
+"en": "Inspiration is where ideas come from.",
+"th": "แรงบันดาลใจคือที่มาของความคิด",
+"x": [
+[
+"You buy books there; it's not inspiration.",
+"ร้านหนังสือไม่ใช่แรงบันดาลใจ"
+],
+[
+"This is a time.",
+"เป็นเวลา"
+],
+[
+"That's where B writes, not the source of ideas.",
+"เป็นที่เขียน ไม่ใช่ที่มาของความคิด"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I don't think graffiti should be called art.\nB: ___ Some of it is just vandalism, but some murals are amazing.",
+"o": [
+"It depends on the work.",
+"I totally agree; it's all rubbish.",
+"It's always art.",
+"Graffiti doesn't exist."
+],
+"en": "B sees both sides.",
+"th": "B มองทั้งสองด้าน",
+"x": [
+[
+"B praises some murals.",
+"B ชมบางชิ้น"
+],
+[
+"B calls some of it vandalism.",
+"B บอกว่าบางชิ้นเป็นการทำลาย"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: How would you interpret this abstract painting?\nB: ___",
+"o": [
+"To me, the dark colours suggest sadness or loss.",
+"It costs a million baht.",
+"It's in the gallery.",
+"It's a painting."
+],
+"en": "To interpret = explain the meaning.",
+"th": "interpret = ตีความหมาย",
+"x": [
+[
+"That's the price.",
+"เป็นราคา"
+],
+[
+"That's the location.",
+"เป็นที่ตั้ง"
+],
+[
+"That's not an interpretation.",
+"ไม่ใช่การตีความ"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where is Aunt Nid's gallery?",
+"o": [
+"In the old city of Chiang Mai",
+"In Bangkok",
+"In a shopping mall",
+"At a school"
+],
+"en": "'She lives in Chiang Mai and has a small gallery in the old city.'",
+"th": "แกลเลอรีอยู่ในเมืองเก่าเชียงใหม่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does she paint?",
+"o": [
+"Mountains, rice fields and temples",
+"People in cities",
+"Animals",
+"Cars"
+],
+"en": "'She paints pictures of the mountains, rice fields and temples.'",
+"th": "วาดภูเขา ทุ่งนา และวัด",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does she tell the writer about drawing?",
+"o": [
+"Start with simple shapes.",
+"Use only black.",
+"Draw very fast.",
+"Copy photographs."
+],
+"en": "'Start with simple shapes,' she says.",
+"th": "เริ่มจากรูปทรงง่ายๆ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What happened last year?",
+"o": [
+"A magazine wrote a story about her.",
+"She closed her gallery.",
+"She moved to Bangkok.",
+"She stopped painting."
+],
+"en": "'A magazine took a photograph of her gallery and wrote a story about her.'",
+"th": "นิตยสารเขียนเรื่องเกี่ยวกับเธอ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"She still paints.",
+"เธอยังวาดภาพ"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the writer want to be?",
+"o": [
+"A writer",
+"An artist",
+"A photographer",
+"A designer"
+],
+"en": "'One day, I want to be a writer.'",
+"th": "อยากเป็นนักเขียน",
+"x": [
+[
+"That's the aunt.",
+"นั่นคือคุณป้า"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does the exhibition celebrate?",
+"o": [
+"Traditional crafts from northern Thailand",
+"Modern Bangkok architecture",
+"European paintings",
+"Thai food"
+],
+"en": "'…celebrates traditional crafts from northern Thailand.'",
+"th": "หัตถกรรมพื้นบ้านภาคเหนือ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How old are some of the pottery methods?",
+"o": [
+"Hundreds of years old",
+"Ten years old",
+"Brand new",
+"Two years old"
+],
+"en": "'…methods hundreds of years old.'",
+"th": "หลายร้อยปี",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They're old.",
+"เป็นวิธีเก่า"
+],
+[
+"Two years is how long the photographer worked.",
+"สองปีคือเวลาที่ช่างภาพทำงาน"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is special about the portrait room?",
+"o": [
+"Each photo is shown next to the object the person made.",
+"The portraits are of famous people.",
+"Children painted the portraits.",
+"There are no labels."
+],
+"en": "'Each portrait is displayed next to the object the person made.'",
+"th": "ภาพถ่ายแต่ละภาพจัดแสดงคู่กับผลงานของคนนั้น",
+"x": [
+[
+"They're craftspeople in villages.",
+"เป็นช่างฝีมือในหมู่บ้าน"
+],
+[
+"A photographer made them.",
+"ช่างภาพเป็นผู้ถ่าย"
+],
+[
+"The problem is some labels are only in Thai.",
+"ปัญหาคือป้ายบางส่วนเป็นภาษาไทยเท่านั้น"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do the young artists in one section do?",
+"o": [
+"Combine old patterns with new materials",
+"Copy European art",
+"Make only pottery",
+"Sell food"
+],
+"en": "'…young Thai artists who combine old patterns with new materials.'",
+"th": "ผสมลวดลายเก่ากับวัสดุใหม่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is the reviewer's criticism?",
+"o": [
+"Some labels are only in Thai.",
+"The exhibition is too small.",
+"The tickets are too expensive.",
+"The portraits are boring."
+],
+"en": "'Some labels are only in Thai, so foreign visitors may miss important information.'",
+"th": "ป้ายบางส่วนเป็นภาษาไทยเท่านั้น",
+"x": [
+[
+"Over 200 objects.",
+"มีกว่า 200 ชิ้น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They're 'the most impressive part'.",
+"เป็นส่วนที่น่าประทับใจที่สุด"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do some people see graffiti as vandalism?",
+"o": [
+"It damages property and makes areas look neglected.",
+"It is too expensive.",
+"It is shown only in galleries.",
+"It is always abstract."
+],
+"en": "'…vandalism that damages property and makes neighbourhoods look neglected.'",
+"th": "ทำลายทรัพย์สินและทำให้ย่านดูถูกละเลย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It's on public walls.",
+"อยู่บนกำแพงสาธารณะ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What have some cities started doing?",
+"o": [
+"Commissioning artists to paint murals",
+"Banning all paintings",
+"Closing galleries",
+"Removing all street art"
+],
+"en": "'Some cities now commission artists to paint large murals.'",
+"th": "บางเมืองว่าจ้างศิลปินวาดภาพฝาผนัง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What happened to some of Banksy's works?",
+"o": [
+"They were removed from walls and sold for millions.",
+"They were destroyed by the police.",
+"Nobody ever saw them.",
+"They were painted in galleries."
+],
+"en": "'…have been removed from walls and sold at auction for millions of pounds.'",
+"th": "ถูกนำออกจากกำแพงและประมูลขายเป็นล้าน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They were painted on walls, illegally.",
+"วาดบนกำแพงอย่างผิดกฎหมาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How do supporters respond to criticism of modern art?",
+"o": [
+"Art has always challenged rules, and meaning depends on interpretation.",
+"Modern art needs more skill than old masterpieces.",
+"Graffiti should be illegal.",
+"Novels are better than paintings."
+],
+"en": "'Art has always challenged aesthetic rules, and… the meaning… depends on how viewers interpret it.'",
+"th": "ศิลปะท้าทายกฎเสมอ และความหมายขึ้นกับการตีความ",
+"x": [
+[
+"Not what they say.",
+"ไม่ใช่สิ่งที่พวกเขาพูด"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Novels are an example, not a comparison.",
+"นวนิยายเป็นตัวอย่าง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the writer suggest at the end?",
+"o": [
+"The real question is who decides what counts as art.",
+"Graffiti is definitely not art.",
+"All art should be in galleries.",
+"Curators should decide everything."
+],
+"en": "'…who has the right to decide what art is.'",
+"th": "คำถามที่แท้จริงคือใครมีสิทธิ์ตัดสินว่าอะไรคือศิลปะ",
+"x": [
+[
+"The writer doesn't decide.",
+"ผู้เขียนไม่ได้ตัดสิน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

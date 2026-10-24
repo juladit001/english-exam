@@ -1,0 +1,1627 @@
+{
+"id": 41,
+"theme": "Childhood",
+"v": [
+[
+"toy",
+"noun",
+"A1",
+"ของเล่น",
+"My son has too many *toys*."
+],
+[
+"doll",
+"noun",
+"A1",
+"ตุ๊กตา",
+"She plays with her *doll* every day."
+],
+[
+"play",
+"verb",
+"A1",
+"เล่น",
+"The children *play* in the garden."
+],
+[
+"baby",
+"noun",
+"A1",
+"ทารก",
+"The *baby* is sleeping."
+],
+[
+"child",
+"noun",
+"A1",
+"เด็ก",
+"When I was a *child*, I lived in Lampang."
+],
+[
+"young",
+"adjective",
+"A1",
+"อายุน้อย, เด็ก",
+"My parents met when they were *young*."
+],
+[
+"sweets",
+"noun",
+"A1",
+"ขนมหวาน, ลูกอม",
+"Don't eat too many *sweets*."
+],
+[
+"cry",
+"verb",
+"A1",
+"ร้องไห้",
+"The baby *cried* all night."
+],
+[
+"swing",
+"noun",
+"A2",
+"ชิงช้า",
+"She loves going on the *swing*."
+],
+[
+"playground",
+"noun",
+"A2",
+"สนามเด็กเล่น",
+"The school has a big *playground*."
+],
+[
+"kite",
+"noun",
+"A2",
+"ว่าว",
+"We flew a *kite* on the beach."
+],
+[
+"crayon",
+"noun",
+"A2",
+"สีเทียน",
+"The child drew a house with *crayons*."
+],
+[
+"cartoon",
+"noun",
+"A2",
+"การ์ตูน",
+"I watched *cartoons* every Saturday morning."
+],
+[
+"naughty",
+"adjective",
+"A2",
+"ซน, ดื้อ",
+"Don't be *naughty*!"
+],
+[
+"scared",
+"adjective",
+"A2",
+"กลัว",
+"I was *scared* of the dark."
+],
+[
+"grow up",
+"phrasal verb",
+"A2",
+"เติบโต",
+"I *grew up* in a small village."
+],
+[
+"pocket money",
+"noun",
+"A2",
+"เงินค่าขนม",
+"I got 20 baht *pocket money* a day."
+],
+[
+"chore",
+"noun",
+"A2",
+"งานบ้าน",
+"Washing the dishes was my *chore*."
+],
+[
+"nursery",
+"noun",
+"B1",
+"สถานรับเลี้ยงเด็ก, ห้องเด็กอ่อน",
+"My daughter goes to *nursery* three days a week."
+],
+[
+"bedtime story",
+"noun",
+"B1",
+"นิทานก่อนนอน",
+"Dad read me a *bedtime story* every night."
+],
+[
+"memory",
+"noun",
+"B1",
+"ความทรงจำ",
+"I have happy *memories* of my childhood."
+],
+[
+"spoil",
+"verb",
+"B1",
+"ตามใจจนเสียคน, ทำให้เสีย",
+"Grandparents often *spoil* their grandchildren."
+],
+[
+"strict",
+"adjective",
+"B1",
+"เข้มงวด",
+"My parents were very *strict*."
+],
+[
+"carefree",
+"adjective",
+"B1",
+"ไร้กังวล",
+"Those were *carefree* days."
+],
+[
+"toddler",
+"noun",
+"B1",
+"เด็กวัยหัดเดิน",
+"The *toddler* is learning to walk."
+],
+[
+"tantrum",
+"noun",
+"B1",
+"อาการโวยวาย (ของเด็ก)",
+"He had a *tantrum* in the supermarket."
+],
+[
+"treehouse",
+"noun",
+"B1",
+"บ้านต้นไม้",
+"We built a *treehouse* in the garden."
+],
+[
+"hide and seek",
+"noun",
+"B1",
+"เกมซ่อนหา",
+"Let's play *hide and seek*!"
+],
+[
+"curiosity",
+"noun",
+"B1",
+"ความอยากรู้อยากเห็น",
+"Children are full of *curiosity*."
+],
+[
+"nostalgic",
+"adjective",
+"B2",
+"คิดถึงอดีต",
+"Old songs make me feel *nostalgic*."
+],
+[
+"adolescence",
+"noun",
+"B2",
+"วัยรุ่น (ช่วงวัย)",
+"*Adolescence* can be a difficult time."
+],
+[
+"milestone",
+"noun",
+"B2",
+"หมุดหมายสำคัญ",
+"Walking is an important *milestone*."
+],
+[
+"nurture",
+"verb",
+"B2",
+"เลี้ยงดู, บ่มเพาะ",
+"Parents should *nurture* their children's talents."
+],
+[
+"formative",
+"adjective",
+"B2",
+"(ช่วง) สร้างรากฐาน, หล่อหลอม",
+"The *formative* years shape our personality."
+],
+[
+"vivid",
+"adjective",
+"B2",
+"ชัดเจน, สดใส",
+"I have a *vivid* memory of my first day at school."
+],
+[
+"cherish",
+"verb",
+"B2",
+"ทะนุถนอม, หวงแหน",
+"I *cherish* those moments with my grandmother."
+],
+[
+"reminisce",
+"verb",
+"B2",
+"รำลึกความหลัง",
+"We *reminisced* about our school days."
+],
+[
+"mischievous",
+"adjective",
+"B2",
+"ซุกซน, ชอบแกล้ง",
+"He had a *mischievous* smile."
+],
+[
+"overprotective",
+"adjective",
+"B2",
+"ปกป้องมากเกินไป",
+"*Overprotective* parents may limit independence."
+],
+[
+"unstructured",
+"adjective",
+"B2",
+"ไม่มีแบบแผนกำหนด, อิสระ",
+"*Unstructured* play helps creativity."
+]
+],
+"p": [
+{
+"t": "When I Was a Child",
+"x": "When I was a child, I lived with my grandparents in a small village. I didn't have many toys, but I was very happy. My sister had one doll, and I had a ball. Every day after school, we played with the other children in the street.\nMy grandmother always gave us sweets on Sundays, and my grandfather told us funny stories. I remember the day my baby brother was born. He cried all the time, and I was a bit jealous!\nWhen we were young, we didn't have a playground, but there was a big tree with a swing. In the windy season, we made kites from paper and flew them in the rice fields. I was sometimes naughty, and I was scared of the dark, but I loved my childhood. Now I live in Bangkok, but I still visit the village every year."
+},
+{
+"t": "Childhood Then and Now",
+"x": "Ask your grandparents about their childhood, and you will probably hear very different stories from your own. Fifty years ago, most children in Thailand grew up in the countryside. They played outside all day, climbed trees, built treehouses and played hide and seek until it got dark. Toys were simple, and many children made their own.\nChildren also helped at home. Every child had chores, such as feeding the chickens or washing clothes. Pocket money was rare. Parents were often strict, and children were expected to be quiet and polite.\nToday, many children grow up in cities. Toddlers go to nursery, and older children spend hours on homework and extra classes. Instead of crayons and paper, they draw on tablets, and they watch cartoons on YouTube rather than on TV once a week. Some parents spoil their children with expensive gifts, and a toddler's tantrum in a shopping mall is a common sight.\nBut some things never change. Children still love bedtime stories, and they are still full of curiosity about the world. And most adults, looking back, remember their childhood as a carefree time and have happy memories of it."
+},
+{
+"t": "Why Childhood Matters",
+"x": "Psychologists have long argued that the experiences of early childhood are formative, shaping who we become as adults. The relationships children form, the way they are nurtured, and the opportunities they have to explore all leave lasting effects, many of which become clear only in adolescence or later.\nOne area that has attracted growing attention is play. Researchers distinguish between structured activities, such as music lessons or sports clubs, and unstructured play, in which children invent their own games without adult direction. Unstructured play, it seems, is especially valuable: it develops creativity, problem-solving and the ability to manage emotions. Yet in many societies it is disappearing. Busy schedules, concerns about safety and the attraction of screens mean that children spend far less time playing freely outdoors than previous generations did.\nSome experts blame overprotective parenting. Out of understandable fear, parents may prevent children from taking small risks, such as climbing a tree or walking to school alone, which help them build confidence and independence. A mischievous adventure that ends in a scraped knee, they argue, can teach more than an afternoon of supervised activities.\nIt is also worth noting how memory shapes our view of the past. Adults often feel nostalgic about their early years, reminiscing about long summers and simple pleasures. These vivid recollections are not always accurate, but they reveal what we cherish. Perhaps the most important milestone of childhood is not learning to read or walk, but learning that the world is a place worth exploring."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "My little sister loves her ___; she gives it a name and dresses it.",
+"o": [
+"doll",
+"dull",
+"dole",
+"dollar"
+],
+"en": "A doll is a toy that looks like a person.",
+"th": "doll = ตุ๊กตา",
+"x": [
+[
+"'dull' means boring.",
+"dull = น่าเบื่อ"
+],
+[
+"The dole is unemployment money.",
+"dole = เงินช่วยคนว่างงาน"
+],
+[
+"A dollar is money.",
+"dollar = ดอลลาร์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The baby started to ___ because she was hungry.",
+"o": [
+"cry",
+"dry",
+"try",
+"fry"
+],
+"en": "Babies cry when they need something.",
+"th": "ทารกร้องไห้เมื่อหิว",
+"x": [
+[
+"'dry' means remove water.",
+"dry = ทำให้แห้ง"
+],
+[
+"'try' means attempt.",
+"try = พยายาม"
+],
+[
+"'fry' is cooking in oil.",
+"fry = ทอด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "When I was ___, I lived in Chiang Rai.",
+"o": [
+"young",
+"yellow",
+"yours",
+"yearly"
+],
+"en": "When I was young = when I was a child.",
+"th": "when I was young = ตอนเด็ก",
+"x": [
+[
+"'yellow' is a colour.",
+"yellow = สีเหลือง"
+],
+[
+"'yours' is a pronoun.",
+"yours = ของคุณ"
+],
+[
+"'yearly' means every year.",
+"yearly = ทุกปี"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Too many ___ are bad for your teeth.",
+"o": [
+"sweets",
+"sweaters",
+"seats",
+"streets"
+],
+"en": "Sweets contain sugar.",
+"th": "ขนมหวานมีน้ำตาล",
+"x": [
+[
+"Sweaters are clothes.",
+"sweater = เสื้อกันหนาว"
+],
+[
+"Seats are for sitting.",
+"seat = ที่นั่ง"
+],
+[
+"Streets are roads.",
+"street = ถนน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "On windy days, we flew a ___ in the park.",
+"o": [
+"kite",
+"kit",
+"kitten",
+"kettle"
+],
+"en": "You fly a kite in the wind.",
+"th": "เล่นว่าวตอนลมแรง",
+"x": [
+[
+"A kit is a set of equipment.",
+"kit = ชุดอุปกรณ์"
+],
+[
+"A kitten is a young cat.",
+"kitten = ลูกแมว"
+],
+[
+"A kettle boils water.",
+"kettle = กาต้มน้ำ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Don't be ___! Stop pulling your sister's hair.",
+"o": [
+"naughty",
+"naughtily",
+"nasty-ly",
+"nightly"
+],
+"en": "Naughty = behaving badly (children).",
+"th": "naughty = ซน ดื้อ",
+"x": [
+[
+"'naughtily' is an adverb.",
+"naughtily เป็นกริยาวิเศษณ์"
+],
+[
+"Not a real word.",
+"ไม่มีคำนี้"
+],
+[
+"'nightly' means every night.",
+"nightly = ทุกคืน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I ___ up in a small village near the sea.",
+"o": [
+"grew",
+"grow",
+"grown",
+"growing"
+],
+"en": "Past: grew up.",
+"th": "อดีต: grew up",
+"x": [
+[
+"Present doesn't fit a past story.",
+"ปัจจุบันไม่เข้ากับเรื่องในอดีต"
+],
+[
+"'grown' needs 'have'.",
+"grown ต้องมี have"
+],
+[
+"'growing' needs 'was'.",
+"growing ต้องมี was"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My weekly ___ was washing the car.",
+"o": [
+"chore",
+"chair",
+"choir",
+"cheer"
+],
+"en": "A chore is a regular housework task.",
+"th": "chore = งานบ้าน",
+"x": [
+[
+"A chair is furniture.",
+"chair = เก้าอี้"
+],
+[
+"A choir sings.",
+"choir = คณะประสานเสียง"
+],
+[
+"A cheer is a shout of support.",
+"cheer = เสียงเชียร์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The ___ threw himself on the floor and screamed because he wanted chocolate.",
+"o": [
+"toddler",
+"toddle",
+"tuner",
+"toddy"
+],
+"en": "A toddler is a very young child.",
+"th": "toddler = เด็กวัยหัดเดิน",
+"x": [
+[
+"'toddle' is a verb.",
+"toddle เป็นกริยา"
+],
+[
+"A tuner adjusts instruments.",
+"tuner = เครื่องปรับเสียง"
+],
+[
+"Toddy is a drink.",
+"toddy = เหล้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "My grandparents ___ me with presents every time I visit.",
+"o": [
+"spoil",
+"spill",
+"spoon",
+"spell"
+],
+"en": "Spoil = give too much to a child.",
+"th": "spoil = ตามใจ",
+"x": [
+[
+"'spill' means drop liquid.",
+"spill = ทำหก"
+],
+[
+"A spoon is cutlery.",
+"spoon = ช้อน"
+],
+[
+"'spell' means say letters.",
+"spell = สะกด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "We weren't allowed to watch TV on school nights. My parents were very ___.",
+"o": [
+"strict",
+"street",
+"stretched",
+"striped"
+],
+"en": "Strict = with many rules.",
+"th": "strict = เข้มงวด",
+"x": [
+[
+"A street is a road.",
+"street = ถนน"
+],
+[
+"'stretched' means pulled longer.",
+"stretched = ยืด"
+],
+[
+"'striped' has stripes.",
+"striped = มีลาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I have lovely ___ of holidays at my grandparents' farm.",
+"o": [
+"memories",
+"memorials",
+"memos",
+"members"
+],
+"en": "Memories = things you remember.",
+"th": "memory = ความทรงจำ",
+"x": [
+[
+"Memorials remember the dead.",
+"memorial = อนุสรณ์"
+],
+[
+"Memos are notes.",
+"memo = บันทึก"
+],
+[
+"Members belong to groups.",
+"member = สมาชิก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Looking at old photos always makes me feel ___.",
+"o": [
+"nostalgic",
+"neurotic",
+"narcotic",
+"nomadic"
+],
+"en": "Nostalgic = longing for the past.",
+"th": "nostalgic = คิดถึงอดีต",
+"x": [
+[
+"'neurotic' means anxious.",
+"neurotic = วิตกจริต"
+],
+[
+"'narcotic' relates to drugs.",
+"narcotic = ยาเสพติด"
+],
+[
+"'nomadic' means moving around.",
+"nomadic = เร่ร่อน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Taking his first steps was an important ___ for my son.",
+"o": [
+"milestone",
+"millstone",
+"milkshake",
+"mile"
+],
+"en": "A milestone is an important stage.",
+"th": "milestone = หมุดหมายสำคัญ",
+"x": [
+[
+"A millstone is a heavy burden or grinding stone.",
+"millstone = หินโม่ ภาระหนัก"
+],
+[
+"A milkshake is a drink.",
+"milkshake = มิลค์เชค"
+],
+[
+"A mile is a distance.",
+"mile = ไมล์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Good teachers ___ children's natural curiosity.",
+"o": [
+"nurture",
+"nature",
+"neuter",
+"nurse's"
+],
+"en": "Nurture = help something develop.",
+"th": "nurture = บ่มเพาะ",
+"x": [
+[
+"'nature' is a noun.",
+"nature = ธรรมชาติ"
+],
+[
+"'neuter' means remove reproductive organs.",
+"neuter = ทำหมัน"
+],
+[
+"Possessive form doesn't fit.",
+"รูปแสดงความเป็นเจ้าของไม่เข้า"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Childs] [like] [playing] [with] toys.",
+"a": 0,
+"fix": "Children like playing with toys.",
+"en": "The plural of 'child' is 'children'.",
+"th": "พหูพจน์ของ child คือ children",
+"x": [
+[
+"'like' is correct.",
+"like ถูกต้อง"
+],
+[
+"'playing' is correct.",
+"playing ถูกต้อง"
+],
+[
+"'with' is correct.",
+"with ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Was] you [happy] [when] you were [a child]?",
+"a": 0,
+"fix": "Were you happy when you were a child?",
+"en": "'You' takes 'Were'.",
+"th": "you ใช้ Were",
+"x": [
+[
+"'happy' is correct.",
+"happy ถูกต้อง"
+],
+[
+"'when' is correct.",
+"when ถูกต้อง"
+],
+[
+"'a child' is correct.",
+"a child ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[When] I [was] [a child], I [use to] play in the street.",
+"a": 3,
+"fix": "When I was a child, I used to play in the street.",
+"en": "Past habit: used to.",
+"th": "นิสัยในอดีต: used to",
+"x": [
+[
+"'When' is correct.",
+"When ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'a child' is correct.",
+"a child ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Me] and my sister [often] [played] [together].",
+"a": 0,
+"fix": "My sister and I often played together.",
+"en": "Subject pronoun: I (and put yourself last).",
+"th": "ประธานใช้ I (และวางตัวเองไว้ท้าย)",
+"x": [
+[
+"'often' is correct.",
+"often ถูกต้อง"
+],
+[
+"'played' is correct.",
+"played ถูกต้อง"
+],
+[
+"'together' is correct.",
+"together ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "My grandmother [gave] [us] [a lot of] [sweet] on Sundays.",
+"a": 3,
+"fix": "My grandmother gave us a lot of sweets on Sundays.",
+"en": "Countable plural: sweets.",
+"th": "นามนับได้พหูพจน์: sweets",
+"x": [
+[
+"'gave' is correct.",
+"gave ถูกต้อง"
+],
+[
+"'us' is correct.",
+"us ถูกต้อง"
+],
+[
+"'a lot of' is correct.",
+"a lot of ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[I] [was] [used to] [be] scared of the dark.",
+"a": 1,
+"fix": "I used to be scared of the dark.",
+"en": "Past habit: 'used to + verb' (no 'was').",
+"th": "นิสัยในอดีต: used to + V1 (ไม่มี was)",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'used to' is correct without 'was'.",
+"used to ถูกต้องเมื่อไม่มี was"
+],
+[
+"'be' is correct after 'used to'.",
+"be ถูกต้องหลัง used to"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[My] parents [didn't let] me [to watch] TV [after] 8 p.m.",
+"a": 2,
+"fix": "My parents didn't let me watch TV after 8 p.m.",
+"en": "'Let someone do' (no 'to').",
+"th": "let someone do (ไม่มี to)",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'didn't let' is correct.",
+"didn't let ถูกต้อง"
+],
+[
+"'after' is correct.",
+"after ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Every] children in the village [knew] [each] [other].",
+"a": 0,
+"fix": "All the children in the village knew each other.",
+"en": "'Every' needs a singular noun, but 'knew each other' needs a plural subject, so use 'All the children'.",
+"th": "every ต้องตามด้วยนามเอกพจน์ แต่ each other ต้องใช้ประธานพหูพจน์ จึงใช้ All the children",
+"x": [
+[
+"'knew' is correct.",
+"knew ถูกต้อง"
+],
+[
+"'each' is correct.",
+"each ถูกต้อง"
+],
+[
+"'other' is correct.",
+"other ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Little] [did] I [know] that those days [will] soon end.",
+"a": 3,
+"fix": "Little did I know that those days would soon end.",
+"en": "Reported past: would (future in the past).",
+"th": "อนาคตในอดีต: would",
+"x": [
+[
+"'Little' is correct inversion.",
+"Little ถูกต้อง"
+],
+[
+"'did' is correct.",
+"did ถูกต้อง"
+],
+[
+"'know' is correct after 'did'.",
+"know ถูกต้องหลัง did"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Children] [who] are allowed [to take] small risks [tends] to be more confident.",
+"a": 3,
+"fix": "Children who are allowed to take small risks tend to be more confident.",
+"en": "Plural subject 'children': tend.",
+"th": "ประธานพหูพจน์ children: tend",
+"x": [
+[
+"'Children' is correct.",
+"Children ถูกต้อง"
+],
+[
+"'who' is correct.",
+"who ถูกต้อง"
+],
+[
+"'to take' is correct.",
+"to take ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What was your favourite toy?\nB: ___",
+"o": [
+"A red car.",
+"At home.",
+"When I was five.",
+"Yes, it was."
+],
+"en": "B names a toy.",
+"th": "B บอกชื่อของเล่น",
+"x": [
+[
+"Place.",
+"สถานที่"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Why is the baby crying?\nB: ___",
+"o": [
+"I think she's hungry.",
+"She's a baby.",
+"At night.",
+"Yes, she is."
+],
+"en": "B gives a reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Not a reason.",
+"ไม่ใช่เหตุผล"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can I have some sweets, Mum?\nB: ___ It's nearly dinner time.",
+"o": [
+"Not now.",
+"Yes, eat them all.",
+"Sweets are sweet.",
+"Thank you."
+],
+"en": "Dinner soon → not now.",
+"th": "ใกล้มื้อเย็น จึงยังไม่ให้",
+"x": [
+[
+"It contradicts the reason.",
+"ขัดกับเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Where did you grow up?\nB: ___",
+"o": [
+"In a small town near Khon Kaen.",
+"When I was ten.",
+"With my parents and brother.",
+"Very happily."
+],
+"en": "'Where' asks for a place.",
+"th": "where ถามสถานที่",
+"x": [
+[
+"Time.",
+"เวลา"
+],
+[
+"People.",
+"บุคคล"
+],
+[
+"Manner.",
+"ลักษณะ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Were you scared of anything as a child?\nB: ___ I always slept with the light on.",
+"o": [
+"Yes, the dark.",
+"No, nothing.",
+"I'm scared now.",
+"Children are scared."
+],
+"en": "Light on → scared of the dark.",
+"th": "เปิดไฟนอน แสดงว่ากลัวความมืด",
+"x": [
+[
+"It contradicts the light.",
+"ขัดกับการเปิดไฟ"
+],
+[
+"Not about childhood.",
+"ไม่เกี่ยวกับวัยเด็ก"
+],
+[
+"Too general.",
+"กว้างเกินไป"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Did you get pocket money?\nB: ___ but I had to do chores for it.",
+"o": [
+"Yes, a little,",
+"No, never,",
+"I'm rich,",
+"Money is paper,"
+],
+"en": "'But I had to do chores for it' → B got some.",
+"th": "ต้องทำงานบ้านแลก แสดงว่าได้",
+"x": [
+[
+"It contradicts 'for it'.",
+"ขัดกับ for it"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: My son had a huge tantrum in the shop today.\nB: ___ Mine did the same at that age.",
+"o": [
+"Don't worry, it's completely normal for toddlers.",
+"You should punish him for a month.",
+"Children never do that.",
+"Leave him in the shop."
+],
+"en": "B reassures A.",
+"th": "B ปลอบใจ A",
+"x": [
+[
+"Too harsh.",
+"รุนแรงเกินไป"
+],
+[
+"It contradicts 'Mine did the same'.",
+"ขัดกับ Mine did the same"
+],
+[
+"Unsafe and unkind.",
+"ไม่ปลอดภัยและใจร้าย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Do you think grandparents spoil children?\nB: ___ but that's part of their job!",
+"o": [
+"A little,",
+"Never,",
+"They don't see them,",
+"Spoil means rotten,"
+],
+"en": "B agrees with humour.",
+"th": "B เห็นด้วยอย่างมีอารมณ์ขัน",
+"x": [
+[
+"'but that's their job' suggests yes.",
+"แสดงว่าใช่"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Wrong meaning here.",
+"ความหมายผิด"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Kids today have it so much easier than we did.\nB: ___ They have more comforts, but they also face pressures we never had, like social media.",
+"o": [
+"I'm not sure that's entirely true.",
+"Exactly, their lives are perfect.",
+"Kids today don't exist.",
+"We had it easier."
+],
+"en": "B partly disagrees.",
+"th": "B ไม่เห็นด้วยบางส่วน",
+"x": [
+[
+"B mentions pressures.",
+"B พูดถึงแรงกดดัน"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not B's point.",
+"ไม่ใช่ประเด็นของ B"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I never let my daughter climb trees; it's too dangerous.\nB: ___ Small risks can actually help children build confidence.",
+"o": [
+"I understand your worry, but perhaps you're being a bit overprotective.",
+"Good, trees are always dangerous.",
+"Let her climb mountains instead.",
+"Children shouldn't go outside."
+],
+"en": "B tactfully disagrees.",
+"th": "B ไม่เห็นด้วยอย่างนุ่มนวล",
+"x": [
+[
+"It contradicts B's point.",
+"ขัดกับประเด็นของ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Too extreme.",
+"สุดโต่งเกินไป"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Who did the writer live with as a child?",
+"o": [
+"Grandparents",
+"Parents in Bangkok",
+"An aunt",
+"Alone"
+],
+"en": "'I lived with my grandparents in a small village.'",
+"th": "ปู่ย่า/ตายาย",
+"x": [
+[
+"They live in Bangkok now.",
+"ตอนนี้อยู่กรุงเทพฯ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What toy did the writer have?",
+"o": [
+"A ball",
+"A doll",
+"A bike",
+"A kite from a shop"
+],
+"en": "'…and I had a ball.'",
+"th": "ลูกบอล",
+"x": [
+[
+"The sister had a doll.",
+"พี่/น้องสาวมีตุ๊กตา"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They made kites.",
+"พวกเขาทำว่าวเอง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How did the writer feel when the baby brother was born?",
+"o": [
+"A bit jealous",
+"Very angry",
+"Scared",
+"Sad"
+],
+"en": "'I was a bit jealous!'",
+"th": "อิจฉาเล็กน้อย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not about the baby.",
+"ไม่เกี่ยวกับน้อง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where was the swing?",
+"o": [
+"On a big tree",
+"In a playground",
+"At school",
+"In the house"
+],
+"en": "'There was a big tree with a swing.'",
+"th": "บนต้นไม้ใหญ่",
+"x": [
+[
+"They didn't have a playground.",
+"ไม่มีสนามเด็กเล่น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What were the kites made from?",
+"o": [
+"Paper",
+"Plastic",
+"Wood only",
+"Cloth"
+],
+"en": "'We made kites from paper.'",
+"th": "กระดาษ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Where did most Thai children grow up fifty years ago?",
+"o": [
+"In the countryside",
+"In big cities",
+"Abroad",
+"In nurseries"
+],
+"en": "'…most children in Thailand grew up in the countryside.'",
+"th": "ชนบท",
+"x": [
+[
+"That's today.",
+"นั่นคือปัจจุบัน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which was a typical chore in the past?",
+"o": [
+"Feeding the chickens",
+"Doing homework on a tablet",
+"Going to nursery",
+"Watching cartoons"
+],
+"en": "'…such as feeding the chickens or washing clothes.'",
+"th": "ให้อาหารไก่",
+"x": [
+[
+"That's today.",
+"นั่นคือปัจจุบัน"
+],
+[
+"Not a chore.",
+"ไม่ใช่งานบ้าน"
+],
+[
+"Not a chore.",
+"ไม่ใช่งานบ้าน"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How were children expected to behave in the past?",
+"o": [
+"Quietly and politely",
+"Loudly",
+"Like adults",
+"However they liked"
+],
+"en": "'…children were expected to be quiet and polite.'",
+"th": "เงียบและสุภาพ",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Parents were strict.",
+"พ่อแม่เข้มงวด"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How do many children watch cartoons today?",
+"o": [
+"On YouTube",
+"On TV once a week",
+"At the cinema",
+"They don't watch them"
+],
+"en": "'…they watch cartoons on YouTube rather than on TV once a week.'",
+"th": "บน YouTube",
+"x": [
+[
+"That was the past.",
+"นั่นคืออดีต"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They do.",
+"พวกเขาดู"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What has NOT changed, according to the passage?",
+"o": [
+"Children's love of bedtime stories",
+"The number of chores",
+"How strict parents are",
+"Where children grow up"
+],
+"en": "'Children still love bedtime stories.'",
+"th": "เด็กยังชอบนิทานก่อนนอน",
+"x": [
+[
+"That has changed.",
+"เปลี่ยนไปแล้ว"
+],
+[
+"That has changed.",
+"เปลี่ยนไปแล้ว"
+],
+[
+"That has changed.",
+"เปลี่ยนไปแล้ว"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is unstructured play?",
+"o": [
+"Play in which children invent their own games without adults directing",
+"Music lessons",
+"Organised sports clubs",
+"Playing video games with rules"
+],
+"en": "'…unstructured play, in which children invent their own games without adult direction.'",
+"th": "การเล่นที่เด็กคิดเกมเองโดยไม่มีผู้ใหญ่กำกับ",
+"x": [
+[
+"That's structured.",
+"นั่นคือแบบมีโครงสร้าง"
+],
+[
+"That's structured.",
+"นั่นคือแบบมีโครงสร้าง"
+],
+[
+"Not described.",
+"ไม่ได้อธิบาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which is NOT given as a reason why unstructured play is disappearing?",
+"o": [
+"Children dislike playing outside",
+"Busy schedules",
+"Concerns about safety",
+"The attraction of screens"
+],
+"en": "The passage doesn't say children dislike it.",
+"th": "ไม่ได้บอกว่าเด็กไม่ชอบเล่นข้างนอก",
+"x": [
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "According to some experts, why can small risks be good?",
+"o": [
+"They help children build confidence and independence.",
+"They make parents less busy.",
+"They prevent all injuries.",
+"They improve exam results."
+],
+"en": "'…small risks… help them build confidence and independence.'",
+"th": "ช่วยสร้างความมั่นใจและความเป็นอิสระ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the writer say about adults' childhood memories?",
+"o": [
+"They aren't always accurate, but they show what we value.",
+"They are always completely accurate.",
+"They are mostly negative.",
+"They are not important."
+],
+"en": "'These vivid recollections are not always accurate, but they reveal what we cherish.'",
+"th": "ไม่แม่นยำเสมอ แต่แสดงสิ่งที่เราให้คุณค่า",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Adults feel nostalgic.",
+"ผู้ใหญ่คิดถึงอดีต"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the writer consider 'the most important milestone'?",
+"o": [
+"Learning that the world is worth exploring",
+"Learning to read",
+"Learning to walk",
+"Starting school"
+],
+"en": "'…learning that the world is a place worth exploring.'",
+"th": "เรียนรู้ว่าโลกน่าสำรวจ",
+"x": [
+[
+"The writer says 'not learning to read'.",
+"ผู้เขียนบอกว่าไม่ใช่"
+],
+[
+"The writer says 'not… walk'.",
+"ผู้เขียนบอกว่าไม่ใช่"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

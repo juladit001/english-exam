@@ -1,0 +1,1627 @@
+{
+"id": 45,
+"theme": "Medicine",
+"v": [
+[
+"sick",
+"adjective",
+"A1",
+"ป่วย",
+"I feel *sick* today."
+],
+[
+"pain",
+"noun",
+"A1",
+"ความเจ็บปวด",
+"I have a *pain* in my back."
+],
+[
+"pill",
+"noun",
+"A1",
+"ยาเม็ด",
+"Take one *pill* after breakfast."
+],
+[
+"blood",
+"noun",
+"A1",
+"เลือด",
+"The nurse took some *blood*."
+],
+[
+"heart",
+"noun",
+"A1",
+"หัวใจ",
+"Exercise is good for your *heart*."
+],
+[
+"arm",
+"noun",
+"A1",
+"แขน",
+"I broke my *arm* playing football."
+],
+[
+"tooth",
+"noun",
+"A1",
+"ฟัน",
+"My *tooth* hurts."
+],
+[
+"body",
+"noun",
+"A1",
+"ร่างกาย",
+"Water is important for your *body*."
+],
+[
+"injection",
+"noun",
+"A2",
+"การฉีดยา",
+"The nurse gave me an *injection*."
+],
+[
+"operation",
+"noun",
+"A2",
+"การผ่าตัด",
+"He needs an *operation* on his knee."
+],
+[
+"pharmacy",
+"noun",
+"A2",
+"ร้านขายยา",
+"You can buy it at the *pharmacy*."
+],
+[
+"clinic",
+"noun",
+"A2",
+"คลินิก",
+"There's a small *clinic* near my house."
+],
+[
+"appointment",
+"noun",
+"A2",
+"การนัดหมาย",
+"I have a doctor's *appointment* at 3."
+],
+[
+"x-ray",
+"noun",
+"A2",
+"เอกซเรย์",
+"The *x-ray* showed a broken bone."
+],
+[
+"bandage",
+"noun",
+"A2",
+"ผ้าพันแผล",
+"The nurse put a *bandage* on my hand."
+],
+[
+"thermometer",
+"noun",
+"A2",
+"เทอร์โมมิเตอร์, ปรอทวัดไข้",
+"Use a *thermometer* to check your temperature."
+],
+[
+"stomach",
+"noun",
+"A2",
+"ท้อง, กระเพาะ",
+"I have a *stomach* ache."
+],
+[
+"bone",
+"noun",
+"A2",
+"กระดูก",
+"He broke a *bone* in his foot."
+],
+[
+"surgeon",
+"noun",
+"B1",
+"ศัลยแพทย์",
+"The *surgeon* operated for six hours."
+],
+[
+"cure",
+"noun/verb",
+"B1",
+"การรักษาให้หาย, รักษาให้หาย",
+"There is no *cure* for the common cold."
+],
+[
+"vaccine",
+"noun",
+"B1",
+"วัคซีน",
+"The *vaccine* protects against measles."
+],
+[
+"antibiotic",
+"noun",
+"B1",
+"ยาปฏิชีวนะ",
+"The doctor gave me *antibiotics*."
+],
+[
+"allergy",
+"noun",
+"B1",
+"อาการแพ้",
+"I have an *allergy* to peanuts."
+],
+[
+"disease",
+"noun",
+"B1",
+"โรค",
+"Heart *disease* is very common."
+],
+[
+"wound",
+"noun",
+"B1",
+"บาดแผล",
+"Clean the *wound* carefully."
+],
+[
+"heal",
+"verb",
+"B1",
+"(แผล) หาย, รักษา",
+"The cut *healed* in a week."
+],
+[
+"dose",
+"noun",
+"B1",
+"ขนาดยา (ต่อครั้ง)",
+"Don't take more than the stated *dose*."
+],
+[
+"specialist",
+"noun",
+"B1",
+"แพทย์ผู้เชี่ยวชาญ",
+"She was sent to a heart *specialist*."
+],
+[
+"organ",
+"noun",
+"B1",
+"อวัยวะ",
+"The heart is a vital *organ*."
+],
+[
+"epidemic",
+"noun",
+"B2",
+"โรคระบาด (ในพื้นที่)",
+"There was a flu *epidemic* last winter."
+],
+[
+"pandemic",
+"noun",
+"B2",
+"โรคระบาดทั่วโลก",
+"The COVID-19 *pandemic* changed the world."
+],
+[
+"immunity",
+"noun",
+"B2",
+"ภูมิคุ้มกัน",
+"Vaccines give you *immunity*."
+],
+[
+"transplant",
+"noun",
+"B2",
+"การปลูกถ่าย (อวัยวะ)",
+"She had a kidney *transplant*."
+],
+[
+"donor",
+"noun",
+"B2",
+"ผู้บริจาค",
+"He is a blood *donor*."
+],
+[
+"anaesthetic",
+"noun",
+"B2",
+"ยาสลบ, ยาชา",
+"The operation was done under *anaesthetic*."
+],
+[
+"placebo",
+"noun",
+"B2",
+"ยาหลอก",
+"Some patients were given a *placebo*."
+],
+[
+"clinical trial",
+"noun",
+"B2",
+"การทดลองทางคลินิก",
+"The drug is in a *clinical trial*."
+],
+[
+"resistant",
+"adjective",
+"B2",
+"ดื้อ (ยา), ต้านทาน",
+"Some bacteria are *resistant* to antibiotics."
+],
+[
+"overdose",
+"noun",
+"B2",
+"การใช้ยาเกินขนาด",
+"An *overdose* of paracetamol is dangerous."
+],
+[
+"outbreak",
+"noun",
+"B2",
+"การระบาด (อย่างฉับพลัน)",
+"There was an *outbreak* of food poisoning."
+]
+],
+"p": [
+{
+"t": "A Visit to the Doctor",
+"x": "Last week, I felt sick, and I had a terrible pain in my stomach. My body was hot, so my mum used a thermometer. My temperature was 38.5°C! She made an appointment at the clinic near our house.\nThe doctor was very kind. She listened to my heart and asked me some questions. Then a nurse took some blood from my arm. It didn't hurt much. The doctor said I had a stomach infection and gave me some pills. \"Take one pill three times a day,\" she said. We bought the medicine at the pharmacy next to the clinic.\nThree days later, I felt much better. My little brother wasn't so lucky. He fell off his bike and hurt his tooth and his leg. The x-ray showed that a bone in his leg was broken. He didn't need an operation, but he had to wear a bandage for a week, and he needed an injection for the pain."
+},
+{
+"t": "The Story of Vaccines",
+"x": "For thousands of years, diseases like smallpox killed millions of people, and there was no cure. Then, in 1796, an English doctor named Edward Jenner made an important discovery. He noticed that milkmaids who had caught a mild disease from cows did not get smallpox. He created the first vaccine, and over the next two centuries, smallpox was completely removed from the world.\nToday, vaccines protect us against many diseases, such as measles and polio. Most are given as an injection, often in the arm. A small dose of a weak or dead germ teaches the body to fight the real disease.\nAnother great discovery was the antibiotic. In 1928, Alexander Fleming found that a mould could kill bacteria. Antibiotics now treat infections in wounds and organs, helping them heal. Before antibiotics, even a small cut could be deadly.\nModern medicine continues to improve. A surgeon can now replace a damaged heart, and a specialist can treat allergies that once had no treatment. However, doctors warn that we must use medicines carefully and follow their advice."
+},
+{
+"t": "The Next Pandemic",
+"x": "The COVID-19 pandemic was a reminder that infectious diseases remain one of humanity's greatest threats. Within months of the first outbreak, the virus had spread to almost every country, overwhelming hospitals and disrupting daily life for billions. Yet it also demonstrated the extraordinary speed of modern science: effective vaccines were developed, tested in large clinical trials and approved in less than a year, a process that normally takes a decade.\nIn a clinical trial, some volunteers receive the real treatment, while others receive a placebo, a substance with no medical effect. Comparing the two groups allows researchers to measure whether the treatment really works. The success of COVID-19 vaccines, which helped millions develop immunity, relied on this careful method.\nExperts warn, however, that the next global threat may not be a new virus but an old enemy: bacteria. Through overuse of antibiotics, in both humans and farm animals, many bacteria have become resistant to the drugs designed to kill them. If this continues, routine procedures that require an anaesthetic and a sterile environment, such as a hip replacement or an organ transplant, could become far more dangerous. Some scientists describe this as a 'silent epidemic'.\nMeanwhile, other problems require attention. In many countries, there are not enough organ donors to meet demand, and accidental overdoses of common painkillers are rising. Preparing for the future, it seems, requires not only scientific innovation but also responsible behaviour from governments, doctors and patients alike."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "I ate too much and now I feel ___.",
+"o": [
+"sick",
+"sock",
+"silk",
+"six"
+],
+"en": "Sick = ill, wanting to vomit.",
+"th": "sick = ป่วย คลื่นไส้",
+"x": [
+[
+"A sock is clothing.",
+"sock = ถุงเท้า"
+],
+[
+"Silk is cloth.",
+"silk = ผ้าไหม"
+],
+[
+"Six is a number.",
+"six = หก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Take one ___ with water after each meal.",
+"o": [
+"pill",
+"pillow",
+"pull",
+"peel"
+],
+"en": "A pill is a small tablet of medicine.",
+"th": "pill = ยาเม็ด",
+"x": [
+[
+"A pillow is for sleeping.",
+"pillow = หมอน"
+],
+[
+"'pull' is a verb.",
+"pull = ดึง"
+],
+[
+"'peel' means remove skin.",
+"peel = ปอกเปลือก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Exercise keeps your ___ healthy and strong.",
+"o": [
+"heart",
+"hurt",
+"heat",
+"hat"
+],
+"en": "The heart pumps blood.",
+"th": "หัวใจ",
+"x": [
+[
+"'hurt' is a verb.",
+"hurt = เจ็บ"
+],
+[
+"Heat is warmth.",
+"heat = ความร้อน"
+],
+[
+"A hat is clothing.",
+"hat = หมวก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The nurse took some ___ from my arm for a test.",
+"o": [
+"blood",
+"blond",
+"flood",
+"blade"
+],
+"en": "Blood tests are common.",
+"th": "ตรวจเลือด",
+"x": [
+[
+"'blond' is a hair colour.",
+"blond = ผมบลอนด์"
+],
+[
+"A flood is water.",
+"flood = น้ำท่วม"
+],
+[
+"A blade is sharp.",
+"blade = ใบมีด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I'd like to make an ___ to see Dr Somchai.",
+"o": [
+"appointment",
+"apartment",
+"appearance",
+"argument"
+],
+"en": "An appointment is a fixed time to meet.",
+"th": "appointment = การนัดหมาย",
+"x": [
+[
+"An apartment is a flat.",
+"apartment = อพาร์ตเมนต์"
+],
+[
+"Appearance is how you look.",
+"appearance = รูปลักษณ์"
+],
+[
+"An argument is a disagreement.",
+"argument = การโต้เถียง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The ___ showed that his arm was broken.",
+"o": [
+"x-ray",
+"x-ray's",
+"xylophone",
+"extra"
+],
+"en": "An x-ray shows bones.",
+"th": "เอกซเรย์แสดงกระดูก",
+"x": [
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"A xylophone is an instrument.",
+"xylophone = ระนาดฝรั่ง"
+],
+[
+"'extra' means additional.",
+"extra = เพิ่มเติม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "You can buy this medicine at any ___.",
+"o": [
+"pharmacy",
+"farmer",
+"pharaoh",
+"fantasy"
+],
+"en": "A pharmacy sells medicine.",
+"th": "pharmacy = ร้านขายยา",
+"x": [
+[
+"A farmer grows food.",
+"farmer = เกษตรกร"
+],
+[
+"A pharaoh was an Egyptian king.",
+"pharaoh = ฟาโรห์"
+],
+[
+"A fantasy is imagination.",
+"fantasy = จินตนาการ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She hurt her hand, so the nurse put a ___ on it.",
+"o": [
+"bandage",
+"baggage",
+"bondage",
+"band"
+],
+"en": "A bandage covers a wound.",
+"th": "bandage = ผ้าพันแผล",
+"x": [
+[
+"Baggage is luggage.",
+"baggage = กระเป๋าเดินทาง"
+],
+[
+"Not the right word.",
+"ไม่ใช่คำที่ถูก"
+],
+[
+"A band is a music group.",
+"band = วงดนตรี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I can't eat peanuts. I have an ___.",
+"o": [
+"allergy",
+"energy",
+"alley",
+"allegory"
+],
+"en": "An allergy is a bad reaction to something.",
+"th": "allergy = อาการแพ้",
+"x": [
+[
+"Energy is power.",
+"energy = พลังงาน"
+],
+[
+"An alley is a narrow street.",
+"alley = ตรอก"
+],
+[
+"An allegory is a story with a hidden meaning.",
+"allegory = นิทานเปรียบเทียบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The ___ operated on her heart for five hours.",
+"o": [
+"surgeon",
+"sturgeon",
+"surgery",
+"surge"
+],
+"en": "A surgeon performs operations.",
+"th": "surgeon = ศัลยแพทย์",
+"x": [
+[
+"A sturgeon is a fish.",
+"sturgeon = ปลาสเตอร์เจียน"
+],
+[
+"Surgery is the procedure, not the person.",
+"surgery = การผ่าตัด"
+],
+[
+"A surge is a sudden increase.",
+"surge = การพุ่งขึ้น"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Antibiotics don't work against viruses; they only kill ___.",
+"o": [
+"bacteria",
+"cafeteria",
+"batteries",
+"barriers"
+],
+"en": "Antibiotics kill bacteria.",
+"th": "ยาปฏิชีวนะฆ่าแบคทีเรีย",
+"x": [
+[
+"A cafeteria is a restaurant.",
+"cafeteria = โรงอาหาร"
+],
+[
+"Batteries store power.",
+"battery = แบตเตอรี่"
+],
+[
+"Barriers block the way.",
+"barrier = สิ่งกีดขวาง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The cut on my finger ___ in about a week.",
+"o": [
+"healed",
+"heeled",
+"held",
+"heated"
+],
+"en": "Heal = become healthy again.",
+"th": "heal = แผลหาย",
+"x": [
+[
+"'heeled' is about shoes.",
+"heeled = มีส้น"
+],
+[
+"'held' is past of hold.",
+"held = ถือ (อดีต)"
+],
+[
+"'heated' means made hot.",
+"heated = ทำให้ร้อน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The new drug is being tested in a ___ trial with 5,000 volunteers.",
+"o": [
+"clinical",
+"critical",
+"classical",
+"cynical"
+],
+"en": "A clinical trial tests treatments on people.",
+"th": "clinical trial = การทดลองทางคลินิก",
+"x": [
+[
+"'critical' means very important or negative.",
+"critical = วิกฤต"
+],
+[
+"'classical' is about traditional style.",
+"classical = คลาสสิก"
+],
+[
+"'cynical' means distrustful.",
+"cynical = เย้ยหยัน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Overuse of antibiotics has made some bacteria ___ to them.",
+"o": [
+"resistant",
+"resident",
+"reluctant",
+"resilient"
+],
+"en": "Resistant = not affected by.",
+"th": "resistant = ดื้อยา",
+"x": [
+[
+"A resident lives somewhere.",
+"resident = ผู้อยู่อาศัย"
+],
+[
+"'reluctant' means unwilling.",
+"reluctant = ไม่เต็มใจ"
+],
+[
+"'resilient' means able to recover; 'resistant to' is the right phrase.",
+"resilient = ฟื้นตัวได้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Half the patients were given the real drug, and half were given a ___.",
+"o": [
+"placebo",
+"plateau",
+"placement",
+"plaza"
+],
+"en": "A placebo is a fake treatment.",
+"th": "placebo = ยาหลอก",
+"x": [
+[
+"A plateau is flat land or no progress.",
+"plateau = ที่ราบสูง"
+],
+[
+"A placement is a work position.",
+"placement = การฝึกงาน"
+],
+[
+"A plaza is a public square.",
+"plaza = ลานกว้าง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Doctor] said I [should] [rest] [at] home.",
+"a": 0,
+"fix": "The doctor said I should rest at home.",
+"en": "A particular doctor needs 'The'.",
+"th": "หมอคนนั้นต้องมี The",
+"x": [
+[
+"'should' is correct.",
+"should ถูกต้อง"
+],
+[
+"'rest' is correct.",
+"rest ถูกต้อง"
+],
+[
+"'at' is correct.",
+"at ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[I] [has] [a] [toothache].",
+"a": 1,
+"fix": "I have a toothache.",
+"en": "'I' takes 'have'.",
+"th": "I ใช้ have",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+],
+[
+"'toothache' is correct.",
+"toothache ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[I] [have] [an] appointment [on] 3 p.m.",
+"a": 3,
+"fix": "I have an appointment at 3 p.m.",
+"en": "Clock times use 'at'.",
+"th": "เวลาใช้ at",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'an' is correct.",
+"an ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[How] [many] [medicine] [should] I take?",
+"a": 1,
+"fix": "How much medicine should I take?",
+"en": "'Medicine' (the substance) is uncountable: How much.",
+"th": "medicine (ยาโดยรวม) นับไม่ได้: How much",
+"x": [
+[
+"'How' is correct.",
+"How ถูกต้อง"
+],
+[
+"'medicine' is correct.",
+"medicine ถูกต้อง"
+],
+[
+"'should' is correct.",
+"should ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] [nurse] [gived] [me] an injection.",
+"a": 2,
+"fix": "The nurse gave me an injection.",
+"en": "Irregular past: gave.",
+"th": "อดีตไม่ปกติ: gave",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'nurse' is correct.",
+"nurse ถูกต้อง"
+],
+[
+"'me' is correct.",
+"me ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] I [had known] about my allergy, I [wouldn't eat] [the] shrimp.",
+"a": 2,
+"fix": "If I had known about my allergy, I wouldn't have eaten the shrimp.",
+"en": "Third conditional: wouldn't have eaten.",
+"th": "third conditional: wouldn't have eaten",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'had known' is correct.",
+"had known ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[The] wound [took] two weeks [to heal] [complete].",
+"a": 3,
+"fix": "The wound took two weeks to heal completely.",
+"en": "Describe a verb with an adverb: completely.",
+"th": "ขยายกริยาใช้ completely",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'took' is correct.",
+"took ถูกต้อง"
+],
+[
+"'to heal' is correct.",
+"to heal ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Antibiotics] [doesn't] [work] [against] viruses.",
+"a": 1,
+"fix": "Antibiotics don't work against viruses.",
+"en": "Plural subject: don't.",
+"th": "ประธานพหูพจน์: don't",
+"x": [
+[
+"'Antibiotics' is correct.",
+"Antibiotics ถูกต้อง"
+],
+[
+"'work' is correct.",
+"work ถูกต้อง"
+],
+[
+"'against' is correct.",
+"against ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Only] after the trial [the scientists realised] [that] the drug [was] dangerous.",
+"a": 1,
+"fix": "Only after the trial did the scientists realise that the drug was dangerous.",
+"en": "After 'Only after…' at the start, invert: did the scientists realise.",
+"th": "ขึ้นต้น Only after... ต้องสลับ: did the scientists realise",
+"x": [
+[
+"'Only' is correct.",
+"Only ถูกต้อง"
+],
+[
+"'that' is correct.",
+"that ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Had] the vaccine [been] [available], millions of lives [could be saved].",
+"a": 3,
+"fix": "Had the vaccine been available, millions of lives could have been saved.",
+"en": "Third conditional passive: could have been saved.",
+"th": "third conditional passive: could have been saved",
+"x": [
+[
+"'Had' is correct inversion.",
+"Had ถูกต้อง"
+],
+[
+"'been' is correct.",
+"been ถูกต้อง"
+],
+[
+"'available' is correct.",
+"available ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: You look pale. What's the matter?\nB: ___",
+"o": [
+"I have a pain in my stomach.",
+"I'm a doctor.",
+"It's Monday.",
+"Yes, please."
+],
+"en": "B describes the problem.",
+"th": "B บอกอาการ",
+"x": [
+[
+"Not a problem.",
+"ไม่ใช่ปัญหา"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Does your arm hurt?\nB: ___ I can't move it.",
+"o": [
+"Yes, a lot.",
+"No, not at all.",
+"It's long.",
+"I have two arms."
+],
+"en": "Can't move it → it hurts.",
+"th": "ขยับไม่ได้ แสดงว่าเจ็บ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Take this pill twice a day.\nB: ___",
+"o": [
+"OK, thank you, doctor.",
+"No, I don't like you.",
+"What's a day?",
+"I'm a pill."
+],
+"en": "B accepts politely.",
+"th": "B ตอบรับอย่างสุภาพ",
+"x": [
+[
+"Rude.",
+"หยาบคาย"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Can I make an appointment for tomorrow?\nB: ___",
+"o": [
+"Yes, is 10 a.m. OK?",
+"I'm sick.",
+"No, it's yesterday.",
+"The doctor is a woman."
+],
+"en": "B offers a time.",
+"th": "B เสนอเวลา",
+"x": [
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Do I need an operation?\nB: ___ The bone isn't broken badly.",
+"o": [
+"No, I don't think so.",
+"Yes, today.",
+"I'm not a doctor.",
+"Operations are fun."
+],
+"en": "Not broken badly → no operation.",
+"th": "กระดูกหักไม่มาก จึงไม่ต้องผ่าตัด",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"B is clearly giving medical advice.",
+"B กำลังให้คำแนะนำ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How often should I take this medicine?\nB: ___",
+"o": [
+"Three times a day after meals.",
+"For two weeks.",
+"At the pharmacy.",
+"With water."
+],
+"en": "'How often' asks about frequency.",
+"th": "how often ถามความถี่",
+"x": [
+[
+"Duration.",
+"ระยะเวลา"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Manner.",
+"วิธีการ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Are you allergic to anything?\nB: ___ I get a rash if I take it.",
+"o": [
+"Yes, penicillin.",
+"No, nothing at all.",
+"I'm not allergic to rashes.",
+"Allergies are diseases."
+],
+"en": "B names an allergy.",
+"th": "B บอกสิ่งที่แพ้",
+"x": [
+[
+"It contradicts the rash.",
+"ขัดกับผื่น"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Can I stop taking the antibiotics now? I feel fine.\nB: ___",
+"o": [
+"No, you should finish the whole course.",
+"Yes, throw them away.",
+"Take double the dose.",
+"Give them to your friend."
+],
+"en": "B gives correct medical advice.",
+"th": "B ให้คำแนะนำที่ถูกต้อง",
+"x": [
+[
+"That can cause resistance.",
+"อาจทำให้ดื้อยา"
+],
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Dangerous.",
+"อันตราย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I read that some people refuse vaccines because of side effects.\nB: ___ Serious side effects are very rare compared with the risks of the disease.",
+"o": [
+"That's understandable, but the evidence strongly supports vaccination.",
+"They're completely right.",
+"Vaccines cause all diseases.",
+"Side effects are always serious."
+],
+"en": "B acknowledges the concern but cites evidence.",
+"th": "B เข้าใจความกังวลแต่อ้างหลักฐาน",
+"x": [
+[
+"It contradicts B's evidence.",
+"ขัดกับหลักฐาน"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"It contradicts 'very rare'.",
+"ขัดกับ very rare"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should I become an organ donor?\nB: ___ One donor can save several lives, but it's a personal decision.",
+"o": [
+"It's worth considering.",
+"Definitely not.",
+"Only if you're a doctor.",
+"Organs can't be donated."
+],
+"en": "B encourages but respects choice.",
+"th": "B สนับสนุนแต่เคารพการตัดสินใจ",
+"x": [
+[
+"It contradicts 'save lives'.",
+"ขัดกับการช่วยชีวิต"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was the writer's temperature?",
+"o": [
+"38.5°C",
+"37°C",
+"40°C",
+"36.5°C"
+],
+"en": "'My temperature was 38.5°C!'",
+"th": "38.5 องศา",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the nurse do?",
+"o": [
+"Took blood from the writer's arm",
+"Gave an injection",
+"Did an operation",
+"Took an x-ray"
+],
+"en": "'A nurse took some blood from my arm.'",
+"th": "เจาะเลือดที่แขน",
+"x": [
+[
+"That was the brother.",
+"นั่นคือน้องชาย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That was the brother.",
+"นั่นคือน้องชาย"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was wrong with the writer?",
+"o": [
+"A stomach infection",
+"A broken bone",
+"A bad tooth",
+"A heart problem"
+],
+"en": "'…I had a stomach infection.'",
+"th": "ติดเชื้อในกระเพาะ",
+"x": [
+[
+"That was the brother.",
+"นั่นคือน้องชาย"
+],
+[
+"That was the brother.",
+"นั่นคือน้องชาย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where did they buy the medicine?",
+"o": [
+"At the pharmacy next to the clinic",
+"At the hospital",
+"At a supermarket",
+"Online"
+],
+"en": "'We bought the medicine at the pharmacy next to the clinic.'",
+"th": "ร้านขายยาข้างคลินิก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What happened to the writer's brother?",
+"o": [
+"He broke a bone in his leg.",
+"He had an operation.",
+"He had a stomach infection.",
+"He broke his arm."
+],
+"en": "'…a bone in his leg was broken.'",
+"th": "กระดูกขาหัก",
+"x": [
+[
+"He didn't need one.",
+"ไม่ต้องผ่าตัด"
+],
+[
+"That was the writer.",
+"นั่นคือผู้เขียน"
+],
+[
+"It was his leg.",
+"เป็นขา"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What did Edward Jenner notice?",
+"o": [
+"Milkmaids who caught a cow disease didn't get smallpox.",
+"Mould could kill bacteria.",
+"Smallpox came from cows.",
+"Antibiotics cured smallpox."
+],
+"en": "'…milkmaids who had caught a mild disease from cows did not get smallpox.'",
+"th": "สาวรีดนมที่ติดโรคจากวัวไม่เป็นไข้ทรพิษ",
+"x": [
+[
+"That was Fleming.",
+"นั่นคือเฟลมมิง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How does a vaccine work?",
+"o": [
+"A small dose of a weak germ teaches the body to fight the disease.",
+"It kills all bacteria.",
+"It replaces damaged organs.",
+"It cures allergies."
+],
+"en": "'A small dose of a weak or dead germ teaches the body to fight the real disease.'",
+"th": "เชื้ออ่อนแอสอนร่างกายให้ต่อสู้โรค",
+"x": [
+[
+"That's antibiotics.",
+"นั่นคือยาปฏิชีวนะ"
+],
+[
+"That's surgery.",
+"นั่นคือการผ่าตัด"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What did Fleming discover in 1928?",
+"o": [
+"That a mould could kill bacteria",
+"The smallpox vaccine",
+"How to replace a heart",
+"A cure for allergies"
+],
+"en": "'Fleming found that a mould could kill bacteria.'",
+"th": "ราสามารถฆ่าแบคทีเรีย",
+"x": [
+[
+"That was Jenner.",
+"นั่นคือเจนเนอร์"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What was dangerous before antibiotics?",
+"o": [
+"Even a small cut",
+"Only heart disease",
+"Vaccines",
+"Allergies"
+],
+"en": "'Before antibiotics, even a small cut could be deadly.'",
+"th": "แม้แต่แผลเล็กๆ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do doctors warn about?",
+"o": [
+"Using medicines carefully and following advice",
+"Never using vaccines",
+"Avoiding specialists",
+"Taking more antibiotics"
+],
+"en": "'…we must use medicines carefully and follow their advice.'",
+"th": "ใช้ยาอย่างระมัดระวังและทำตามคำแนะนำ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What did COVID-19 demonstrate about modern science?",
+"o": [
+"Its extraordinary speed",
+"Its failure to make vaccines",
+"That trials are unnecessary",
+"That pandemics are harmless"
+],
+"en": "'…demonstrated the extraordinary speed of modern science.'",
+"th": "ความรวดเร็วอย่างน่าทึ่ง",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Trials were used.",
+"มีการทดลอง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do clinical trials use a placebo?",
+"o": [
+"To compare and measure whether the treatment works",
+"To save money",
+"To make patients feel better",
+"To replace vaccines"
+],
+"en": "'Comparing the two groups allows researchers to measure whether the treatment really works.'",
+"th": "เพื่อเปรียบเทียบว่าการรักษาได้ผลหรือไม่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not the purpose.",
+"ไม่ใช่จุดประสงค์"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why have many bacteria become resistant?",
+"o": [
+"Overuse of antibiotics in humans and farm animals",
+"Too many vaccines",
+"Lack of hospitals",
+"Too many organ transplants"
+],
+"en": "'Through overuse of antibiotics, in both humans and farm animals…'",
+"th": "การใช้ยาปฏิชีวนะมากเกินไป",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What could become more dangerous if resistance continues?",
+"o": [
+"Routine operations like hip replacements",
+"Vaccination",
+"Placebo trials",
+"Taking painkillers"
+],
+"en": "'…routine procedures… such as a hip replacement or an organ transplant, could become far more dangerous.'",
+"th": "การผ่าตัดทั่วไปเช่นเปลี่ยนข้อสะโพก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not linked to resistance.",
+"ไม่เกี่ยวกับการดื้อยา"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does preparing for the future require, according to the passage?",
+"o": [
+"Scientific innovation and responsible behaviour",
+"Only new technology",
+"Closing all hospitals",
+"Banning antibiotics"
+],
+"en": "'…requires not only scientific innovation but also responsible behaviour.'",
+"th": "นวัตกรรมทางวิทยาศาสตร์และพฤติกรรมที่รับผิดชอบ",
+"x": [
+[
+"Too limited.",
+"จำกัดเกินไป"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

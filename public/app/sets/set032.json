@@ -1,0 +1,1627 @@
+{
+"id": 32,
+"theme": "Education systems",
+"v": [
+[
+"ruler",
+"noun",
+"A1",
+"ไม้บรรทัด",
+"Can I borrow your *ruler*?"
+],
+[
+"desk",
+"noun",
+"A1",
+"โต๊ะเรียน, โต๊ะทำงาน",
+"My books are on my *desk*."
+],
+[
+"bag",
+"noun",
+"A1",
+"กระเป๋า",
+"Put your books in your *bag*."
+],
+[
+"teach",
+"verb",
+"A1",
+"สอน",
+"My mother *teaches* maths."
+],
+[
+"study",
+"verb",
+"A1",
+"เรียน, ศึกษา",
+"I *study* English every evening."
+],
+[
+"notebook",
+"noun",
+"A1",
+"สมุดจด",
+"Write the new words in your *notebook*."
+],
+[
+"clever",
+"adjective",
+"A1",
+"ฉลาด",
+"She is a very *clever* girl."
+],
+[
+"break",
+"noun",
+"A1",
+"ช่วงพัก",
+"We have a 15-minute *break* at 10 o'clock."
+],
+[
+"eraser",
+"noun",
+"A2",
+"ยางลบ",
+"I made a mistake; where's my *eraser*?"
+],
+[
+"textbook",
+"noun",
+"A2",
+"หนังสือเรียน",
+"Open your *textbooks* at page 20."
+],
+[
+"university",
+"noun",
+"A2",
+"มหาวิทยาลัย",
+"My brother goes to *university* in Chiang Mai."
+],
+[
+"primary",
+"adjective",
+"A2",
+"(โรงเรียน) ประถม, หลัก",
+"My sister is in *primary* school."
+],
+[
+"secondary",
+"adjective",
+"A2",
+"(โรงเรียน) มัธยม, รอง",
+"He teaches at a *secondary* school."
+],
+[
+"term",
+"noun",
+"A2",
+"ภาคเรียน",
+"The new *term* starts in May."
+],
+[
+"mark",
+"noun",
+"A2",
+"คะแนน",
+"I got a good *mark* in the test."
+],
+[
+"principal",
+"noun",
+"A2",
+"ผู้อำนวยการโรงเรียน",
+"The *principal* gave a speech."
+],
+[
+"kindergarten",
+"noun",
+"A2",
+"โรงเรียนอนุบาล",
+"My son goes to *kindergarten*."
+],
+[
+"campus",
+"noun",
+"A2",
+"วิทยาเขต, บริเวณมหาวิทยาลัย",
+"The *campus* has a big library."
+],
+[
+"graduate",
+"verb",
+"B1",
+"สำเร็จการศึกษา",
+"She *graduated* from university last year."
+],
+[
+"certificate",
+"noun",
+"B1",
+"ใบรับรอง, ประกาศนียบัตร",
+"You'll get a *certificate* at the end of the course."
+],
+[
+"diploma",
+"noun",
+"B1",
+"อนุปริญญา, ประกาศนียบัตร",
+"He has a *diploma* in cooking."
+],
+[
+"semester",
+"noun",
+"B1",
+"ภาคการศึกษา",
+"This *semester* I'm taking five courses."
+],
+[
+"tutor",
+"noun",
+"B1",
+"ครูสอนพิเศษ",
+"I have a maths *tutor* on Saturdays."
+],
+[
+"attendance",
+"noun",
+"B1",
+"การเข้าเรียน",
+"*Attendance* is checked every morning."
+],
+[
+"discipline",
+"noun",
+"B1",
+"วินัย",
+"The school is famous for strict *discipline*."
+],
+[
+"enrol",
+"verb",
+"B1",
+"ลงทะเบียนเรียน",
+"I *enrolled* in an evening course."
+],
+[
+"motivate",
+"verb",
+"B1",
+"จูงใจ, กระตุ้น",
+"Good teachers *motivate* their students."
+],
+[
+"dormitory",
+"noun",
+"B1",
+"หอพัก",
+"Students live in the *dormitory*."
+],
+[
+"boarding",
+"adjective",
+"B1",
+"(โรงเรียน) ประจำ",
+"She went to a *boarding* school in England."
+],
+[
+"assessment",
+"noun",
+"B2",
+"การประเมิน",
+"Continuous *assessment* replaces final exams."
+],
+[
+"literacy",
+"noun",
+"B2",
+"การรู้หนังสือ",
+"Adult *literacy* has improved."
+],
+[
+"vocational",
+"adjective",
+"B2",
+"(การศึกษา) สายอาชีพ",
+"He chose a *vocational* college."
+],
+[
+"syllabus",
+"noun",
+"B2",
+"หลักสูตร (ของวิชา), ประมวลรายวิชา",
+"Grammar is on the *syllabus* this term."
+],
+[
+"rote learning",
+"noun",
+"B2",
+"การเรียนแบบท่องจำ",
+"*Rote learning* doesn't build understanding."
+],
+[
+"critical thinking",
+"noun",
+"B2",
+"การคิดเชิงวิพากษ์",
+"Schools should teach *critical thinking*."
+],
+[
+"inequality",
+"noun",
+"B2",
+"ความไม่เท่าเทียม",
+"There is great *inequality* between schools."
+],
+[
+"standardised",
+"adjective",
+"B2",
+"(การทดสอบ) มาตรฐาน",
+"Students take *standardised* tests every year."
+],
+[
+"rigorous",
+"adjective",
+"B2",
+"เข้มงวด, ละเอียดถี่ถ้วน",
+"The course is *rigorous* and demanding."
+],
+[
+"dropout",
+"noun",
+"B2",
+"ผู้ออกกลางคัน",
+"The school wants to reduce the number of *dropouts*."
+],
+[
+"extracurricular",
+"adjective",
+"B2",
+"นอกหลักสูตร",
+"*Extracurricular* activities include music and sport."
+]
+],
+"p": [
+{
+"t": "My School Day",
+"x": "My name is Ploy and I'm in my last year of primary school. I go to school by bus with my bag full of books. My classroom has thirty desks, and I sit next to my best friend, Fah.\nOur first lesson starts at 8:30. We study Thai, maths, science and English. My English teacher, Mr Ben, is from Australia. He is very funny and teaches us songs. In maths, we use a ruler and a notebook every day. I often forget my eraser, so Fah lends me hers!\nAt 10:00 we have a break, and at 12:00 we eat lunch in the canteen. After school, I play football with my friends. Next term I will start secondary school. I am a little nervous, but my mum says I am clever and will be fine."
+},
+{
+"t": "Choosing a Path After School",
+"x": "In Thailand, students who finish secondary school have several choices. Some have already studied at a boarding school, but most have lived at home. Many go to university to study for a degree. To get a place, they usually take entrance exams, and many students study with a tutor in the evenings and at weekends to prepare.\nUniversity life is very different from school. Most students live in a dormitory on campus for the first year, and they must manage their own time. A university year is divided into two semesters, and there are fewer rules about attendance.\nHowever, university is not the only way. Some students enrol in vocational colleges, where they learn practical skills like engineering, cooking or hotel work. After two or three years, they receive a diploma or a certificate. Employers often say these graduates are ready to work immediately.\nThe best choice depends on the student. As one teacher explains, \"The important thing is to find something that motivates you.\""
+},
+{
+"t": "What Makes a Good Education System?",
+"x": "Every few years, international rankings compare education systems, and countries such as Finland and Singapore regularly appear near the top. Interestingly, these two countries take very different approaches.\nSingapore is known for a rigorous curriculum, high expectations and frequent standardised tests. Discipline is strict, and students spend long hours studying. Critics argue that this system encourages rote learning, but supporters point out that students develop excellent literacy and maths skills.\nFinland, by contrast, starts formal schooling late, at the age of seven; before that, children attend kindergarten, where they learn mainly through play. There are few national exams, and assessment is mostly done by teachers, who are highly trained and trusted. Schools also offer many extracurricular activities and put strong emphasis on critical thinking.\nWhat both systems share, however, is a commitment to reducing inequality. In each country, the government works to ensure that a child in a poor area receives the same quality of teaching as one in a wealthy area. This, researchers suggest, may be more important than any particular syllabus. Systems that allow large gaps between schools tend to have more dropouts and lower average results."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "Can I borrow your ___? I need to draw a straight line.",
+"o": [
+"ruler",
+"rubber",
+"roller",
+"ring"
+],
+"en": "A ruler helps you draw straight lines.",
+"th": "ไม้บรรทัดใช้ขีดเส้นตรง",
+"x": [
+[
+"A rubber removes pencil marks.",
+"rubber = ยางลบ (ไม่ใช่สำหรับขีดเส้น)"
+],
+[
+"A roller is for painting.",
+"roller = ลูกกลิ้ง"
+],
+[
+"A ring is jewellery.",
+"ring = แหวน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Mr Ben ___ English at our school.",
+"o": [
+"teaches",
+"teach",
+"teaching",
+"teacher"
+],
+"en": "He + Present Simple: teaches.",
+"th": "He ใช้ Present Simple: teaches",
+"x": [
+[
+"'He' needs -es.",
+"He ต้องเติม -es"
+],
+[
+"It needs a helping verb.",
+"ต้องมี is"
+],
+[
+"'teacher' is a noun.",
+"teacher เป็นคำนาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Write the new words in your ___.",
+"o": [
+"notebook",
+"notice",
+"nothing",
+"network"
+],
+"en": "You write words in a notebook.",
+"th": "จดคำศัพท์ในสมุด",
+"x": [
+[
+"A notice is a sign.",
+"notice = ประกาศ"
+],
+[
+"'nothing' means no thing.",
+"nothing = ไม่มีอะไร"
+],
+[
+"A network is a system of connections.",
+"network = เครือข่าย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "She answers every question. She's very ___.",
+"o": [
+"clever",
+"clean",
+"close",
+"cloudy"
+],
+"en": "Clever = intelligent.",
+"th": "clever = ฉลาด",
+"x": [
+[
+"'clean' means not dirty.",
+"clean = สะอาด"
+],
+[
+"'close' means near.",
+"close = ใกล้"
+],
+[
+"'cloudy' is about weather.",
+"cloudy = มีเมฆ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My little brother is four, so he goes to ___.",
+"o": [
+"kindergarten",
+"university",
+"secondary school",
+"college"
+],
+"en": "Four-year-olds go to kindergarten.",
+"th": "เด็กอายุ 4 ขวบไปโรงเรียนอนุบาล",
+"x": [
+[
+"University is for adults.",
+"มหาวิทยาลัยสำหรับผู้ใหญ่"
+],
+[
+"Secondary school is for teenagers.",
+"มัธยมสำหรับวัยรุ่น"
+],
+[
+"College is for older students.",
+"วิทยาลัยสำหรับนักเรียนโต"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I got a very good ___ in my English test: 18 out of 20.",
+"o": [
+"mark",
+"mask",
+"map",
+"mail"
+],
+"en": "A mark is a score in a test.",
+"th": "mark = คะแนน",
+"x": [
+[
+"A mask covers your face.",
+"mask = หน้ากาก"
+],
+[
+"A map shows places.",
+"map = แผนที่"
+],
+[
+"Mail is letters.",
+"mail = จดหมาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The ___ of the school wants to talk to your parents.",
+"o": [
+"principal",
+"principle",
+"prince",
+"printer"
+],
+"en": "The principal is the head of a school.",
+"th": "principal = ผู้อำนวยการโรงเรียน",
+"x": [
+[
+"A principle is a rule or belief (same sound).",
+"principle = หลักการ (ออกเสียงเหมือนกัน)"
+],
+[
+"A prince is royal.",
+"prince = เจ้าชาย"
+],
+[
+"A printer prints paper.",
+"printer = เครื่องพิมพ์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Please open your ___ at page 45 and do exercise 3.",
+"o": [
+"textbooks",
+"textiles",
+"texts",
+"textures"
+],
+"en": "A textbook is a school book.",
+"th": "textbook = หนังสือเรียน",
+"x": [
+[
+"Textiles are cloth.",
+"textiles = สิ่งทอ"
+],
+[
+"'texts' are messages; you don't open them at a page.",
+"texts = ข้อความ"
+],
+[
+"Textures are how things feel.",
+"textures = พื้นผิว"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "She ___ from Chulalongkorn University in 2024.",
+"o": [
+"graduated",
+"graded",
+"granted",
+"gathered"
+],
+"en": "Graduate from = finish a university course.",
+"th": "graduate from = จบการศึกษาจาก",
+"x": [
+[
+"'grade' means give marks.",
+"grade = ให้คะแนน"
+],
+[
+"'grant' means give officially.",
+"grant = ให้ อนุญาต"
+],
+[
+"'gather' means collect.",
+"gather = รวบรวม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I want to ___ in a Japanese course next semester.",
+"o": [
+"enrol",
+"enjoy",
+"employ",
+"enter"
+],
+"en": "Enrol in a course = sign up for it.",
+"th": "enrol in = ลงทะเบียนเรียน",
+"x": [
+[
+"'enjoy' doesn't take 'in'.",
+"enjoy ไม่ใช้กับ in"
+],
+[
+"'employ' means give a job.",
+"employ = จ้าง"
+],
+[
+"'enter' doesn't take 'in' with a course.",
+"enter ไม่ใช้ in กับคอร์ส"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Good teachers know how to ___ students to work hard.",
+"o": [
+"motivate",
+"motion",
+"motive",
+"motor"
+],
+"en": "Motivate someone to do something.",
+"th": "motivate someone to do = จูงใจให้ทำ",
+"x": [
+[
+"'motion' is a noun.",
+"motion เป็นคำนาม"
+],
+[
+"'motive' is a noun (reason).",
+"motive = แรงจูงใจ (คำนาม)"
+],
+[
+"A motor is an engine.",
+"motor = มอเตอร์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Your ___ has been poor this term; you've missed twelve classes.",
+"o": [
+"attendance",
+"attention",
+"attitude",
+"attempt"
+],
+"en": "Attendance = being present at classes.",
+"th": "attendance = การเข้าเรียน",
+"x": [
+[
+"Attention is focus.",
+"attention = ความสนใจ"
+],
+[
+"Attitude is a way of thinking.",
+"attitude = ทัศนคติ"
+],
+[
+"An attempt is a try.",
+"attempt = ความพยายาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Students learn practical skills such as plumbing at a ___ college.",
+"o": [
+"vocational",
+"vocal",
+"vacational",
+"vocabulary"
+],
+"en": "Vocational education teaches job skills.",
+"th": "vocational = สายอาชีพ",
+"x": [
+[
+"'vocal' is about the voice.",
+"vocal = เกี่ยวกับเสียง"
+],
+[
+"'vacational' isn't a real word.",
+"ไม่มีคำนี้"
+],
+[
+"'vocabulary' is a noun meaning words.",
+"vocabulary = คำศัพท์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Memorising facts without understanding them is called ___ learning.",
+"o": [
+"rote",
+"route",
+"rate",
+"root"
+],
+"en": "Rote learning = learning by repetition.",
+"th": "rote learning = เรียนแบบท่องจำ",
+"x": [
+[
+"'route' is a way to go.",
+"route = เส้นทาง"
+],
+[
+"'rate' is speed or level.",
+"rate = อัตรา"
+],
+[
+"'root' is the bottom of a plant.",
+"root = ราก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The new policy aims to reduce the number of ___ who leave school before 16.",
+"o": [
+"dropouts",
+"drop-offs",
+"outlets",
+"drop-ins"
+],
+"en": "Dropouts leave school early.",
+"th": "dropout = ผู้ออกกลางคัน",
+"x": [
+[
+"A drop-off is a delivery.",
+"drop-off = การส่งของ"
+],
+[
+"An outlet is a shop or socket.",
+"outlet = ร้าน/ปลั๊ก"
+],
+[
+"A drop-in is a casual visit.",
+"drop-in = การแวะเยี่ยม"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Does] they [have] a break [at] [ten]?",
+"a": 0,
+"fix": "Do they have a break at ten?",
+"en": "'They' uses 'Do', not 'Does'.",
+"th": "They ใช้ Do ไม่ใช่ Does",
+"x": [
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'at' is correct with times.",
+"at ใช้กับเวลา ถูกต้อง"
+],
+[
+"'ten' is correct.",
+"ten ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[In] my classroom [there] [are] thirty [desk].",
+"a": 3,
+"fix": "In my classroom there are thirty desks.",
+"en": "After 'thirty', use a plural noun: desks.",
+"th": "หลัง thirty ใช้นามพหูพจน์: desks",
+"x": [
+[
+"'In' is correct.",
+"In ถูกต้อง"
+],
+[
+"'there' is correct.",
+"there ถูกต้อง"
+],
+[
+"'are' is correct.",
+"are ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Mine] sister has been a teacher [for] [ten] [years].",
+"a": 0,
+"fix": "My sister has been a teacher for ten years.",
+"en": "Before a noun, use the possessive adjective 'My'.",
+"th": "หน้าคำนามใช้ My ไม่ใช่ Mine",
+"x": [
+[
+"'for' is correct with a period of time.",
+"for ใช้กับระยะเวลา ถูกต้อง"
+],
+[
+"'ten' is correct.",
+"ten ถูกต้อง"
+],
+[
+"'years' is correct.",
+"years ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Our] teacher [gave] us [a lot of] [homeworks].",
+"a": 3,
+"fix": "Our teacher gave us a lot of homework.",
+"en": "'Homework' is uncountable: no -s.",
+"th": "homework นับไม่ได้ ไม่เติม s",
+"x": [
+[
+"'Our' is correct.",
+"Our ถูกต้อง"
+],
+[
+"'gave' is correct.",
+"gave ถูกต้อง"
+],
+[
+"'a lot of' is correct.",
+"a lot of ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] [principle] [of] our school [is] very kind.",
+"a": 1,
+"fix": "The principal of our school is very kind.",
+"en": "Head of school = principal (not principle).",
+"th": "ผู้อำนวยการ = principal ไม่ใช่ principle",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'of' is correct.",
+"of ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Despite of] studying hard, he [didn't pass] [the] [exam].",
+"a": 0,
+"fix": "Despite studying hard, he didn't pass the exam.",
+"en": "'Despite' is not followed by 'of'.",
+"th": "despite ไม่ตามด้วย of",
+"x": [
+[
+"'didn't pass' is correct.",
+"didn't pass ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'exam' is correct.",
+"exam ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] I [would study] harder, I [would get] better [marks].",
+"a": 1,
+"fix": "If I studied harder, I would get better marks.",
+"en": "Second conditional: If + past simple (studied).",
+"th": "second conditional: If + past simple",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'would get' is correct.",
+"would get ถูกต้อง"
+],
+[
+"'marks' is correct.",
+"marks ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Students] [are] [not allowed] [using] phones in class.",
+"a": 3,
+"fix": "Students are not allowed to use phones in class.",
+"en": "'Be allowed to + base verb'.",
+"th": "be allowed to + V1",
+"x": [
+[
+"'Students' is correct.",
+"Students ถูกต้อง"
+],
+[
+"'are' is correct.",
+"are ถูกต้อง"
+],
+[
+"'not allowed' is correct.",
+"not allowed ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Hardly] [had] the term started [when] the teachers [go] on strike.",
+"a": 3,
+"fix": "Hardly had the term started when the teachers went on strike.",
+"en": "Past narrative: went.",
+"th": "เล่าอดีต: went",
+"x": [
+[
+"'Hardly' is correct.",
+"Hardly ถูกต้อง"
+],
+[
+"'had' is correct inversion.",
+"had ถูกต้อง"
+],
+[
+"'when' is correct with 'hardly'.",
+"when ใช้คู่ hardly ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[The] number of dropouts [have] [risen] [sharply].",
+"a": 1,
+"fix": "The number of dropouts has risen sharply.",
+"en": "'The number of…' takes a singular verb: has.",
+"th": "The number of... ใช้กริยาเอกพจน์: has",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'risen' is correct.",
+"risen ถูกต้อง"
+],
+[
+"'sharply' is correct.",
+"sharply ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Which subject do you find the most difficult?\nB: ___",
+"o": [
+"Science. The formulas are hard to remember.",
+"At half past eight.",
+"In room 4.",
+"My friend Fah."
+],
+"en": "'Which subject' asks for a subject.",
+"th": "which subject ถามชื่อวิชา",
+"x": [
+[
+"It's a time.",
+"เป็นเวลา"
+],
+[
+"It's a place.",
+"เป็นสถานที่"
+],
+[
+"It's a person.",
+"เป็นบุคคล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can I borrow your eraser?\nB: ___",
+"o": [
+"Sure, here you are.",
+"I'm fine, thanks.",
+"It's Monday.",
+"Yes, I'm a student."
+],
+"en": "B agrees and gives it.",
+"th": "B ยินยอมและยื่นให้",
+"x": [
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: When is the break?\nB: ___",
+"o": [
+"At ten o'clock.",
+"In the bag.",
+"Yes, it is.",
+"Very well."
+],
+"en": "'When' asks for a time.",
+"th": "when ถามเวลา",
+"x": [
+[
+"It's a place.",
+"เป็นสถานที่"
+],
+[
+"Not a time.",
+"ไม่ใช่เวลา"
+],
+[
+"Not a time.",
+"ไม่ใช่เวลา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What do you want to study at university?\nB: ___",
+"o": [
+"Engineering, I think.",
+"Next year.",
+"In Bangkok.",
+"Yes, I want."
+],
+"en": "'What' asks for a subject.",
+"th": "what ถามวิชา",
+"x": [
+[
+"It's a time.",
+"เป็นเวลา"
+],
+[
+"It's a place.",
+"เป็นสถานที่"
+],
+[
+"Not an answer to 'what'.",
+"ไม่ตอบ what"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I got a bad mark in the maths test.\nB: ___",
+"o": [
+"Don't worry. You'll do better next time.",
+"Congratulations!",
+"Me too, I'm so happy!",
+"What a good mark!"
+],
+"en": "B comforts A.",
+"th": "B ปลอบใจ",
+"x": [
+[
+"Not suitable for bad news.",
+"ไม่เหมาะกับข่าวร้าย"
+],
+[
+"Not logical.",
+"ไม่สมเหตุผล"
+],
+[
+"It's a bad mark.",
+"คะแนนไม่ดี"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Are you nervous about starting secondary school?\nB: ___ But I'm excited too.",
+"o": [
+"A little.",
+"Not at all.",
+"No, never.",
+"I'm not a school."
+],
+"en": "'But I'm excited too' fits 'A little.'",
+"th": "But I'm excited too เข้ากับ A little",
+"x": [
+[
+"'But…too' suggests some nerves.",
+"But...too แสดงว่ากังวลบ้าง"
+],
+[
+"Same problem.",
+"ปัญหาเดียวกัน"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Do you have a tutor for the entrance exam?\nB: ___ I go to his house twice a week.",
+"o": [
+"Yes, for maths.",
+"No, I study alone.",
+"Tutors are expensive.",
+"I don't need exams."
+],
+"en": "B goes to his house, so B has a tutor.",
+"th": "B ไปบ้านเขา แสดงว่ามีครูสอนพิเศษ",
+"x": [
+[
+"It contradicts the visits.",
+"ขัดกับการไปเรียน"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Why did you choose a vocational college?\nB: ___",
+"o": [
+"I wanted practical skills so I could start working sooner.",
+"Because it's a university.",
+"I don't know what vocational means.",
+"Yesterday."
+],
+"en": "B gives a reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Not accurate.",
+"ไม่ถูกต้อง"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"It's a time.",
+"เป็นเวลา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think standardised tests are a fair way to judge students?\nB: ___ They're objective, but they don't measure creativity.",
+"o": [
+"To some extent.",
+"Absolutely; they measure everything.",
+"Not at all; they're totally useless.",
+"I've never taken a test."
+],
+"en": "B gives a balanced view.",
+"th": "B ให้มุมมองที่สมดุล",
+"x": [
+[
+"B mentions a weakness.",
+"B พูดถึงจุดอ่อน"
+],
+[
+"B mentions a strength.",
+"B พูดถึงข้อดี"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I've been accepted to two universities and I can't decide.\nB: ___",
+"o": [
+"Why don't you visit both campuses before you make up your mind?",
+"Just don't go to university.",
+"Universities are all the same.",
+"Congratulations on failing."
+],
+"en": "B gives sensible advice.",
+"th": "B ให้คำแนะนำที่สมเหตุผล",
+"x": [
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Unhelpful and untrue.",
+"ไม่ช่วยและไม่จริง"
+],
+[
+"Wrong; A was accepted.",
+"ผิด A ได้รับการตอบรับ"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What year is Ploy in?",
+"o": [
+"Her last year of primary school",
+"Her first year of secondary school",
+"Her first year at university",
+"Kindergarten"
+],
+"en": "'I'm in my last year of primary school.'",
+"th": "ปีสุดท้ายของชั้นประถม",
+"x": [
+[
+"She starts secondary next term.",
+"เธอจะเริ่มมัธยมเทอมหน้า"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where is Mr Ben from?",
+"o": [
+"Australia",
+"England",
+"Thailand",
+"America"
+],
+"en": "'He is from Australia.'",
+"th": "มาจากออสเตรเลีย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Ploy often forget?",
+"o": [
+"Her eraser",
+"Her ruler",
+"Her notebook",
+"Her lunch"
+],
+"en": "'I often forget my eraser.'",
+"th": "มักลืมยางลบ",
+"x": [
+[
+"She uses a ruler every day.",
+"ใช้ไม้บรรทัดทุกวัน"
+],
+[
+"She uses a notebook every day.",
+"ใช้สมุดทุกวัน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What time is the break?",
+"o": [
+"10:00",
+"8:30",
+"12:00",
+"After school"
+],
+"en": "'At 10:00 we have a break.'",
+"th": "พักเวลา 10:00",
+"x": [
+[
+"The first lesson starts then.",
+"เวลาเริ่มคาบแรก"
+],
+[
+"That's lunch.",
+"เวลาอาหารกลางวัน"
+],
+[
+"She plays football then.",
+"เวลาเล่นฟุตบอล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How does Ploy feel about secondary school?",
+"o": [
+"A little nervous",
+"Very angry",
+"Not interested",
+"Very sad"
+],
+"en": "'I am a little nervous.'",
+"th": "กังวลเล็กน้อย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do many students study with a tutor?",
+"o": [
+"To prepare for university entrance exams",
+"Because school is closed",
+"To learn to cook",
+"Because they live in a dormitory"
+],
+"en": "'…study with a tutor… to prepare.'",
+"th": "เพื่อเตรียมสอบเข้ามหาวิทยาลัย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not the reason.",
+"ไม่ใช่เหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Where do most first-year university students live?",
+"o": [
+"In a dormitory on campus",
+"With their parents",
+"In hotels",
+"With their tutors"
+],
+"en": "'Most students live in a dormitory on campus for the first year.'",
+"th": "อยู่หอพักในมหาวิทยาลัย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How is a university year divided?",
+"o": [
+"Into two semesters",
+"Into three terms",
+"Into four parts",
+"It isn't divided."
+],
+"en": "'A university year is divided into two semesters.'",
+"th": "แบ่งเป็นสองภาคการศึกษา",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It is divided.",
+"มีการแบ่ง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do vocational college students receive at the end?",
+"o": [
+"A diploma or certificate",
+"A degree",
+"Nothing",
+"A job contract"
+],
+"en": "'They receive a diploma or a certificate.'",
+"th": "ได้อนุปริญญาหรือใบรับรอง",
+"x": [
+[
+"Degrees are from universities.",
+"ปริญญามาจากมหาวิทยาลัย"
+],
+[
+"They receive something.",
+"ได้รับบางอย่าง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "According to the teacher, what is most important?",
+"o": [
+"Finding something that motivates you",
+"Going to the best university",
+"Getting the highest marks",
+"Living on campus"
+],
+"en": "'The important thing is to find something that motivates you.'",
+"th": "หาสิ่งที่จูงใจตัวเอง",
+"x": [
+[
+"Not said.",
+"ไม่ได้พูด"
+],
+[
+"Not said.",
+"ไม่ได้พูด"
+],
+[
+"Not said.",
+"ไม่ได้พูด"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is surprising about Finland and Singapore?",
+"o": [
+"Both rank highly despite very different approaches.",
+"Both use exactly the same system.",
+"Neither appears in rankings.",
+"Both start school at age seven."
+],
+"en": "'These two countries take very different approaches.'",
+"th": "ทั้งสองอยู่อันดับต้นแม้วิธีต่างกันมาก",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"They regularly appear near the top.",
+"อยู่อันดับต้นเสมอ"
+],
+[
+"Only Finland does.",
+"เฉพาะฟินแลนด์"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What criticism is made of Singapore's system?",
+"o": [
+"It encourages rote learning.",
+"It has too few tests.",
+"Discipline is too relaxed.",
+"Students study too little."
+],
+"en": "'Critics argue that this system encourages rote learning.'",
+"th": "ส่งเสริมการท่องจำ",
+"x": [
+[
+"It has frequent tests.",
+"สอบบ่อย"
+],
+[
+"Discipline is strict.",
+"วินัยเข้มงวด"
+],
+[
+"They study long hours.",
+"เรียนนานหลายชั่วโมง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "In Finland, who mainly does assessment?",
+"o": [
+"Teachers",
+"The government through national exams",
+"Parents",
+"Students themselves"
+],
+"en": "'Assessment is mostly done by teachers.'",
+"th": "ครูเป็นผู้ประเมินเป็นหลัก",
+"x": [
+[
+"There are few national exams.",
+"มีการสอบระดับชาติน้อย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do the two systems have in common?",
+"o": [
+"A commitment to reducing inequality",
+"Late starting age",
+"Frequent standardised tests",
+"Few extracurricular activities"
+],
+"en": "'What both systems share… is a commitment to reducing inequality.'",
+"th": "มุ่งลดความเหลื่อมล้ำ",
+"x": [
+[
+"Only Finland.",
+"เฉพาะฟินแลนด์"
+],
+[
+"Only Singapore.",
+"เฉพาะสิงคโปร์"
+],
+[
+"Finland offers many.",
+"ฟินแลนด์มีมาก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "According to researchers, what happens in systems with large gaps between schools?",
+"o": [
+"More dropouts and lower average results",
+"Higher rankings",
+"Better literacy",
+"More critical thinking"
+],
+"en": "'…tend to have more dropouts and lower average results.'",
+"th": "มีผู้ออกกลางคันมากขึ้นและผลเฉลี่ยต่ำลง",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

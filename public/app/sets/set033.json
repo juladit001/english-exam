@@ -1,0 +1,1627 @@
+{
+"id": 33,
+"theme": "Health habits and sleep",
+"v": [
+[
+"walk",
+"verb",
+"A1",
+"เดิน",
+"I *walk* to work every day."
+],
+[
+"fruit",
+"noun",
+"A1",
+"ผลไม้",
+"Eat more *fruit* and less cake."
+],
+[
+"wake",
+"verb",
+"A1",
+"ตื่น",
+"I *wake* up at six o'clock."
+],
+[
+"late",
+"adjective/adverb",
+"A1",
+"สาย, ดึก",
+"I went to bed *late* last night."
+],
+[
+"dream",
+"noun/verb",
+"A1",
+"ความฝัน, ฝัน",
+"I had a strange *dream* last night."
+],
+[
+"sugar",
+"noun",
+"A1",
+"น้ำตาล",
+"Don't put *sugar* in my coffee."
+],
+[
+"salt",
+"noun",
+"A1",
+"เกลือ",
+"Too much *salt* is bad for you."
+],
+[
+"pillow",
+"noun",
+"A1",
+"หมอน",
+"This *pillow* is very soft."
+],
+[
+"snack",
+"noun",
+"A2",
+"ของว่าง",
+"I have a healthy *snack* at 4 p.m."
+],
+[
+"nap",
+"noun",
+"A2",
+"การงีบหลับ",
+"My grandfather takes a *nap* after lunch."
+],
+[
+"alarm",
+"noun",
+"A2",
+"นาฬิกาปลุก, สัญญาณเตือน",
+"My *alarm* goes off at 6:30."
+],
+[
+"jog",
+"verb",
+"A2",
+"วิ่งเหยาะ",
+"She *jogs* in the park every morning."
+],
+[
+"yoga",
+"noun",
+"A2",
+"โยคะ",
+"*Yoga* helps me relax."
+],
+[
+"stretch",
+"verb",
+"A2",
+"ยืดเส้นยืดสาย",
+"*Stretch* before you run."
+],
+[
+"yawn",
+"verb",
+"A2",
+"หาว",
+"He *yawned* all through the meeting."
+],
+[
+"snore",
+"verb",
+"A2",
+"กรน",
+"My husband *snores* loudly."
+],
+[
+"vitamin",
+"noun",
+"A2",
+"วิตามิน",
+"Oranges are full of *vitamin* C."
+],
+[
+"overweight",
+"adjective",
+"A2",
+"น้ำหนักเกิน",
+"The doctor said I was *overweight*."
+],
+[
+"skip",
+"verb",
+"B1",
+"ข้าม, งด (มื้ออาหาร)",
+"Don't *skip* breakfast."
+],
+[
+"balanced",
+"adjective",
+"B1",
+"สมดุล",
+"A *balanced* diet includes fruit and vegetables."
+],
+[
+"posture",
+"noun",
+"B1",
+"ท่าทาง, ท่านั่ง",
+"Bad *posture* can cause back pain."
+],
+[
+"caffeine",
+"noun",
+"B1",
+"คาเฟอีน",
+"Coffee and tea contain *caffeine*."
+],
+[
+"stress",
+"noun",
+"B1",
+"ความเครียด",
+"Exercise reduces *stress*."
+],
+[
+"protein",
+"noun",
+"B1",
+"โปรตีน",
+"Eggs are a good source of *protein*."
+],
+[
+"fibre",
+"noun",
+"B1",
+"ใยอาหาร",
+"Brown rice is high in *fibre*."
+],
+[
+"lifestyle",
+"noun",
+"B1",
+"วิถีชีวิต",
+"He has a very healthy *lifestyle*."
+],
+[
+"refreshed",
+"adjective",
+"B1",
+"สดชื่น",
+"I woke up feeling *refreshed*."
+],
+[
+"drowsy",
+"adjective",
+"B1",
+"ง่วงซึม",
+"This medicine may make you *drowsy*."
+],
+[
+"calorie",
+"noun",
+"B1",
+"แคลอรี่",
+"This drink has 200 *calories*."
+],
+[
+"hydrated",
+"adjective",
+"B2",
+"ได้รับน้ำเพียงพอ",
+"Drink water to stay *hydrated*."
+],
+[
+"metabolism",
+"noun",
+"B2",
+"การเผาผลาญ, เมแทบอลิซึม",
+"Exercise speeds up your *metabolism*."
+],
+[
+"moderation",
+"noun",
+"B2",
+"ความพอดี, การไม่มากเกินไป",
+"You can eat sweets in *moderation*."
+],
+[
+"nutrient",
+"noun",
+"B2",
+"สารอาหาร",
+"Vegetables are full of *nutrients*."
+],
+[
+"fatigue",
+"noun",
+"B2",
+"ความเหนื่อยล้า",
+"Long hours cause *fatigue*."
+],
+[
+"deprivation",
+"noun",
+"B2",
+"การขาด (สิ่งจำเป็น)",
+"Sleep *deprivation* affects memory."
+],
+[
+"circadian rhythm",
+"noun",
+"B2",
+"นาฬิกาชีวภาพ",
+"Night shifts disturb your *circadian rhythm*."
+],
+[
+"meditation",
+"noun",
+"B2",
+"การทำสมาธิ",
+"Ten minutes of *meditation* calms my mind."
+],
+[
+"consistent",
+"adjective",
+"B2",
+"สม่ำเสมอ",
+"Keep a *consistent* bedtime."
+],
+[
+"sluggish",
+"adjective",
+"B2",
+"เฉื่อยชา, อืดอาด",
+"I feel *sluggish* after a big lunch."
+],
+[
+"prioritise",
+"verb",
+"B2",
+"จัดลำดับความสำคัญ, ให้ความสำคัญก่อน",
+"You need to *prioritise* your health."
+]
+],
+"p": [
+{
+"t": "My New Healthy Routine",
+"x": "Last year I felt tired all the time. I went to bed late, often after midnight, and I watched videos on my phone in bed. In the morning, I couldn't hear my alarm, and I was always late for work. I ate a lot of sugar and salty snacks, and I was a little overweight.\nSo I decided to change. Now I go to bed at 10:30 and leave my phone in the kitchen. I wake up at 6:00 and stretch for five minutes. Three times a week I jog in the park before work, and on Sundays I do yoga with my sister.\nI also eat more fruit, and I take a vitamin every morning. Sometimes I have a short nap after lunch at the weekend. My wife says I don't snore any more, and I don't yawn at my desk. I even have good dreams now! It's the best change I have ever made."
+},
+{
+"t": "Small Changes, Big Results",
+"x": "Many people believe that being healthy requires a complete change of lifestyle. In fact, doctors say that small habits, repeated every day, can make a big difference.\nFirst, don't skip breakfast. A balanced breakfast with protein, such as eggs, and fibre, such as whole-grain bread, gives you energy until lunch. Second, think about caffeine. One or two cups of coffee in the morning are fine, but coffee after 3 p.m. can stop you from sleeping well.\nThird, check your posture. Many office workers sit badly for hours, which causes back and neck pain. Stand up and walk around every hour. Fourth, learn to manage stress. Some people find that a short walk or a few deep breaths helps them feel calmer.\nFinally, count your sleep, not just your calories. If you wake up feeling refreshed, you are probably sleeping enough. If you feel drowsy during the day, you may need to go to bed earlier."
+},
+{
+"t": "Why Sleep Is Not a Luxury",
+"x": "In many modern societies, sleeping less is seen as a sign of hard work. Business leaders proudly claim to need only four or five hours a night. Yet scientists increasingly warn that sleep deprivation is a serious public-health problem.\nSleep is regulated by our circadian rhythm, an internal clock that responds to light and darkness. When we stay up late under bright screens, this rhythm is disturbed, and the body struggles to produce the hormones that make us sleepy. The result is not only fatigue the next day but, over time, a higher risk of heart disease, weight gain and depression. Lack of sleep also appears to slow the metabolism, which explains why tired people often feel sluggish and crave sugary food.\nThe good news is that sleep habits can be improved. Experts recommend keeping a consistent schedule, even at weekends, and avoiding heavy meals and alcohol before bed. Staying hydrated during the day matters too, although drinking large amounts in the evening may wake you up at night. Some people find that meditation helps calm a busy mind.\nUltimately, researchers argue, we should prioritise sleep in the same way we value a diet rich in nutrients or regular exercise. Like food, sleep is best enjoyed not in moderation, but in sufficient quantity."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "I usually ___ up at 6 a.m. on weekdays.",
+"o": [
+"wake",
+"walk",
+"work",
+"want"
+],
+"en": "'Wake up' = stop sleeping.",
+"th": "wake up = ตื่นนอน",
+"x": [
+[
+"'walk up' means walk upwards, not stop sleeping.",
+"walk up = เดินขึ้น"
+],
+[
+"'work up' isn't used this way.",
+"work up ไม่ใช้แบบนี้"
+],
+[
+"'want up' isn't English.",
+"want up ไม่มีในภาษาอังกฤษ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Bananas and apples are my favourite ___.",
+"o": [
+"fruit",
+"food shop",
+"drinks",
+"meat"
+],
+"en": "Bananas and apples are fruit.",
+"th": "กล้วยและแอปเปิลเป็นผลไม้",
+"x": [
+[
+"A shop isn't eaten.",
+"ร้านกินไม่ได้"
+],
+[
+"They aren't drinks.",
+"ไม่ใช่เครื่องดื่ม"
+],
+[
+"They aren't meat.",
+"ไม่ใช่เนื้อสัตว์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I put my head on the ___ and fell asleep.",
+"o": [
+"pillow",
+"pillar",
+"pilot",
+"pile"
+],
+"en": "You put your head on a pillow.",
+"th": "วางหัวบนหมอน",
+"x": [
+[
+"A pillar holds up a building.",
+"pillar = เสา"
+],
+[
+"A pilot flies planes.",
+"pilot = นักบิน"
+],
+[
+"A pile is a heap.",
+"pile = กอง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Too much ___ is bad for your teeth.",
+"o": [
+"sugar",
+"sun",
+"soap",
+"silver"
+],
+"en": "Sugar damages teeth.",
+"th": "น้ำตาลทำให้ฟันผุ",
+"x": [
+[
+"The sun isn't eaten.",
+"แสงแดดกินไม่ได้"
+],
+[
+"Soap isn't eaten.",
+"สบู่กินไม่ได้"
+],
+[
+"Silver is a metal.",
+"silver = เงิน (โลหะ)"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My ___ didn't go off, so I woke up late.",
+"o": [
+"alarm",
+"album",
+"arm",
+"alarmed"
+],
+"en": "An alarm clock goes off to wake you.",
+"th": "นาฬิกาปลุกไม่ดัง",
+"x": [
+[
+"An album is for photos or music.",
+"album = อัลบั้ม"
+],
+[
+"An arm is part of the body.",
+"arm = แขน"
+],
+[
+"'alarmed' is an adjective.",
+"alarmed เป็นคุณศัพท์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My father ___ so loudly that I can hear him from my room.",
+"o": [
+"snores",
+"snows",
+"scores",
+"stores"
+],
+"en": "Snore = make noise while sleeping.",
+"th": "snore = กรน",
+"x": [
+[
+"'snow' is weather.",
+"snow = หิมะตก"
+],
+[
+"'score' is getting points.",
+"score = ทำคะแนน"
+],
+[
+"'store' means keep.",
+"store = เก็บ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She ___ every morning in the park before breakfast.",
+"o": [
+"jogs",
+"jokes",
+"jogged up",
+"joins"
+],
+"en": "Jog = run slowly for exercise.",
+"th": "jog = วิ่งเหยาะ",
+"x": [
+[
+"'joke' means say something funny.",
+"joke = พูดตลก"
+],
+[
+"Past and 'up' don't fit 'every morning'.",
+"อดีตไม่เข้ากับ every morning"
+],
+[
+"'join' needs an object.",
+"join ต้องมีกรรม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I always ___ when I'm bored or sleepy.",
+"o": [
+"yawn",
+"yarn",
+"yard",
+"young"
+],
+"en": "Yawn = open your mouth wide when tired.",
+"th": "yawn = หาว",
+"x": [
+[
+"Yarn is thread.",
+"yarn = ไหมพรม"
+],
+[
+"A yard is a garden.",
+"yard = สนาม"
+],
+[
+"'young' is an adjective.",
+"young = อายุน้อย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Try not to ___ breakfast; it's the most important meal.",
+"o": [
+"skip",
+"skin",
+"ship",
+"slip"
+],
+"en": "Skip a meal = not eat it.",
+"th": "skip = งดมื้ออาหาร",
+"x": [
+[
+"Skin is on your body.",
+"skin = ผิวหนัง"
+],
+[
+"A ship is a boat.",
+"ship = เรือ"
+],
+[
+"'slip' means slide.",
+"slip = ลื่น"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Coffee contains ___, which keeps you awake.",
+"o": [
+"caffeine",
+"calcium",
+"cocaine",
+"calories"
+],
+"en": "Caffeine is the stimulant in coffee.",
+"th": "คาเฟอีนทำให้ตื่นตัว",
+"x": [
+[
+"Calcium is in milk; it doesn't keep you awake.",
+"แคลเซียมไม่ทำให้ตื่น"
+],
+[
+"Cocaine is an illegal drug.",
+"ยาเสพติด"
+],
+[
+"Calories are energy, not a stimulant.",
+"แคลอรี่คือพลังงาน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "This medicine may make you ___, so don't drive.",
+"o": [
+"drowsy",
+"drowned",
+"dusty",
+"dizzy-free"
+],
+"en": "Drowsy = sleepy.",
+"th": "drowsy = ง่วงซึม",
+"x": [
+[
+"'drowned' means died in water.",
+"drowned = จมน้ำตาย"
+],
+[
+"'dusty' means covered in dust.",
+"dusty = มีฝุ่น"
+],
+[
+"Not a real word.",
+"ไม่มีคำนี้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Sitting with bad ___ for hours can hurt your back.",
+"o": [
+"posture",
+"poster",
+"pasture",
+"postage"
+],
+"en": "Posture = the way you sit or stand.",
+"th": "posture = ท่าทาง ท่านั่ง",
+"x": [
+[
+"A poster is a picture.",
+"poster = โปสเตอร์"
+],
+[
+"Pasture is grassland.",
+"pasture = ทุ่งหญ้า"
+],
+[
+"Postage is mailing cost.",
+"postage = ค่าส่งไปรษณีย์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Remember to drink plenty of water to stay ___.",
+"o": [
+"hydrated",
+"hydraulic",
+"hybrid",
+"hysterical"
+],
+"en": "Hydrated = having enough water in the body.",
+"th": "hydrated = ได้รับน้ำเพียงพอ",
+"x": [
+[
+"Hydraulic is about machines and liquid pressure.",
+"hydraulic = ไฮดรอลิก"
+],
+[
+"Hybrid means mixed.",
+"hybrid = ลูกผสม"
+],
+[
+"Hysterical means out of control.",
+"hysterical = ฮิสทีเรีย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Chocolate is fine in ___; just don't eat a whole box.",
+"o": [
+"moderation",
+"modernisation",
+"motivation",
+"meditation"
+],
+"en": "In moderation = not too much.",
+"th": "in moderation = แต่พอดี",
+"x": [
+[
+"Modernisation is making things modern.",
+"modernisation = การทำให้ทันสมัย"
+],
+[
+"Motivation is the desire to act.",
+"motivation = แรงจูงใจ"
+],
+[
+"Meditation is calming the mind.",
+"meditation = การทำสมาธิ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Working night shifts can disturb your ___ rhythm.",
+"o": [
+"circadian",
+"circular",
+"circus",
+"circulation"
+],
+"en": "The circadian rhythm is the body clock.",
+"th": "circadian rhythm = นาฬิกาชีวภาพ",
+"x": [
+[
+"'circular' means round.",
+"circular = เป็นวงกลม"
+],
+[
+"A circus is a show.",
+"circus = ละครสัตว์"
+],
+[
+"Circulation is blood flow.",
+"circulation = การไหลเวียน"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Do] he [walk] [to] [work]?",
+"a": 0,
+"fix": "Does he walk to work?",
+"en": "He uses 'Does' in questions.",
+"th": "He ใช้ Does ในคำถาม",
+"x": [
+[
+"'walk' is correct after does.",
+"walk ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+],
+[
+"'work' is correct.",
+"work ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "I [go] [to] [bed] [at late].",
+"a": 3,
+"fix": "I go to bed late.",
+"en": "'Late' is used without 'at'.",
+"th": "late ไม่ใช้ at",
+"x": [
+[
+"'go' is correct.",
+"go ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+],
+[
+"'bed' is correct.",
+"bed ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Eat] [too much] salt [is] [bad] for you.",
+"a": 0,
+"fix": "Eating too much salt is bad for you.",
+"en": "An activity as subject: Eating.",
+"th": "กิจกรรมเป็นประธาน: Eating",
+"x": [
+[
+"'too much' is correct with uncountable salt.",
+"too much ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'bad' is correct.",
+"bad ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I [usually] [have] a nap [in] the afternoon, but yesterday I [don't].",
+"a": 3,
+"fix": "I usually have a nap in the afternoon, but yesterday I didn't.",
+"en": "'Yesterday' needs past: didn't.",
+"th": "yesterday ต้องใช้อดีต: didn't",
+"x": [
+[
+"'usually' is correct.",
+"usually ถูกต้อง"
+],
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "She [does] yoga [on] [the] Sundays [with] her sister.",
+"a": 2,
+"fix": "She does yoga on Sundays with her sister.",
+"en": "Days used for habits don't need 'the': on Sundays.",
+"th": "วันที่ทำเป็นประจำไม่ใช้ the: on Sundays",
+"x": [
+[
+"'does' is correct.",
+"does ถูกต้อง"
+],
+[
+"'on' is correct with days.",
+"on ใช้กับวัน ถูกต้อง"
+],
+[
+"'with' is correct.",
+"with ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[You'd better] [to drink] less coffee [if] you want [to sleep] well.",
+"a": 1,
+"fix": "You'd better drink less coffee if you want to sleep well.",
+"en": "'Had better' + base verb (no 'to').",
+"th": "had better + V1 (ไม่มี to)",
+"x": [
+[
+"'You'd better' is correct.",
+"You'd better ถูกต้อง"
+],
+[
+"'if' is correct.",
+"if ถูกต้อง"
+],
+[
+"'to sleep' is correct after 'want'.",
+"to sleep ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[I] [used to] [eating] junk food, but now I [eat] healthily.",
+"a": 2,
+"fix": "I used to eat junk food, but now I eat healthily.",
+"en": "'Used to' + base verb: eat.",
+"th": "used to + V1: eat",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'used to' is correct.",
+"used to ถูกต้อง"
+],
+[
+"'eat' is correct.",
+"eat ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Since] I started yoga, I [feel] much [less] [stressful].",
+"a": 3,
+"fix": "Since I started yoga, I feel much less stressed.",
+"en": "Describe a person's feeling: stressed, not stressful.",
+"th": "ความรู้สึกของคนใช้ stressed ไม่ใช่ stressful",
+"x": [
+[
+"'Since' is correct.",
+"Since ถูกต้อง"
+],
+[
+"'feel' is acceptable here.",
+"feel ใช้ได้"
+],
+[
+"'less' is correct.",
+"less ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Lack] of sleep [not only] causes fatigue [but also] [weakening] the immune system.",
+"a": 3,
+"fix": "Lack of sleep not only causes fatigue but also weakens the immune system.",
+"en": "Parallel structure: causes… weakens.",
+"th": "โครงสร้างคู่ขนาน: causes... weakens",
+"x": [
+[
+"'Lack' is correct.",
+"Lack ถูกต้อง"
+],
+[
+"'not only' is correct.",
+"not only ถูกต้อง"
+],
+[
+"'but also' is correct.",
+"but also ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[It's] high time we [prioritise] sleep [instead of] [treating] it as a luxury.",
+"a": 1,
+"fix": "It's high time we prioritised sleep instead of treating it as a luxury.",
+"en": "'It's high time + past simple': prioritised.",
+"th": "It's high time + past simple",
+"x": [
+[
+"'It's' is correct.",
+"It's ถูกต้อง"
+],
+[
+"'instead of' is correct.",
+"instead of ถูกต้อง"
+],
+[
+"'treating' is correct after a preposition.",
+"treating ถูกต้องหลังบุพบท"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What time do you go to bed?\nB: ___",
+"o": [
+"At about ten o'clock.",
+"In my bedroom.",
+"Yes, I do.",
+"With my pillow."
+],
+"en": "'What time' asks for a time.",
+"th": "what time ถามเวลา",
+"x": [
+[
+"It's a place.",
+"เป็นสถานที่"
+],
+[
+"Not a time.",
+"ไม่ใช่เวลา"
+],
+[
+"Not a time.",
+"ไม่ใช่เวลา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you want some sugar in your tea?\nB: ___",
+"o": [
+"No, thank you.",
+"Yes, I'm tea.",
+"It's hot.",
+"I'm sugar."
+],
+"en": "B answers politely.",
+"th": "B ตอบอย่างสุภาพ",
+"x": [
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: You look tired.\nB: ___ I went to bed very late.",
+"o": [
+"Yes, I am.",
+"No, I'm not.",
+"Thank you.",
+"Nice to meet you."
+],
+"en": "Going to bed late explains being tired.",
+"th": "นอนดึกอธิบายว่าเหนื่อย",
+"x": [
+[
+"It contradicts the reason.",
+"ขัดกับเหตุผล"
+],
+[
+"Not a natural reply.",
+"ไม่เป็นธรรมชาติ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Why don't we go jogging tomorrow morning?\nB: ___ What time shall we meet?",
+"o": [
+"Good idea!",
+"No, I hate jogging.",
+"I'm busy tomorrow.",
+"Jogging is a sport."
+],
+"en": "B agrees and asks about time.",
+"th": "B เห็นด้วยและถามเวลา",
+"x": [
+[
+"It contradicts asking about time.",
+"ขัดกับการถามเวลา"
+],
+[
+"It contradicts asking about time.",
+"ขัดกับการถามเวลา"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How often do you do yoga?\nB: ___",
+"o": [
+"Twice a week.",
+"For one hour.",
+"At the gym.",
+"Very good."
+],
+"en": "'How often' asks about frequency.",
+"th": "how often ถามความถี่",
+"x": [
+[
+"That's duration.",
+"นั่นคือระยะเวลา"
+],
+[
+"That's a place.",
+"นั่นคือสถานที่"
+],
+[
+"Not frequency.",
+"ไม่ใช่ความถี่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I always feel sleepy after lunch.\nB: ___",
+"o": [
+"Maybe you should eat a lighter lunch.",
+"Eat more at lunch!",
+"Me neither.",
+"That's a good lunch."
+],
+"en": "B gives sensible advice.",
+"th": "B ให้คำแนะนำที่สมเหตุผล",
+"x": [
+[
+"That would make it worse.",
+"จะยิ่งแย่ลง"
+],
+[
+"'Me neither' answers a negative sentence.",
+"Me neither ใช้กับประโยคปฏิเสธ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I can't sleep at night. Any advice?\nB: ___",
+"o": [
+"Try avoiding coffee after lunch and putting your phone away an hour before bed.",
+"Drink more coffee in the evening.",
+"Watch videos in bed.",
+"Sleep is not important."
+],
+"en": "B gives useful advice.",
+"th": "B ให้คำแนะนำที่มีประโยชน์",
+"x": [
+[
+"That makes it worse.",
+"ทำให้แย่ลง"
+],
+[
+"That makes it worse.",
+"ทำให้แย่ลง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Did you sleep well?\nB: ___ I feel really refreshed today.",
+"o": [
+"Yes, like a baby.",
+"No, not at all.",
+"I didn't sleep.",
+"I'm very drowsy."
+],
+"en": "Feeling refreshed means B slept well.",
+"th": "รู้สึกสดชื่นแสดงว่านอนหลับดี",
+"x": [
+[
+"It contradicts 'refreshed'.",
+"ขัดกับ refreshed"
+],
+[
+"It contradicts 'refreshed'.",
+"ขัดกับ refreshed"
+],
+[
+"It contradicts 'refreshed'.",
+"ขัดกับ refreshed"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: My boss says he only needs four hours of sleep.\nB: ___ Most research suggests adults need seven to nine.",
+"o": [
+"I doubt that's really true.",
+"That sounds perfectly healthy.",
+"Everyone should do the same.",
+"I need even less."
+],
+"en": "B doubts the claim, based on research.",
+"th": "B สงสัยในคำกล่าวนั้นโดยอ้างงานวิจัย",
+"x": [
+[
+"It contradicts the research.",
+"ขัดกับงานวิจัย"
+],
+[
+"It contradicts the research.",
+"ขัดกับงานวิจัย"
+],
+[
+"It contradicts the research.",
+"ขัดกับงานวิจัย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I've been feeling sluggish for weeks.\nB: ___",
+"o": [
+"Have you thought about seeing a doctor to check your vitamin levels?",
+"Just ignore it; it'll get worse.",
+"Sluggish is a nice word.",
+"You should sleep less."
+],
+"en": "B gives sensible advice.",
+"th": "B ให้คำแนะนำที่สมเหตุผล",
+"x": [
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Likely to make it worse.",
+"อาจทำให้แย่ลง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was the writer's problem last year?",
+"o": [
+"He felt tired all the time.",
+"He couldn't find a job.",
+"He slept too much.",
+"He ate too much fruit."
+],
+"en": "'Last year I felt tired all the time.'",
+"th": "รู้สึกเหนื่อยตลอดเวลา",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"He went to bed late.",
+"เขานอนดึก"
+],
+[
+"He ate sugar and snacks.",
+"เขากินน้ำตาลและขนม"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where does he leave his phone now?",
+"o": [
+"In the kitchen",
+"Next to his pillow",
+"In his car",
+"At work"
+],
+"en": "'…leave my phone in the kitchen.'",
+"th": "ทิ้งโทรศัพท์ไว้ในครัว",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does he do on Sundays?",
+"o": [
+"Yoga with his sister",
+"Jogging in the park",
+"Shopping",
+"Sleeping all day"
+],
+"en": "'On Sundays I do yoga with my sister.'",
+"th": "เล่นโยคะกับพี่/น้องสาว",
+"x": [
+[
+"He jogs three times a week before work.",
+"วิ่งสัปดาห์ละสามครั้ง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does he take every morning?",
+"o": [
+"A vitamin",
+"A nap",
+"Coffee",
+"A taxi"
+],
+"en": "'I take a vitamin every morning.'",
+"th": "กินวิตามินทุกเช้า",
+"x": [
+[
+"He naps after lunch at weekends.",
+"งีบหลังอาหารกลางวันวันหยุด"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does his wife say?",
+"o": [
+"He doesn't snore any more.",
+"He snores more now.",
+"He yawns a lot.",
+"He is still late."
+],
+"en": "'My wife says I don't snore any more.'",
+"th": "เขาไม่กรนอีกแล้ว",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"He doesn't yawn at his desk.",
+"เขาไม่หาวที่โต๊ะแล้ว"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is the main idea of the passage?",
+"o": [
+"Small daily habits can improve health.",
+"You must completely change your life.",
+"Breakfast is unhealthy.",
+"Coffee should be avoided completely."
+],
+"en": "'Small habits, repeated every day, can make a big difference.'",
+"th": "นิสัยเล็กๆ ทุกวันส่งผลใหญ่",
+"x": [
+[
+"The writer disagrees.",
+"ผู้เขียนไม่เห็นด้วย"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"One or two cups are fine.",
+"หนึ่งสองแก้วไม่เป็นไร"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which food is given as an example of fibre?",
+"o": [
+"Whole-grain bread",
+"Eggs",
+"Coffee",
+"Fruit juice"
+],
+"en": "'…fibre, such as whole-grain bread.'",
+"th": "ขนมปังโฮลเกรน",
+"x": [
+[
+"Eggs are protein.",
+"ไข่เป็นโปรตีน"
+],
+[
+"Not fibre.",
+"ไม่ใช่ใยอาหาร"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why should you avoid coffee after 3 p.m.?",
+"o": [
+"It can stop you from sleeping well.",
+"It causes back pain.",
+"It has too much fibre.",
+"It makes you hungry."
+],
+"en": "'Coffee after 3 p.m. can stop you from sleeping well.'",
+"th": "อาจทำให้นอนไม่หลับ",
+"x": [
+[
+"Posture causes back pain.",
+"ท่านั่งทำให้ปวดหลัง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What advice is given to office workers?",
+"o": [
+"Stand up and walk around every hour.",
+"Sit still for longer.",
+"Drink more coffee.",
+"Skip lunch."
+],
+"en": "'Stand up and walk around every hour.'",
+"th": "ลุกเดินทุกชั่วโมง",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not advised.",
+"ไม่ได้แนะนำ"
+],
+[
+"Not advised.",
+"ไม่ได้แนะนำ"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What might feeling drowsy during the day mean?",
+"o": [
+"You may need to go to bed earlier.",
+"You are sleeping too much.",
+"You are eating too much fibre.",
+"You have perfect posture."
+],
+"en": "'If you feel drowsy… you may need to go to bed earlier.'",
+"th": "อาจต้องเข้านอนเร็วขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How is sleeping less often seen in modern societies?",
+"o": [
+"As a sign of hard work",
+"As a health risk by everyone",
+"As laziness",
+"As a medical condition"
+],
+"en": "'…sleeping less is seen as a sign of hard work.'",
+"th": "มองว่าเป็นสัญลักษณ์ของความขยัน",
+"x": [
+[
+"Scientists see it this way, not society generally.",
+"นักวิทยาศาสตร์มองเช่นนั้น ไม่ใช่สังคมทั่วไป"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What disturbs the circadian rhythm, according to the passage?",
+"o": [
+"Staying up late under bright screens",
+"Drinking water",
+"Meditation",
+"Eating nutrients"
+],
+"en": "'When we stay up late under bright screens, this rhythm is disturbed.'",
+"th": "การนอนดึกหน้าจอสว่าง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It helps.",
+"ช่วยได้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do tired people often feel sluggish and crave sugary food?",
+"o": [
+"Lack of sleep appears to slow the metabolism.",
+"They drink too much water.",
+"They meditate too much.",
+"Their schedule is too consistent."
+],
+"en": "'Lack of sleep also appears to slow the metabolism, which explains why…'",
+"th": "การนอนไม่พอทำให้การเผาผลาญช้าลง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Consistency is recommended.",
+"แนะนำให้สม่ำเสมอ"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What warning is given about drinking water?",
+"o": [
+"Drinking a lot in the evening may wake you at night.",
+"Water slows the metabolism.",
+"You should avoid water during the day.",
+"Water disturbs the circadian rhythm."
+],
+"en": "'…drinking large amounts in the evening may wake you up at night.'",
+"th": "ดื่มมากตอนเย็นอาจทำให้ตื่นกลางดึก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite; stay hydrated.",
+"ตรงข้าม ควรดื่มน้ำ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the final sentence suggest?",
+"o": [
+"Unlike some foods, sleep should not be limited; we need enough of it.",
+"We should sleep less.",
+"Sleep is like junk food.",
+"Moderation is the key to sleep."
+],
+"en": "'…sleep is best enjoyed not in moderation, but in sufficient quantity.'",
+"th": "การนอนไม่ควรจำกัด ต้องนอนให้พอ",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not suggested.",
+"ไม่ได้สื่อ"
+],
+[
+"The writer says 'not in moderation'.",
+"ผู้เขียนบอกว่า not in moderation"
+]
+]
+}
+]
+}

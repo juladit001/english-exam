@@ -1,0 +1,1627 @@
+{
+"id": 72,
+"theme": "Wildlife and conservation",
+"v": [
+[
+"lion",
+"noun",
+"A1",
+"สิงโต",
+"*Lions* live in Africa."
+],
+[
+"monkey",
+"noun",
+"A1",
+"ลิง",
+"The *monkey* took my banana!"
+],
+[
+"bear",
+"noun",
+"A1",
+"หมี",
+"There are black *bears* in this forest."
+],
+[
+"frog",
+"noun",
+"A1",
+"กบ",
+"*Frogs* sing at night in the rainy season."
+],
+[
+"bee",
+"noun",
+"A1",
+"ผึ้ง",
+"*Bees* make honey."
+],
+[
+"spider",
+"noun",
+"A1",
+"แมงมุม",
+"There's a big *spider* on the wall!"
+],
+[
+"owl",
+"noun",
+"A1",
+"นกฮูก",
+"*Owls* hunt at night."
+],
+[
+"butterfly",
+"noun",
+"A1",
+"ผีเสื้อ",
+"A beautiful *butterfly* landed on the flower."
+],
+[
+"deer",
+"noun",
+"A2",
+"กวาง",
+"We saw a *deer* in the national park."
+],
+[
+"jungle",
+"noun",
+"A2",
+"ป่าทึบ, ป่าดงดิบ",
+"Tigers live in the *jungle*."
+],
+[
+"nest",
+"noun",
+"A2",
+"รัง",
+"The bird built a *nest* in the tree."
+],
+[
+"crocodile",
+"noun",
+"A2",
+"จระเข้",
+"Don't swim here; there are *crocodiles*."
+],
+[
+"leopard",
+"noun",
+"A2",
+"เสือดาว",
+"A *leopard* has spots."
+],
+[
+"rhino",
+"noun",
+"A2",
+"แรด",
+"*Rhinos* are hunted for their horns."
+],
+[
+"claw",
+"noun",
+"A2",
+"กรงเล็บ",
+"Bears have long, sharp *claws*."
+],
+[
+"national park",
+"noun",
+"A2",
+"อุทยานแห่งชาติ",
+"Khao Yai is a famous *national park*."
+],
+[
+"ranger",
+"noun",
+"A2",
+"เจ้าหน้าที่พิทักษ์ป่า",
+"The *ranger* showed us the elephants."
+],
+[
+"gibbon",
+"noun",
+"A2",
+"ชะนี",
+"*Gibbons* swing through the trees."
+],
+[
+"extinction",
+"noun",
+"B1",
+"การสูญพันธุ์",
+"Many animals face *extinction*."
+],
+[
+"poacher",
+"noun",
+"B1",
+"ผู้ลักลอบล่าสัตว์",
+"The *poachers* were arrested."
+],
+[
+"ivory",
+"noun",
+"B1",
+"งาช้าง",
+"Selling *ivory* is illegal."
+],
+[
+"habitat loss",
+"noun",
+"B1",
+"การสูญเสียถิ่นที่อยู่",
+"*Habitat loss* is the biggest threat to wildlife."
+],
+[
+"reserve",
+"noun",
+"B1",
+"เขตสงวน",
+"The animals live in a nature *reserve*."
+],
+[
+"food chain",
+"noun",
+"B1",
+"ห่วงโซ่อาหาร",
+"Plants are at the bottom of the *food chain*."
+],
+[
+"herbivore",
+"noun",
+"B1",
+"สัตว์กินพืช",
+"Deer are *herbivores*."
+],
+[
+"carnivore",
+"noun",
+"B1",
+"สัตว์กินเนื้อ",
+"Tigers are *carnivores*."
+],
+[
+"threatened",
+"adjective",
+"B1",
+"ถูกคุกคาม",
+"Many species are *threatened* by pollution."
+],
+[
+"illegal trade",
+"noun",
+"B1",
+"การค้าผิดกฎหมาย",
+"The *illegal trade* in wildlife is huge."
+],
+[
+"hornbill",
+"noun",
+"B1",
+"นกเงือก",
+"The *hornbill* has a huge beak."
+],
+[
+"breeding programme",
+"noun",
+"B2",
+"โครงการเพาะพันธุ์",
+"The zoo runs a *breeding programme* for tigers."
+],
+[
+"wildlife corridor",
+"noun",
+"B2",
+"แนวเชื่อมต่อถิ่นอาศัยสัตว์ป่า",
+"A *wildlife corridor* connects two forests."
+],
+[
+"trafficking",
+"noun",
+"B2",
+"การลักลอบค้า",
+"Wildlife *trafficking* is a serious crime."
+],
+[
+"rehabilitate",
+"verb",
+"B2",
+"ฟื้นฟู (สัตว์) ก่อนปล่อยคืน",
+"They *rehabilitate* injured animals."
+],
+[
+"tracking collar",
+"noun",
+"B2",
+"ปลอกคอติดตามตัว",
+"The tiger wears a *tracking collar*."
+],
+[
+"camera trap",
+"noun",
+"B2",
+"กล้องดักถ่าย",
+"A *camera trap* filmed a rare leopard."
+],
+[
+"rewilding",
+"noun",
+"B2",
+"การคืนสภาพป่า",
+"*Rewilding* brings back native species."
+],
+[
+"keystone species",
+"noun",
+"B2",
+"ชนิดพันธุ์หลัก",
+"Elephants are a *keystone species*."
+],
+[
+"apex predator",
+"noun",
+"B2",
+"สัตว์นักล่าสูงสุด",
+"The tiger is an *apex predator*."
+],
+[
+"pangolin",
+"noun",
+"B2",
+"ตัวนิ่ม",
+"The *pangolin* is the most trafficked mammal."
+],
+[
+"decline",
+"noun/verb",
+"B2",
+"การลดลง, ลดลง",
+"Bee numbers are in *decline*."
+]
+],
+"p": [
+{
+"t": "A Trip to the Zoo",
+"x": "Last Saturday, my class went to the zoo. First, we saw the lions. They were sleeping in the sun. Then we watched the monkeys. One monkey took a boy's hat and ran away! Everyone laughed.\nNext, we visited the bear. It was big and brown. In the insect house, there were bees, a huge spider and many beautiful butterflies. My friend was scared of the spider, but I thought it was interesting.\nIn the evening, we heard an owl and some frogs near the lake. It was a great day. I want to work with animals when I grow up."
+},
+{
+"t": "Khao Yai National Park",
+"x": "Khao Yai, Thailand's first national park, is home to an amazing variety of wildlife. The park covers more than 2,000 square kilometres of jungle and grassland.\nVisitors often see deer and monkeys near the roads, and wild elephants sometimes cross in front of cars! If you're lucky, you might hear gibbons calling in the morning or see a hornbill flying overhead. Hornbills build their nest in holes high in old trees. The park is also home to leopards and black bears, which have long, sharp claws, though they are rarely seen. Near the rivers, there may even be crocodiles.\nPark rangers work hard to protect the animals. One of their biggest problems is poachers, who hunt animals illegally. Some sell animal parts in the illegal trade. In the past, elephants were killed for their ivory, and in other parts of Asia, rhinos are still hunted for their horns.\nAnother threat is habitat loss. When forests are cut down for farms or roads, animals lose their homes, and many species face extinction. Herbivores, like deer, depend on plants, while carnivores, like tigers, depend on herbivores. If one part of the food chain disappears, the whole system suffers. That's why reserves like Khao Yai are so important: many animals there are threatened."
+},
+{
+"t": "Bringing Nature Back",
+"x": "Scientists warn that the world is experiencing a dramatic decline in wildlife. Populations of mammals, birds, fish and reptiles have fallen sharply since 1970, driven mainly by habitat loss, pollution, climate change and trafficking. The pangolin, a small scaly animal from Asia and Africa, is believed to be the most trafficked mammal in the world.\nConservationists use a variety of tools to fight back. Camera traps, hidden in forests, record images of rare animals, helping researchers estimate their numbers. Some large animals wear a tracking collar that sends their location by satellite, revealing how far they travel. This information has shown the importance of wildlife corridors, strips of protected land that connect separate forests, allowing animals to move, find food and breed.\nProtecting certain animals benefits whole ecosystems. A keystone species, such as the elephant, shapes its environment by creating paths and spreading seeds. An apex predator like the tiger controls the numbers of herbivores, preventing them from destroying vegetation. When these animals disappear, the effects ripple through the entire system.\nIn some regions, conservation has moved beyond protection towards restoration. Rewilding projects aim to bring back native species and allow natural processes to recover. Zoos contribute through breeding programmes for endangered animals, while wildlife centres rehabilitate injured or rescued animals before returning them to the wild. These efforts show that, with enough commitment, decline is not inevitable."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "___ make honey.",
+"o": [
+"Bees",
+"Beans",
+"Beds",
+"Bears"
+],
+"en": "Bees make honey.",
+"th": "ผึ้งทำน้ำผึ้ง",
+"x": [
+[
+"Beans are vegetables.",
+"bean = ถั่ว"
+],
+[
+"Beds are for sleeping.",
+"bed = เตียง"
+],
+[
+"Bears eat honey but don't make it.",
+"หมีกินน้ำผึ้งแต่ไม่ได้ทำ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "An ___ has big eyes and hunts at night.",
+"o": [
+"owl",
+"owe",
+"oil",
+"oval"
+],
+"en": "Owls hunt at night.",
+"th": "นกฮูกล่าเหยื่อตอนกลางคืน",
+"x": [
+[
+"'owe' means need to pay.",
+"owe = ติดหนี้"
+],
+[
+"Oil is a liquid.",
+"oil = น้ำมัน"
+],
+[
+"An oval is a shape.",
+"oval = วงรี"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "A colourful ___ landed on the flower.",
+"o": [
+"butterfly",
+"butter",
+"button",
+"buffalo"
+],
+"en": "Butterflies visit flowers.",
+"th": "ผีเสื้อเกาะดอกไม้",
+"x": [
+[
+"Butter is food.",
+"butter = เนย"
+],
+[
+"A button is on clothes.",
+"button = กระดุม"
+],
+[
+"A buffalo is too big to land on a flower!",
+"ควายตัวใหญ่เกินไป"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The ___ climbed the tree and took my banana.",
+"o": [
+"monkey",
+"money",
+"monk",
+"mouse"
+],
+"en": "Monkeys climb trees and eat bananas.",
+"th": "ลิงปีนต้นไม้",
+"x": [
+[
+"Money is cash.",
+"money = เงิน"
+],
+[
+"A monk is a religious man.",
+"monk = พระ"
+],
+[
+"A mouse can't take a banana from a tree easily.",
+"หนูไม่น่าจะทำได้"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The bird built a ___ in the tree to lay its eggs.",
+"o": [
+"nest",
+"net",
+"next",
+"neck"
+],
+"en": "Birds lay eggs in nests.",
+"th": "รัง",
+"x": [
+[
+"A net catches fish.",
+"net = ตาข่าย"
+],
+[
+"'next' means following.",
+"next = ถัดไป"
+],
+[
+"A neck is part of the body.",
+"neck = คอ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Don't swim in that river! There are ___.",
+"o": [
+"crocodiles",
+"cocktails",
+"crocuses",
+"cockroaches"
+],
+"en": "Crocodiles live in rivers.",
+"th": "จระเข้อาศัยในแม่น้ำ",
+"x": [
+[
+"Cocktails are drinks.",
+"cocktail = ค็อกเทล"
+],
+[
+"Crocuses are flowers.",
+"crocus = ดอกโครคัส"
+],
+[
+"Cockroaches are insects, not dangerous to swimmers.",
+"แมลงสาบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The park ___ told us how to stay safe around elephants.",
+"o": [
+"ranger",
+"range",
+"danger",
+"ranker"
+],
+"en": "A ranger protects a park.",
+"th": "ranger = เจ้าหน้าที่พิทักษ์ป่า",
+"x": [
+[
+"A range is a variety or area.",
+"range = ช่วง"
+],
+[
+"Danger is risk.",
+"danger = อันตราย"
+],
+[
+"Not a common word.",
+"ไม่ใช่คำทั่วไป"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Bears have long, sharp ___ for digging.",
+"o": [
+"claws",
+"clauses",
+"clowns",
+"cloves"
+],
+"en": "Claws are sharp nails.",
+"th": "claw = กรงเล็บ",
+"x": [
+[
+"Clauses are parts of sentences.",
+"clause = อนุประโยค"
+],
+[
+"Clowns are entertainers.",
+"clown = ตัวตลก"
+],
+[
+"Cloves are spices.",
+"clove = กานพลู"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "___ kill elephants to sell their ivory.",
+"o": [
+"Poachers",
+"Preachers",
+"Pitchers",
+"Peaches"
+],
+"en": "Poachers hunt illegally.",
+"th": "poacher = ผู้ลักลอบล่าสัตว์",
+"x": [
+[
+"Preachers give religious talks.",
+"preacher = นักเทศน์"
+],
+[
+"Pitchers are jugs or players.",
+"pitcher = เหยือก"
+],
+[
+"Peaches are fruit.",
+"peach = ลูกพีช"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Deer and rabbits are ___; they eat only plants.",
+"o": [
+"herbivores",
+"carnivores",
+"herbs",
+"harvesters"
+],
+"en": "Herbivores eat plants.",
+"th": "herbivore = สัตว์กินพืช",
+"x": [
+[
+"Carnivores eat meat.",
+"carnivore = สัตว์กินเนื้อ"
+],
+[
+"Herbs are plants.",
+"herb = สมุนไพร"
+],
+[
+"Harvesters collect crops.",
+"harvester = เครื่องเก็บเกี่ยว"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Many species face ___ because their forests are disappearing.",
+"o": [
+"extinction",
+"extension",
+"exhibition",
+"expedition"
+],
+"en": "Extinction = dying out completely.",
+"th": "extinction = การสูญพันธุ์",
+"x": [
+[
+"An extension is an addition.",
+"extension = ส่วนต่อขยาย"
+],
+[
+"An exhibition is a show.",
+"exhibition = นิทรรศการ"
+],
+[
+"An expedition is a journey.",
+"expedition = การสำรวจ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Plants, then herbivores, then carnivores: this is a ___.",
+"o": [
+"food chain",
+"chain store",
+"food court",
+"chain reaction"
+],
+"en": "A food chain shows who eats what.",
+"th": "food chain = ห่วงโซ่อาหาร",
+"x": [
+[
+"A chain store is a shop brand.",
+"chain store = ร้านเครือข่าย"
+],
+[
+"A food court is in a mall.",
+"food court = ศูนย์อาหาร"
+],
+[
+"A chain reaction is a series of events.",
+"chain reaction = ปฏิกิริยาลูกโซ่"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "A hidden ___ took a photo of a rare leopard at night.",
+"o": [
+"camera trap",
+"camera crew",
+"camera shop",
+"trap door"
+],
+"en": "A camera trap photographs wildlife automatically.",
+"th": "camera trap = กล้องดักถ่าย",
+"x": [
+[
+"A camera crew films TV.",
+"camera crew = ทีมถ่ายทำ"
+],
+[
+"A camera shop sells cameras.",
+"camera shop = ร้านกล้อง"
+],
+[
+"A trap door is in a floor.",
+"trap door = ประตูกล"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The tiger is an ___, at the top of the food chain.",
+"o": [
+"apex predator",
+"apex court",
+"apex point",
+"apex prey"
+],
+"en": "An apex predator has no natural enemies.",
+"th": "apex predator = สัตว์นักล่าสูงสุด",
+"x": [
+[
+"Not a phrase.",
+"ไม่ใช่วลี"
+],
+[
+"Not a phrase.",
+"ไม่ใช่วลี"
+],
+[
+"Not a phrase.",
+"ไม่ใช่วลี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The centre ___ injured animals before releasing them into the wild.",
+"o": [
+"rehabilitates",
+"rehearses",
+"relocates",
+"reheats"
+],
+"en": "Rehabilitate = help recover.",
+"th": "rehabilitate = ฟื้นฟู",
+"x": [
+[
+"'rehearse' means practise.",
+"rehearse = ซ้อม"
+],
+[
+"'relocate' means move.",
+"relocate = ย้าย"
+],
+[
+"'reheat' means warm again.",
+"reheat = อุ่นซ้ำ"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[A] lions [live] [in] [Africa].",
+"a": 0,
+"fix": "Lions live in Africa.",
+"en": "No 'a' before a plural noun.",
+"th": "ไม่ใช้ a หน้านามพหูพจน์",
+"x": [
+[
+"'live' is correct.",
+"live ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'Africa' is correct.",
+"Africa ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Monkeys] [can] [climb] [tree].",
+"a": 3,
+"fix": "Monkeys can climb trees.",
+"en": "Plural for general statements: trees.",
+"th": "ข้อความทั่วไปใช้พหูพจน์: trees",
+"x": [
+[
+"'Monkeys' is correct.",
+"Monkeys ถูกต้อง"
+],
+[
+"'can' is correct.",
+"can ถูกต้อง"
+],
+[
+"'climb' is correct.",
+"climb ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Leopard] [is] [very] [fast].",
+"a": 0,
+"fix": "A leopard is very fast. (or: Leopards are very fast.)",
+"en": "A singular countable noun needs 'a' or 'the'.",
+"th": "นามนับได้เอกพจน์ต้องมี a หรือ the",
+"x": [
+[
+"'is' is correct with 'A leopard'.",
+"is ถูกต้องกับ A leopard"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'fast' is correct.",
+"fast ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] ranger [showed] [us] [a deers].",
+"a": 3,
+"fix": "The ranger showed us a deer.",
+"en": "'Deer' has no -s; singular after 'a'.",
+"th": "deer ไม่เติม s และใช้เอกพจน์หลัง a",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'showed' is correct.",
+"showed ถูกต้อง"
+],
+[
+"'us' is correct.",
+"us ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[We] [seen] [a] [rhino] at the national park.",
+"a": 1,
+"fix": "We saw a rhino at the national park.",
+"en": "Past Simple: saw.",
+"th": "Past Simple: saw",
+"x": [
+[
+"'We' is correct.",
+"We ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+],
+[
+"'rhino' is correct.",
+"rhino ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Poach] elephants for ivory [is] [illegal] [in] Thailand.",
+"a": 0,
+"fix": "Poaching elephants for ivory is illegal in Thailand.",
+"en": "An activity as subject: Poaching.",
+"th": "กิจกรรมเป็นประธาน: Poaching",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'illegal' is correct.",
+"illegal ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Tigers] [are] [threatened] [from] habitat loss.",
+"a": 3,
+"fix": "Tigers are threatened by habitat loss.",
+"en": "Passive agent: by.",
+"th": "ผู้กระทำใน passive ใช้ by",
+"x": [
+[
+"'Tigers' is correct.",
+"Tigers ถูกต้อง"
+],
+[
+"'are' is correct.",
+"are ถูกต้อง"
+],
+[
+"'threatened' is correct.",
+"threatened ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] poachers [are] caught, they [will] [sent] to prison.",
+"a": 3,
+"fix": "If poachers are caught, they will be sent to prison.",
+"en": "Future passive: will be sent.",
+"th": "future passive: will be sent",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'are' is correct.",
+"are ถูกต้อง"
+],
+[
+"'will' is correct.",
+"will ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Who's] habitat [is] [being] [destroyed]? The gibbon's.",
+"a": 0,
+"fix": "Whose habitat is being destroyed? The gibbon's.",
+"en": "Possession: whose (who's = who is).",
+"th": "แสดงความเป็นเจ้าของ: whose (who's = who is)",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'being' is correct (present continuous passive).",
+"being ถูกต้อง"
+],
+[
+"'destroyed' is correct.",
+"destroyed ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Rewilding] [aims] [to] [restoring] natural ecosystems.",
+"a": 3,
+"fix": "Rewilding aims to restore natural ecosystems.",
+"en": "'Aim to + base verb'.",
+"th": "aim to + V1",
+"x": [
+[
+"'Rewilding' is correct.",
+"Rewilding ถูกต้อง"
+],
+[
+"'aims' is correct.",
+"aims ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Which animal do you like best?\nB: ___",
+"o": [
+"The lion!",
+"At the zoo.",
+"It's big.",
+"Yes, it is."
+],
+"en": "B names an animal.",
+"th": "B บอกชื่อสัตว์",
+"x": [
+[
+"Place.",
+"สถานที่"
+],
+[
+"Description.",
+"คำบรรยาย"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Are you scared of spiders?\nB: ___ I think they're interesting.",
+"o": [
+"No, not at all.",
+"Yes, very.",
+"I'm a spider.",
+"They have eight legs."
+],
+"en": "'Interesting' → not scared.",
+"th": "น่าสนใจ จึงไม่กลัว",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Look! A bear!\nB: ___",
+"o": [
+"Stay calm and move away slowly.",
+"Let's touch it!",
+"Give it a hug.",
+"Run towards it."
+],
+"en": "B gives safe advice.",
+"th": "B ให้คำแนะนำที่ปลอดภัย",
+"x": [
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Dangerous.",
+"อันตราย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Did you see any animals in the national park?\nB: ___ We saw deer and lots of monkeys.",
+"o": [
+"Yes, quite a few.",
+"No, none.",
+"Parks are big.",
+"I like parks."
+],
+"en": "Seeing animals → yes.",
+"th": "เห็นสัตว์ จึงตอบว่าใช่",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What does a ranger do?\nB: ___",
+"o": [
+"Protects the animals and the park.",
+"Sells tickets at the cinema.",
+"Drives a bus.",
+"Cooks in a hotel."
+],
+"en": "B explains the job.",
+"th": "B อธิบายงาน",
+"x": [
+[
+"Not a ranger.",
+"ไม่ใช่เจ้าหน้าที่พิทักษ์ป่า"
+],
+[
+"Not a ranger.",
+"ไม่ใช่เจ้าหน้าที่พิทักษ์ป่า"
+],
+[
+"Not a ranger.",
+"ไม่ใช่เจ้าหน้าที่พิทักษ์ป่า"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Can we swim in this river?\nB: ___ There are crocodiles.",
+"o": [
+"I wouldn't.",
+"Sure!",
+"Rivers are long.",
+"Crocodiles are nice."
+],
+"en": "Crocodiles → don't swim.",
+"th": "มีจระเข้ จึงไม่ควรว่าย",
+"x": [
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Why are rhinos in danger?\nB: ___",
+"o": [
+"Poachers kill them for their horns.",
+"Because they're too fast.",
+"Because they live in cities.",
+"They aren't in danger."
+],
+"en": "B gives the reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Someone offered to sell me an ivory necklace.\nB: ___",
+"o": [
+"Don't buy it; it's illegal and harms elephants.",
+"Buy two!",
+"Ivory is just plastic.",
+"That's a great deal."
+],
+"en": "B warns against it.",
+"th": "B เตือนไม่ให้ซื้อ",
+"x": [
+[
+"Supports the illegal trade.",
+"สนับสนุนการค้าผิดกฎหมาย"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Supports the illegal trade.",
+"สนับสนุนการค้าผิดกฎหมาย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should zoos exist at all?\nB: ___ Some do important breeding work, but many animals suffer in small spaces.",
+"o": [
+"It's a difficult question.",
+"Yes, every animal should be in a zoo.",
+"No, all zoos are criminal.",
+"Zoos don't have animals."
+],
+"en": "B gives a balanced view.",
+"th": "B ให้มุมมองที่สมดุล",
+"x": [
+[
+"Extreme.",
+"สุดโต่ง"
+],
+[
+"Extreme.",
+"สุดโต่ง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Why does it matter if one species disappears?\nB: ___ Ecosystems are connected, so the effects can spread.",
+"o": [
+"It can affect the whole system.",
+"It doesn't matter at all.",
+"Only big animals matter.",
+"Species never disappear."
+],
+"en": "B explains interdependence.",
+"th": "B อธิบายความเชื่อมโยง",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What were the lions doing?",
+"o": [
+"Sleeping in the sun",
+"Eating",
+"Running",
+"Swimming"
+],
+"en": "'They were sleeping in the sun.'",
+"th": "นอนอาบแดด",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did one monkey do?",
+"o": [
+"Took a boy's hat",
+"Bit a girl",
+"Ate a banana",
+"Sang a song"
+],
+"en": "'One monkey took a boy's hat and ran away!'",
+"th": "เอาหมวกเด็กผู้ชายไป",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What colour was the bear?",
+"o": [
+"Brown",
+"Black",
+"White",
+"Grey"
+],
+"en": "'It was big and brown.'",
+"th": "สีน้ำตาล",
+"x": [
+[
+"Not stated here.",
+"ไม่ได้บอกที่นี่"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was the writer's friend scared of?",
+"o": [
+"The spider",
+"The lion",
+"The owl",
+"The bees"
+],
+"en": "'My friend was scared of the spider.'",
+"th": "แมงมุม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did they hear in the evening?",
+"o": [
+"An owl and some frogs",
+"Lions",
+"Monkeys",
+"Bees"
+],
+"en": "'…we heard an owl and some frogs.'",
+"th": "นกฮูกและกบ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is special about Khao Yai?",
+"o": [
+"It was Thailand's first national park.",
+"It is the smallest park.",
+"It has no animals.",
+"It is in Bangkok."
+],
+"en": "'Khao Yai, Thailand's first national park…'",
+"th": "อุทยานแห่งชาติแห่งแรกของไทย",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Where do hornbills build their nests?",
+"o": [
+"In holes high in old trees",
+"On the ground",
+"Near rivers",
+"In caves"
+],
+"en": "'Hornbills build their nest in holes high in old trees.'",
+"th": "ในโพรงต้นไม้เก่าสูงๆ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That's crocodiles.",
+"นั่นคือจระเข้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is one of the rangers' biggest problems?",
+"o": [
+"Poachers",
+"Tourists",
+"Traffic",
+"Rain"
+],
+"en": "'One of their biggest problems is poachers.'",
+"th": "ผู้ลักลอบล่าสัตว์",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do animals face extinction when forests are cut down?",
+"o": [
+"They lose their homes.",
+"They get more food.",
+"They become herbivores.",
+"They move to cities happily."
+],
+"en": "'…animals lose their homes, and many species face extinction.'",
+"th": "สูญเสียที่อยู่อาศัย",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What happens if one part of the food chain disappears?",
+"o": [
+"The whole system suffers.",
+"Nothing changes.",
+"Only plants are affected.",
+"Animals become stronger."
+],
+"en": "'If one part of the food chain disappears, the whole system suffers.'",
+"th": "ทั้งระบบได้รับผลกระทบ",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is believed to be the most trafficked mammal?",
+"o": [
+"The pangolin",
+"The tiger",
+"The elephant",
+"The rhino"
+],
+"en": "'The pangolin… is believed to be the most trafficked mammal in the world.'",
+"th": "ตัวนิ่ม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What have tracking collars revealed?",
+"o": [
+"The importance of wildlife corridors",
+"That animals don't move",
+"That poachers use collars",
+"The price of ivory"
+],
+"en": "'This information has shown the importance of wildlife corridors.'",
+"th": "ความสำคัญของแนวเชื่อมต่อถิ่นอาศัย",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How do elephants act as a keystone species?",
+"o": [
+"They create paths and spread seeds.",
+"They eat all the tigers.",
+"They live in zoos.",
+"They avoid forests."
+],
+"en": "'…shapes its environment by creating paths and spreading seeds.'",
+"th": "สร้างทางเดินและกระจายเมล็ด",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why are apex predators important?",
+"o": [
+"They control herbivore numbers.",
+"They spread seeds.",
+"They create paths.",
+"They pollinate flowers."
+],
+"en": "'An apex predator like the tiger controls the numbers of herbivores.'",
+"th": "ควบคุมจำนวนสัตว์กินพืช",
+"x": [
+[
+"That's elephants.",
+"นั่นคือช้าง"
+],
+[
+"That's elephants.",
+"นั่นคือช้าง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is the writer's conclusion?",
+"o": [
+"With commitment, decline is not inevitable.",
+"Wildlife will certainly disappear.",
+"Zoos should replace nature.",
+"Conservation is useless."
+],
+"en": "'…with enough commitment, decline is not inevitable.'",
+"th": "หากมุ่งมั่นพอ การลดลงไม่ใช่สิ่งหลีกเลี่ยงไม่ได้",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+}
+]
+}

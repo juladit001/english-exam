@@ -1,0 +1,1627 @@
+{
+"id": 39,
+"theme": "Personality",
+"v": [
+[
+"shy",
+"adjective",
+"A1",
+"ขี้อาย",
+"He's *shy* and doesn't talk much."
+],
+[
+"friendly",
+"adjective",
+"A1",
+"เป็นมิตร",
+"Our neighbours are very *friendly*."
+],
+[
+"lazy",
+"adjective",
+"A1",
+"ขี้เกียจ",
+"Don't be *lazy*; do your homework."
+],
+[
+"rude",
+"adjective",
+"A1",
+"หยาบคาย",
+"It's *rude* to interrupt people."
+],
+[
+"honest",
+"adjective",
+"A1",
+"ซื่อสัตย์",
+"Please be *honest* with me."
+],
+[
+"brave",
+"adjective",
+"A1",
+"กล้าหาญ",
+"The firefighter was very *brave*."
+],
+[
+"calm",
+"adjective",
+"A1",
+"สงบ, ใจเย็น",
+"Stay *calm* and listen."
+],
+[
+"serious",
+"adjective",
+"A1",
+"จริงจัง, ร้ายแรง",
+"My father is a *serious* person."
+],
+[
+"selfish",
+"adjective",
+"A2",
+"เห็นแก่ตัว",
+"It's *selfish* to eat all the cake."
+],
+[
+"patient",
+"adjective",
+"A2",
+"อดทน",
+"Teachers need to be *patient*."
+],
+[
+"cheerful",
+"adjective",
+"A2",
+"ร่าเริง",
+"She is always *cheerful* in the morning."
+],
+[
+"talkative",
+"adjective",
+"A2",
+"ช่างพูด",
+"My little sister is very *talkative*."
+],
+[
+"careless",
+"adjective",
+"A2",
+"สะเพร่า, ไม่ระวัง",
+"I made a *careless* mistake."
+],
+[
+"curious",
+"adjective",
+"A2",
+"อยากรู้อยากเห็น",
+"Children are naturally *curious*."
+],
+[
+"bossy",
+"adjective",
+"A2",
+"ชอบสั่ง, เจ้ากี้เจ้าการ",
+"My older brother is so *bossy*!"
+],
+[
+"moody",
+"adjective",
+"A2",
+"อารมณ์แปรปรวน",
+"Teenagers can be *moody*."
+],
+[
+"outgoing",
+"adjective",
+"A2",
+"ชอบเข้าสังคม, เปิดเผย",
+"He's *outgoing* and loves parties."
+],
+[
+"easy-going",
+"adjective",
+"A2",
+"สบายๆ, เข้ากับคนง่าย",
+"My boss is very *easy-going*."
+],
+[
+"stubborn",
+"adjective",
+"B1",
+"ดื้อรั้น",
+"He's too *stubborn* to say sorry."
+],
+[
+"sensitive",
+"adjective",
+"B1",
+"อ่อนไหว, ละเอียดอ่อน",
+"She's *sensitive* to criticism."
+],
+[
+"modest",
+"adjective",
+"B1",
+"ถ่อมตัว",
+"He's very *modest* about his success."
+],
+[
+"cautious",
+"adjective",
+"B1",
+"ระมัดระวัง",
+"Be *cautious* with your money."
+],
+[
+"optimistic",
+"adjective",
+"B1",
+"มองโลกในแง่ดี",
+"I'm *optimistic* about the future."
+],
+[
+"pessimistic",
+"adjective",
+"B1",
+"มองโลกในแง่ร้าย",
+"Don't be so *pessimistic*!"
+],
+[
+"thoughtful",
+"adjective",
+"B1",
+"เอาใจใส่, รอบคอบ",
+"It was *thoughtful* of you to call."
+],
+[
+"sociable",
+"adjective",
+"B1",
+"ชอบสังคม",
+"She's *sociable* and makes friends easily."
+],
+[
+"arrogant",
+"adjective",
+"B1",
+"หยิ่งยโส",
+"He's *arrogant* and thinks he's always right."
+],
+[
+"introvert",
+"noun",
+"B1",
+"คนเก็บตัว",
+"As an *introvert*, I need quiet time."
+],
+[
+"extrovert",
+"noun",
+"B1",
+"คนชอบเข้าสังคม",
+"*Extroverts* get energy from people."
+],
+[
+"trait",
+"noun",
+"B2",
+"ลักษณะนิสัย",
+"Honesty is her best *trait*."
+],
+[
+"temperament",
+"noun",
+"B2",
+"อุปนิสัย, อารมณ์",
+"He has a calm *temperament*."
+],
+[
+"assertive",
+"adjective",
+"B2",
+"กล้าแสดงออก (อย่างเหมาะสม)",
+"You need to be more *assertive* at work."
+],
+[
+"humble",
+"adjective",
+"B2",
+"ถ่อมตน",
+"Despite his fame, he remained *humble*."
+],
+[
+"impulsive",
+"adjective",
+"B2",
+"หุนหันพลันแล่น",
+"She's *impulsive* and buys things without thinking."
+],
+[
+"conscientious",
+"adjective",
+"B2",
+"มีจิตสำนึก, ขยันรับผิดชอบ",
+"He's a *conscientious* worker."
+],
+[
+"empathetic",
+"adjective",
+"B2",
+"เข้าใจความรู้สึกผู้อื่น",
+"Nurses need to be *empathetic*."
+],
+[
+"charismatic",
+"adjective",
+"B2",
+"มีเสน่ห์ดึงดูดใจ",
+"The *charismatic* leader inspired everyone."
+],
+[
+"meticulous",
+"adjective",
+"B2",
+"พิถีพิถัน",
+"She's *meticulous* about details."
+],
+[
+"gullible",
+"adjective",
+"B2",
+"หลงเชื่อง่าย",
+"Don't be so *gullible*; it's a scam."
+],
+[
+"tactful",
+"adjective",
+"B2",
+"รู้จักพูด, มีไหวพริบในการพูด",
+"Be *tactful* when giving feedback."
+]
+],
+"p": [
+{
+"t": "My Family",
+"x": "There are five people in my family, and we are all very different. My father is a serious man. He works hard and he is always honest. My mother is calm and patient; she never shouts. My older brother is brave. Last year, he saved a dog from the river!\nMy little sister is very talkative and cheerful. She talks all day, from breakfast to bedtime. Sometimes she is a bit bossy with her friends. And me? I'm quite shy. I don't like speaking in front of the class, but I'm friendly when you know me.\nOur cat, Mali, is the laziest member of the family. She sleeps for eighteen hours a day! My grandmother says it's rude to put the cat on the table, but we sometimes do it anyway."
+},
+{
+"t": "Are You an Introvert or an Extrovert?",
+"x": "Psychologists often describe people as introverts or extroverts. Extroverts are outgoing and sociable. They enjoy parties, meeting new people and being the centre of attention. They often feel bored when they are alone.\nIntroverts, on the other hand, prefer quiet activities and small groups. This doesn't mean they are shy or unfriendly. Many introverts are good listeners and very thoughtful. They simply need time alone to recharge their energy after social events.\nMost people are a mix of both. You might be easy-going with friends but cautious with strangers. Your mood can also change: everyone is a little moody sometimes!\nSome personality types can cause problems at work. Stubborn people find it hard to accept other ideas, and arrogant people may not listen to their colleagues. Sensitive people may be hurt by criticism. On the other hand, modest workers often don't get credit for their success. Optimistic people tend to cope better with stress than pessimistic ones, while curious people often learn faster. Selfish or careless behaviour, however, is a problem in any team."
+},
+{
+"t": "Can Personality Change?",
+"x": "For decades, psychologists believed that personality was fixed by early adulthood. Our basic temperament, they argued, was largely inherited, and traits such as being impulsive or conscientious would remain stable throughout life.\nMore recent research challenges this view. Long-term studies tracking thousands of people have found that personality continues to develop well into old age. On average, people become more conscientious, more emotionally stable and more agreeable as they grow older, a pattern some researchers call 'the maturity principle'. Life events also play a role: starting a demanding job may make someone more meticulous, while a serious illness may make them more empathetic.\nCan we change deliberately? Some experiments suggest we can, at least to a degree. Participants who set specific goals, such as becoming more assertive by expressing their opinions in meetings, showed measurable changes after several months. However, change requires consistent effort, and personality rarely transforms completely.\nInterestingly, the traits society admires are not always the most useful. Charismatic leaders attract followers, but research suggests that humble leaders often build stronger teams. Similarly, a tactful manager who delivers criticism kindly may achieve more than one who is brilliant but harsh. And while trusting others is generally positive, being too gullible can leave people open to manipulation. Personality, it seems, is less about having the 'right' traits than about knowing when to use them."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "He doesn't like speaking in front of people. He's ___.",
+"o": [
+"shy",
+"sky",
+"shiny",
+"shoe"
+],
+"en": "Shy = nervous with other people.",
+"th": "shy = ขี้อาย",
+"x": [
+[
+"The sky is above us.",
+"sky = ท้องฟ้า"
+],
+[
+"'shiny' means bright.",
+"shiny = เงางาม"
+],
+[
+"A shoe is footwear.",
+"shoe = รองเท้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "She never tells lies. She's very ___.",
+"o": [
+"honest",
+"honey",
+"horrible",
+"hungry"
+],
+"en": "Honest = always tells the truth.",
+"th": "honest = ซื่อสัตย์",
+"x": [
+[
+"Honey is food.",
+"honey = น้ำผึ้ง"
+],
+[
+"'horrible' means very bad.",
+"horrible = แย่มาก"
+],
+[
+"'hungry' means wanting food.",
+"hungry = หิว"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "He stays in bed all day and never helps. He's so ___!",
+"o": [
+"lazy",
+"lady",
+"late",
+"lucky"
+],
+"en": "Lazy = doesn't want to work.",
+"th": "lazy = ขี้เกียจ",
+"x": [
+[
+"A lady is a woman.",
+"lady = สุภาพสตรี"
+],
+[
+"'late' is about time.",
+"late = สาย"
+],
+[
+"'lucky' means fortunate.",
+"lucky = โชคดี"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "It's ___ to talk with your mouth full.",
+"o": [
+"rude",
+"rule",
+"road",
+"ruin"
+],
+"en": "Rude = not polite.",
+"th": "rude = หยาบคาย",
+"x": [
+[
+"A rule is a law.",
+"rule = กฎ"
+],
+[
+"A road is a street.",
+"road = ถนน"
+],
+[
+"'ruin' means destroy.",
+"ruin = ทำลาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My little brother asks questions about everything. He's very ___.",
+"o": [
+"curious",
+"furious",
+"curly",
+"cured"
+],
+"en": "Curious = wants to know things.",
+"th": "curious = อยากรู้อยากเห็น",
+"x": [
+[
+"'furious' means very angry.",
+"furious = โกรธจัด"
+],
+[
+"'curly' describes hair.",
+"curly = หยิก"
+],
+[
+"'cured' means made healthy.",
+"cured = รักษาหาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She always tells everyone what to do. She's so ___.",
+"o": [
+"bossy",
+"busy",
+"bouncy",
+"bushy"
+],
+"en": "Bossy = likes giving orders.",
+"th": "bossy = ชอบสั่ง",
+"x": [
+[
+"'busy' means having a lot to do.",
+"busy = ยุ่ง"
+],
+[
+"'bouncy' means lively.",
+"bouncy = กระเด้ง"
+],
+[
+"'bushy' describes hair or plants.",
+"bushy = ดก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I made a ___ mistake: I forgot to write my name on the test.",
+"o": [
+"careless",
+"careful",
+"caring",
+"carefree"
+],
+"en": "Careless = not paying attention.",
+"th": "careless = สะเพร่า",
+"x": [
+[
+"'careful' is the opposite.",
+"careful = ระมัดระวัง (ตรงข้าม)"
+],
+[
+"'caring' means kind.",
+"caring = เอาใจใส่"
+],
+[
+"'carefree' means without worries.",
+"carefree = ไร้กังวล"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Our teacher is very ___; she explains things again and again without getting angry.",
+"o": [
+"patient",
+"patent",
+"patient's",
+"patience"
+],
+"en": "Patient (adjective) = calm and not easily annoyed.",
+"th": "patient = อดทน",
+"x": [
+[
+"A patent protects inventions.",
+"patent = สิทธิบัตร"
+],
+[
+"Possessive form doesn't fit.",
+"รูปแสดงความเป็นเจ้าของไม่เข้า"
+],
+[
+"'patience' is a noun.",
+"patience เป็นคำนาม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "He never admits he's wrong. He's so ___.",
+"o": [
+"stubborn",
+"stubble",
+"stable",
+"sturdy"
+],
+"en": "Stubborn = refuses to change his mind.",
+"th": "stubborn = ดื้อรั้น",
+"x": [
+[
+"Stubble is short hair on a face.",
+"stubble = หนวดเครา"
+],
+[
+"'stable' means steady.",
+"stable = มั่นคง"
+],
+[
+"'sturdy' means strong.",
+"sturdy = แข็งแรง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I'm ___ that we'll win the match; our team is in great form.",
+"o": [
+"optimistic",
+"pessimistic",
+"opposite",
+"optional"
+],
+"en": "Optimistic = expecting good things.",
+"th": "optimistic = มองโลกในแง่ดี",
+"x": [
+[
+"'pessimistic' expects bad things.",
+"pessimistic = มองแง่ร้าย"
+],
+[
+"'opposite' means completely different.",
+"opposite = ตรงข้าม"
+],
+[
+"'optional' means not required.",
+"optional = ไม่บังคับ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "It was very ___ of you to remember my birthday.",
+"o": [
+"thoughtful",
+"thoughtless",
+"thought",
+"thinking"
+],
+"en": "Thoughtful = caring about others.",
+"th": "thoughtful = เอาใจใส่",
+"x": [
+[
+"'thoughtless' is the opposite.",
+"thoughtless = ไม่เอาใจใส่"
+],
+[
+"'thought' is a noun or past verb.",
+"thought เป็นคำนาม/อดีต"
+],
+[
+"Wrong form.",
+"รูปผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Despite winning the prize, she was ___ and thanked her team.",
+"o": [
+"modest",
+"modern",
+"moist",
+"model"
+],
+"en": "Modest = doesn't boast.",
+"th": "modest = ถ่อมตัว",
+"x": [
+[
+"'modern' means new.",
+"modern = ทันสมัย"
+],
+[
+"'moist' means slightly wet.",
+"moist = ชื้น"
+],
+[
+"A model poses for photos.",
+"model = นางแบบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "She checks every detail three times. She's extremely ___.",
+"o": [
+"meticulous",
+"ridiculous",
+"miraculous",
+"meticulously"
+],
+"en": "Meticulous = very careful with details.",
+"th": "meticulous = พิถีพิถัน",
+"x": [
+[
+"'ridiculous' means silly.",
+"ridiculous = น่าขัน"
+],
+[
+"'miraculous' means like a miracle.",
+"miraculous = มหัศจรรย์"
+],
+[
+"An adverb doesn't fit after 'extremely' + be.",
+"กริยาวิเศษณ์ไม่เข้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "He believed the email saying he'd won a million dollars. He's so ___.",
+"o": [
+"gullible",
+"guilty",
+"gullied",
+"gallant"
+],
+"en": "Gullible = believes things too easily.",
+"th": "gullible = หลงเชื่อง่าย",
+"x": [
+[
+"'guilty' means having done wrong.",
+"guilty = มีความผิด"
+],
+[
+"Not a common word.",
+"ไม่ใช่คำทั่วไป"
+],
+[
+"'gallant' means brave and polite.",
+"gallant = กล้าหาญและสุภาพ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "If you want a pay rise, you need to be more ___ and ask for it.",
+"o": [
+"assertive",
+"assorted",
+"assistant",
+"astute-less"
+],
+"en": "Assertive = confident in stating what you want.",
+"th": "assertive = กล้าแสดงออก",
+"x": [
+[
+"'assorted' means mixed.",
+"assorted = คละ"
+],
+[
+"An assistant is a helper.",
+"assistant = ผู้ช่วย"
+],
+[
+"Not a real word.",
+"ไม่มีคำนี้"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Is] your parents [very] [strict] [with] you?",
+"a": 0,
+"fix": "Are your parents very strict with you?",
+"en": "Plural subject 'parents': Are.",
+"th": "ประธานพหูพจน์ parents: Are",
+"x": [
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'strict' is correct.",
+"strict ถูกต้อง"
+],
+[
+"'with' is correct: strict with someone.",
+"with ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[He] [is] [a] [honest] boy.",
+"a": 2,
+"fix": "He is an honest boy.",
+"en": "'Honest' starts with a vowel sound: an.",
+"th": "honest ขึ้นต้นด้วยเสียงสระ: an",
+"x": [
+[
+"'He' is correct.",
+"He ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'honest' is correct.",
+"honest ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[My] sister is [more] [talkative] [that] me.",
+"a": 3,
+"fix": "My sister is more talkative than me.",
+"en": "Comparatives use 'than'.",
+"th": "ขั้นกว่าใช้ than",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'more' is correct with a long adjective.",
+"more ถูกต้องกับคุณศัพท์ยาว"
+],
+[
+"'talkative' is correct.",
+"talkative ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[He] is [the] [most lazy] person [in] my class.",
+"a": 2,
+"fix": "He is the laziest person in my class.",
+"en": "Two-syllable adjectives ending in -y: laziest.",
+"th": "คุณศัพท์ลงท้าย -y: laziest",
+"x": [
+[
+"'He' is correct.",
+"He ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Talkative] people [doesn't] [always] [listen] well.",
+"a": 1,
+"fix": "Talkative people don't always listen well.",
+"en": "'People' is plural: don't.",
+"th": "people เป็นพหูพจน์: don't",
+"x": [
+[
+"'Talkative' is correct.",
+"Talkative ถูกต้อง"
+],
+[
+"'always' is correct.",
+"always ถูกต้อง"
+],
+[
+"'listen' is correct.",
+"listen ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[She] [is] [enough] [brave] to speak her mind.",
+"a": 2,
+"fix": "She is brave enough to speak her mind.",
+"en": "'Enough' goes after an adjective: brave enough.",
+"th": "enough อยู่หลังคุณศัพท์: brave enough",
+"x": [
+[
+"'She' is correct.",
+"She ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'brave' is correct, but the order is wrong because of 'enough'.",
+"brave ถูก แต่ enough ต้องอยู่หลัง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[It] [was] very [kind] [for] you to help me.",
+"a": 3,
+"fix": "It was very kind of you to help me.",
+"en": "'Kind of you'.",
+"th": "kind of you",
+"x": [
+[
+"'It' is correct.",
+"It ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'kind' is correct.",
+"kind ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Introverts] [prefer] [to spend] time alone [than] going to parties.",
+"a": 3,
+"fix": "Introverts prefer spending time alone to going to parties.",
+"en": "'Prefer X to Y' (not 'than').",
+"th": "prefer X to Y (ไม่ใช่ than)",
+"x": [
+[
+"'Introverts' is correct.",
+"Introverts ถูกต้อง"
+],
+[
+"'prefer' is correct.",
+"prefer ถูกต้อง"
+],
+[
+"'to spend' is acceptable but 'spending' matches 'going'.",
+"to spend ใช้ได้ แต่ spending จะคู่กับ going"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Such] [was] his charisma [that] everyone [were] inspired.",
+"a": 3,
+"fix": "Such was his charisma that everyone was inspired.",
+"en": "'Everyone' takes a singular verb: was.",
+"th": "everyone ใช้กริยาเอกพจน์: was",
+"x": [
+[
+"'Such' is correct inversion.",
+"Such ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'that' is correct.",
+"that ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Being] [too] impulsive, [his money] [was spent] on things he didn't need.",
+"a": 2,
+"fix": "Being too impulsive, he spent his money on things he didn't need.",
+"en": "Dangling participle: the subject must be 'he'.",
+"th": "participle ห้อย: ประธานต้องเป็น he",
+"x": [
+[
+"'Being' is correct.",
+"Being ถูกต้อง"
+],
+[
+"'too' is correct.",
+"too ถูกต้อง"
+],
+[
+"'was spent' would be fine with a different structure.",
+"was spent จะถูกในโครงสร้างอื่น"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What's your best friend like?\nB: ___",
+"o": [
+"She's funny and kind.",
+"She likes pizza.",
+"She's at home.",
+"She's 1.6 metres."
+],
+"en": "'What's she like?' asks about personality.",
+"th": "What's she like? ถามนิสัย",
+"x": [
+[
+"That's a preference.",
+"ความชอบ"
+],
+[
+"That's a location.",
+"สถานที่"
+],
+[
+"That's height; 'like' asks about character here.",
+"ส่วนสูง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Are you shy?\nB: ___ I love meeting new people!",
+"o": [
+"No, not at all.",
+"Yes, very.",
+"I'm a shy.",
+"Thank you."
+],
+"en": "Loving new people → not shy.",
+"th": "ชอบพบคนใหม่ จึงไม่ขี้อาย",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Grammatically wrong.",
+"ไวยากรณ์ผิด"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Your brother saved a dog from the river? \nB: ___ He's very brave.",
+"o": [
+"Yes, he did!",
+"No, he can't swim.",
+"He's lazy.",
+"Dogs are nice."
+],
+"en": "B confirms the brave act.",
+"th": "B ยืนยันการกระทำที่กล้าหาญ",
+"x": [
+[
+"It contradicts 'brave'.",
+"ขัดกับ brave"
+],
+[
+"It contradicts 'brave'.",
+"ขัดกับ brave"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Why is Tom so moody today?\nB: ___",
+"o": [
+"I think he failed his exam.",
+"He's in the kitchen.",
+"Tom is tall.",
+"Yes, he is."
+],
+"en": "B gives a reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Location.",
+"สถานที่"
+],
+[
+"Not a reason.",
+"ไม่ใช่เหตุผล"
+],
+[
+"Not an answer to 'why'.",
+"ไม่ตอบ why"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: My new boss is really easy-going.\nB: ___",
+"o": [
+"Lucky you! Mine is so strict.",
+"Oh no, that's terrible.",
+"I'm sorry to hear that.",
+"Bosses are always bossy."
+],
+"en": "Easy-going is good news.",
+"th": "easy-going เป็นข่าวดี",
+"x": [
+[
+"Easy-going is positive.",
+"easy-going เป็นเชิงบวก"
+],
+[
+"Not bad news.",
+"ไม่ใช่ข่าวร้าย"
+],
+[
+"Too general and negative.",
+"กว้างและเชิงลบเกินไป"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How would you describe yourself?\nB: ___",
+"o": [
+"I'm quite outgoing and cheerful.",
+"I'm 25 years old.",
+"I live in Bangkok.",
+"I describe."
+],
+"en": "B gives personality traits.",
+"th": "B บอกลักษณะนิสัย",
+"x": [
+[
+"Age.",
+"อายุ"
+],
+[
+"Location.",
+"ที่อยู่"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I don't think I'll ever pass this exam.\nB: ___ You've been studying so hard.",
+"o": [
+"Don't be so pessimistic!",
+"You're right; you won't.",
+"Exams are easy.",
+"I'm pessimistic too."
+],
+"en": "B encourages A.",
+"th": "B ให้กำลังใจ",
+"x": [
+[
+"Unkind.",
+"ใจร้าย"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+],
+[
+"Doesn't encourage.",
+"ไม่ให้กำลังใจ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Would you say you're an introvert?\nB: ___ I enjoy parties, but I need quiet time afterwards.",
+"o": [
+"A bit of both, really.",
+"Definitely an extrovert.",
+"I've never been to a party.",
+"Introverts are rude."
+],
+"en": "B shows features of both.",
+"th": "B มีลักษณะทั้งสองแบบ",
+"x": [
+[
+"It contradicts 'quiet time'.",
+"ขัดกับ quiet time"
+],
+[
+"It contradicts 'enjoy parties'.",
+"ขัดกับ enjoy parties"
+],
+[
+"Not true and not relevant.",
+"ไม่จริงและไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: How should I tell my colleague his report wasn't good enough?\nB: ___",
+"o": [
+"Be tactful: start with what he did well, then suggest improvements.",
+"Tell him it's terrible in front of everyone.",
+"Don't say anything; just redo it yourself.",
+"Send an angry email."
+],
+"en": "B suggests a tactful approach.",
+"th": "B แนะนำวิธีพูดอย่างมีไหวพริบ",
+"x": [
+[
+"Hurtful.",
+"ทำร้ายจิตใจ"
+],
+[
+"Avoids the issue.",
+"หลีกเลี่ยงปัญหา"
+],
+[
+"Unprofessional.",
+"ไม่เป็นมืออาชีพ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think people's personalities can really change?\nB: ___ Basic temperament seems fairly stable, but behaviour can develop a lot.",
+"o": [
+"To a certain extent.",
+"Not at all; we're born fixed.",
+"Completely, overnight.",
+"Personality doesn't exist."
+],
+"en": "B gives a balanced view.",
+"th": "B ให้มุมมองที่สมดุล",
+"x": [
+[
+"B says behaviour develops.",
+"B บอกว่าพฤติกรรมพัฒนาได้"
+],
+[
+"B says temperament is stable.",
+"B บอกว่าอุปนิสัยคงที่"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Which word describes the writer's father?",
+"o": [
+"Serious",
+"Lazy",
+"Talkative",
+"Shy"
+],
+"en": "'My father is a serious man.'",
+"th": "จริงจัง",
+"x": [
+[
+"That's the cat.",
+"นั่นคือแมว"
+],
+[
+"That's the sister.",
+"นั่นคือน้องสาว"
+],
+[
+"That's the writer.",
+"นั่นคือผู้เขียน"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What do we know about the writer's mother?",
+"o": [
+"She never shouts.",
+"She is bossy.",
+"She is very talkative.",
+"She saved a dog."
+],
+"en": "'She never shouts.'",
+"th": "ไม่เคยตะโกน",
+"x": [
+[
+"That's the sister.",
+"นั่นคือน้องสาว"
+],
+[
+"That's the sister.",
+"นั่นคือน้องสาว"
+],
+[
+"That's the brother.",
+"นั่นคือพี่ชาย"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Why is the brother described as brave?",
+"o": [
+"He saved a dog from the river.",
+"He speaks in front of the class.",
+"He works hard.",
+"He never sleeps."
+],
+"en": "'He saved a dog from the river!'",
+"th": "ช่วยสุนัขจากแม่น้ำ",
+"x": [
+[
+"The writer doesn't like that.",
+"ผู้เขียนไม่ชอบ"
+],
+[
+"That's the father.",
+"นั่นคือพ่อ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How does the writer describe himself or herself?",
+"o": [
+"Quite shy but friendly",
+"Very bossy",
+"Brave and serious",
+"Lazy"
+],
+"en": "'I'm quite shy… but I'm friendly when you know me.'",
+"th": "ค่อนข้างขี้อายแต่เป็นมิตร",
+"x": [
+[
+"That's the sister sometimes.",
+"น้องสาวบางครั้ง"
+],
+[
+"Those describe others.",
+"อธิบายคนอื่น"
+],
+[
+"That's the cat.",
+"นั่นคือแมว"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the grandmother think is rude?",
+"o": [
+"Putting the cat on the table",
+"Sleeping a lot",
+"Talking all day",
+"Shouting"
+],
+"en": "'…it's rude to put the cat on the table.'",
+"th": "เอาแมวขึ้นโต๊ะ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How do extroverts often feel when alone?",
+"o": [
+"Bored",
+"Relaxed",
+"Energetic",
+"Shy"
+],
+"en": "'They often feel bored when they are alone.'",
+"th": "เบื่อ",
+"x": [
+[
+"That's introverts.",
+"นั่นคือคนเก็บตัว"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does the passage say about introverts?",
+"o": [
+"They need time alone to recharge.",
+"They are always shy.",
+"They are unfriendly.",
+"They dislike everyone."
+],
+"en": "'They simply need time alone to recharge their energy.'",
+"th": "ต้องการเวลาส่วนตัวเพื่อเติมพลัง",
+"x": [
+[
+"'This doesn't mean they are shy.'",
+"ไม่ได้แปลว่าขี้อาย"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "According to the passage, most people are…",
+"o": [
+"a mix of introvert and extrovert",
+"pure introverts",
+"pure extroverts",
+"always moody"
+],
+"en": "'Most people are a mix of both.'",
+"th": "ผสมทั้งสองแบบ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Only 'sometimes'.",
+"เพียงบางครั้ง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why might arrogant people cause problems at work?",
+"o": [
+"They may not listen to colleagues.",
+"They are hurt by criticism.",
+"They don't get credit.",
+"They are too modest."
+],
+"en": "'Arrogant people may not listen to their colleagues.'",
+"th": "อาจไม่ฟังเพื่อนร่วมงาน",
+"x": [
+[
+"That's sensitive people.",
+"นั่นคือคนอ่อนไหว"
+],
+[
+"That's modest workers.",
+"นั่นคือคนถ่อมตัว"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Who tends to cope better with stress?",
+"o": [
+"Optimistic people",
+"Pessimistic people",
+"Selfish people",
+"Careless people"
+],
+"en": "'Optimistic people tend to cope better with stress than pessimistic ones.'",
+"th": "คนมองโลกในแง่ดี",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What did psychologists believe for decades?",
+"o": [
+"Personality was fixed by early adulthood.",
+"Personality changes every year.",
+"Personality is not inherited.",
+"Children have no personality."
+],
+"en": "'…personality was fixed by early adulthood.'",
+"th": "บุคลิกภาพคงที่ตั้งแต่ต้นวัยผู้ใหญ่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They believed it was largely inherited.",
+"เชื่อว่าส่วนใหญ่ถ่ายทอดทางพันธุกรรม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is 'the maturity principle'?",
+"o": [
+"People tend to become more conscientious and stable with age.",
+"Older people become more impulsive.",
+"Children mature faster than adults.",
+"Personality stops at 30."
+],
+"en": "'People become more conscientious, more emotionally stable… as they grow older.'",
+"th": "คนเราจะรับผิดชอบและมั่นคงทางอารมณ์ขึ้นเมื่ออายุมากขึ้น",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How might a serious illness affect someone's personality?",
+"o": [
+"It may make them more empathetic.",
+"It may make them more meticulous.",
+"It may make them gullible.",
+"It has no effect."
+],
+"en": "'…a serious illness may make them more empathetic.'",
+"th": "อาจทำให้เข้าใจความรู้สึกผู้อื่นมากขึ้น",
+"x": [
+[
+"That's a demanding job.",
+"นั่นคืองานที่หนัก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It can have an effect.",
+"มีผลได้"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does research suggest about humble leaders?",
+"o": [
+"They often build stronger teams.",
+"They attract more followers.",
+"They are less successful.",
+"They are too gullible."
+],
+"en": "'…humble leaders often build stronger teams.'",
+"th": "มักสร้างทีมที่แข็งแกร่งกว่า",
+"x": [
+[
+"That's charismatic leaders.",
+"นั่นคือผู้นำมีเสน่ห์"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is the main conclusion of the passage?",
+"o": [
+"Knowing when to use traits matters more than having the 'right' ones.",
+"Charisma is the most important trait.",
+"Personality never changes.",
+"Being trusting is always bad."
+],
+"en": "'Personality… is less about having the right traits than about knowing when to use them.'",
+"th": "รู้ว่าเมื่อไรควรใช้นิสัยใด สำคัญกว่ามีนิสัยที่ถูกต้อง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The passage says it can change.",
+"บทความบอกว่าเปลี่ยนได้"
+],
+[
+"It's 'generally positive'.",
+"โดยทั่วไปเป็นสิ่งดี"
+]
+]
+}
+]
+}

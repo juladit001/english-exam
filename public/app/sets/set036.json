@@ -1,0 +1,1627 @@
+{
+"id": 36,
+"theme": "Space exploration",
+"v": [
+[
+"rocket",
+"noun",
+"A1",
+"จรวด",
+"The *rocket* went up into the sky."
+],
+[
+"shine",
+"verb",
+"A1",
+"ส่องแสง",
+"The stars *shine* at night."
+],
+[
+"round",
+"adjective",
+"A1",
+"กลม",
+"The Earth is *round*."
+],
+[
+"huge",
+"adjective",
+"A1",
+"ใหญ่มาก",
+"Jupiter is a *huge* planet."
+],
+[
+"land",
+"verb",
+"A1",
+"ลงจอด",
+"The plane *landed* at 6 p.m."
+],
+[
+"far",
+"adjective/adverb",
+"A1",
+"ไกล",
+"The Moon is very *far* away."
+],
+[
+"fly",
+"verb",
+"A1",
+"บิน",
+"Birds can *fly*."
+],
+[
+"alien",
+"noun",
+"A1",
+"มนุษย์ต่างดาว",
+"Do you believe in *aliens*?"
+],
+[
+"astronaut",
+"noun",
+"A2",
+"นักบินอวกาศ",
+"She wants to be an *astronaut*."
+],
+[
+"explore",
+"verb",
+"A2",
+"สำรวจ",
+"We want to *explore* the forest."
+],
+[
+"distance",
+"noun",
+"A2",
+"ระยะทาง",
+"What's the *distance* to the Moon?"
+],
+[
+"oxygen",
+"noun",
+"A2",
+"ออกซิเจน",
+"There is no *oxygen* in space."
+],
+[
+"universe",
+"noun",
+"A2",
+"จักรวาล",
+"The *universe* is very old."
+],
+[
+"satellite",
+"noun",
+"A2",
+"ดาวเทียม",
+"TV signals come from a *satellite*."
+],
+[
+"mission",
+"noun",
+"A2",
+"ภารกิจ",
+"The *mission* to Mars will take seven months."
+],
+[
+"comet",
+"noun",
+"A2",
+"ดาวหาง",
+"You can see the *comet* without a telescope."
+],
+[
+"crater",
+"noun",
+"A2",
+"หลุมอุกกาบาต, ปล่องภูเขาไฟ",
+"The Moon has many *craters*."
+],
+[
+"meteor",
+"noun",
+"A2",
+"ดาวตก, อุกกาบาต",
+"We saw a *meteor* shower last night."
+],
+[
+"orbit",
+"noun/verb",
+"B1",
+"วงโคจร, โคจร",
+"The Moon *orbits* the Earth."
+],
+[
+"galaxy",
+"noun",
+"B1",
+"กาแล็กซี",
+"Our *galaxy* is called the Milky Way."
+],
+[
+"spacecraft",
+"noun",
+"B1",
+"ยานอวกาศ",
+"The *spacecraft* landed on Mars."
+],
+[
+"solar system",
+"noun",
+"B1",
+"ระบบสุริยะ",
+"There are eight planets in our *solar system*."
+],
+[
+"asteroid",
+"noun",
+"B1",
+"ดาวเคราะห์น้อย",
+"An *asteroid* may have killed the dinosaurs."
+],
+[
+"atmosphere",
+"noun",
+"B1",
+"ชั้นบรรยากาศ",
+"Mars has a very thin *atmosphere*."
+],
+[
+"light year",
+"noun",
+"B1",
+"ปีแสง",
+"The star is four *light years* away."
+],
+[
+"weightless",
+"adjective",
+"B1",
+"ไร้น้ำหนัก",
+"Astronauts feel *weightless* in space."
+],
+[
+"spacewalk",
+"noun",
+"B1",
+"การเดินในอวกาศ",
+"The *spacewalk* lasted six hours."
+],
+[
+"observatory",
+"noun",
+"B1",
+"หอดูดาว",
+"We visited an *observatory* in Chiang Mai."
+],
+[
+"lunar",
+"adjective",
+"B1",
+"เกี่ยวกับดวงจันทร์",
+"A *lunar* eclipse happens when the Earth blocks the Sun's light."
+],
+[
+"colonise",
+"verb",
+"B2",
+"ตั้งอาณานิคม, ไปตั้งถิ่นฐาน",
+"Some people want to *colonise* Mars."
+],
+[
+"habitable",
+"adjective",
+"B2",
+"อาศัยอยู่ได้",
+"Scientists look for *habitable* planets."
+],
+[
+"extraterrestrial",
+"adjective/noun",
+"B2",
+"นอกโลก, สิ่งมีชีวิตนอกโลก",
+"Is there *extraterrestrial* life?"
+],
+[
+"cosmic",
+"adjective",
+"B2",
+"เกี่ยวกับจักรวาล",
+"*Cosmic* rays come from deep space."
+],
+[
+"debris",
+"noun",
+"B2",
+"เศษซาก",
+"Space *debris* is a danger to satellites."
+],
+[
+"commercial",
+"adjective",
+"B2",
+"เชิงพาณิชย์",
+"*Commercial* space flights are now possible."
+],
+[
+"payload",
+"noun",
+"B2",
+"น้ำหนักบรรทุก (ของจรวด)",
+"The rocket carried a *payload* of satellites."
+],
+[
+"trajectory",
+"noun",
+"B2",
+"วิถีโคจร, เส้นทางการเคลื่อนที่",
+"Engineers calculated the *trajectory* carefully."
+],
+[
+"propulsion",
+"noun",
+"B2",
+"ระบบขับเคลื่อน",
+"New *propulsion* systems could reach Mars faster."
+],
+[
+"terraform",
+"verb",
+"B2",
+"ปรับสภาพดาวให้คล้ายโลก",
+"Could we *terraform* Mars?"
+],
+[
+"venture",
+"noun",
+"B2",
+"กิจการเสี่ยง, การผจญภัย",
+"Space tourism is a risky *venture*."
+]
+],
+"p": [
+{
+"t": "My Dream Job",
+"x": "My name is Ton and I am ten years old. When I grow up, I want to be an astronaut. I want to fly in a rocket and see the Earth from space. People say the Earth is round and blue, and I want to see it with my own eyes.\nAt night, I like to look at the stars. They shine very brightly when there are no clouds. My dad has a small telescope, and we sometimes look at the Moon. You can see the craters on it! Last month, we saw a meteor shower. It was amazing.\nI know that space is huge and other planets are very far away. The distance to Mars is millions of kilometres! Astronauts need oxygen because there is no air in space. I also want to explore other planets and land on Mars. Maybe I will meet an alien! My teacher says I must study hard, especially science and maths."
+},
+{
+"t": "Life on the Space Station",
+"x": "About 400 kilometres above the Earth, the International Space Station (ISS) travels in orbit around our planet. It moves at 28,000 km/h, so the astronauts on board see the sun rise and set sixteen times a day!\nLife on the ISS is very different from life on Earth. Because the astronauts are weightless, they float around the station. They sleep in sleeping bags attached to the wall, and they must exercise for two hours every day to keep their muscles strong.\nEach mission usually lasts about six months. The astronauts do scientific experiments, repair equipment and sometimes go on a spacewalk outside the station. They also take photographs of the Earth, showing its thin blue atmosphere.\nFood and supplies arrive by spacecraft from Earth. Many astronauts say that the best part of the job is looking out of the window. From space, you can't see borders between countries. As one astronaut said, \"It made me realise how small and fragile our planet is in the solar system, and in our galaxy.\""
+},
+{
+"t": "The New Space Race",
+"x": "For most of the twentieth century, space exploration was dominated by governments, most famously during the race between the USA and the Soviet Union that ended with the lunar landings of 1969. Today, a new space race is under way, but this time private companies are leading it.\nCommercial firms now launch satellites, deliver payloads to the space station and even sell tickets to tourists. Reusable rockets, which land vertically after launch, have dramatically reduced costs. Some entrepreneurs speak openly of plans to colonise Mars within decades.\nThe challenges, however, are enormous. Mars has a thin atmosphere, freezing temperatures and dangerous levels of cosmic radiation. Even reaching it requires precise calculation of the spacecraft's trajectory, and current propulsion systems mean the journey takes around seven months. Some scientists have proposed ways to terraform the planet, making it more habitable, but such projects would take centuries.\nThere are also problems closer to home. Thousands of satellites now orbit the Earth, and pieces of debris from old missions travel at high speed, threatening functioning equipment. Critics argue that the space industry needs international rules before it becomes a dangerous and unregulated venture.\nMeanwhile, telescopes continue to discover planets around distant stars, some only a few dozen light years away. The search for extraterrestrial life, once science fiction, is now a serious field of research. Whether or not we find it, the asteroid belt, the comets and the galaxies beyond suggest that the universe still has much to teach us."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "The ___ went up into space with three astronauts.",
+"o": [
+"rocket",
+"pocket",
+"rock",
+"racket"
+],
+"en": "A rocket goes into space.",
+"th": "จรวดขึ้นสู่อวกาศ",
+"x": [
+[
+"A pocket is in clothes.",
+"pocket = กระเป๋าเสื้อ"
+],
+[
+"A rock is a stone.",
+"rock = หิน"
+],
+[
+"A racket is for tennis.",
+"racket = ไม้เทนนิส"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "An elephant is a ___ animal.",
+"o": [
+"huge",
+"hug",
+"hungry",
+"human"
+],
+"en": "Huge = very big.",
+"th": "huge = ใหญ่มาก",
+"x": [
+[
+"'hug' is a verb or noun.",
+"hug = กอด"
+],
+[
+"'hungry' doesn't describe size.",
+"hungry = หิว"
+],
+[
+"'human' means a person.",
+"human = มนุษย์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The plane will ___ in Bangkok at 9 p.m.",
+"o": [
+"land",
+"lend",
+"lamp",
+"lane"
+],
+"en": "Land = arrive on the ground.",
+"th": "land = ลงจอด",
+"x": [
+[
+"'lend' means give for a time.",
+"lend = ให้ยืม"
+],
+[
+"A lamp is a light.",
+"lamp = โคมไฟ"
+],
+[
+"A lane is a small road.",
+"lane = ช่องทาง ซอย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Is the station ___ from here? Can we walk?",
+"o": [
+"far",
+"fat",
+"fair",
+"fur"
+],
+"en": "Far = a long distance.",
+"th": "far = ไกล",
+"x": [
+[
+"'fat' describes body size.",
+"fat = อ้วน"
+],
+[
+"'fair' means just or light-coloured.",
+"fair = ยุติธรรม"
+],
+[
+"Fur is animal hair.",
+"fur = ขนสัตว์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She trained for six years to become an ___.",
+"o": [
+"astronaut",
+"astrologer",
+"athlete's",
+"astronomy"
+],
+"en": "An astronaut travels into space.",
+"th": "astronaut = นักบินอวกาศ",
+"x": [
+[
+"An astrologer predicts the future from stars.",
+"astrologer = นักโหราศาสตร์"
+],
+[
+"Possessive form doesn't fit.",
+"รูปแสดงความเป็นเจ้าของไม่เข้า"
+],
+[
+"Astronomy is a subject, not a job.",
+"astronomy = ดาราศาสตร์ (วิชา)"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "There is no ___ on the Moon, so you can't breathe.",
+"o": [
+"oxygen",
+"octagon",
+"origin",
+"oven"
+],
+"en": "We need oxygen to breathe.",
+"th": "ต้องมีออกซิเจนจึงหายใจได้",
+"x": [
+[
+"An octagon is a shape.",
+"octagon = รูปแปดเหลี่ยม"
+],
+[
+"An origin is a beginning.",
+"origin = ต้นกำเนิด"
+],
+[
+"An oven is for cooking.",
+"oven = เตาอบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Our TV and phone signals come from a ___ in space.",
+"o": [
+"satellite",
+"salad",
+"satisfy",
+"settle"
+],
+"en": "Satellites send signals.",
+"th": "ดาวเทียมส่งสัญญาณ",
+"x": [
+[
+"Salad is food.",
+"salad = สลัด"
+],
+[
+"'satisfy' is a verb.",
+"satisfy = ทำให้พอใจ"
+],
+[
+"'settle' is a verb.",
+"settle = ตั้งถิ่นฐาน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The Moon is covered in ___ made by rocks hitting it.",
+"o": [
+"craters",
+"creatures",
+"crackers",
+"crates"
+],
+"en": "Craters are holes from impacts.",
+"th": "crater = หลุมอุกกาบาต",
+"x": [
+[
+"Creatures are living things.",
+"creature = สิ่งมีชีวิต"
+],
+[
+"Crackers are biscuits.",
+"cracker = ขนมปังกรอบ"
+],
+[
+"Crates are boxes.",
+"crate = ลังไม้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The Earth takes 365 days to ___ the Sun.",
+"o": [
+"orbit",
+"orbital",
+"orbiting",
+"orbits"
+],
+"en": "'To + base verb': to orbit.",
+"th": "to + V1: to orbit",
+"x": [
+[
+"'orbital' is an adjective.",
+"orbital เป็นคุณศัพท์"
+],
+[
+"Wrong form after 'to'.",
+"รูปผิดหลัง to"
+],
+[
+"Wrong form after 'to'.",
+"รูปผิดหลัง to"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "In space, astronauts are ___, so they float.",
+"o": [
+"weightless",
+"worthless",
+"wireless",
+"wingless"
+],
+"en": "Weightless = without weight.",
+"th": "weightless = ไร้น้ำหนัก",
+"x": [
+[
+"'worthless' means of no value.",
+"worthless = ไร้ค่า"
+],
+[
+"'wireless' means without wires.",
+"wireless = ไร้สาย"
+],
+[
+"'wingless' means without wings.",
+"wingless = ไม่มีปีก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Many scientists believe an ___ hit the Earth and killed the dinosaurs.",
+"o": [
+"asteroid",
+"asterisk",
+"astronaut",
+"aspirin"
+],
+"en": "An asteroid is a large space rock.",
+"th": "asteroid = ดาวเคราะห์น้อย",
+"x": [
+[
+"An asterisk is the symbol *.",
+"asterisk = เครื่องหมายดอกจัน"
+],
+[
+"An astronaut is a person.",
+"astronaut = นักบินอวกาศ"
+],
+[
+"Aspirin is a medicine.",
+"aspirin = ยาแอสไพริน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "We visited an ___ on Doi Inthanon to look at the stars.",
+"o": [
+"observatory",
+"observation",
+"obligatory",
+"observer"
+],
+"en": "An observatory is a building with telescopes.",
+"th": "observatory = หอดูดาว",
+"x": [
+[
+"'observation' is the act of watching.",
+"observation = การสังเกต"
+],
+[
+"'obligatory' means compulsory.",
+"obligatory = บังคับ"
+],
+[
+"An observer is a person.",
+"observer = ผู้สังเกต"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Scientists are searching for ___ planets where humans could live.",
+"o": [
+"habitable",
+"habitual",
+"inhabited",
+"inhibited"
+],
+"en": "Habitable = suitable to live on.",
+"th": "habitable = อาศัยอยู่ได้",
+"x": [
+[
+"'habitual' means done as a habit.",
+"habitual = เป็นนิสัย"
+],
+[
+"'inhabited' means people already live there.",
+"inhabited = มีผู้อาศัยอยู่แล้ว"
+],
+[
+"'inhibited' means shy or restricted.",
+"inhibited = ถูกยับยั้ง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Small pieces of space ___ can damage satellites.",
+"o": [
+"debris",
+"debts",
+"debut",
+"decree"
+],
+"en": "Debris = broken pieces.",
+"th": "debris = เศษซาก",
+"x": [
+[
+"Debts are money owed.",
+"debt = หนี้"
+],
+[
+"A debut is a first performance.",
+"debut = การเปิดตัว"
+],
+[
+"A decree is an official order.",
+"decree = กฤษฎีกา"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Engineers must calculate the spacecraft's ___ precisely.",
+"o": [
+"trajectory",
+"tragedy",
+"trajectile",
+"tributary"
+],
+"en": "Trajectory = the path of a moving object.",
+"th": "trajectory = วิถีการเคลื่อนที่",
+"x": [
+[
+"A tragedy is a sad event.",
+"tragedy = โศกนาฏกรรม"
+],
+[
+"Not a real word.",
+"ไม่มีคำนี้"
+],
+[
+"A tributary is a small river.",
+"tributary = แม่น้ำสาขา"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[The] stars [is] [very] [bright] tonight.",
+"a": 1,
+"fix": "The stars are very bright tonight.",
+"en": "Plural subject: are.",
+"th": "ประธานพหูพจน์: are",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'bright' is correct.",
+"bright ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[I] [want] [be] an astronaut [when] I grow up.",
+"a": 2,
+"fix": "I want to be an astronaut when I grow up.",
+"en": "'Want to + verb'.",
+"th": "want to + V1",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'want' is correct.",
+"want ถูกต้อง"
+],
+[
+"'when' is correct.",
+"when ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Neil Armstrong] [walk] [on] the Moon [in] 1969.",
+"a": 1,
+"fix": "Neil Armstrong walked on the Moon in 1969.",
+"en": "Past event: walked.",
+"th": "เหตุการณ์ในอดีต: walked",
+"x": [
+[
+"The name is correct.",
+"ชื่อถูกต้อง"
+],
+[
+"'on' is correct.",
+"on ถูกต้อง"
+],
+[
+"'in' is correct with a year.",
+"in ใช้กับปี ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Jupiter] is [the] [bigger] planet [in] our solar system.",
+"a": 2,
+"fix": "Jupiter is the biggest planet in our solar system.",
+"en": "Comparing with all: superlative (biggest).",
+"th": "เปรียบกับทั้งหมดใช้ขั้นสูงสุด: biggest",
+"x": [
+[
+"'Jupiter' is correct.",
+"Jupiter ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Have] you ever [saw] a [comet] [in] the sky?",
+"a": 1,
+"fix": "Have you ever seen a comet in the sky?",
+"en": "Present Perfect: have + seen.",
+"th": "Present Perfect: have + seen",
+"x": [
+[
+"'Have' is correct.",
+"Have ถูกต้อง"
+],
+[
+"'comet' is correct.",
+"comet ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Astronauts] [must] [to exercise] [every day] to keep their muscles strong.",
+"a": 2,
+"fix": "Astronauts must exercise every day to keep their muscles strong.",
+"en": "'Must' + base verb (no 'to').",
+"th": "must + V1 (ไม่มี to)",
+"x": [
+[
+"'Astronauts' is correct.",
+"Astronauts ถูกต้อง"
+],
+[
+"'must' is correct.",
+"must ถูกต้อง"
+],
+[
+"'every day' is correct.",
+"every day ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[While] the astronauts [were sleeping], an alarm [suddenly] [was ringing].",
+"a": 3,
+"fix": "While the astronauts were sleeping, an alarm suddenly rang.",
+"en": "A sudden short action interrupting another uses Past Simple: rang.",
+"th": "เหตุการณ์สั้นที่แทรกเข้ามาใช้ Past Simple: rang",
+"x": [
+[
+"'While' is correct.",
+"While ถูกต้อง"
+],
+[
+"'were sleeping' is correct for the longer action.",
+"were sleeping ถูกต้อง"
+],
+[
+"'suddenly' is correct.",
+"suddenly ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[The] spacecraft, [who] was launched in 2020, [has] [reached] Mars.",
+"a": 1,
+"fix": "The spacecraft, which was launched in 2020, has reached Mars.",
+"en": "For things, use 'which', not 'who'.",
+"th": "สิ่งของใช้ which ไม่ใช่ who",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'has' is correct.",
+"has ถูกต้อง"
+],
+[
+"'reached' is correct.",
+"reached ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[So] [thin] is Mars's atmosphere [that] humans [can't breathing] there.",
+"a": 3,
+"fix": "So thin is Mars's atmosphere that humans can't breathe there.",
+"en": "Modal + base verb: can't breathe.",
+"th": "modal + V1: can't breathe",
+"x": [
+[
+"'So' is correct inversion.",
+"So ถูกต้อง"
+],
+[
+"'thin' is correct.",
+"thin ถูกต้อง"
+],
+[
+"'that' is correct.",
+"that ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Unless we don't reduce] space debris, satellites [will be] [at] [serious] risk.",
+"a": 0,
+"fix": "Unless we reduce space debris, satellites will be at serious risk.",
+"en": "'Unless' already means 'if not', so don't add another negative.",
+"th": "unless แปลว่า if not อยู่แล้ว ไม่ต้องใส่ปฏิเสธซ้ำ",
+"x": [
+[
+"'will be' is correct.",
+"will be ถูกต้อง"
+],
+[
+"'at' is correct: at risk.",
+"at ถูกต้อง (at risk)"
+],
+[
+"'serious' is correct.",
+"serious ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Look! Can you see that bright star?\nB: ___ It's beautiful.",
+"o": [
+"Yes, I can.",
+"No, I can't.",
+"It's a car.",
+"I'm a star."
+],
+"en": "'It's beautiful' means B can see it.",
+"th": "It's beautiful แสดงว่าเห็น",
+"x": [
+[
+"It contradicts 'beautiful'.",
+"ขัดกับ beautiful"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What do you want to be?\nB: ___",
+"o": [
+"An astronaut!",
+"Ten years old.",
+"In the sky.",
+"Yes, I want."
+],
+"en": "B names a job.",
+"th": "B บอกอาชีพ",
+"x": [
+[
+"It's an age.",
+"เป็นอายุ"
+],
+[
+"It's a place.",
+"เป็นสถานที่"
+],
+[
+"Not an answer to 'what'.",
+"ไม่ตอบ what"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you believe in aliens?\nB: ___ The universe is so big.",
+"o": [
+"Maybe!",
+"No, never.",
+"I'm an alien.",
+"They are green."
+],
+"en": "The big universe makes aliens possible.",
+"th": "จักรวาลกว้างใหญ่ จึงอาจมีมนุษย์ต่างดาว",
+"x": [
+[
+"The reason suggests possibility.",
+"เหตุผลบ่งบอกความเป็นไปได้"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How far is the Moon?\nB: ___",
+"o": [
+"About 384,000 kilometres.",
+"Very round.",
+"At night.",
+"Three astronauts."
+],
+"en": "'How far' asks for distance.",
+"th": "how far ถามระยะทาง",
+"x": [
+[
+"Shape.",
+"รูปร่าง"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Number of people.",
+"จำนวนคน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: There's a meteor shower tonight.\nB: ___",
+"o": [
+"Great! Let's go somewhere dark to watch it.",
+"Take an umbrella.",
+"I'll have a shower.",
+"Turn on the lights."
+],
+"en": "A meteor shower is shooting stars, so go somewhere dark.",
+"th": "ฝนดาวตก ควรไปที่มืด",
+"x": [
+[
+"It's not rain.",
+"ไม่ใช่ฝน"
+],
+[
+"Confuses 'shower'.",
+"สับสนคำว่า shower"
+],
+[
+"Lights make it harder to see.",
+"ไฟทำให้มองยาก"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Would you like to go to space one day?\nB: ___ I'm afraid of flying.",
+"o": [
+"Not really.",
+"Yes, I'd love to!",
+"I've been to space.",
+"Space is near."
+],
+"en": "Fear of flying → not really.",
+"th": "กลัวการบิน จึงไม่ค่อยอยาก",
+"x": [
+[
+"It contradicts the fear.",
+"ขัดกับความกลัว"
+],
+[
+"Unlikely.",
+"ไม่น่าเป็นไปได้"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: What's the hardest thing about living on the space station?\nB: ___",
+"o": [
+"Probably being away from your family for six months.",
+"It's 400 kilometres above Earth.",
+"Astronauts are clever.",
+"The station is white."
+],
+"en": "B names a difficulty.",
+"th": "B บอกความยากลำบาก",
+"x": [
+[
+"A fact, not a difficulty.",
+"ข้อเท็จจริง ไม่ใช่ความยาก"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Did you know astronauts sleep in bags on the wall?\nB: ___ I suppose they'd float away otherwise.",
+"o": [
+"Really? That's interesting.",
+"Yes, I sleep on the wall too.",
+"That's impossible.",
+"I don't sleep."
+],
+"en": "B is surprised but understands.",
+"th": "B แปลกใจแต่เข้าใจ",
+"x": [
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"It contradicts the explanation.",
+"ขัดกับคำอธิบาย"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should governments spend billions on space when there's poverty on Earth?\nB: ___ Space research has given us satellites and medical technology, but priorities matter.",
+"o": [
+"It's a fair question, but I think it's worth it in moderation.",
+"No, space is useless.",
+"Yes, nothing else matters.",
+"Poverty doesn't exist."
+],
+"en": "B gives a balanced view.",
+"th": "B ให้มุมมองที่สมดุล",
+"x": [
+[
+"B mentions benefits.",
+"B พูดถึงประโยชน์"
+],
+[
+"B mentions priorities.",
+"B พูดถึงลำดับความสำคัญ"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I read that a company wants to colonise Mars by 2050.\nB: ___ The radiation and thin atmosphere make it extremely difficult.",
+"o": [
+"I'll believe it when I see it.",
+"I'm sure it'll be easy.",
+"Mars is already colonised.",
+"That's too late."
+],
+"en": "B is sceptical.",
+"th": "B ไม่ค่อยเชื่อ",
+"x": [
+[
+"It contradicts 'extremely difficult'.",
+"ขัดกับ extremely difficult"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not B's point.",
+"ไม่ใช่ประเด็นของ B"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How old is Ton?",
+"o": [
+"Ten",
+"Twelve",
+"Eight",
+"Fifteen"
+],
+"en": "'I am ten years old.'",
+"th": "10 ปี",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What colour does Ton say the Earth is?",
+"o": [
+"Blue",
+"Green",
+"Red",
+"White"
+],
+"en": "'…the Earth is round and blue.'",
+"th": "สีน้ำเงิน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What can Ton see on the Moon with the telescope?",
+"o": [
+"Craters",
+"Aliens",
+"Astronauts",
+"Rockets"
+],
+"en": "'You can see the craters on it!'",
+"th": "หลุมอุกกาบาต",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did Ton see last month?",
+"o": [
+"A meteor shower",
+"A rocket launch",
+"An alien",
+"A comet"
+],
+"en": "'Last month, we saw a meteor shower.'",
+"th": "ฝนดาวตก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Ton's teacher say?",
+"o": [
+"He must study hard, especially science and maths.",
+"He can't be an astronaut.",
+"He should look at stars every night.",
+"He needs a bigger telescope."
+],
+"en": "'My teacher says I must study hard, especially science and maths.'",
+"th": "ต้องเรียนหนัก โดยเฉพาะวิทย์และคณิต",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do ISS astronauts see sixteen sunrises a day?",
+"o": [
+"The station moves very fast around the Earth.",
+"The Sun moves faster in space.",
+"They sleep a lot.",
+"There are sixteen suns."
+],
+"en": "'It moves at 28,000 km/h, so… sixteen times a day.'",
+"th": "สถานีเคลื่อนที่เร็วมาก",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not related.",
+"ไม่เกี่ยว"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why must astronauts exercise for two hours a day?",
+"o": [
+"To keep their muscles strong",
+"Because they are bored",
+"To float better",
+"To repair equipment"
+],
+"en": "'…to keep their muscles strong.'",
+"th": "เพื่อให้กล้ามเนื้อแข็งแรง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How long does a mission usually last?",
+"o": [
+"About six months",
+"Two hours",
+"One year",
+"Sixteen days"
+],
+"en": "'Each mission usually lasts about six months.'",
+"th": "ประมาณหกเดือน",
+"x": [
+[
+"That's exercise time.",
+"เวลาออกกำลังกาย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How do supplies reach the ISS?",
+"o": [
+"By spacecraft from Earth",
+"By spacewalk",
+"They grow them on board",
+"By satellite"
+],
+"en": "'Food and supplies arrive by spacecraft from Earth.'",
+"th": "ส่งโดยยานอวกาศจากโลก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What did one astronaut realise?",
+"o": [
+"How small and fragile our planet is",
+"That space is boring",
+"That borders are important",
+"That the ISS is too small"
+],
+"en": "'It made me realise how small and fragile our planet is.'",
+"th": "โลกเล็กและเปราะบาง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"You can't see borders.",
+"มองไม่เห็นพรมแดน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How is the new space race different from the old one?",
+"o": [
+"Private companies are leading it.",
+"Only the USA is involved.",
+"It is about reaching the Moon first.",
+"Governments have banned it."
+],
+"en": "'…this time private companies are leading it.'",
+"th": "บริษัทเอกชนเป็นผู้นำ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That was the old race.",
+"นั่นคือการแข่งขันเก่า"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What has dramatically reduced costs?",
+"o": [
+"Reusable rockets",
+"Space tourism",
+"Terraforming",
+"Government funding"
+],
+"en": "'Reusable rockets… have dramatically reduced costs.'",
+"th": "จรวดที่นำกลับมาใช้ใหม่ได้",
+"x": [
+[
+"Tourism is a result, not a cause.",
+"การท่องเที่ยวเป็นผล ไม่ใช่สาเหตุ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which is NOT mentioned as a challenge of Mars?",
+"o": [
+"Strong winds that destroy buildings",
+"A thin atmosphere",
+"Freezing temperatures",
+"Cosmic radiation"
+],
+"en": "Winds aren't mentioned.",
+"th": "ไม่ได้กล่าวถึงลมแรง",
+"x": [
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do critics want international rules?",
+"o": [
+"To stop the industry becoming dangerous and unregulated",
+"To ban satellites",
+"To help tourists",
+"To speed up terraforming"
+],
+"en": "'…before it becomes a dangerous and unregulated venture.'",
+"th": "เพื่อไม่ให้อุตสาหกรรมอันตรายและไร้การควบคุม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How does the writer describe the search for extraterrestrial life?",
+"o": [
+"Once fiction, now a serious field of research",
+"A waste of money",
+"Already successful",
+"Completely impossible"
+],
+"en": "'…once science fiction, is now a serious field of research.'",
+"th": "เคยเป็นเรื่องแต่ง ตอนนี้เป็นงานวิจัยจริงจัง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"'Whether or not we find it'.",
+"ยังไม่แน่ว่าจะพบ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

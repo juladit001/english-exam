@@ -1,0 +1,1627 @@
+{
+"id": 62,
+"theme": "Inventions",
+"v": [
+[
+"first",
+"adjective/adverb",
+"A1",
+"แรก, ครั้งแรก",
+"Who made the *first* car?"
+],
+[
+"glasses",
+"noun",
+"A1",
+"แว่นตา",
+"I wear *glasses* for reading."
+],
+[
+"pen",
+"noun",
+"A1",
+"ปากกา",
+"Can I borrow your *pen*?"
+],
+[
+"lamp",
+"noun",
+"A1",
+"โคมไฟ",
+"Turn on the *lamp*; it's dark."
+],
+[
+"bicycle",
+"noun",
+"A1",
+"จักรยาน",
+"The *bicycle* was invented in the 1800s."
+],
+[
+"clock",
+"noun",
+"A1",
+"นาฬิกา (แขวน/ตั้ง)",
+"The *clock* on the wall is slow."
+],
+[
+"useful",
+"adjective",
+"A1",
+"มีประโยชน์",
+"A phone is very *useful*."
+],
+[
+"useless",
+"adjective",
+"A1",
+"ไร้ประโยชน์",
+"This old machine is *useless*."
+],
+[
+"inventor",
+"noun",
+"A2",
+"นักประดิษฐ์",
+"Edison was a famous *inventor*."
+],
+[
+"light bulb",
+"noun",
+"A2",
+"หลอดไฟ",
+"The *light bulb* changed our lives."
+],
+[
+"telephone",
+"noun",
+"A2",
+"โทรศัพท์",
+"The *telephone* was invented in 1876."
+],
+[
+"television",
+"noun",
+"A2",
+"โทรทัศน์",
+"My grandparents bought their first *television* in 1970."
+],
+[
+"steam",
+"noun",
+"A2",
+"ไอน้ำ",
+"Early trains ran on *steam*."
+],
+[
+"compass",
+"noun",
+"A2",
+"เข็มทิศ",
+"Sailors used a *compass* to find their way."
+],
+[
+"brilliant",
+"adjective",
+"A2",
+"ยอดเยี่ยม, ฉลาดมาก",
+"What a *brilliant* idea!"
+],
+[
+"modern",
+"adjective",
+"A2",
+"ทันสมัย",
+"*Modern* life depends on electricity."
+],
+[
+"microwave",
+"noun",
+"A2",
+"ไมโครเวฟ",
+"Heat the soup in the *microwave*."
+],
+[
+"zip",
+"noun",
+"A2",
+"ซิป",
+"The *zip* on my bag is broken."
+],
+[
+"printing press",
+"noun",
+"B1",
+"แท่นพิมพ์",
+"The *printing press* made books cheaper."
+],
+[
+"gunpowder",
+"noun",
+"B1",
+"ดินปืน",
+"*Gunpowder* was invented in China."
+],
+[
+"penicillin",
+"noun",
+"B1",
+"เพนิซิลลิน",
+"*Penicillin* was the first antibiotic."
+],
+[
+"trial and error",
+"noun",
+"B1",
+"การลองผิดลองถูก",
+"He found the answer by *trial and error*."
+],
+[
+"genius",
+"noun",
+"B1",
+"อัจฉริยะ",
+"Leonardo da Vinci was a *genius*."
+],
+[
+"pioneer",
+"noun",
+"B1",
+"ผู้บุกเบิก",
+"She was a *pioneer* of computer science."
+],
+[
+"by chance",
+"phrase",
+"B1",
+"โดยบังเอิญ",
+"Penicillin was discovered *by chance*."
+],
+[
+"accidental",
+"adjective",
+"B1",
+"โดยไม่ตั้งใจ",
+"Many great discoveries were *accidental*."
+],
+[
+"sticky note",
+"noun",
+"B1",
+"กระดาษโน้ตกาว",
+"Write it on a *sticky note*."
+],
+[
+"flaw",
+"noun",
+"B1",
+"ข้อบกพร่อง",
+"The design had a serious *flaw*."
+],
+[
+"widespread",
+"adjective",
+"B1",
+"แพร่หลาย",
+"Smartphones are now *widespread*."
+],
+[
+"revolutionise",
+"verb",
+"B2",
+"ปฏิวัติ, เปลี่ยนแปลงอย่างสิ้นเชิง",
+"The internet *revolutionised* communication."
+],
+[
+"ingenious",
+"adjective",
+"B2",
+"ชาญฉลาด, แยบยล",
+"It's an *ingenious* invention."
+],
+[
+"mass-produce",
+"verb",
+"B2",
+"ผลิตจำนวนมาก",
+"Ford *mass-produced* cars."
+],
+[
+"assembly line",
+"noun",
+"B2",
+"สายการผลิต",
+"Workers stood along the *assembly line*."
+],
+[
+"mechanism",
+"noun",
+"B2",
+"กลไก",
+"The clock's *mechanism* is very complex."
+],
+[
+"credit",
+"verb/noun",
+"B2",
+"ให้เครดิต, ยกย่องว่าเป็นผู้ทำ",
+"Edison is often *credited* with the light bulb."
+],
+[
+"attribute",
+"verb",
+"B2",
+"ระบุว่าเป็นผลงานของ",
+"The invention is *attributed* to a Chinese official."
+],
+[
+"refrigeration",
+"noun",
+"B2",
+"การทำความเย็น",
+"*Refrigeration* changed how we store food."
+],
+[
+"refine",
+"verb",
+"B2",
+"ปรับปรุงให้ดีขึ้น",
+"He spent years *refining* his design."
+],
+[
+"dynamite",
+"noun",
+"B2",
+"ระเบิดไดนาไมต์",
+"Alfred Nobel invented *dynamite*."
+],
+[
+"spark",
+"noun/verb",
+"B2",
+"ประกายไฟ, จุดประกาย",
+"The discovery *sparked* a revolution in medicine."
+]
+],
+"p": [
+{
+"t": "Things We Use Every Day",
+"x": "Many things we use every day were once new inventions. Think about the pen you write with. Long ago, people wrote with feathers! The first modern ballpoint pen was made in the 1930s.\nMy grandfather wears glasses to read. Glasses were invented in Italy about 700 years ago. They are very useful for people who can't see well.\nAt night, I read with a lamp next to my bed. I also have an old clock in my bedroom that was my grandmother's. And I ride my bicycle to school every day. The first bicycles had no pedals, so people pushed them with their feet. Today, some old inventions are almost useless, but many are still important in our lives."
+},
+{
+"t": "Inventions That Changed the World",
+"x": "Some inventions have changed the world completely. In the 1700s, inventors learned how to use steam to power machines and trains. In the 1800s, the telephone allowed people to talk across long distances, and Thomas Edison developed a practical light bulb, so people could work and read at night.\nIn the twentieth century, television brought news and entertainment into people's homes. Later, the microwave made cooking faster. Even small inventions, like the zip, made life easier.\nSome inventions are very old. The compass helped sailors find their way across the oceans, and it was first used in China. The printing press, invented in Germany in the 1400s, made books cheap, so more people could learn to read. Gunpowder was also invented in China, more than 1,000 years ago.\nInterestingly, some discoveries happened by chance. In 1928, Alexander Fleming noticed that mould had killed bacteria in his laboratory. This accidental discovery led to penicillin, which has saved millions of lives. The sticky note was also an accident: a scientist was trying to make strong glue but made a weak one instead! Many inventors are not geniuses; they work by trial and error, slowly fixing each flaw. Some, like the early computer pioneer Ada Lovelace, were far ahead of their time. Today, brilliant inventions spread fast and quickly become widespread."
+},
+{
+"t": "The Myth of the Lone Genius",
+"x": "Popular history often presents invention as the work of a lone genius experiencing a sudden flash of inspiration. Edison is credited with the light bulb, Bell with the telephone, and Nobel with dynamite. In reality, the story of most inventions is far more complicated.\nEdison, for example, did not invent the first electric light; dozens of inventors had already produced working versions. His achievement was to refine the design, making a bulb that lasted long enough to be practical, and to build the electrical system needed to power it. Similarly, many inventions that are attributed to a single individual were developed simultaneously by several people, suggesting that the necessary knowledge and technology had reached a point where the idea was almost inevitable.\nInvention also depends on economic conditions. A clever idea may exist for years before it becomes useful. The key innovation of Henry Ford was not the car itself but the moving assembly line, which allowed him to mass-produce vehicles cheaply enough for ordinary workers to buy. Likewise, refrigeration did not truly revolutionise daily life until electricity reached most homes.\nNone of this diminishes the ingenious individuals behind great inventions. But it reminds us that innovation is usually a social process: a spark of creativity must be supported by existing knowledge, skilled collaborators, investment and a society ready to adopt it. Understanding the mechanism behind invention, rather than celebrating isolated heroes, may help us encourage the breakthroughs of the future."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "I can't read this without my ___.",
+"o": [
+"glasses",
+"glass",
+"gloves",
+"grass"
+],
+"en": "Glasses help you see.",
+"th": "glasses = แว่นตา",
+"x": [
+[
+"A glass is for drinking.",
+"glass = แก้วน้ำ"
+],
+[
+"Gloves are for hands.",
+"gloves = ถุงมือ"
+],
+[
+"Grass is a plant.",
+"grass = หญ้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "It's dark. Please turn on the ___.",
+"o": [
+"lamp",
+"lamb",
+"lump",
+"limp"
+],
+"en": "A lamp gives light.",
+"th": "lamp = โคมไฟ",
+"x": [
+[
+"A lamb is a young sheep.",
+"lamb = ลูกแกะ"
+],
+[
+"A lump is a small piece.",
+"lump = ก้อน"
+],
+[
+"'limp' means walk badly.",
+"limp = เดินกะเผลก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "A phone is very ___; I use it for everything.",
+"o": [
+"useful",
+"useless",
+"user",
+"usual"
+],
+"en": "Useful = helpful.",
+"th": "useful = มีประโยชน์",
+"x": [
+[
+"'useless' is the opposite.",
+"useless = ไร้ประโยชน์ (ตรงข้าม)"
+],
+[
+"A user uses something.",
+"user = ผู้ใช้"
+],
+[
+"'usual' means normal.",
+"usual = ปกติ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The ___ on the wall says it's 3 o'clock.",
+"o": [
+"clock",
+"cloak",
+"clack",
+"click"
+],
+"en": "A clock shows the time.",
+"th": "clock = นาฬิกา",
+"x": [
+[
+"A cloak is clothing.",
+"cloak = เสื้อคลุม"
+],
+[
+"A clack is a sound.",
+"clack = เสียงกระทบ"
+],
+[
+"A click is a sound or mouse action.",
+"click = คลิก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Thomas Edison was a famous ___.",
+"o": [
+"inventor",
+"invention",
+"invent",
+"inventory"
+],
+"en": "An inventor creates new things.",
+"th": "inventor = นักประดิษฐ์",
+"x": [
+[
+"An invention is the thing created.",
+"invention = สิ่งประดิษฐ์"
+],
+[
+"'invent' is a verb.",
+"invent เป็นกริยา"
+],
+[
+"An inventory is a list of goods.",
+"inventory = สินค้าคงคลัง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Early trains used ___ from boiling water for power.",
+"o": [
+"steam",
+"steal",
+"stem",
+"stream"
+],
+"en": "Steam powered early trains.",
+"th": "steam = ไอน้ำ",
+"x": [
+[
+"'steal' means take illegally.",
+"steal = ขโมย"
+],
+[
+"A stem is part of a plant.",
+"stem = ลำต้น"
+],
+[
+"A stream is a small river.",
+"stream = ลำธาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Sailors used a ___ to know which way was north.",
+"o": [
+"compass",
+"campus",
+"compost",
+"compass's"
+],
+"en": "A compass shows direction.",
+"th": "compass = เข็มทิศ",
+"x": [
+[
+"A campus is a university area.",
+"campus = วิทยาเขต"
+],
+[
+"Compost is for gardens.",
+"compost = ปุ๋ยหมัก"
+],
+[
+"Wrong form.",
+"รูปผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "That's a ___ idea! Let's try it.",
+"o": [
+"brilliant",
+"brilliantly",
+"brilliance",
+"brill-ing"
+],
+"en": "Brilliant (adjective) = excellent.",
+"th": "brilliant = ยอดเยี่ยม",
+"x": [
+[
+"An adverb.",
+"กริยาวิเศษณ์"
+],
+[
+"A noun.",
+"คำนาม"
+],
+[
+"Not a word.",
+"ไม่มีคำนี้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Penicillin was discovered ___; Fleming wasn't looking for it.",
+"o": [
+"by chance",
+"by heart",
+"by far",
+"by hand"
+],
+"en": "By chance = accidentally.",
+"th": "by chance = โดยบังเอิญ",
+"x": [
+[
+"'By heart' means from memory.",
+"by heart = จำขึ้นใจ"
+],
+[
+"'By far' means by a lot.",
+"by far = มากที่สุด"
+],
+[
+"'By hand' means without machines.",
+"by hand = ด้วยมือ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "He solved the problem by ___, testing hundreds of ideas.",
+"o": [
+"trial and error",
+"bread and butter",
+"rock and roll",
+"black and white"
+],
+"en": "Trial and error = trying until it works.",
+"th": "trial and error = ลองผิดลองถูก",
+"x": [
+[
+"Bread and butter is basic income.",
+"bread and butter = รายได้หลัก"
+],
+[
+"Rock and roll is music.",
+"rock and roll = ดนตรีร็อกแอนด์โรล"
+],
+[
+"Black and white means clear-cut.",
+"black and white = ชัดเจน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The first design had a serious ___, so it kept breaking.",
+"o": [
+"flaw",
+"floor",
+"flow",
+"flow chart"
+],
+"en": "A flaw is a weakness.",
+"th": "flaw = ข้อบกพร่อง",
+"x": [
+[
+"A floor is under your feet.",
+"floor = พื้น"
+],
+[
+"Flow is movement.",
+"flow = การไหล"
+],
+[
+"A flow chart is a diagram.",
+"flow chart = แผนผังขั้นตอน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Smartphones became ___ within ten years; almost everyone has one.",
+"o": [
+"widespread",
+"wide awake",
+"widow",
+"wildlife"
+],
+"en": "Widespread = found in many places.",
+"th": "widespread = แพร่หลาย",
+"x": [
+[
+"'wide awake' means fully awake.",
+"wide awake = ตื่นเต็มที่"
+],
+[
+"A widow lost her husband.",
+"widow = แม่ม่าย"
+],
+[
+"Wildlife is animals.",
+"wildlife = สัตว์ป่า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Henry Ford used the assembly line to ___ cars cheaply.",
+"o": [
+"mass-produce",
+"mass-market",
+"mass media",
+"massage"
+],
+"en": "Mass-produce = make in large numbers.",
+"th": "mass-produce = ผลิตจำนวนมาก",
+"x": [
+[
+"'mass-market' is an adjective.",
+"mass-market = ตลาดมวลชน"
+],
+[
+"Mass media is news and TV.",
+"mass media = สื่อมวลชน"
+],
+[
+"A massage relaxes muscles.",
+"massage = นวด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "What an ___ invention! It's so simple but so clever.",
+"o": [
+"ingenious",
+"ingenuous",
+"indigenous",
+"ingredient"
+],
+"en": "Ingenious = very clever.",
+"th": "ingenious = ชาญฉลาด",
+"x": [
+[
+"'ingenuous' means innocent.",
+"ingenuous = ไร้เดียงสา"
+],
+[
+"'indigenous' means native.",
+"indigenous = พื้นเมือง"
+],
+[
+"An ingredient is for cooking.",
+"ingredient = ส่วนผสม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The discovery ___ a revolution in medicine.",
+"o": [
+"sparked",
+"sparkled",
+"sparred",
+"spared"
+],
+"en": "Spark = cause to begin.",
+"th": "spark = จุดประกาย",
+"x": [
+[
+"'sparkle' means shine.",
+"sparkle = เป็นประกาย"
+],
+[
+"'spar' means fight lightly.",
+"spar = ชกซ้อม"
+],
+[
+"'spare' means not use or save.",
+"spare = ละเว้น"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[My] grandmother [wear] [glasses] [every] day.",
+"a": 1,
+"fix": "My grandmother wears glasses every day.",
+"en": "She: wears.",
+"th": "she: wears",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'glasses' is correct.",
+"glasses ถูกต้อง"
+],
+[
+"'every' is correct.",
+"every ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Who] [invent] [the] [bicycle]?",
+"a": 1,
+"fix": "Who invented the bicycle?",
+"en": "Past event: invented.",
+"th": "เหตุการณ์ในอดีต: invented",
+"x": [
+[
+"'Who' is correct.",
+"Who ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'bicycle' is correct.",
+"bicycle ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] telephone [was] [invent] [in] 1876.",
+"a": 2,
+"fix": "The telephone was invented in 1876.",
+"en": "Passive: was + past participle.",
+"th": "passive: was + V3",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Edison] [didn't] [invented] [the] first light bulb.",
+"a": 2,
+"fix": "Edison didn't invent the first light bulb.",
+"en": "After 'didn't', use the base verb.",
+"th": "หลัง didn't ใช้ V1",
+"x": [
+[
+"'Edison' is correct.",
+"Edison ถูกต้อง"
+],
+[
+"'didn't' is correct.",
+"didn't ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[A] compass [help] [you] [find] north.",
+"a": 1,
+"fix": "A compass helps you find north.",
+"en": "Singular subject: helps.",
+"th": "ประธานเอกพจน์: helps",
+"x": [
+[
+"'A' is correct.",
+"A ถูกต้อง"
+],
+[
+"'you' is correct.",
+"you ถูกต้อง"
+],
+[
+"'find' is correct after 'help you'.",
+"find ถูกต้องหลัง help you"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] Fleming [hadn't] noticed the mould, penicillin [might not be] [discovered] so early.",
+"a": 2,
+"fix": "If Fleming hadn't noticed the mould, penicillin might not have been discovered so early.",
+"en": "Third conditional passive: might not have been discovered.",
+"th": "third conditional passive: might not have been discovered",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'hadn't' is correct.",
+"hadn't ถูกต้อง"
+],
+[
+"'discovered' is correct.",
+"discovered ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[The] inventor, [who's] ideas changed the world, [was] [very] poor.",
+"a": 1,
+"fix": "The inventor, whose ideas changed the world, was very poor.",
+"en": "Possession: whose.",
+"th": "แสดงความเป็นเจ้าของ: whose",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[She] [is] [considered] [as] a pioneer of computing.",
+"a": 3,
+"fix": "She is considered a pioneer of computing.",
+"en": "'Be considered + noun' (no 'as').",
+"th": "be considered + นาม (ไม่ต้องมี as)",
+"x": [
+[
+"'She' is correct.",
+"She ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'considered' is correct.",
+"considered ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[It is] Edison [who] [is often credited] [for] the light bulb.",
+"a": 3,
+"fix": "It is Edison who is often credited with the light bulb.",
+"en": "'Be credited with' something.",
+"th": "be credited with",
+"x": [
+[
+"'It is' is correct.",
+"It is ถูกต้อง"
+],
+[
+"'who' is correct.",
+"who ถูกต้อง"
+],
+[
+"'is often credited' is correct.",
+"is often credited ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[So] [ingenious] [the design was] [that] nobody believed it at first.",
+"a": 2,
+"fix": "So ingenious was the design that nobody believed it at first.",
+"en": "'So + adjective' at the start needs inversion: was the design.",
+"th": "ขึ้นต้น So + คุณศัพท์ ต้องสลับ: was the design",
+"x": [
+[
+"'So' is correct.",
+"So ถูกต้อง"
+],
+[
+"'ingenious' is correct.",
+"ingenious ถูกต้อง"
+],
+[
+"'that' is correct.",
+"that ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can I borrow your pen?\nB: ___",
+"o": [
+"Of course. Here you are.",
+"No, I'm a pen.",
+"It's blue.",
+"Thank you."
+],
+"en": "B lends it.",
+"th": "B ให้ยืม",
+"x": [
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Is this old machine useful?\nB: ___ It doesn't work any more.",
+"o": [
+"No, it's useless.",
+"Yes, very useful.",
+"It's a machine.",
+"I'm old."
+],
+"en": "Doesn't work → useless.",
+"th": "ใช้งานไม่ได้ จึงไร้ประโยชน์",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What time is it?\nB: ___ The clock says so.",
+"o": [
+"It's half past two.",
+"It's a clock.",
+"It's Monday.",
+"It's big."
+],
+"en": "B tells the time.",
+"th": "B บอกเวลา",
+"x": [
+[
+"Not a time.",
+"ไม่ใช่เวลา"
+],
+[
+"A day.",
+"วัน"
+],
+[
+"Size.",
+"ขนาด"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Do you know who invented the telephone?\nB: ___",
+"o": [
+"Alexander Graham Bell, I think.",
+"In 1876.",
+"In America.",
+"Because people wanted to talk."
+],
+"en": "'Who' asks for a person.",
+"th": "who ถามบุคคล",
+"x": [
+[
+"Time.",
+"เวลา"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Reason.",
+"เหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What's the most useful invention, in your opinion?\nB: ___",
+"o": [
+"The internet, definitely.",
+"Yesterday.",
+"In my house.",
+"Inventors are clever."
+],
+"en": "B gives an opinion.",
+"th": "B ให้ความเห็น",
+"x": [
+[
+"Time.",
+"เวลา"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I want to be an inventor.\nB: ___",
+"o": [
+"That's brilliant! What would you invent?",
+"That's useless.",
+"Inventors don't exist.",
+"You're too old."
+],
+"en": "B is encouraging.",
+"th": "B ให้กำลังใจ",
+"x": [
+[
+"Discouraging.",
+"บั่นทอน"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Discouraging.",
+"บั่นทอน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Did you know sticky notes were an accident?\nB: ___ I thought someone planned them.",
+"o": [
+"Really? I had no idea.",
+"Yes, I invented them.",
+"Accidents are bad.",
+"Notes are paper."
+],
+"en": "B is surprised.",
+"th": "B แปลกใจ",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: My invention keeps breaking.\nB: ___",
+"o": [
+"Maybe there's a flaw in the design. Try changing one part at a time.",
+"Throw it away and give up.",
+"Inventions always break.",
+"Paint it a different colour."
+],
+"en": "B suggests trial and error.",
+"th": "B แนะนำการลองผิดลองถูก",
+"x": [
+[
+"Gives up too quickly.",
+"ยอมแพ้เร็วเกินไป"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Edison invented the light bulb by himself, didn't he?\nB: ___ Many people worked on it; he made it practical.",
+"o": [
+"Not exactly.",
+"Yes, completely alone.",
+"No, nobody invented it.",
+"Light bulbs are natural."
+],
+"en": "B corrects the myth.",
+"th": "B แก้ความเชื่อผิดๆ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Which invention has had the biggest impact on society?\nB: ___ Without it, most other inventions would be impossible.",
+"o": [
+"I'd say electricity.",
+"Probably the sticky note.",
+"None of them.",
+"I don't use inventions."
+],
+"en": "Electricity fits B's reason.",
+"th": "ไฟฟ้าเข้ากับเหตุผลของ B",
+"x": [
+[
+"Doesn't fit the reason.",
+"ไม่เข้ากับเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did people write with long ago?",
+"o": [
+"Feathers",
+"Pencils",
+"Ballpoint pens",
+"Computers"
+],
+"en": "'Long ago, people wrote with feathers!'",
+"th": "ขนนก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Those came in the 1930s.",
+"มีในยุค 1930"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where were glasses invented?",
+"o": [
+"Italy",
+"China",
+"Germany",
+"England"
+],
+"en": "'Glasses were invented in Italy.'",
+"th": "อิตาลี",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Whose clock is in the writer's bedroom?",
+"o": [
+"It was the grandmother's.",
+"It was the grandfather's.",
+"It's new.",
+"It's the teacher's."
+],
+"en": "'…an old clock… that was my grandmother's.'",
+"th": "ของคุณยาย/ย่า",
+"x": [
+[
+"He wears glasses.",
+"คุณปู่/ตาใส่แว่น"
+],
+[
+"It's old.",
+"มันเก่า"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was different about the first bicycles?",
+"o": [
+"They had no pedals.",
+"They had motors.",
+"They had four wheels.",
+"They were made of glass."
+],
+"en": "'The first bicycles had no pedals.'",
+"th": "ไม่มีบันไดปั่น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How does the writer go to school?",
+"o": [
+"By bicycle",
+"By bus",
+"On foot",
+"By car"
+],
+"en": "'I ride my bicycle to school every day.'",
+"th": "ปั่นจักรยาน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What did steam power in the 1700s?",
+"o": [
+"Machines and trains",
+"Telephones",
+"Light bulbs",
+"Televisions"
+],
+"en": "'…use steam to power machines and trains.'",
+"th": "เครื่องจักรและรถไฟ",
+"x": [
+[
+"1800s.",
+"ศตวรรษที่ 19"
+],
+[
+"1800s.",
+"ศตวรรษที่ 19"
+],
+[
+"20th century.",
+"ศตวรรษที่ 20"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why was the printing press important?",
+"o": [
+"It made books cheap, so more people could read.",
+"It helped sailors.",
+"It made cooking faster.",
+"It powered trains."
+],
+"en": "'…made books cheap, so more people could learn to read.'",
+"th": "ทำให้หนังสือถูกลง คนอ่านหนังสือได้มากขึ้น",
+"x": [
+[
+"That's the compass.",
+"นั่นคือเข็มทิศ"
+],
+[
+"That's the microwave.",
+"นั่นคือไมโครเวฟ"
+],
+[
+"That's steam.",
+"นั่นคือไอน้ำ"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which two inventions came from China?",
+"o": [
+"The compass and gunpowder",
+"The telephone and television",
+"The printing press and light bulb",
+"The zip and microwave"
+],
+"en": "'The compass… first used in China… Gunpowder was also invented in China.'",
+"th": "เข็มทิศและดินปืน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Germany and USA.",
+"เยอรมนีและสหรัฐฯ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How was the sticky note invented?",
+"o": [
+"By accident while trying to make strong glue",
+"By Edison",
+"On purpose for offices",
+"In China"
+],
+"en": "'…a scientist was trying to make strong glue but made a weak one instead!'",
+"th": "บังเอิญขณะพยายามทำกาวแรง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It was an accident.",
+"เป็นอุบัติเหตุ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How do many inventors work, according to the passage?",
+"o": [
+"By trial and error",
+"Only with sudden ideas",
+"Alone without mistakes",
+"By copying others"
+],
+"en": "'…they work by trial and error, slowly fixing each flaw.'",
+"th": "ลองผิดลองถูก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What was Edison's real achievement with the light bulb?",
+"o": [
+"Refining it to be practical and building the electrical system",
+"Inventing the first electric light",
+"Discovering electricity",
+"Mass-producing cars"
+],
+"en": "'His achievement was to refine the design… and to build the electrical system.'",
+"th": "ปรับปรุงให้ใช้งานได้จริงและสร้างระบบไฟฟ้า",
+"x": [
+[
+"He didn't invent the first one.",
+"ไม่ใช่คนแรกที่ประดิษฐ์"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That's Ford.",
+"นั่นคือฟอร์ด"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does simultaneous invention suggest?",
+"o": [
+"The idea had become almost inevitable.",
+"Inventors copy each other.",
+"Only one person can invent something.",
+"Inventions are always accidental."
+],
+"en": "'…suggesting that… the idea was almost inevitable.'",
+"th": "แนวคิดนั้นแทบจะเกิดขึ้นอย่างหลีกเลี่ยงไม่ได้",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What was Henry Ford's key innovation?",
+"o": [
+"The moving assembly line",
+"The car itself",
+"Refrigeration",
+"The light bulb"
+],
+"en": "'The key innovation of Henry Ford was not the car itself but the moving assembly line.'",
+"th": "สายการผลิตแบบเคลื่อนที่",
+"x": [
+[
+"The passage says 'not'.",
+"บทความบอกว่าไม่ใช่"
+],
+[
+"Not related.",
+"ไม่เกี่ยว"
+],
+[
+"Not related.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why didn't refrigeration revolutionise life immediately?",
+"o": [
+"Electricity hadn't reached most homes yet.",
+"Nobody wanted cold food.",
+"It was banned.",
+"It was too small."
+],
+"en": "'…did not truly revolutionise daily life until electricity reached most homes.'",
+"th": "ไฟฟ้ายังไม่เข้าถึงบ้านส่วนใหญ่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is the writer's main argument?",
+"o": [
+"Innovation is usually a social process.",
+"Lone geniuses do everything.",
+"Inventions are always accidental.",
+"Inventors should work alone."
+],
+"en": "'…innovation is usually a social process.'",
+"th": "นวัตกรรมมักเป็นกระบวนการทางสังคม",
+"x": [
+[
+"The writer disagrees.",
+"ผู้เขียนไม่เห็นด้วย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+}
+]
+}

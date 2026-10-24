@@ -1,0 +1,1627 @@
+{
+"id": 23,
+"theme": "Social media",
+"v": [
+[
+"post",
+"verb/noun",
+"A1",
+"โพสต์, ลงข้อความ/รูป",
+"I *post* photos on Instagram."
+],
+[
+"like",
+"verb/noun",
+"A1",
+"ชอบ, กดไลก์",
+"Please *like* my new photo!"
+],
+[
+"chat",
+"verb/noun",
+"A1",
+"แชท, คุย",
+"We *chat* online every evening."
+],
+[
+"click",
+"verb",
+"A1",
+"คลิก",
+"*Click* here to download."
+],
+[
+"news",
+"noun",
+"A1",
+"ข่าว",
+"I read the *news* on my phone."
+],
+[
+"group",
+"noun",
+"A1",
+"กลุ่ม",
+"Our class has a *group* on LINE."
+],
+[
+"picture",
+"noun",
+"A1",
+"รูปภาพ",
+"She posted a *picture* of her dog."
+],
+[
+"word",
+"noun",
+"A1",
+"คำ",
+"Write a few *words* about yourself."
+],
+[
+"follow",
+"verb",
+"A2",
+"ติดตาม",
+"I *follow* my favourite singer on TikTok."
+],
+[
+"follower",
+"noun",
+"A2",
+"ผู้ติดตาม",
+"He has a million *followers*."
+],
+[
+"comment",
+"noun/verb",
+"A2",
+"ความคิดเห็น, แสดงความคิดเห็น",
+"Leave a *comment* below."
+],
+[
+"profile",
+"noun",
+"A2",
+"โปรไฟล์, ข้อมูลส่วนตัว",
+"Update your *profile* picture."
+],
+[
+"selfie",
+"noun",
+"A2",
+"เซลฟี่, ภาพถ่ายตัวเอง",
+"Let's take a *selfie*!"
+],
+[
+"private",
+"adjective",
+"A2",
+"ส่วนตัว",
+"My account is *private*."
+],
+[
+"public",
+"adjective",
+"A2",
+"สาธารณะ",
+"Anyone can see *public* posts."
+],
+[
+"fake",
+"adjective",
+"A2",
+"ปลอม",
+"That news is *fake*."
+],
+[
+"emoji",
+"noun",
+"A2",
+"อีโมจิ",
+"She replied with a heart *emoji*."
+],
+[
+"link",
+"noun",
+"A2",
+"ลิงก์",
+"Send me the *link*."
+],
+[
+"hashtag",
+"noun",
+"B1",
+"แฮชแท็ก",
+"Use the *hashtag* #ThaiFood."
+],
+[
+"viral",
+"adjective",
+"B1",
+"(คลิป/โพสต์) ที่แพร่หลายอย่างรวดเร็ว",
+"His video went *viral*."
+],
+[
+"block",
+"verb",
+"B1",
+"บล็อก",
+"I *blocked* him on Facebook."
+],
+[
+"username",
+"noun",
+"B1",
+"ชื่อผู้ใช้",
+"What's your *username*?"
+],
+[
+"tag",
+"verb",
+"B1",
+"แท็ก (ระบุชื่อในโพสต์)",
+"Don't *tag* me in that photo!"
+],
+[
+"subscribe",
+"verb",
+"B1",
+"สมัครติดตาม, สมัครสมาชิก",
+"*Subscribe* to my channel!"
+],
+[
+"creator",
+"noun",
+"B1",
+"ผู้สร้างสรรค์ (เนื้อหา)",
+"She's a content *creator* on YouTube."
+],
+[
+"content",
+"noun",
+"B1",
+"เนื้อหา",
+"This channel has great *content*."
+],
+[
+"scroll",
+"verb",
+"B1",
+"เลื่อน (หน้าจอ)",
+"I *scroll* through Instagram before bed."
+],
+[
+"blog",
+"noun",
+"B1",
+"บล็อก",
+"She writes a travel *blog*."
+],
+[
+"channel",
+"noun",
+"B1",
+"ช่อง (ทีวี/ยูทูบ)",
+"He has a cooking *channel*."
+],
+[
+"influencer",
+"noun",
+"B2",
+"อินฟลูเอนเซอร์, ผู้มีอิทธิพลทางโซเชียล",
+"Brands pay *influencers* to promote products."
+],
+[
+"engagement",
+"noun",
+"B2",
+"การมีส่วนร่วม (ไลก์ คอมเมนต์ แชร์)",
+"This post has high *engagement*."
+],
+[
+"misinformation",
+"noun",
+"B2",
+"ข้อมูลที่ผิด",
+"*Misinformation* spreads fast online."
+],
+[
+"troll",
+"noun",
+"B2",
+"คนที่ตั้งใจก่อกวนในโลกออนไลน์",
+"Don't reply to *trolls*."
+],
+[
+"anonymous",
+"adjective",
+"B2",
+"ไม่เปิดเผยชื่อ, นิรนาม",
+"The message was *anonymous*."
+],
+[
+"filter",
+"noun",
+"B2",
+"ฟิลเตอร์ (แต่งภาพ), ตัวกรอง",
+"She always uses a *filter* on her selfies."
+],
+[
+"curate",
+"verb",
+"B2",
+"คัดสรร, จัดเลือกอย่างพิถีพิถัน",
+"She *curates* her feed very carefully."
+],
+[
+"validation",
+"noun",
+"B2",
+"การได้รับการยอมรับ/ยืนยันคุณค่า",
+"Some people post for *validation*."
+],
+[
+"detox",
+"noun",
+"B2",
+"การล้างพิษ, (digital detox) การพักจากหน้าจอ",
+"I'm doing a social media *detox*."
+],
+[
+"podcast",
+"noun",
+"B2",
+"พอดแคสต์",
+"I listen to a *podcast* on the way to work."
+],
+[
+"meme",
+"noun",
+"B2",
+"มีม (ภาพ/ข้อความตลกที่แชร์กัน)",
+"That *meme* is so funny!"
+]
+],
+"p": [
+{
+"t": "My Sister's Online Life",
+"x": "My sister Fah is sixteen, and she loves social media. Every day, she posts pictures of her food, her friends and, of course, herself. She takes at least ten selfies before she chooses one to post with a few words! She gets lots of likes, and her friends write comments with emojis like hearts and smiling faces.\nFah has about 2,000 followers. Most of them are friends from school, but some are strangers. My parents were worried, so they asked her to change her profile from public to private. Now only people she knows can follow her.\nFah also uses a group chat with her classmates. They share homework, news and links to funny videos. Sometimes she sends me a link too, but I'm usually too busy to click on it! My mother says Fah spends too much time online, but Fah says, \"It's how I talk to my friends.\""
+},
+{
+"t": "Why Do Some Videos Go Viral?",
+"x": "Every day, millions of videos are uploaded, but only a few go viral. What makes the difference? Researchers who study online content say there are some common patterns.\nFirst, emotion matters. Videos that make people laugh, cry or feel surprised are shared much more than neutral ones. Second, timing is important. Creators often post when their audience is most active, usually in the evening, when people are scrolling through their phones after work. Third, a clever hashtag can help a video reach people far beyond the creator's own followers, especially if it becomes part of a trend.\nMany successful creators started small. Some began by writing a blog, then started a video channel and asked readers to subscribe. They reply to comments, tag other users in their posts, and choose a short, memorable username. But going viral has a downside too: sudden attention can attract unkind messages, and some creators have had to block hundreds of accounts."
+},
+{
+"t": "Real Life, Filtered",
+"x": "Social media influencers are now a powerful force in marketing. Brands pay them to promote products, measuring success not only by the number of followers but also by engagement: how many people like, comment on and share each post. Some influencers earn more from a single post than many workers do in a year.\nCritics argue that influencer culture presents an unrealistic image of life. Influencers carefully curate their feeds, posting only the best moments and often using a filter to change their appearance. Psychologists warn that young users who compare themselves with these images may feel inadequate, and that the constant search for validation through likes can damage self-esteem.\nThe online world has other dangers. Misinformation spreads quickly, especially when it appears in an entertaining meme or a confident-sounding podcast. Anonymous accounts make it easy for trolls to attack people without consequences.\nIn response, some users are choosing a \"digital detox\", deleting apps for a few weeks or limiting their screen time. Others follow accounts that share honest, unfiltered content. As one teenager put it, \"I don't want perfect. I want real.\""
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "I ___ a photo of my cat on Facebook yesterday.",
+"o": [
+"posted",
+"post",
+"posting",
+"posts"
+],
+"en": "'Yesterday' needs Past Simple: posted.",
+"th": "yesterday ต้องใช้ Past Simple: posted",
+"x": [
+[
+"Present doesn't fit 'yesterday'.",
+"ปัจจุบันไม่เข้ากับ yesterday"
+],
+[
+"'posting' needs 'was'.",
+"posting ต้องมี was"
+],
+[
+"Present doesn't fit 'yesterday'.",
+"ปัจจุบันไม่เข้ากับ yesterday"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "___ on this link to see the video.",
+"o": [
+"Click",
+"Clock",
+"Kick",
+"Cook"
+],
+"en": "You click on a link.",
+"th": "คลิกที่ลิงก์",
+"x": [
+[
+"A clock tells the time.",
+"clock = นาฬิกา"
+],
+[
+"You kick with your foot.",
+"kick = เตะ"
+],
+[
+"You cook food.",
+"cook = ทำอาหาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Do you ___ this picture? I took it in Krabi.",
+"o": [
+"like",
+"likes",
+"liking",
+"to like"
+],
+"en": "After 'Do you', use the base form: like.",
+"th": "หลัง Do you ใช้กริยาช่อง 1: like",
+"x": [
+[
+"No -s after 'do'.",
+"หลัง do ไม่เติม s"
+],
+[
+"No -ing after 'do'.",
+"หลัง do ไม่ใช้ -ing"
+],
+[
+"No 'to' after 'do'.",
+"หลัง do ไม่มี to"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I read the ___ on my phone every morning.",
+"o": [
+"news",
+"new",
+"newly",
+"newer"
+],
+"en": "'The news' = information about recent events.",
+"th": "the news = ข่าว",
+"x": [
+[
+"'new' is an adjective.",
+"new เป็นคุณศัพท์"
+],
+[
+"'newly' is an adverb.",
+"newly เป็นกริยาวิเศษณ์"
+],
+[
+"'newer' is a comparative adjective.",
+"newer เป็นขั้นกว่า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She has over 10,000 ___ on Instagram.",
+"o": [
+"followers",
+"follows",
+"followed",
+"follow"
+],
+"en": "Followers are people who follow your account.",
+"th": "followers = ผู้ติดตาม",
+"x": [
+[
+"'follows' is a verb form.",
+"follows เป็นกริยา"
+],
+[
+"'followed' is a verb form.",
+"followed เป็นกริยา"
+],
+[
+"'follow' is a verb.",
+"follow เป็นกริยา"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Make your account ___ so only your friends can see your photos.",
+"o": [
+"private",
+"public",
+"privacy",
+"privately"
+],
+"en": "A private account is only for people you allow.",
+"th": "บัญชีส่วนตัว (private) ให้เฉพาะคนที่อนุญาตดู",
+"x": [
+[
+"'public' means everyone can see it.",
+"public = ทุกคนเห็น"
+],
+[
+"'privacy' is a noun.",
+"privacy เป็นคำนาม"
+],
+[
+"'privately' is an adverb.",
+"privately เป็นกริยาวิเศษณ์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Be careful. That news story is ___; it isn't true.",
+"o": [
+"fake",
+"fact",
+"fame",
+"face"
+],
+"en": "Fake = not real, not true.",
+"th": "fake = ปลอม ไม่จริง",
+"x": [
+[
+"A fact is true, the opposite.",
+"fact = ข้อเท็จจริง ตรงข้าม"
+],
+[
+"Fame is being famous.",
+"fame = ชื่อเสียง"
+],
+[
+"A face is part of your head.",
+"face = ใบหน้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I sent her a smiley ___ to show I was joking.",
+"o": [
+"emoji",
+"email",
+"emotion",
+"emergency"
+],
+"en": "An emoji is a small picture like 😊.",
+"th": "emoji = อีโมจิ",
+"x": [
+[
+"An email is a message, not a small picture.",
+"email = อีเมล"
+],
+[
+"An emotion is a feeling, not something you send.",
+"emotion = อารมณ์"
+],
+[
+"An emergency is a dangerous situation.",
+"emergency = เหตุฉุกเฉิน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The video went ___ and got ten million views in two days.",
+"o": [
+"viral",
+"virus",
+"virtual",
+"vital"
+],
+"en": "'Go viral' = spread very quickly online.",
+"th": "go viral = แพร่หลายอย่างรวดเร็ว",
+"x": [
+[
+"A virus is a germ.",
+"virus = ไวรัส"
+],
+[
+"'virtual' means not physically real.",
+"virtual = เสมือนจริง"
+],
+[
+"'vital' means very important.",
+"vital = สำคัญมาก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "He kept sending me rude messages, so I ___ him.",
+"o": [
+"blocked",
+"blogged",
+"booked",
+"locked"
+],
+"en": "Block = stop someone contacting you.",
+"th": "block = บล็อก",
+"x": [
+[
+"'blog' means write a blog.",
+"blog = เขียนบล็อก"
+],
+[
+"'book' means reserve.",
+"book = จอง"
+],
+[
+"'lock' is for doors.",
+"lock = ล็อก (ประตู)"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "If you like my videos, please ___ to my channel.",
+"o": [
+"subscribe",
+"describe",
+"prescribe",
+"subtract"
+],
+"en": "Subscribe = sign up to follow regularly.",
+"th": "subscribe = กดติดตาม",
+"x": [
+[
+"'describe' means say what something is like.",
+"describe = บรรยาย"
+],
+[
+"'prescribe' is what doctors do.",
+"prescribe = สั่งยา"
+],
+[
+"'subtract' is maths.",
+"subtract = ลบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I spent two hours ___ through TikTok last night.",
+"o": [
+"scrolling",
+"scrolled",
+"scroll",
+"to scroll"
+],
+"en": "'Spend time + verb-ing': spent two hours scrolling.",
+"th": "spend time + V-ing: spent two hours scrolling",
+"x": [
+[
+"Wrong form after 'spent two hours'.",
+"รูปผิดหลัง spent two hours"
+],
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"We don't use 'to' after 'spend time'.",
+"หลัง spend time ไม่ใช้ to"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Many ___ are paid by brands to promote products to their fans.",
+"o": [
+"influencers",
+"influences",
+"influenza",
+"influential"
+],
+"en": "Influencers are people with many online followers.",
+"th": "influencers = ผู้มีอิทธิพลในโซเชียล",
+"x": [
+[
+"Influences are effects, not people.",
+"influences = อิทธิพล"
+],
+[
+"Influenza is flu.",
+"influenza = ไข้หวัดใหญ่"
+],
+[
+"'influential' is an adjective.",
+"influential เป็นคุณศัพท์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Some people post nasty comments online just to upset others; they're called ___.",
+"o": [
+"trolls",
+"tolls",
+"trails",
+"tools"
+],
+"en": "Trolls post to upset people on purpose.",
+"th": "trolls = คนที่ตั้งใจก่อกวน",
+"x": [
+[
+"Tolls are road fees.",
+"tolls = ค่าผ่านทาง"
+],
+[
+"Trails are paths.",
+"trails = ทางเดิน"
+],
+[
+"Tools are for building or repairing.",
+"tools = เครื่องมือ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The writer of the post was ___; nobody knew who wrote it.",
+"o": [
+"anonymous",
+"enormous",
+"unanimous",
+"autonomous"
+],
+"en": "Anonymous = with no name given.",
+"th": "anonymous = ไม่เปิดเผยชื่อ",
+"x": [
+[
+"'enormous' means very big.",
+"enormous = ใหญ่มาก"
+],
+[
+"'unanimous' means everyone agrees.",
+"unanimous = เป็นเอกฉันท์"
+],
+[
+"'autonomous' means independent.",
+"autonomous = เป็นอิสระ"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "She [has] [many] friends [on] [Facebooks].",
+"a": 3,
+"fix": "She has many friends on Facebook.",
+"en": "Brand names like Facebook don't take a plural -s.",
+"th": "ชื่อแบรนด์อย่าง Facebook ไม่เติม s",
+"x": [
+[
+"'has' is correct.",
+"has ถูกต้อง"
+],
+[
+"'many' is correct.",
+"many ถูกต้อง"
+],
+[
+"'on' is correct.",
+"on ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Do] he [use] [Instagram] [every] day?",
+"a": 0,
+"fix": "Does he use Instagram every day?",
+"en": "With 'he', use 'Does'.",
+"th": "ประธาน he ใช้ Does",
+"x": [
+[
+"'use' is correct after does.",
+"use ถูกต้อง"
+],
+[
+"'Instagram' is correct.",
+"Instagram ถูกต้อง"
+],
+[
+"'every' is correct.",
+"every ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I [have] [post] a new photo [on] [my] page.",
+"a": 1,
+"fix": "I have posted a new photo on my page.",
+"en": "Present Perfect: have + past participle (posted).",
+"th": "Present Perfect: have + V3 (posted)",
+"x": [
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'on' is correct.",
+"on ถูกต้อง"
+],
+[
+"'my' is correct.",
+"my ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I like your new profile [picture]. You [look] [very] [happily].",
+"a": 3,
+"fix": "I like your new profile picture. You look very happy.",
+"en": "After 'look' (meaning seem), use an adjective: happy.",
+"th": "หลัง look (ดูเหมือน) ใช้คุณศัพท์: happy",
+"x": [
+[
+"'picture' is correct.",
+"picture ถูกต้อง"
+],
+[
+"'look' is correct.",
+"look ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Much] of my friends [use] [social] [media].",
+"a": 0,
+"fix": "Many of my friends use social media.",
+"en": "'Friends' is countable: many.",
+"th": "friends นับได้: many",
+"x": [
+[
+"'use' is correct.",
+"use ถูกต้อง"
+],
+[
+"'social' is correct.",
+"social ถูกต้อง"
+],
+[
+"'media' is correct.",
+"media ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "I [spend] [too many] [time] [on] my phone.",
+"a": 1,
+"fix": "I spend too much time on my phone.",
+"en": "'Time' here is uncountable: too much.",
+"th": "time ในที่นี้นับไม่ได้: too much",
+"x": [
+[
+"'spend' is correct.",
+"spend ถูกต้อง"
+],
+[
+"'time' is correct.",
+"time ถูกต้อง"
+],
+[
+"'on' is correct.",
+"on ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "She asked me [if] [I] [have seen] [her] new video.",
+"a": 2,
+"fix": "She asked me if I had seen her new video.",
+"en": "After 'asked' (past), the tense moves back: have seen → had seen.",
+"th": "หลัง asked (อดีต) ถอย tense: have seen → had seen",
+"x": [
+[
+"'if' is correct.",
+"if ถูกต้อง"
+],
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'her' is correct.",
+"her ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Using] social media too much [make] [me] [feel] anxious.",
+"a": 1,
+"fix": "Using social media too much makes me feel anxious.",
+"en": "The subject 'Using…' is singular: makes.",
+"th": "ประธาน Using... เป็นเอกพจน์: makes",
+"x": [
+[
+"'Using' is a correct subject.",
+"Using ถูกต้อง"
+],
+[
+"'me' is correct.",
+"me ถูกต้อง"
+],
+[
+"'feel' is correct after make.",
+"feel ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "There's no [point] [in] [argue] with [trolls].",
+"a": 2,
+"fix": "There's no point in arguing with trolls.",
+"en": "After the preposition 'in', use verb-ing: no point in arguing.",
+"th": "หลังบุพบท in ใช้ V-ing: no point in arguing",
+"x": [
+[
+"'point' is correct in 'There's no point'.",
+"point ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'trolls' is correct.",
+"trolls ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "Had I [know] the story was fake, I [wouldn't have] [shared] it [with] everyone.",
+"a": 0,
+"fix": "Had I known the story was fake, I wouldn't have shared it with everyone.",
+"en": "Third conditional with inversion: Had + past participle (known).",
+"th": "third conditional แบบสลับ: Had + V3 (known)",
+"x": [
+[
+"'wouldn't have' is correct.",
+"wouldn't have ถูกต้อง"
+],
+[
+"'shared' is correct.",
+"shared ถูกต้อง"
+],
+[
+"'with' is correct.",
+"with ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Are you on Instagram?\nB: ___",
+"o": [
+"Yes. My username is nok_123.",
+"Yes, I'm a picture.",
+"No, I'm at home.",
+"It's a phone."
+],
+"en": "B answers and gives the username.",
+"th": "B ตอบและบอกชื่อผู้ใช้",
+"x": [
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"'on Instagram' isn't a place.",
+"on Instagram ไม่ใช่สถานที่"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Look at this funny video!\nB: ___",
+"o": [
+"Ha ha! That's so funny!",
+"Thank you very much.",
+"Nice to meet you.",
+"I'm sorry."
+],
+"en": "B reacts to a funny video.",
+"th": "B ตอบสนองต่อคลิปตลก",
+"x": [
+[
+"Not a reaction to a video.",
+"ไม่ใช่การตอบสนองต่อคลิป"
+],
+[
+"For meeting new people.",
+"ใช้ตอนพบคนใหม่"
+],
+[
+"Nothing bad happened.",
+"ไม่มีอะไรไม่ดี"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can you send me the photos?\nB: ___",
+"o": [
+"Sure. I'll send them now.",
+"Yes, I'm a photo.",
+"No, I can.",
+"It's my phone."
+],
+"en": "B agrees.",
+"th": "B ตกลง",
+"x": [
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"'No' and 'I can' contradict.",
+"No ขัดกับ I can"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Why did you delete your post?\nB: ___",
+"o": [
+"I made a spelling mistake in it.",
+"Because I posted it.",
+"It was on Monday.",
+"My post is long."
+],
+"en": "B gives a reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Not a real reason.",
+"ไม่ใช่เหตุผลจริง"
+],
+[
+"This answers 'When?'",
+"ตอบ When?"
+],
+[
+"Not a reason to delete.",
+"ไม่ใช่เหตุผลที่ลบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Should I accept this friend request? I don't know him.\nB: ___",
+"o": [
+"I wouldn't. It might be a fake account.",
+"Yes, accept everyone you don't know.",
+"Friends are important.",
+"He's my brother."
+],
+"en": "B gives sensible safety advice.",
+"th": "B ให้คำแนะนำด้านความปลอดภัย",
+"x": [
+[
+"Unsafe advice.",
+"คำแนะนำที่ไม่ปลอดภัย"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Then A would know him.",
+"ถ้าเป็นพี่ชาย A ก็ต้องรู้จัก"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How many likes did your photo get?\nB: ___",
+"o": [
+"About two hundred.",
+"It's a beach photo.",
+"Yesterday.",
+"I like it too."
+],
+"en": "'How many' asks for a number.",
+"th": "How many ถามจำนวน",
+"x": [
+[
+"Not a number.",
+"ไม่ใช่ตัวเลข"
+],
+[
+"This answers 'When?'",
+"ตอบ When?"
+],
+[
+"Not a number.",
+"ไม่ใช่ตัวเลข"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Did you see that video of the cat playing the piano?\nB: ___ It's gone viral!",
+"o": [
+"Yes, everyone's sharing it.",
+"No, nobody has seen it.",
+"Cats can't play pianos.",
+"I've never heard of cats."
+],
+"en": "'Gone viral' means many people have seen it.",
+"th": "gone viral = มีคนดูมากมาย",
+"x": [
+[
+"It contradicts 'gone viral'.",
+"ขัดกับ gone viral"
+],
+[
+"It doesn't fit 'It's gone viral'.",
+"ไม่เข้ากับ It's gone viral"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Someone keeps leaving rude comments on my posts.\nB: ___",
+"o": [
+"You should block them and report the account.",
+"You should reply with rude comments too.",
+"That's great, more comments!",
+"Throw away your phone."
+],
+"en": "B gives sensible advice.",
+"th": "B ให้คำแนะนำที่สมเหตุสมผล",
+"x": [
+[
+"That makes things worse.",
+"ทำให้แย่ลง"
+],
+[
+"Rude comments aren't good.",
+"คอมเมนต์หยาบคายไม่ดี"
+],
+[
+"Too extreme.",
+"เกินไป"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I think I need a digital detox. I'm on my phone all day.\nB: ___",
+"o": [
+"Good idea. Why not leave your phone at home this weekend?",
+"Spend even more time online instead.",
+"Buy a second phone.",
+"Phones are very healthy."
+],
+"en": "B supports the idea and suggests a step.",
+"th": "B สนับสนุนและเสนอวิธี",
+"x": [
+[
+"The opposite of a detox.",
+"ตรงข้ามกับการพักหน้าจอ"
+],
+[
+"The opposite of a detox.",
+"ตรงข้ามกับการพักหน้าจอ"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you believe everything influencers say?\nB: ___ Many of them are paid to promote products.",
+"o": [
+"Not really. I'm quite sceptical.",
+"Yes, they're always honest.",
+"Of course, they're experts.",
+"Influencers never get paid."
+],
+"en": "B doubts them because they are paid.",
+"th": "B ไม่ค่อยเชื่อเพราะพวกเขาได้รับเงิน",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How old is Fah?",
+"o": [
+"Sixteen",
+"Ten",
+"Twenty",
+"Thirteen"
+],
+"en": "'My sister Fah is sixteen.'",
+"th": "ฟ้าอายุ 16 ปี",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How many selfies does Fah take before she posts one?",
+"o": [
+"At least ten",
+"Only one",
+"Two",
+"Fifty"
+],
+"en": "'She takes at least ten selfies before she chooses one.'",
+"th": "ถ่ายเซลฟี่อย่างน้อย 10 รูป",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Why did Fah's parents ask her to change her profile?",
+"o": [
+"They were worried because some followers were strangers.",
+"They wanted her to have more followers.",
+"They didn't like her photos.",
+"Her phone was too old."
+],
+"en": "'Some are strangers. My parents were worried…'",
+"th": "ผู้ติดตามบางคนเป็นคนแปลกหน้า พ่อแม่จึงกังวล",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Fah's class share in the group chat?",
+"o": [
+"Homework, news and links to funny videos",
+"Only photos of food",
+"Their passwords",
+"Their bank details"
+],
+"en": "'They share homework, news and links to funny videos.'",
+"th": "แชร์การบ้าน ข่าว และลิงก์คลิปตลก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Fah's mother think?",
+"o": [
+"Fah spends too much time online.",
+"Fah should post more.",
+"Fah needs more followers.",
+"Social media is perfect."
+],
+"en": "'My mother says Fah spends too much time online.'",
+"th": "แม่คิดว่าฟ้าใช้เวลาออนไลน์มากเกินไป",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What kind of videos are shared more, according to researchers?",
+"o": [
+"Videos that create strong emotions",
+"Long, serious videos",
+"Neutral videos",
+"Videos without sound"
+],
+"en": "'Videos that make people laugh, cry or feel surprised are shared much more.'",
+"th": "คลิปที่ทำให้หัวเราะ ร้องไห้ หรือประหลาดใจ ถูกแชร์มากกว่า",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Neutral videos are shared less.",
+"คลิปเฉยๆ ถูกแชร์น้อยกว่า"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "When do creators often post?",
+"o": [
+"In the evening, when their audience is most active",
+"Early in the morning",
+"Only at lunchtime",
+"At midnight"
+],
+"en": "'…usually in the evening, when people are scrolling through their phones after work.'",
+"th": "ตอนเย็นที่ผู้ชมเล่นโทรศัพท์หลังเลิกงาน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How can a hashtag help?",
+"o": [
+"It can help a video reach many more people.",
+"It makes the video longer.",
+"It deletes bad comments.",
+"It makes the video private."
+],
+"en": "'A clever hashtag can help a video reach people far beyond the creator's own followers.'",
+"th": "แฮชแท็กช่วยให้คลิปเข้าถึงคนนอกกลุ่มผู้ติดตาม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How did some successful creators start?",
+"o": [
+"By writing a blog",
+"By buying followers",
+"By going viral immediately",
+"By blocking everyone"
+],
+"en": "'Some began by writing a blog.'",
+"th": "บางคนเริ่มจากการเขียนบล็อก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They 'started small'.",
+"พวกเขาเริ่มจากเล็กๆ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is a downside of going viral?",
+"o": [
+"It can attract unkind messages.",
+"You lose all your followers.",
+"Your channel is deleted.",
+"Nobody watches your videos."
+],
+"en": "'Sudden attention can attract unkind messages.'",
+"th": "ความสนใจฉับพลันอาจทำให้ได้รับข้อความไม่ดี",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How do brands measure an influencer's success?",
+"o": [
+"By followers and engagement",
+"Only by the number of photos",
+"By the influencer's age",
+"By the price of their clothes"
+],
+"en": "'…not only by the number of followers but also by engagement.'",
+"th": "วัดจากจำนวนผู้ติดตามและการมีส่วนร่วม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does 'curate their feeds' suggest influencers do?",
+"o": [
+"Carefully choose what to show",
+"Post everything that happens",
+"Delete their accounts",
+"Write about medicine"
+],
+"en": "They post 'only the best moments'.",
+"th": "เลือกโพสต์เฉพาะช่วงเวลาที่ดีที่สุด",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do psychologists worry about young users?",
+"o": [
+"Comparing themselves with perfect images can damage self-esteem.",
+"They don't use enough filters.",
+"They have too few followers.",
+"They don't like podcasts."
+],
+"en": "Comparing themselves 'may feel inadequate… can damage self-esteem.'",
+"th": "การเปรียบเทียบตัวเองกับภาพสมบูรณ์แบบอาจทำลายความภูมิใจในตนเอง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why is misinformation dangerous, according to the passage?",
+"o": [
+"It spreads quickly in entertaining or confident formats.",
+"It is always easy to spot.",
+"It appears only in newspapers.",
+"It makes people stop using phones."
+],
+"en": "'Misinformation spreads quickly, especially when it appears in an entertaining meme or a confident-sounding podcast.'",
+"th": "ข้อมูลผิดแพร่เร็ว โดยเฉพาะในมีมหรือพอดแคสต์",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the teenager's quote suggest?",
+"o": [
+"Some young people prefer honest content to perfect images.",
+"Teenagers want more filters.",
+"Real life is boring.",
+"Influencers are always honest."
+],
+"en": "'I don't want perfect. I want real.'",
+"th": "วัยรุ่นบางคนชอบเนื้อหาที่จริงใจมากกว่าภาพสมบูรณ์แบบ",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

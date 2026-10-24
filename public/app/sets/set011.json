@@ -1,0 +1,1627 @@
+{
+"id": 11,
+"theme": "Sports and fitness",
+"v": [
+[
+"football",
+"noun",
+"A1",
+"ฟุตบอล",
+"We play *football* after school."
+],
+[
+"swim",
+"verb",
+"A1",
+"ว่ายน้ำ",
+"I *swim* in the sea every weekend."
+],
+[
+"run",
+"verb",
+"A1",
+"วิ่ง",
+"I *run* in the park every morning."
+],
+[
+"ball",
+"noun",
+"A1",
+"ลูกบอล",
+"Throw the *ball* to me!"
+],
+[
+"team",
+"noun",
+"A1",
+"ทีม",
+"Which *team* do you support?"
+],
+[
+"win",
+"verb",
+"A1",
+"ชนะ",
+"I hope we *win* tomorrow."
+],
+[
+"sport",
+"noun",
+"A1",
+"กีฬา",
+"Badminton is a popular *sport* in Thailand."
+],
+[
+"jump",
+"verb",
+"A1",
+"กระโดด",
+"The cat can *jump* very high."
+],
+[
+"match",
+"noun",
+"A2",
+"การแข่งขัน (นัดหนึ่ง)",
+"The *match* starts at 7 p.m."
+],
+[
+"player",
+"noun",
+"A2",
+"ผู้เล่น, นักกีฬา",
+"He's the best *player* in the team."
+],
+[
+"score",
+"noun/verb",
+"A2",
+"คะแนน, ทำคะแนน",
+"The final *score* was 2–1."
+],
+[
+"lose",
+"verb",
+"A2",
+"แพ้, ทำหาย",
+"We *lost* the game by one point."
+],
+[
+"gym",
+"noun",
+"A2",
+"ยิม, โรงยิม",
+"I go to the *gym* after work."
+],
+[
+"race",
+"noun",
+"A2",
+"การแข่งวิ่ง/แข่งความเร็ว",
+"She won the 100-metre *race*."
+],
+[
+"coach",
+"noun",
+"A2",
+"โค้ช, ผู้ฝึกสอน",
+"Our *coach* is very strict."
+],
+[
+"fit",
+"adjective",
+"A2",
+"ฟิต, แข็งแรง",
+"Swimming keeps you *fit*."
+],
+[
+"stadium",
+"noun",
+"A2",
+"สนามกีฬา",
+"The *stadium* holds 50,000 people."
+],
+[
+"champion",
+"noun",
+"A2",
+"แชมป์",
+"She is the national tennis *champion*."
+],
+[
+"compete",
+"verb",
+"B1",
+"แข่งขัน",
+"Twenty countries will *compete* in the games."
+],
+[
+"opponent",
+"noun",
+"B1",
+"คู่ต่อสู้, ฝ่ายตรงข้าม",
+"His *opponent* was much taller."
+],
+[
+"referee",
+"noun",
+"B1",
+"กรรมการ, ผู้ตัดสิน",
+"The *referee* blew the whistle."
+],
+[
+"tournament",
+"noun",
+"B1",
+"การแข่งขัน (หลายนัด), ทัวร์นาเมนต์",
+"Our school won the volleyball *tournament*."
+],
+[
+"warm up",
+"phrasal verb",
+"B1",
+"วอร์มอัพ, อบอุ่นร่างกาย",
+"*Warm up* for ten minutes before you run."
+],
+[
+"athlete",
+"noun",
+"B1",
+"นักกีฬา",
+"Olympic *athletes* train every day."
+],
+[
+"training",
+"noun",
+"B1",
+"การฝึกซ้อม",
+"Football *training* is on Tuesdays."
+],
+[
+"medal",
+"noun",
+"B1",
+"เหรียญรางวัล",
+"She won a gold *medal*."
+],
+[
+"spectator",
+"noun",
+"B1",
+"ผู้ชม (การแข่งขัน)",
+"The *spectators* cheered loudly."
+],
+[
+"defeat",
+"noun/verb",
+"B1",
+"ความพ่ายแพ้, เอาชนะ",
+"It was their first *defeat* of the season."
+],
+[
+"muscle",
+"noun",
+"B1",
+"กล้ามเนื้อ",
+"Stretch your leg *muscles* after running."
+],
+[
+"stamina",
+"noun",
+"B2",
+"ความอึด, กำลังกายที่ทนได้นาน",
+"You need *stamina* to play a full match."
+],
+[
+"endurance",
+"noun",
+"B2",
+"ความอดทน (ทางร่างกาย)",
+"Marathons test your *endurance*."
+],
+[
+"sportsmanship",
+"noun",
+"B2",
+"น้ำใจนักกีฬา",
+"Shaking hands shows good *sportsmanship*."
+],
+[
+"rivalry",
+"noun",
+"B2",
+"การเป็นคู่แข่ง",
+"The *rivalry* between the two clubs is old."
+],
+[
+"amateur",
+"adjective/noun",
+"B2",
+"สมัครเล่น, มือสมัครเล่น",
+"He plays in an *amateur* league."
+],
+[
+"doping",
+"noun",
+"B2",
+"การใช้สารกระตุ้น (ในกีฬา)",
+"She was banned for *doping*."
+],
+[
+"sponsor",
+"noun/verb",
+"B2",
+"ผู้สนับสนุน, สนับสนุนเงิน",
+"A bank *sponsors* the tournament."
+],
+[
+"underdog",
+"noun",
+"B2",
+"ฝ่ายที่ถูกมองว่าจะแพ้, ม้านอกสายตา",
+"Everyone loves an *underdog*."
+],
+[
+"outperform",
+"verb",
+"B2",
+"ทำได้ดีกว่า",
+"The young team *outperformed* the champions."
+],
+[
+"agility",
+"noun",
+"B2",
+"ความคล่องแคล่ว ว่องไว",
+"Badminton requires speed and *agility*."
+],
+[
+"commentator",
+"noun",
+"B2",
+"ผู้บรรยาย (การแข่งขัน)",
+"The *commentator* got very excited."
+]
+],
+"p": [
+{
+"t": "Sports Day",
+"x": "Last Friday was Sports Day at Nong's school. All the students were in four teams: red, blue, green and yellow. Nong was in the blue team. In the morning, there were races. Nong ran in the 100-metre race and came second. Her friend Fah won the long jump: she jumped nearly four metres!\nIn the afternoon, there was a football match between the teachers and the older students. The teachers' coach was the headmaster, and he shouted a lot. The score was 3–3 at half-time, but in the end the students won 5–3. The best player was Mr Chai, the English teacher, who scored all three of the teachers' goals.\nAt the end of the day, the yellow team was the champion, and the blue team was third. Nong was a bit disappointed, but she says next year the blue team will win!"
+},
+{
+"t": "From the Sofa to 10 km",
+"x": "Two years ago, Dao couldn't run for more than two minutes without stopping. Today she runs 10 km every Sunday morning, and last month she took part in her first race with over 3,000 other runners. \"I'm not an athlete,\" she laughs. \"I just wanted to be healthier.\"\nHer secret was a beginner's training plan. For the first few weeks she walked and ran in short intervals, three times a week. She always took ten minutes to warm up, and afterwards she stretched her leg muscles carefully. Slowly, the running sections became longer. \"The hardest part wasn't my body, it was my mind,\" she says. \"Some days I really didn't want to go.\"\nAt the race, Dao didn't try to compete with the fast runners. Her only goal was to finish. When she crossed the line, hundreds of spectators were cheering, and she received a small medal. \"It's the only medal I've ever won,\" she says, \"and I'm never taking it off!\" Dao's next goal is a half marathon, and she knows there will be days that feel like a defeat. \"That's OK,\" she says. \"Even slow progress is progress.\""
+},
+{
+"t": "The Appeal of the Underdog",
+"x": "Few things in sport are as exciting as watching an underdog defeat a famous opponent. When Leicester City, a team that had almost been relegated the year before, won the English Premier League in 2016, even fans of rival clubs celebrated. The bookmakers had given them odds of 5,000 to 1.\nPsychologists believe we support underdogs because their stories reflect our own struggles. We admire players who outperform expectations through hard work, stamina and agility rather than money. In contrast, the richest clubs, with the biggest sponsors, can seem less human, and a long rivalry between two giants can feel like a battle between corporations.\nUnderdog stories also remind us of the spirit of amateur sport, in which people play for love rather than money. That spirit is under pressure. Doping scandals have damaged trust in several sports, and some commentators argue that the huge sums involved in professional tournaments encourage cheating. Even so, moments of genuine sportsmanship, such as a runner stopping to help an injured opponent, still attract more attention online than many victories. Perhaps that tells us what we really value in sport."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "Can you ___? – Yes, I learned in the sea when I was five.",
+"o": [
+"swim",
+"swimming",
+"to swim",
+"swims"
+],
+"en": "After 'can' we use the base form: Can you swim?",
+"th": "หลัง can ใช้กริยาช่อง 1: Can you swim?",
+"x": [
+[
+"No -ing after 'can'.",
+"หลัง can ไม่ใช้ -ing"
+],
+[
+"No 'to' after 'can'.",
+"หลัง can ไม่มี to"
+],
+[
+"No -s after 'can'.",
+"หลัง can ไม่เติม s"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "A football ___ has eleven players on the field.",
+"o": [
+"team",
+"sport",
+"ball",
+"race"
+],
+"en": "A team is a group of players.",
+"th": "team = ทีม กลุ่มผู้เล่น",
+"x": [
+[
+"A sport doesn't 'have eleven players'.",
+"กีฬาไม่ได้ 'มีผู้เล่น 11 คน'"
+],
+[
+"A ball doesn't have players.",
+"ลูกบอลไม่มีผู้เล่น"
+],
+[
+"A race is a competition of speed.",
+"race = การแข่งขันความเร็ว"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Kick the ___ to me!",
+"o": [
+"ball",
+"team",
+"race",
+"sport"
+],
+"en": "You kick a ball.",
+"th": "เราเตะลูกบอล",
+"x": [
+[
+"You can't kick a team.",
+"เตะทีมไม่ได้"
+],
+[
+"You can't kick a race.",
+"เตะการแข่งขันไม่ได้"
+],
+[
+"You can't kick a sport.",
+"เตะกีฬาไม่ได้"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I hope our team ___ the match today.",
+"o": [
+"wins",
+"win",
+"winning",
+"to win"
+],
+"en": "After 'hope' we often use Present Simple for the future. 'Our team' = it, so 'wins'.",
+"th": "หลัง hope มักใช้ Present Simple แทนอนาคต our team = it จึงใช้ wins",
+"x": [
+[
+"'our team' is singular, so it needs -s.",
+"our team เป็นเอกพจน์ ต้องเติม s"
+],
+[
+"'winning' needs 'is'.",
+"winning ต้องมี is"
+],
+[
+"'our team to win' isn't correct here.",
+"our team to win ไม่ถูกในโครงสร้างนี้"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "We ___ the match 3–0. We played terribly.",
+"o": [
+"lost",
+"won",
+"beat",
+"scored"
+],
+"en": "Playing terribly and 3–0 means we lost.",
+"th": "เล่นแย่และแพ้ 3–0 = lost",
+"x": [
+[
+"'Won' doesn't match 'played terribly'.",
+"won ไม่เข้ากับเล่นแย่"
+],
+[
+"We beat a team, not a match.",
+"beat ใช้กับทีม ไม่ใช่ the match"
+],
+[
+"We score goals, not a match.",
+"score ใช้กับประตู ไม่ใช่ the match"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Our ___ makes us run ten laps before every training session.",
+"o": [
+"coach",
+"coat",
+"couch",
+"player"
+],
+"en": "A coach trains a team and tells players what to do.",
+"th": "coach = โค้ช ผู้ฝึกสอน",
+"x": [
+[
+"A coat is clothing.",
+"coat = เสื้อโค้ท"
+],
+[
+"A couch is a sofa.",
+"couch = โซฟา"
+],
+[
+"A player doesn't tell the team what to do.",
+"ผู้เล่นไม่ได้สั่งทีม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "What's the ___? – It's 2–1 to Thailand.",
+"o": [
+"score",
+"point",
+"match",
+"player"
+],
+"en": "The score is the number of goals or points each team has.",
+"th": "score = คะแนนของแต่ละทีม",
+"x": [
+[
+"'What's the point?' means 'Why do it?'",
+"What's the point? = มีประโยชน์อะไร"
+],
+[
+"'2–1' doesn't describe a match.",
+"2–1 ไม่ได้บรรยายนัดแข่ง"
+],
+[
+"'2–1' isn't a player.",
+"2–1 ไม่ใช่ผู้เล่น"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She goes to the ___ three times a week to keep fit.",
+"o": [
+"gym",
+"stadium",
+"gem",
+"jam"
+],
+"en": "People exercise at a gym.",
+"th": "คนออกกำลังกายที่ยิม",
+"x": [
+[
+"A stadium is for watching big matches.",
+"stadium = สนามกีฬาใหญ่สำหรับดูการแข่งขัน"
+],
+[
+"A gem is a precious stone.",
+"gem = อัญมณี"
+],
+[
+"Jam is fruit spread, or a traffic jam.",
+"jam = แยม หรือรถติด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Who was the ___ in the final? He gave two red cards.",
+"o": [
+"referee",
+"reference",
+"spectator",
+"commentator"
+],
+"en": "The referee controls the game and gives cards.",
+"th": "referee = ผู้ตัดสิน ให้ใบเหลือง/แดง",
+"x": [
+[
+"A reference is a mention, or a letter about you.",
+"reference = การอ้างอิง"
+],
+[
+"Spectators watch; they don't give cards.",
+"ผู้ชมไม่ได้ให้ใบแดง"
+],
+[
+"Commentators describe the game on TV.",
+"ผู้บรรยายพูดทางทีวี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Always ___ before you exercise to avoid injury.",
+"o": [
+"warm up",
+"heat up",
+"warm on",
+"hot up"
+],
+"en": "Warm up = do gentle exercise to prepare your body.",
+"th": "warm up = อบอุ่นร่างกาย",
+"x": [
+[
+"'heat up' is for food or rooms.",
+"heat up ใช้กับอาหารหรือห้อง"
+],
+[
+"'warm on' isn't a phrasal verb.",
+"ไม่มีวลี warm on"
+],
+[
+"'hot up' means become more exciting.",
+"hot up = ดุเดือดขึ้น"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Thailand won three gold ___ at the Asian Games.",
+"o": [
+"medals",
+"metals",
+"models",
+"meddles"
+],
+"en": "Winners get medals.",
+"th": "ผู้ชนะได้รับเหรียญรางวัล (medals)",
+"x": [
+[
+"'Metal' is a material, like iron. It sounds similar.",
+"metal = โลหะ ออกเสียงคล้ายกัน"
+],
+[
+"Models are people who show clothes, or small copies.",
+"models = นางแบบ หรือแบบจำลอง"
+],
+[
+"'meddle' means interfere.",
+"meddle = เข้าไปยุ่ง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Over 50,000 ___ watched the match in the stadium.",
+"o": [
+"spectators",
+"audiences",
+"customers",
+"referees"
+],
+"en": "People who watch a sports event live are spectators.",
+"th": "ผู้ชมการแข่งขันในสนามคือ spectators",
+"x": [
+[
+"'Audience' is used for one group (an audience of 50,000), not counted like this.",
+"audience ใช้เป็นกลุ่มเดียว ไม่นับแบบนี้"
+],
+[
+"Customers buy things.",
+"customers = ลูกค้า"
+],
+[
+"A match has only a few referees.",
+"นัดหนึ่งมีกรรมการไม่กี่คน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Marathon runners need great ___ to keep going for over 40 km.",
+"o": [
+"endurance",
+"endorsement",
+"enjoyment",
+"entrance"
+],
+"en": "Endurance = the ability to continue for a long time.",
+"th": "endurance = ความอดทนทางร่างกาย",
+"x": [
+[
+"An endorsement is public support for something.",
+"endorsement = การสนับสนุน/รับรอง"
+],
+[
+"Enjoyment doesn't keep you going physically.",
+"enjoyment = ความสนุก"
+],
+[
+"An entrance is a way in.",
+"entrance = ทางเข้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Nobody expected the ___ to win; they were ranked 120th in the world.",
+"o": [
+"underdog",
+"favourite",
+"champion",
+"sponsor"
+],
+"en": "The underdog is the side that is expected to lose.",
+"th": "underdog = ฝ่ายที่คนคาดว่าจะแพ้",
+"x": [
+[
+"The favourite is expected to win.",
+"favourite = ตัวเต็ง คาดว่าจะชนะ"
+],
+[
+"A champion is already a winner.",
+"champion = แชมป์"
+],
+[
+"A sponsor gives money; it doesn't play.",
+"sponsor = ผู้สนับสนุนเงิน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Shaking hands with your opponent after a defeat shows good ___.",
+"o": [
+"sportsmanship",
+"sponsorship",
+"championship",
+"membership"
+],
+"en": "Sportsmanship = fair and polite behaviour in sport.",
+"th": "sportsmanship = น้ำใจนักกีฬา",
+"x": [
+[
+"Sponsorship is giving money.",
+"sponsorship = การสนับสนุนทางการเงิน"
+],
+[
+"A championship is a competition.",
+"championship = การแข่งขันชิงแชมป์"
+],
+[
+"Membership is belonging to a club.",
+"membership = การเป็นสมาชิก"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "My brother [plays] football [every] Saturday [with] [he] friends.",
+"a": 3,
+"fix": "My brother plays football every Saturday with his friends.",
+"en": "To show possession we use 'his', not 'he'.",
+"th": "แสดงความเป็นเจ้าของใช้ his ไม่ใช่ he",
+"x": [
+[
+"'plays' is correct with -s.",
+"plays ถูกต้อง"
+],
+[
+"'every Saturday' is correct.",
+"every Saturday ถูกต้อง"
+],
+[
+"'with' is correct.",
+"with ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Do] she like [swimming] [in] [the] sea?",
+"a": 0,
+"fix": "Does she like swimming in the sea?",
+"en": "With 'she', questions use 'Does'.",
+"th": "ประธาน she ใช้ Does ในคำถาม",
+"x": [
+[
+"'like + -ing' is correct.",
+"like + V-ing ถูกต้อง"
+],
+[
+"'in the sea' is correct.",
+"in the sea ถูกต้อง"
+],
+[
+"'the sea' is correct.",
+"the sea ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] match [was] [very] [excited].",
+"a": 3,
+"fix": "The match was very exciting.",
+"en": "Use '-ing' adjectives for the thing that causes the feeling: an exciting match. People feel excited.",
+"th": "คุณศัพท์ -ing ใช้กับสิ่งที่ทำให้รู้สึก: an exciting match ส่วนคนรู้สึก excited",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "She runs [more fast] [than] anyone [in] [our] class.",
+"a": 0,
+"fix": "She runs faster than anyone in our class.",
+"en": "'Fast' is short: the comparative is 'faster'.",
+"th": "fast เป็นคำสั้น ขั้นกว่าคือ faster",
+"x": [
+[
+"'than' is correct.",
+"than ถูกต้อง"
+],
+[
+"'in our class' is correct.",
+"in ถูกต้อง"
+],
+[
+"'our' is correct.",
+"our ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Swim] is [good] [for] [your] health.",
+"a": 0,
+"fix": "Swimming is good for your health.",
+"en": "When an activity is the subject of a sentence, use verb-ing: Swimming is…",
+"th": "เมื่อกิจกรรมเป็นประธาน ใช้ V-ing: Swimming is...",
+"x": [
+[
+"'good' is correct.",
+"good ถูกต้อง"
+],
+[
+"'good for' is correct.",
+"good for ถูกต้อง"
+],
+[
+"'your' is correct.",
+"your ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] it [rains] tomorrow, the match [will] [cancel].",
+"a": 3,
+"fix": "If it rains tomorrow, the match will be cancelled.",
+"en": "The match doesn't cancel itself; someone cancels it. Use the passive: will be cancelled.",
+"th": "การแข่งขันไม่ได้ยกเลิกตัวเอง ต้องใช้ passive: will be cancelled",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'rains' is correct Present Simple.",
+"rains ถูกต้อง"
+],
+[
+"'will' is correct.",
+"will ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Although] he trained hard, [but] he [didn't] [win] a medal.",
+"a": 1,
+"fix": "Although he trained hard, he didn't win a medal.",
+"en": "Don't use 'although' and 'but' together. Use one or the other.",
+"th": "ห้ามใช้ although กับ but ด้วยกัน ใช้อย่างใดอย่างหนึ่ง",
+"x": [
+[
+"'Although' is correct.",
+"Although ถูกต้อง"
+],
+[
+"'didn't' is correct.",
+"didn't ถูกต้อง"
+],
+[
+"'win' is correct after didn't.",
+"win ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "The players were [too] [tired] [to] [continuing] the match.",
+"a": 3,
+"fix": "The players were too tired to continue the match.",
+"en": "'Too + adjective + to + base verb': too tired to continue.",
+"th": "too + คุณศัพท์ + to + กริยาช่อง 1: too tired to continue",
+"x": [
+[
+"'too' is correct.",
+"too ถูกต้อง"
+],
+[
+"'tired' is correct.",
+"tired ถูกต้อง"
+],
+[
+"'to' is correct in 'too … to'.",
+"to ถูกต้องในโครงสร้าง too ... to"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Rarely] [we see] such a [talented] young [player].",
+"a": 1,
+"fix": "Rarely do we see such a talented young player.",
+"en": "Negative adverbs like 'rarely' at the start need inversion: Rarely do we see.",
+"th": "คำปฏิเสธอย่าง rarely ขึ้นต้นประโยคต้องสลับ: Rarely do we see",
+"x": [
+[
+"'Rarely' can start the sentence.",
+"Rarely ขึ้นต้นได้"
+],
+[
+"'talented' is correct.",
+"talented ถูกต้อง"
+],
+[
+"'player' is correct.",
+"player ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[No sooner] had the race started [than] [it] [had begun] to rain.",
+"a": 3,
+"fix": "No sooner had the race started than it began to rain.",
+"en": "'No sooner had… than…' uses Past Simple after 'than': began.",
+"th": "No sooner had ... than ... หลัง than ใช้ Past Simple: began",
+"x": [
+[
+"'No sooner' is correct with inversion.",
+"No sooner ถูกต้อง"
+],
+[
+"'than' is the correct partner of 'no sooner'.",
+"than คู่กับ no sooner ถูกต้อง"
+],
+[
+"'it' is the correct subject for weather.",
+"it ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you like sport?\nB: ___",
+"o": [
+"Yes, I love football.",
+"Yes, it's a ball.",
+"No, I'm a team.",
+"At the stadium."
+],
+"en": "B answers yes and gives an example.",
+"th": "B ตอบว่าชอบและยกตัวอย่าง",
+"x": [
+[
+"It doesn't answer about liking sport.",
+"ไม่ได้ตอบเรื่องชอบกีฬา"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"This answers 'Where?'",
+"ตอบคำถาม Where?"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Let's play tennis!\nB: ___",
+"o": [
+"Good idea!",
+"You're welcome.",
+"I'm fine, thanks.",
+"Yes, it is."
+],
+"en": "B accepts the suggestion.",
+"th": "B ตอบรับคำชวน",
+"x": [
+[
+"It replies to thanks.",
+"ใช้ตอบคำขอบคุณ"
+],
+[
+"It replies to 'How are you?'",
+"ตอบ How are you?"
+],
+[
+"It doesn't respond to a suggestion.",
+"ไม่ได้ตอบคำชวน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Who is your favourite player?\nB: ___",
+"o": [
+"Messi. He's amazing.",
+"Football.",
+"On Sunday.",
+"Yes, I am."
+],
+"en": "'Who' asks for a person.",
+"th": "Who ถามถึงคน",
+"x": [
+[
+"Football is a sport, not a person.",
+"ฟุตบอลเป็นกีฬา ไม่ใช่คน"
+],
+[
+"This answers 'When?'",
+"ตอบคำถาม When?"
+],
+[
+"'Who' can't be answered with yes.",
+"Who ตอบ yes ไม่ได้"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Did your team win?\nB: ___ We lost 2–1.",
+"o": [
+"No, unfortunately.",
+"Yes, we did!",
+"Yes, 2–1.",
+"We're the champions!"
+],
+"en": "They lost, so B says no.",
+"th": "แพ้ จึงตอบว่าไม่",
+"x": [
+[
+"They lost.",
+"แพ้"
+],
+[
+"'Yes' contradicts 'We lost'.",
+"Yes ขัดกับ We lost"
+],
+[
+"They lost.",
+"แพ้"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How often do you go running?\nB: ___",
+"o": [
+"Twice a week.",
+"For forty minutes.",
+"In the park.",
+"With my sister."
+],
+"en": "'How often' asks about frequency.",
+"th": "How often ถามความถี่",
+"x": [
+[
+"This answers 'How long?'",
+"ตอบ How long?"
+],
+[
+"This answers 'Where?'",
+"ตอบ Where?"
+],
+[
+"This answers 'Who with?'",
+"ตอบ Who with?"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I scored a goal today!\nB: ___",
+"o": [
+"Well done! That's fantastic.",
+"Oh no, I'm sorry.",
+"Never mind.",
+"Get well soon."
+],
+"en": "It's good news, so B congratulates A.",
+"th": "เป็นข่าวดี B จึงแสดงความยินดี",
+"x": [
+[
+"It's for bad news.",
+"ใช้กับข่าวร้าย"
+],
+[
+"'Never mind' comforts someone after a problem.",
+"Never mind ใช้ปลอบเมื่อมีปัญหา"
+],
+[
+"It's for someone who is ill.",
+"ใช้กับคนป่วย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Are you going to compete in the tournament?\nB: ___ I've hurt my knee.",
+"o": [
+"I'm afraid not.",
+"Yes, definitely.",
+"Of course I am.",
+"I've already won it."
+],
+"en": "A hurt knee means B can't take part.",
+"th": "เข่าเจ็บ จึงเข้าร่วมไม่ได้",
+"x": [
+[
+"It contradicts the injury.",
+"ขัดกับอาการบาดเจ็บ"
+],
+[
+"It contradicts the injury.",
+"ขัดกับอาการบาดเจ็บ"
+],
+[
+"The tournament is in the future.",
+"การแข่งขันยังไม่เกิดขึ้น"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: How's your training going?\nB: ___",
+"o": [
+"Really well. I can run 10 km without stopping now.",
+"I train on Mondays.",
+"At the gym near my house.",
+"My coach is called Ann."
+],
+"en": "'How's it going?' asks about progress.",
+"th": "How's it going? ถามความคืบหน้า",
+"x": [
+[
+"This answers 'When?'",
+"ตอบ When?"
+],
+[
+"This answers 'Where?'",
+"ตอบ Where?"
+],
+[
+"This answers 'Who is your coach?'",
+"ตอบ Who is your coach?"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think professional athletes are paid too much?\nB: ___ Their careers are very short, so they need to earn a lot while they can.",
+"o": [
+"Not necessarily.",
+"Yes, absolutely.",
+"I couldn't agree more.",
+"Definitely, it's outrageous."
+],
+"en": "B gives a reason why high pay may be fair, so B partly disagrees.",
+"th": "B ให้เหตุผลว่าค่าตอบแทนสูงอาจสมเหตุสมผล จึงไม่เห็นด้วยบางส่วน",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: That was a terrible decision by the referee!\nB: ___ The replay clearly showed it wasn't a foul.",
+"o": [
+"I couldn't agree more.",
+"I think he was right.",
+"Really? I didn't notice anything.",
+"Referees never make mistakes."
+],
+"en": "B's reason supports A's opinion, so B agrees strongly.",
+"th": "เหตุผลของ B สนับสนุน A จึงเห็นด้วยอย่างยิ่ง",
+"x": [
+[
+"It contradicts the replay evidence.",
+"ขัดกับภาพรีเพลย์"
+],
+[
+"B clearly noticed the replay.",
+"B เห็นรีเพลย์ชัดเจน"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Which team was Nong in?",
+"o": [
+"Blue",
+"Red",
+"Green",
+"Yellow"
+],
+"en": "'Nong was in the blue team.'",
+"th": "น้องอยู่ทีมสีน้ำเงิน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Yellow was the champion, not Nong's team.",
+"สีเหลืองเป็นแชมป์ ไม่ใช่ทีมของน้อง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did Fah do?",
+"o": [
+"She won the long jump.",
+"She came second in the race.",
+"She played football.",
+"She was the coach."
+],
+"en": "'Her friend Fah won the long jump.'",
+"th": "ฟ้าชนะกระโดดไกล",
+"x": [
+[
+"That was Nong.",
+"นั่นคือน้อง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The headmaster was the coach.",
+"ครูใหญ่เป็นโค้ช"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Who played in the football match?",
+"o": [
+"The teachers and the older students",
+"Only the blue team",
+"Nong and Fah",
+"Students from another school"
+],
+"en": "'A football match between the teachers and the older students.'",
+"th": "แข่งฟุตบอลระหว่างครูกับนักเรียนรุ่นพี่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Who scored three goals?",
+"o": [
+"Mr Chai",
+"The headmaster",
+"Nong",
+"Fah"
+],
+"en": "'Mr Chai, the English teacher, who scored all three of the teachers' goals.'",
+"th": "ครูชัย ครูภาษาอังกฤษ ทำได้ทั้งสามประตูของทีมครู",
+"x": [
+[
+"He was the coach.",
+"เขาเป็นโค้ช"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Which team won Sports Day?",
+"o": [
+"Yellow",
+"Blue",
+"Red",
+"The teachers"
+],
+"en": "'The yellow team was the champion.'",
+"th": "ทีมสีเหลืองเป็นแชมป์",
+"x": [
+[
+"Blue was third.",
+"สีน้ำเงินได้ที่สาม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The teachers lost the football match.",
+"ทีมครูแพ้ฟุตบอล"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why did Dao start running?",
+"o": [
+"She wanted to be healthier.",
+"She wanted to become an athlete.",
+"A friend asked her to.",
+"She wanted to win a medal."
+],
+"en": "'I just wanted to be healthier.'",
+"th": "เธออยากมีสุขภาพดีขึ้น",
+"x": [
+[
+"'I'm not an athlete.'",
+"เธอบอกว่าไม่ใช่นักกีฬา"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The medal came later, by surprise.",
+"เหรียญมาทีหลัง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What did her training plan include at first?",
+"o": [
+"Short periods of walking and running",
+"Running 10 km every day",
+"Only walking",
+"Running with professional athletes"
+],
+"en": "'She walked and ran in short intervals, three times a week.'",
+"th": "เดินสลับวิ่งช่วงสั้นๆ สัปดาห์ละสามครั้ง",
+"x": [
+[
+"10 km came much later.",
+"10 กม. มาทีหลังมาก"
+],
+[
+"She walked AND ran.",
+"เธอเดินและวิ่ง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "According to Dao, what was the hardest part?",
+"o": [
+"Staying motivated",
+"Her leg muscles",
+"The cost",
+"Finding time"
+],
+"en": "'The hardest part wasn't my body, it was my mind… Some days I really didn't want to go.'",
+"th": "ส่วนที่ยากที่สุดคือจิตใจ บางวันไม่อยากไปเลย",
+"x": [
+[
+"She says it wasn't her body.",
+"เธอบอกว่าไม่ใช่ร่างกาย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What was Dao's goal in the race?",
+"o": [
+"To finish",
+"To win",
+"To beat the fast runners",
+"To get a medal"
+],
+"en": "'Her only goal was to finish.'",
+"th": "เป้าหมายเดียวคือวิ่งให้จบ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"She 'didn't try to compete with the fast runners'.",
+"เธอไม่ได้พยายามแข่งกับคนวิ่งเร็ว"
+],
+[
+"She got one, but it wasn't her goal.",
+"ได้เหรียญ แต่ไม่ใช่เป้าหมาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does 'Even slow progress is progress' tell us about Dao?",
+"o": [
+"She is patient and positive.",
+"She wants to stop running.",
+"She thinks she is too slow to continue.",
+"She wants to be faster than everyone."
+],
+"en": "She accepts slow progress and stays positive.",
+"th": "เธอยอมรับความก้าวหน้าที่ช้าและมองโลกในแง่ดี",
+"x": [
+[
+"She plans a half marathon next.",
+"เธอวางแผนวิ่งฮาล์ฟมาราธอน"
+],
+[
+"She says 'That's OK'.",
+"เธอบอกว่าไม่เป็นไร"
+],
+[
+"Not suggested.",
+"ไม่ได้บอกเช่นนั้น"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why was Leicester City's 2016 victory so surprising?",
+"o": [
+"Almost nobody expected them to win.",
+"They had the biggest sponsors.",
+"They were the richest club.",
+"They had won the league the year before."
+],
+"en": "Odds of 5,000 to 1 show almost nobody expected it.",
+"th": "อัตราต่อรอง 5,000 ต่อ 1 แสดงว่าแทบไม่มีใครคาดว่าจะชนะ",
+"x": [
+[
+"Rich clubs have the biggest sponsors.",
+"สโมสรรวยมีสปอนเซอร์ใหญ่"
+],
+[
+"Not stated; the opposite is suggested.",
+"ไม่ได้บอก"
+],
+[
+"They 'had almost been relegated'.",
+"ปีก่อนเกือบตกชั้น"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "According to psychologists, why do people support underdogs?",
+"o": [
+"Their stories reflect our own struggles.",
+"They are always the best players.",
+"Bookmakers recommend them.",
+"They have famous sponsors."
+],
+"en": "'Their stories reflect our own struggles.'",
+"th": "เรื่องราวของพวกเขาสะท้อนการต่อสู้ของเราเอง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Bookmakers thought they would lose.",
+"เจ้ามือคิดว่าจะแพ้"
+],
+[
+"Rich clubs have the big sponsors.",
+"สโมสรรวยมีสปอนเซอร์ใหญ่"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How does the writer describe a long rivalry between two rich clubs?",
+"o": [
+"Like a battle between corporations",
+"Like an amateur game",
+"As very human",
+"As exciting for everyone"
+],
+"en": "'…can feel like a battle between corporations.'",
+"th": "อาจรู้สึกเหมือนการต่อสู้ระหว่างบริษัทใหญ่",
+"x": [
+[
+"Amateur sport is described differently.",
+"กีฬาสมัครเล่นถูกบรรยายต่างกัน"
+],
+[
+"They 'can seem less human'.",
+"อาจดูเป็นมนุษย์น้อยลง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do some commentators say about large amounts of money in sport?",
+"o": [
+"It may encourage cheating.",
+"It improves sportsmanship.",
+"It helps amateur players.",
+"It reduces doping."
+],
+"en": "'The huge sums involved… encourage cheating.'",
+"th": "เงินจำนวนมหาศาลกระตุ้นให้เกิดการโกง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Doping is linked to the problem, not reduced.",
+"การใช้สารกระตุ้นเป็นส่วนของปัญหา"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the writer suggest at the end?",
+"o": [
+"People value kindness and fair play in sport.",
+"Winning is all that matters.",
+"Online videos are bad for sport.",
+"Runners should not help their opponents."
+],
+"en": "Acts of sportsmanship get more attention than victories, which shows what we really value.",
+"th": "น้ำใจนักกีฬาได้รับความสนใจมากกว่าชัยชนะ แสดงว่าเราให้คุณค่ากับสิ่งนี้",
+"x": [
+[
+"The opposite is suggested.",
+"บทความบอกตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The runner helping is praised.",
+"นักวิ่งที่ช่วยได้รับคำชม"
+]
+]
+}
+]
+}

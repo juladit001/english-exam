@@ -1,0 +1,1627 @@
+{
+"id": 34,
+"theme": "Volunteering and community",
+"v": [
+[
+"give",
+"verb",
+"A1",
+"ให้",
+"I *give* my old clothes to my cousin."
+],
+[
+"free",
+"adjective",
+"A1",
+"ฟรี, ว่าง",
+"The concert is *free*."
+],
+[
+"care",
+"verb/noun",
+"A1",
+"ดูแล, ห่วงใย, การดูแล",
+"She *cares* about animals."
+],
+[
+"bring",
+"verb",
+"A1",
+"นำมา",
+"Please *bring* some food to the party."
+],
+[
+"together",
+"adverb",
+"A1",
+"ด้วยกัน",
+"We cleaned the park *together*."
+],
+[
+"carry",
+"verb",
+"A1",
+"ถือ, แบก",
+"Can you help me *carry* these boxes?"
+],
+[
+"join",
+"verb",
+"A1",
+"เข้าร่วม",
+"*Join* us on Saturday!"
+],
+[
+"weekend",
+"noun",
+"A1",
+"สุดสัปดาห์",
+"What do you do at the *weekend*?"
+],
+[
+"member",
+"noun",
+"A2",
+"สมาชิก",
+"She's a *member* of the club."
+],
+[
+"elderly",
+"adjective",
+"A2",
+"สูงอายุ",
+"We visit *elderly* people every month."
+],
+[
+"charity",
+"noun",
+"A2",
+"องค์กรการกุศล",
+"He works for a children's *charity*."
+],
+[
+"collect",
+"verb",
+"A2",
+"เก็บ, รวบรวม",
+"We *collected* rubbish from the river."
+],
+[
+"organise",
+"verb",
+"A2",
+"จัด (งาน)",
+"She *organised* a book sale."
+],
+[
+"community",
+"noun",
+"A2",
+"ชุมชน",
+"Our *community* is very friendly."
+],
+[
+"generous",
+"adjective",
+"A2",
+"ใจกว้าง, ใจบุญ",
+"Thank you, that's very *generous*."
+],
+[
+"food bank",
+"noun",
+"A2",
+"ธนาคารอาหาร",
+"The *food bank* gives food to poor families."
+],
+[
+"sign up",
+"phrasal verb",
+"A2",
+"สมัคร, ลงชื่อ",
+"I *signed up* to help at the festival."
+],
+[
+"raise",
+"verb",
+"A2",
+"ระดมทุน, ยกขึ้น",
+"We *raised* 10,000 baht for the hospital."
+],
+[
+"donation",
+"noun",
+"B1",
+"เงินบริจาค, การบริจาค",
+"Thank you for your *donation*."
+],
+[
+"fundraising",
+"noun",
+"B1",
+"การระดมทุน",
+"The school is doing some *fundraising* for new books."
+],
+[
+"cause",
+"noun",
+"B1",
+"จุดมุ่งหมาย (เพื่อการกุศล), สาเหตุ",
+"The money goes to a good *cause*."
+],
+[
+"contribute",
+"verb",
+"B1",
+"มีส่วนร่วม, สนับสนุน",
+"Everyone *contributed* something."
+],
+[
+"participate",
+"verb",
+"B1",
+"เข้าร่วม",
+"Fifty students *participated* in the project."
+],
+[
+"rewarding",
+"adjective",
+"B1",
+"คุ้มค่า, ให้ความสุขทางใจ",
+"Teaching children is very *rewarding*."
+],
+[
+"nursing home",
+"noun",
+"B1",
+"บ้านพักคนชรา",
+"My grandmother lives in a *nursing home*."
+],
+[
+"orphanage",
+"noun",
+"B1",
+"สถานเลี้ยงเด็กกำพร้า",
+"They painted the walls of the *orphanage*."
+],
+[
+"mentor",
+"noun",
+"B1",
+"พี่เลี้ยง, ที่ปรึกษา",
+"My *mentor* helped me find a job."
+],
+[
+"petition",
+"noun",
+"B1",
+"คำร้อง (ที่มีผู้ลงชื่อ)",
+"Over 5,000 people signed the *petition*."
+],
+[
+"dedicate",
+"verb",
+"B1",
+"อุทิศ",
+"She *dedicated* her life to helping others."
+],
+[
+"nonprofit",
+"adjective/noun",
+"B2",
+"ไม่แสวงหากำไร",
+"He runs a *nonprofit* organisation."
+],
+[
+"grassroots",
+"adjective",
+"B2",
+"ระดับรากหญ้า",
+"It started as a *grassroots* movement."
+],
+[
+"solidarity",
+"noun",
+"B2",
+"ความเป็นน้ำหนึ่งใจเดียวกัน",
+"They marched in *solidarity* with the workers."
+],
+[
+"altruism",
+"noun",
+"B2",
+"การเห็นแก่ประโยชน์ผู้อื่น",
+"Is volunteering pure *altruism*?"
+],
+[
+"civic",
+"adjective",
+"B2",
+"เกี่ยวกับพลเมือง",
+"Voting is a *civic* duty."
+],
+[
+"empower",
+"verb",
+"B2",
+"เสริมพลัง, ให้อำนาจ",
+"The project *empowers* young women."
+],
+[
+"marginalised",
+"adjective",
+"B2",
+"ถูกกีดกันจากสังคม, เป็นชายขอบ",
+"The charity supports *marginalised* groups."
+],
+[
+"welfare",
+"noun",
+"B2",
+"สวัสดิการ, ความเป็นอยู่ที่ดี",
+"The government is responsible for public *welfare*."
+],
+[
+"beneficiary",
+"noun",
+"B2",
+"ผู้รับประโยชน์",
+"The main *beneficiaries* are children."
+],
+[
+"outreach",
+"noun",
+"B2",
+"การเข้าถึงชุมชน (ให้บริการ)",
+"The library runs an *outreach* programme."
+],
+[
+"cohesion",
+"noun",
+"B2",
+"ความเป็นปึกแผ่น, ความเชื่อมโยงกัน",
+"Festivals improve social *cohesion*."
+]
+],
+"p": [
+{
+"t": "Saturday at the Beach",
+"x": "Every month, my friends and I join a beach clean-up near our town. It's free, and anyone can help. Last Saturday, about forty people came. The leader gave everyone a bag and gloves, and we worked together for three hours.\nWe collected plastic bottles, bags and even an old shoe! I had to carry two heavy bags to the truck. Some people brought water and fruit for everyone. At the end, we took a big photo together.\nI love doing this at the weekend because I care about the sea. It's also a good way to meet new people. Last month, I became a member of the group, and now I help organise the events. Why don't you come next time?"
+},
+{
+"t": "A Helping Hand",
+"x": "Nok is a 22-year-old university student, but she spends most of her free time volunteering. Two years ago, she signed up to help at a food bank in her community. Every Saturday, she sorts donations of rice, oil and tinned food, and gives them to families who need them.\nOn Wednesday evenings, Nok visits a nursing home, where she plays games and chats with elderly people. \"Many of them are lonely,\" she says. \"Just listening to them makes a difference.\" She also works as a mentor for a teenager from an orphanage, helping him with his studies.\nLast year, Nok organised a fundraising concert for a children's charity and raised 80,000 baht. \"People were very generous,\" she remembers. \"Everyone contributed something, even if it was only twenty baht.\"\nWhy does she do it? \"It's very rewarding,\" she explains. \"I've learned more from volunteering than from any classroom.\""
+},
+{
+"t": "Why Do We Volunteer?",
+"x": "Volunteering is often described as an act of pure altruism: people giving their time without expecting anything in return. Yet research suggests that the motives are more complex, and that this is not necessarily a bad thing.\nMany volunteers admit that they also benefit personally. They gain skills, make friends and feel a sense of purpose. Studies have even linked regular volunteering to lower stress and longer life. In this sense, volunteers are themselves beneficiaries of the work they do.\nVolunteering also plays a wider role in society. Grassroots groups, from neighbourhood clean-ups to youth clubs, strengthen social cohesion by bringing together people who might otherwise never meet. Nonprofit organisations often reach marginalised communities that government outreach programmes fail to serve. By participating, citizens develop a stronger sense of civic responsibility.\nCritics, however, warn that volunteers should not replace properly funded public services. When governments cut welfare budgets and expect charities to fill the gaps, the burden falls on generous individuals rather than on society as a whole. The ideal, many argue, is a partnership: the state guarantees basic rights, while volunteers add warmth, solidarity and local knowledge, empowering communities to help themselves. Those who dedicate their time can then focus on making life better rather than simply surviving, and any petition for change carries more weight when it comes from an active community."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "Can you help me ___ these heavy boxes to the car?",
+"o": [
+"carry",
+"marry",
+"cry",
+"curry"
+],
+"en": "Carry = hold and move something.",
+"th": "carry = ถือ แบก",
+"x": [
+[
+"'marry' means get married.",
+"marry = แต่งงาน"
+],
+[
+"'cry' means shed tears.",
+"cry = ร้องไห้"
+],
+[
+"Curry is food.",
+"curry = แกง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The museum is ___ on Sundays; you don't have to pay.",
+"o": [
+"free",
+"fresh",
+"full",
+"far"
+],
+"en": "Free = costs nothing.",
+"th": "free = ฟรี ไม่ต้องจ่าย",
+"x": [
+[
+"'fresh' is for food.",
+"fresh = สด"
+],
+[
+"'full' means no space.",
+"full = เต็ม"
+],
+[
+"'far' means a long distance.",
+"far = ไกล"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Would you like to ___ our football team?",
+"o": [
+"join",
+"joy",
+"joke",
+"jump"
+],
+"en": "Join = become a member of.",
+"th": "join = เข้าร่วม",
+"x": [
+[
+"Joy is happiness (noun).",
+"joy = ความสุข"
+],
+[
+"'joke' means say something funny.",
+"joke = พูดตลก"
+],
+[
+"'jump' needs a preposition.",
+"jump ต้องมีบุพบท"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Please ___ a pen to the meeting.",
+"o": [
+"bring",
+"bright",
+"bridge",
+"bread"
+],
+"en": "Bring = take something with you.",
+"th": "bring = นำมา",
+"x": [
+[
+"'bright' is an adjective.",
+"bright = สว่าง"
+],
+[
+"A bridge crosses a river.",
+"bridge = สะพาน"
+],
+[
+"Bread is food.",
+"bread = ขนมปัง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "We visit ___ people at the care home every month.",
+"o": [
+"elderly",
+"early",
+"eldest",
+"easily"
+],
+"en": "Elderly = old (polite word).",
+"th": "elderly = ผู้สูงอายุ (สุภาพ)",
+"x": [
+[
+"'early' is about time.",
+"early = เช้า เร็ว"
+],
+[
+"'eldest' means the oldest child in a family.",
+"eldest = คนโตที่สุด"
+],
+[
+"'easily' is an adverb.",
+"easily เป็นกริยาวิเศษณ์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "He gave 50,000 baht to the hospital. He's very ___.",
+"o": [
+"generous",
+"general",
+"generation",
+"genuine"
+],
+"en": "Generous = happy to give.",
+"th": "generous = ใจกว้าง",
+"x": [
+[
+"'general' means not specific.",
+"general = ทั่วไป"
+],
+[
+"A generation is people of the same age.",
+"generation = รุ่น"
+],
+[
+"'genuine' means real.",
+"genuine = แท้"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I ___ up to help at the school fair next week.",
+"o": [
+"signed",
+"sang",
+"sighed",
+"signalled"
+],
+"en": "Sign up = put your name down to take part.",
+"th": "sign up = ลงชื่อ สมัคร",
+"x": [
+[
+"'sing' doesn't go with 'up' here.",
+"sing ไม่ใช้แบบนี้"
+],
+[
+"'sigh' means breathe out sadly.",
+"sigh = ถอนหายใจ"
+],
+[
+"'signal' means give a sign.",
+"signal = ส่งสัญญาณ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Our class ___ 5,000 baht by selling cakes.",
+"o": [
+"raised",
+"rose",
+"rising",
+"risen"
+],
+"en": "Raise money (transitive), past: raised.",
+"th": "raise money (มีกรรม) อดีต: raised",
+"x": [
+[
+"'rose' is past of 'rise', which has no object.",
+"rose มาจาก rise ซึ่งไม่มีกรรม"
+],
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"'risen' is a past participle of 'rise'.",
+"risen เป็นช่อง 3 ของ rise"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Over two thousand people signed a ___ asking for a new park.",
+"o": [
+"petition",
+"position",
+"partition",
+"petrol"
+],
+"en": "A petition is a document many people sign to ask for change.",
+"th": "petition = คำร้องที่มีผู้ลงชื่อ",
+"x": [
+[
+"A position is a place or job.",
+"position = ตำแหน่ง"
+],
+[
+"A partition divides a room.",
+"partition = ฉากกั้น"
+],
+[
+"Petrol is fuel.",
+"petrol = น้ำมัน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Helping children learn to read is very ___.",
+"o": [
+"rewarding",
+"rewarded",
+"reward",
+"rewards"
+],
+"en": "Rewarding (adjective) = giving satisfaction.",
+"th": "rewarding = คุ้มค่าทางใจ",
+"x": [
+[
+"'rewarded' describes a person who got a reward.",
+"rewarded ใช้กับคนที่ได้รางวัล"
+],
+[
+"'reward' is a noun or verb.",
+"reward เป็นคำนาม/กริยา"
+],
+[
+"Wrong form.",
+"รูปผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "All the money from the concert goes to a good ___.",
+"o": [
+"cause",
+"course",
+"case",
+"cost"
+],
+"en": "A good cause = a charity or aim worth supporting.",
+"th": "good cause = จุดประสงค์ที่ดี (การกุศล)",
+"x": [
+[
+"A course is a series of lessons.",
+"course = หลักสูตร"
+],
+[
+"A case is a box or situation.",
+"case = กรณี กล่อง"
+],
+[
+"A cost is a price.",
+"cost = ค่าใช้จ่าย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Everyone ___ to the project, so it was finished on time.",
+"o": [
+"contributed",
+"constructed",
+"conducted",
+"consumed"
+],
+"en": "Contribute to = give help or money to.",
+"th": "contribute to = มีส่วนร่วม",
+"x": [
+[
+"'construct' means build.",
+"construct = ก่อสร้าง"
+],
+[
+"'conduct' means lead or carry out.",
+"conduct = ดำเนินการ"
+],
+[
+"'consume' means use up.",
+"consume = บริโภค"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The programme aims to ___ young women by teaching them business skills.",
+"o": [
+"empower",
+"empty",
+"employ",
+"emphasise"
+],
+"en": "Empower = give someone confidence or power.",
+"th": "empower = เสริมพลัง",
+"x": [
+[
+"'empty' means remove everything.",
+"empty = เทออก"
+],
+[
+"'employ' means give a job; 'by teaching' doesn't fit.",
+"employ = จ้างงาน"
+],
+[
+"'emphasise' means stress.",
+"emphasise = เน้น"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The movement began at a ___ level, with a few local residents.",
+"o": [
+"grassroots",
+"grassland",
+"grasshopper",
+"greenhouse"
+],
+"en": "Grassroots = from ordinary people, not leaders.",
+"th": "grassroots = ระดับรากหญ้า",
+"x": [
+[
+"Grassland is a field.",
+"grassland = ทุ่งหญ้า"
+],
+[
+"A grasshopper is an insect.",
+"grasshopper = ตั๊กแตน"
+],
+[
+"A greenhouse is for plants.",
+"greenhouse = เรือนกระจก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Children are the main ___ of the new school meals scheme.",
+"o": [
+"beneficiaries",
+"benefits",
+"benefactors",
+"beneficial"
+],
+"en": "Beneficiaries = people who receive the benefit.",
+"th": "beneficiary = ผู้รับประโยชน์",
+"x": [
+[
+"Benefits are advantages, not people.",
+"benefit = ประโยชน์"
+],
+[
+"Benefactors give money (the opposite role).",
+"benefactor = ผู้ให้"
+],
+[
+"'beneficial' is an adjective.",
+"beneficial เป็นคุณศัพท์"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "We [cleaned] [the] beach [together] [in] Saturday.",
+"a": 3,
+"fix": "We cleaned the beach together on Saturday.",
+"en": "Days use 'on'.",
+"th": "วันใช้ on",
+"x": [
+[
+"'cleaned' is correct.",
+"cleaned ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'together' is correct.",
+"together ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Everybody] [are] [very] [kind] here.",
+"a": 1,
+"fix": "Everybody is very kind here.",
+"en": "'Everybody' takes a singular verb: is.",
+"th": "Everybody ใช้กริยาเอกพจน์: is",
+"x": [
+[
+"'Everybody' is correct.",
+"Everybody ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'kind' is correct.",
+"kind ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] [elderlies] [enjoy] [talking] with the students.",
+"a": 1,
+"fix": "The elderly enjoy talking with the students.",
+"en": "'The elderly' has no -s.",
+"th": "the elderly ไม่เติม s",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'enjoy' is correct.",
+"enjoy ถูกต้อง"
+],
+[
+"'talking' is correct after enjoy.",
+"talking ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I [want] to volunteer [in] a hospital [when] I [will finish] school.",
+"a": 3,
+"fix": "I want to volunteer in a hospital when I finish school.",
+"en": "After 'when' about the future, use Present Simple: finish.",
+"th": "หลัง when (อนาคต) ใช้ Present Simple: finish",
+"x": [
+[
+"'want' is correct.",
+"want ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'when' is correct.",
+"when ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "She [is] a member [of] this charity [for] [two years].",
+"a": 0,
+"fix": "She has been a member of this charity for two years.",
+"en": "Duration until now needs Present Perfect: has been.",
+"th": "ระยะเวลาจนถึงปัจจุบันใช้ Present Perfect: has been",
+"x": [
+[
+"'of' is correct.",
+"of ถูกต้อง"
+],
+[
+"'for' is correct.",
+"for ถูกต้อง"
+],
+[
+"'two years' is correct.",
+"two years ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Volunteering] [makes] me [to feel] [useful].",
+"a": 2,
+"fix": "Volunteering makes me feel useful.",
+"en": "'Make someone do' (no 'to').",
+"th": "make someone do (ไม่มี to)",
+"x": [
+[
+"'Volunteering' is correct.",
+"Volunteering ถูกต้อง"
+],
+[
+"'makes' is correct.",
+"makes ถูกต้อง"
+],
+[
+"'useful' is correct.",
+"useful ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[The] money [which] we raised [were] [given] to the orphanage.",
+"a": 2,
+"fix": "The money which we raised was given to the orphanage.",
+"en": "'Money' is uncountable: was.",
+"th": "money นับไม่ได้: was",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'which' is correct.",
+"which ถูกต้อง"
+],
+[
+"'given' is correct.",
+"given ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] more people [helped], our community [will] [be] better.",
+"a": 2,
+"fix": "If more people helped, our community would be better.",
+"en": "Second conditional: would.",
+"th": "second conditional: would",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'helped' is correct.",
+"helped ถูกต้อง"
+],
+[
+"'be' is correct.",
+"be ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Having] [dedicated] her life to charity, [the award] [was given] to her.",
+"a": 2,
+"fix": "Having dedicated her life to charity, she was given the award.",
+"en": "Dangling participle: the subject must be the person (she).",
+"th": "participle ห้อย: ประธานต้องเป็นคน (she)",
+"x": [
+[
+"'Having' is correct.",
+"Having ถูกต้อง"
+],
+[
+"'dedicated' is correct.",
+"dedicated ถูกต้อง"
+],
+[
+"'was given' would be fine with 'she'.",
+"was given ใช้ได้ถ้าประธานคือ she"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Rarely] [volunteers] [are] [thanked] properly for their work.",
+"a": 1,
+"fix": "Rarely are volunteers thanked properly for their work.",
+"en": "After 'Rarely' at the start, invert: are volunteers.",
+"th": "ขึ้นต้น Rarely ต้องสลับ: are volunteers",
+"x": [
+[
+"'Rarely' is correct.",
+"Rarely ถูกต้อง"
+],
+[
+"'are' is correct but in the wrong place.",
+"are ถูกแต่ผิดตำแหน่ง"
+],
+[
+"'thanked' is correct.",
+"thanked ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you want to help us clean the park?\nB: ___ What time?",
+"o": [
+"Sure!",
+"No, thanks.",
+"I'm a park.",
+"It's dirty."
+],
+"en": "B agrees and asks the time.",
+"th": "B ตกลงและถามเวลา",
+"x": [
+[
+"It contradicts asking the time.",
+"ขัดกับการถามเวลา"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Thank you for your help!\nB: ___",
+"o": [
+"You're welcome.",
+"Yes, please.",
+"Help!",
+"Goodbye, help."
+],
+"en": "Reply to thanks: You're welcome.",
+"th": "ตอบคำขอบคุณ: You're welcome",
+"x": [
+[
+"Used for offers.",
+"ใช้ตอบรับข้อเสนอ"
+],
+[
+"Not suitable.",
+"ไม่เหมาะสม"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What do you do at the weekend?\nB: ___",
+"o": [
+"I help at an animal shelter.",
+"At nine o'clock.",
+"Yes, I do.",
+"It's Saturday."
+],
+"en": "B describes an activity.",
+"th": "B เล่ากิจกรรม",
+"x": [
+[
+"It's a time.",
+"เป็นเวลา"
+],
+[
+"Not an answer to 'what'.",
+"ไม่ตอบ what"
+],
+[
+"Not an activity.",
+"ไม่ใช่กิจกรรม"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How much money did you raise?\nB: ___",
+"o": [
+"About 12,000 baht.",
+"Every weekend.",
+"For the hospital.",
+"Very generous."
+],
+"en": "'How much' asks for an amount.",
+"th": "how much ถามจำนวน",
+"x": [
+[
+"Frequency.",
+"ความถี่"
+],
+[
+"Purpose.",
+"จุดประสงค์"
+],
+[
+"Not an amount.",
+"ไม่ใช่จำนวน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I'd like to volunteer, but I don't know where to start.\nB: ___",
+"o": [
+"Why don't you sign up at the community centre?",
+"Volunteering is boring.",
+"Don't start.",
+"You can't."
+],
+"en": "B gives a helpful suggestion.",
+"th": "B ให้คำแนะนำที่มีประโยชน์",
+"x": [
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Unhelpful.",
+"ไม่ช่วย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Shall I bring anything to the food bank?\nB: ___",
+"o": [
+"Yes, rice or tinned food would be great.",
+"No, I'm hungry.",
+"Food is expensive.",
+"The bank is closed for money."
+],
+"en": "B suggests useful items.",
+"th": "B แนะนำของที่มีประโยชน์",
+"x": [
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Was volunteering at the orphanage hard?\nB: ___ but seeing the children smile made it worthwhile.",
+"o": [
+"It was tiring at times,",
+"It was completely easy,",
+"I didn't go,",
+"Orphans don't smile,"
+],
+"en": "'But… worthwhile' follows a difficulty.",
+"th": "but... worthwhile ตามหลังความยากลำบาก",
+"x": [
+[
+"'But' needs a contrast.",
+"but ต้องมีความขัดแย้ง"
+],
+[
+"B describes being there.",
+"B เล่าว่าไปแล้ว"
+],
+[
+"Offensive and contradictory.",
+"ไม่เหมาะสมและขัดแย้ง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Would you mind signing our petition?\nB: ___ What's it for?",
+"o": [
+"Not at all.",
+"Yes, I would.",
+"I'm a petition.",
+"Never again."
+],
+"en": "'Not at all' = I don't mind (yes).",
+"th": "Not at all = ไม่ขัดข้อง",
+"x": [
+[
+"That means B minds; 'What's it for?' suggests interest.",
+"แปลว่าขัดข้อง"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Some people say charities should replace government welfare.\nB: ___ Charities can't guarantee support for everyone.",
+"o": [
+"I'm not convinced.",
+"I couldn't agree more.",
+"That's exactly right.",
+"Absolutely."
+],
+"en": "B disagrees, giving a reason.",
+"th": "B ไม่เห็นด้วยพร้อมเหตุผล",
+"x": [
+[
+"Strong agreement contradicts B's reason.",
+"เห็นด้วยขัดกับเหตุผล"
+],
+[
+"Agreement contradicts B's reason.",
+"เห็นด้วยขัดกับเหตุผล"
+],
+[
+"Agreement contradicts B's reason.",
+"เห็นด้วยขัดกับเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Honestly, I volunteer partly because it looks good on my CV.\nB: ___ As long as people are being helped, motives matter less.",
+"o": [
+"There's nothing wrong with that.",
+"That's completely selfish.",
+"You should stop volunteering.",
+"Nobody cares about CVs."
+],
+"en": "B accepts the mixed motive.",
+"th": "B ยอมรับแรงจูงใจที่ปนกัน",
+"x": [
+[
+"It contradicts 'motives matter less'.",
+"ขัดกับ motives matter less"
+],
+[
+"It contradicts B's view.",
+"ขัดกับมุมมองของ B"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How often does the writer join the beach clean-up?",
+"o": [
+"Every month",
+"Every day",
+"Once a year",
+"Every Saturday"
+],
+"en": "'Every month, my friends and I join a beach clean-up.'",
+"th": "ทุกเดือน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Only last Saturday is mentioned.",
+"กล่าวถึงแค่วันเสาร์ที่แล้ว"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the leader give everyone?",
+"o": [
+"A bag and gloves",
+"Water and fruit",
+"A T-shirt",
+"Money"
+],
+"en": "'The leader gave everyone a bag and gloves.'",
+"th": "ถุงและถุงมือ",
+"x": [
+[
+"Some people brought these.",
+"บางคนนำมา"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Which unusual item did they find?",
+"o": [
+"An old shoe",
+"A phone",
+"A bicycle",
+"A wallet"
+],
+"en": "'…and even an old shoe!'",
+"th": "รองเท้าเก่า",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Why does the writer like doing this?",
+"o": [
+"She cares about the sea and meets new people.",
+"She gets paid.",
+"Her teacher makes her.",
+"She likes heavy bags."
+],
+"en": "'I care about the sea… a good way to meet new people.'",
+"th": "ห่วงใยทะเลและได้พบคนใหม่",
+"x": [
+[
+"It's free volunteering.",
+"เป็นงานอาสาฟรี"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the writer do now?",
+"o": [
+"Helps organise the events",
+"Leads a different group",
+"Works at the beach",
+"Sells water"
+],
+"en": "'Now I help organise the events.'",
+"th": "ช่วยจัดกิจกรรม",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does Nok do at the food bank?",
+"o": [
+"Sorts donations and gives them to families",
+"Cooks meals",
+"Collects money",
+"Teaches children"
+],
+"en": "'She sorts donations… and gives them to families.'",
+"th": "คัดแยกของบริจาคและแจกให้ครอบครัว",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not at the food bank.",
+"ไม่ใช่ที่ธนาคารอาหาร"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why does Nok visit the nursing home?",
+"o": [
+"Many elderly people there are lonely.",
+"She works there as a nurse.",
+"Her grandmother lives there.",
+"To raise money."
+],
+"en": "'Many of them are lonely… Just listening… makes a difference.'",
+"th": "ผู้สูงอายุหลายคนเหงา",
+"x": [
+[
+"She volunteers.",
+"เธอเป็นอาสาสมัคร"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Who does Nok mentor?",
+"o": [
+"A teenager from an orphanage",
+"An elderly man",
+"A university student",
+"A teacher"
+],
+"en": "'…a mentor for a teenager from an orphanage.'",
+"th": "วัยรุ่นจากสถานเลี้ยงเด็กกำพร้า",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How much did the fundraising concert raise?",
+"o": [
+"80,000 baht",
+"20 baht",
+"8,000 baht",
+"800,000 baht"
+],
+"en": "'…raised 80,000 baht.'",
+"th": "80,000 บาท",
+"x": [
+[
+"Some people gave twenty baht.",
+"บางคนให้ 20 บาท"
+],
+[
+"Wrong number.",
+"ตัวเลขผิด"
+],
+[
+"Wrong number.",
+"ตัวเลขผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does Nok say about volunteering and learning?",
+"o": [
+"She has learned more from volunteering than from classes.",
+"Classes are more useful.",
+"She hasn't learned anything.",
+"Volunteering is only for fun."
+],
+"en": "'I've learned more from volunteering than from any classroom.'",
+"th": "เรียนรู้จากงานอาสามากกว่าในห้องเรียน",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the writer suggest about volunteers' motives?",
+"o": [
+"They are complex, and that isn't necessarily bad.",
+"They are always pure altruism.",
+"They are always selfish.",
+"They don't matter at all."
+],
+"en": "'The motives are more complex, and… this is not necessarily a bad thing.'",
+"th": "ซับซ้อนกว่า และไม่จำเป็นต้องเป็นเรื่องไม่ดี",
+"x": [
+[
+"The writer questions this.",
+"ผู้เขียนตั้งคำถาม"
+],
+[
+"Too extreme.",
+"สุดโต่งเกินไป"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "In what sense are volunteers 'beneficiaries'?",
+"o": [
+"They gain skills, friends and better health.",
+"They receive salaries.",
+"They get free food.",
+"They avoid paying taxes."
+],
+"en": "'They gain skills, make friends… lower stress and longer life.'",
+"th": "ได้ทักษะ เพื่อน และสุขภาพที่ดีขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How do grassroots groups strengthen social cohesion?",
+"o": [
+"By bringing together people who might never meet",
+"By replacing the government",
+"By collecting taxes",
+"By running outreach programmes for the state"
+],
+"en": "'…by bringing together people who might otherwise never meet.'",
+"th": "รวมคนที่อาจไม่เคยพบกัน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Government runs those.",
+"รัฐบาลเป็นผู้ดำเนินการ"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do critics warn about?",
+"o": [
+"Volunteers replacing properly funded public services",
+"Too many people volunteering",
+"Charities becoming too rich",
+"Volunteering causing stress"
+],
+"en": "'Volunteers should not replace properly funded public services.'",
+"th": "อาสาสมัครไม่ควรแทนที่บริการสาธารณะ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It lowers stress.",
+"ช่วยลดความเครียด"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is described as 'the ideal'?",
+"o": [
+"A partnership between the state and volunteers",
+"Volunteers doing everything",
+"The state doing everything",
+"No charities at all"
+],
+"en": "'The ideal… is a partnership.'",
+"th": "ความร่วมมือระหว่างรัฐกับอาสาสมัคร",
+"x": [
+[
+"Not the ideal.",
+"ไม่ใช่อุดมคติ"
+],
+[
+"Volunteers add warmth.",
+"อาสาสมัครเสริมความอบอุ่น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

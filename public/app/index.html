@@ -1,0 +1,1067 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<base href="/app/">
+<title>Road to 20 March</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;700&family=Sarabun:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: exam paper on a desk. Home = grid of 100 numbered set tiles; inside a set = three tabs (Vocab / Exam / Answers), red-pen marking */
+:root{
+  --paper:#f7f8fb; --sheet:#ffffff; --ink:#1d2a44; --muted:#5d6880; --line:#dfe3ec;
+  --blue:#2c4fa3; --blue-soft:#e9eefa; --red:#c33a2f; --red-soft:#fbeceb; --green:#1f7a4d; --green-soft:#e6f4ec;
+  --a1:#3f8f6b; --a2:#2c7fa3; --b1:#6a4fb0; --b2:#b0503f;
+  --display:"Zilla Slab", Georgia, serif; --body:"Sarabun", "Leelawadee UI", Tahoma, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#12161f; --sheet:#1a2030; --ink:#e6e9f2; --muted:#9aa4ba; --line:#2c3447;
+  --blue:#8aa7ff; --blue-soft:#1f2a47; --red:#ff8a7e; --red-soft:#3a2124; --green:#6fd3a0; --green-soft:#183326;
+  --a1:#6fd3a0; --a2:#7cc4e6; --b1:#b9a3ff; --b2:#ff9f8a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#12161f; --sheet:#1a2030; --ink:#e6e9f2; --muted:#9aa4ba; --line:#2c3447;
+  --blue:#8aa7ff; --blue-soft:#1f2a47; --red:#ff8a7e; --red-soft:#3a2124; --green:#6fd3a0; --green-soft:#183326;
+  --a1:#6fd3a0; --a2:#7cc4e6; --b1:#b9a3ff; --b2:#ff9f8a; color-scheme:dark}
+[hidden]{display:none!important}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--sheet)}
+.wrap{max-width:760px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 60px}
+header{display:flex;flex-direction:column;gap:6px;padding-block:8px 16px}
+.eyebrow{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+h1{font-family:var(--display);font-size:clamp(28px,6vw,40px);line-height:1.1;margin:0;text-wrap:balance}
+h2{font-family:var(--display);font-size:24px;margin:0;text-wrap:balance}
+h3{font-family:var(--display);font-size:19px;margin:0}
+.countdown{display:flex;flex-wrap:wrap;gap:8px 16px;color:var(--muted);font-size:15px}
+.countdown b{color:var(--red);font-variant-numeric:tabular-nums}
+.stack{display:flex;flex-direction:column;gap:16px}
+.sheet{background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:20px max(16px,4vw)}
+.note{color:var(--muted);font-size:15px;margin:0}
+button{font:inherit}
+button:focus-visible,input:focus-visible+span{outline:2px solid var(--blue);outline-offset:2px}
+.btn{font-weight:700;border-radius:8px;padding:10px 18px;cursor:pointer;border:1.5px solid var(--blue);background:var(--blue);color:var(--sheet)}
+.btn.ghost{background:transparent;color:var(--blue)}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+/* home */
+.today{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between;border:1.5px solid var(--blue);background:var(--blue-soft);border-radius:12px;padding:16px}
+.today .big{font-family:var(--display);font-size:28px;font-weight:700}
+.setgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px}
+.tile{border:1.5px solid var(--line);background:var(--sheet);color:var(--ink);border-radius:8px;padding:8px 4px;display:flex;flex-direction:column;align-items:center;gap:0;cursor:pointer;min-height:58px;justify-content:center}
+.tile .n{font-family:var(--display);font-weight:700;font-size:18px;font-variant-numeric:tabular-nums}
+.tile .s{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.tile.done{border-color:var(--green);background:var(--green-soft)}
+.tile.done .s{color:var(--green);font-weight:700}
+.tile.next{border-color:var(--blue);border-width:2.5px}
+.tile:disabled{opacity:.4;cursor:not-allowed;border-style:dashed}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--muted)}
+/* set view */
+.sethead{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;margin-bottom:12px}
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--sheet);border:1px solid var(--line);border-radius:12px;display:grid;grid-template-columns:repeat(3,1fr);padding:4px;gap:4px;margin-bottom:20px}
+nav button{font-weight:600;font-size:15px;border:0;background:transparent;color:var(--muted);padding:10px 6px;border-radius:8px;cursor:pointer}
+nav button[aria-selected="true"]{background:var(--blue);color:var(--sheet)}
+nav button:disabled{opacity:.45;cursor:not-allowed}
+.lvl{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.06em;padding:0 8px;border-radius:99px;border:1.5px solid currentColor;line-height:1.5}
+.lvl.A1{color:var(--a1)}.lvl.A2{color:var(--a2)}.lvl.B1{color:var(--b1)}.lvl.B2{color:var(--b2)}
+.vtools{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1.5px solid var(--line);background:transparent;color:var(--ink);border-radius:99px;padding:4px 12px;cursor:pointer;font-size:14px;font-weight:600}
+.chip[aria-pressed="true"]{border-color:var(--blue);background:var(--blue-soft);color:var(--blue)}
+.vgrid{display:grid;gap:10px}
+.vcard{border:1px solid var(--line);border-radius:10px;padding:12px 16px;display:flex;flex-direction:column;gap:4px;min-width:0}
+.vtop{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.word{font-family:var(--display);font-size:21px;font-weight:700}
+.pos{font-style:italic;color:var(--blue);font-weight:600}
+.thai{font-weight:600}
+.ex{margin:0}
+.ex em{font-style:normal;background:var(--blue-soft);padding:0 3px;border-radius:3px}
+.qref{font-size:13px;color:var(--muted)}
+.part{display:flex;flex-direction:column;gap:2px;padding-top:10px;border-top:2px solid var(--ink);margin-top:22px}
+.part:first-child{margin-top:4px}
+.part .th{color:var(--muted);font-size:15px}
+.q{display:flex;flex-direction:column;gap:10px;padding-block:14px;border-bottom:1px dashed var(--line)}
+.qtext{display:flex;gap:10px;align-items:flex-start}
+.qn{font-family:var(--display);font-weight:700;min-width:2.4ch;font-variant-numeric:tabular-nums;color:var(--blue)}
+.qbody{display:flex;flex-direction:column;gap:4px;min-width:0}
+.dlg{display:grid;grid-template-columns:auto 1fr;gap:2px 10px}
+.dlg .who{font-weight:700;color:var(--muted)}
+.errs u{text-decoration:none;border-bottom:2px solid var(--ink);padding-bottom:1px;position:relative;margin-right:2px}
+.errs u sub{font-family:var(--display);font-weight:700;color:var(--blue);font-size:12px;margin-left:2px;vertical-align:-2px}
+.errs{line-height:2.1}
+.opts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding-left:calc(2.4ch + 10px)}
+@media (max-width:480px){.opts{grid-template-columns:1fr;padding-left:0}.opts.e4{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.opts.e4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.opts label{position:relative;cursor:pointer;min-width:0}
+.opts input{position:absolute;opacity:0}
+.opts span{display:flex;gap:8px;border:1.5px solid var(--line);border-radius:8px;padding:8px 12px;min-height:44px;align-items:center}
+.opts span b{font-family:var(--display);color:var(--muted)}
+.opts input:checked+span{border-color:var(--blue);background:var(--blue-soft)}
+.opts input:checked+span b{color:var(--blue)}
+.passage{background:var(--blue-soft);border-radius:10px;padding:14px 16px;margin-top:14px;display:flex;flex-direction:column;gap:6px}
+.passage p{margin:0}
+.bar{position:sticky;bottom:0;background:var(--sheet);border-top:1px solid var(--line);margin-top:16px;padding-block:12px calc(12px + env(safe-area-inset-bottom,0px));display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.progress{font-variant-numeric:tabular-nums;color:var(--muted)}
+.confirm{border:1.5px solid var(--red);background:var(--red-soft);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:10px;margin-top:10px}
+.score{display:flex;flex-wrap:wrap;align-items:center;gap:16px 28px}
+.bigscore{font-family:var(--display);font-size:56px;line-height:1;color:var(--red);font-variant-numeric:tabular-nums}
+.bigscore small{font-size:24px;color:var(--muted)}
+.minis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;flex:1;min-width:240px}
+.minis div{border:1px solid var(--line);border-radius:8px;padding:6px 8px;text-align:center;font-variant-numeric:tabular-nums;font-size:14px}
+.filter{display:flex;flex-wrap:wrap;gap:6px}
+.ans{border:1px solid var(--line);border-left-width:5px;border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.ans.ok{border-left-color:var(--green)} .ans.bad{border-left-color:var(--red)}
+.mark{font-family:var(--display);font-weight:700}
+.ok .mark{color:var(--green)} .bad .mark{color:var(--red)}
+.your{font-size:15px}
+.wrong{color:var(--red);text-decoration:line-through}
+.right{background:var(--green-soft);border-radius:6px;padding:4px 10px;font-weight:600}
+.errs mark{background:var(--red-soft);color:var(--red);font-weight:700;border-radius:3px;padding:0 2px}
+.why{display:grid;gap:4px}
+.why p{margin:0}
+.lang{font-size:12px;font-weight:700;letter-spacing:.06em;color:var(--muted);margin-right:6px}
+.not{margin:0;padding:0;list-style:none;display:grid;gap:6px}
+.not li{border-top:1px dashed var(--line);padding-top:6px;font-size:15px}
+.not .opt{font-weight:700}
+.not .bad{color:var(--red)}
+.not .fine{color:var(--green)}
+.th{color:var(--muted)}
+.hist{display:flex;flex-wrap:wrap;gap:6px}
+.hist span{border:1px solid var(--line);border-radius:6px;padding:2px 8px;font-size:13px;font-variant-numeric:tabular-nums}
+.err-msg{border:1.5px solid var(--red);background:var(--red-soft);border-radius:10px;padding:12px 14px}
+.sync{font-size:13px;color:var(--muted)}
+.sync.on{color:var(--green)}
+.bank{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between;border:1.5px solid var(--red);background:var(--red-soft);border-radius:12px;padding:16px}
+.bank .big{font-family:var(--display);font-size:28px;font-weight:700;color:var(--red);font-variant-numeric:tabular-nums}
+.rvtop{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px}
+.rvbar{height:6px;border-radius:99px;background:var(--line);overflow:hidden}
+.rvbar i{display:block;height:100%;background:var(--blue);transition:width .2s}
+.rvopts{display:grid;gap:8px}
+.rvopts.e4{grid-template-columns:repeat(2,minmax(0,1fr))}
+.rvopts button{display:flex;gap:8px;align-items:center;text-align:left;border:1.5px solid var(--line);background:var(--sheet);color:var(--ink);border-radius:8px;padding:8px 12px;min-height:44px;cursor:pointer}
+.rvopts button b{font-family:var(--display);color:var(--muted)}
+.rvopts button:disabled{cursor:default}
+.rvopts button.isright{border-color:var(--green);background:var(--green-soft)}
+.rvopts button.isright b{color:var(--green)}
+.rvopts button.pickbad{border-color:var(--red);background:var(--red-soft)}
+.rvopts button.pickbad b{color:var(--red)}
+.verdict{font-family:var(--display);font-size:19px;font-weight:700;line-height:1.35}
+.verdict.ok{color:var(--green)} .verdict.bad{color:var(--red)}
+.youpick{border:1.5px solid var(--red);background:var(--red-soft);border-radius:8px;padding:8px 12px}
+details.passage summary{cursor:pointer;font-weight:700}
+.tally{font-variant-numeric:tabular-nums;color:var(--muted);font-size:15px}
+.gcard-home{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between;border:1.5px solid var(--line);background:var(--sheet);border-radius:12px;padding:16px}
+.gitem{border:1px solid var(--line);border-radius:10px;background:var(--sheet)}
+.gitem summary{list-style:none;cursor:pointer;padding:12px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px}
+.gitem summary::-webkit-details-marker{display:none}
+.gitem summary::after{content:"+";margin-left:auto;font-family:var(--display);font-size:22px;color:var(--muted);line-height:1}
+.gitem[open] summary::after{content:"−"}
+.gitem .gt{font-family:var(--display);font-weight:700;font-size:18px}
+.gitem .gth{color:var(--muted);font-size:15px;width:100%}
+.gbody{padding:0 16px 16px;display:flex;flex-direction:column;gap:10px}
+.gbody p{margin:0}
+.formula{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14px;background:var(--blue-soft);color:var(--ink);border-radius:8px;padding:8px 12px;overflow-wrap:anywhere}
+.gex{margin:0;padding-left:20px;display:grid;gap:2px}
+.gmis{display:grid;gap:6px}
+.gmis div{display:grid;grid-template-columns:auto 1fr;gap:2px 8px;font-size:15px;border-top:1px dashed var(--line);padding-top:6px}
+.gmis .x{color:var(--red);font-weight:700}.gmis .xw{color:var(--red);text-decoration:line-through}
+.gmis .v{color:var(--green);font-weight:700}
+.tip{border-left:4px solid var(--blue);padding:4px 10px;font-size:15px}
+.wtab{width:100%;border-collapse:collapse;font-size:15px}
+.wtab td{border-top:1px dashed var(--line);padding:6px 4px;vertical-align:top}
+.wtab td:first-child{font-weight:700;color:var(--blue);white-space:nowrap;padding-right:10px}
+.wtab .wex{color:var(--muted);font-size:14px}
+@media (max-width:480px){.wtab td:first-child{white-space:normal}}
+.hrow{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 16px;border:1px solid var(--line);background:var(--sheet);border-radius:10px;padding:12px 16px;cursor:pointer;width:100%;text-align:left;color:var(--ink)}
+.hrow .hs{font-family:var(--display);font-weight:700;font-size:22px;color:var(--red);font-variant-numeric:tabular-nums}
+.hrow:disabled{cursor:default;opacity:.7}
+.gpr{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;border-top:1px dashed var(--line);padding-top:10px}
+.gstat{font-size:14px;color:var(--muted);font-variant-numeric:tabular-nums}
+.mine{font-size:12px;font-weight:700;color:var(--red);border:1.5px solid var(--red);border-radius:99px;padding:0 8px;line-height:1.5}
+.acct{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;font-size:14px;color:var(--muted)}
+.acct button{font:inherit;font-size:14px;font-weight:600;background:none;border:0;padding:4px 0;color:var(--blue);cursor:pointer;text-decoration:underline}
+.sync.warn{color:var(--red)}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+<header>
+  <span class="eyebrow">100 sets · 50 questions each · A1 → B2 · 4,000 words</span>
+  <h1>Road to 20 March</h1>
+  <div class="countdown"><span><b id="days">–</b> days until your retake</span><span id="doneCount"></span></div>
+  <span class="sync" id="sync">Connecting to your account… · กำลังเชื่อมต่อบัญชี</span>
+  <div class="acct"><span id="acctEmail"></span><button id="exportBtn">Export progress</button><button id="importBtn">Import progress</button><button id="logoutBtn">Log out</button><input type="file" id="importFile" accept="application/json,.json" hidden></div>
+</header>
+
+<section id="home" class="stack">
+  <div class="today">
+    <div class="stack" style="gap:2px">
+      <span class="eyebrow">Today's set · ชุดของวันนี้</span>
+      <span class="big" id="todayName">Set 1</span>
+      <span class="note" id="todayNote">Study the 40 words, then take the exam.</span>
+    </div>
+    <button class="btn" id="todayBtn">Start</button>
+  </div>
+  <div class="bank">
+    <div class="stack" style="gap:2px">
+      <span class="eyebrow">Mistake bank · คลังข้อที่ผิด</span>
+      <span class="big" id="mCount">0 questions</span>
+      <span class="note" id="mNote">Every question you get wrong is saved here. Answer it correctly to clear it. ข้อที่ตอบผิดจะถูกเก็บไว้ที่นี่ ตอบถูกแล้วจะหายไปจากคลัง</span>
+    </div>
+    <button class="btn" id="reviewBtn">Practise my mistakes</button>
+  </div>
+  <div class="gcard-home">
+    <div class="stack" style="gap:2px">
+      <span class="eyebrow">My test history · ประวัติการสอบ</span>
+      <span class="note" id="histNote">Every test you submit is kept with your answers. ทุกชุดที่ส่งแล้วจะเก็บคำตอบไว้ให้ดูย้อนหลัง</span>
+    </div>
+    <button class="btn ghost" id="histBtn">Open history</button>
+  </div>
+  <div class="gcard-home">
+    <div class="stack" style="gap:2px">
+      <span class="eyebrow">Grammar guide · สรุปไวยากรณ์</span>
+      <span class="note">29 grammar points from A1 to B2, explained in Thai with examples and common mistakes. ไวยากรณ์ 29 เรื่อง พร้อมตัวอย่างและจุดที่คนชอบผิด</span>
+    </div>
+    <button class="btn ghost" id="grammarBtn">Open guide</button>
+  </div>
+  <div class="gcard-home">
+    <div class="stack" style="gap:2px">
+      <span class="eyebrow">Word partners · คำที่ใช้คู่กัน</span>
+      <span class="note">167 word pairs in 10 groups: make/do, depend on, both…and, heavy rain and more. Each group has 20 practice questions. คำที่ต้องใช้คู่กัน 10 กลุ่ม พร้อมแบบฝึกกลุ่มละ 20 ข้อ</span>
+    </div>
+    <button class="btn ghost" id="wordsBtn">Open word partners</button>
+  </div>
+  <div class="sheet stack">
+    <div class="stack" style="gap:4px">
+      <h2>All sets</h2>
+      <p class="note">Do one set a day. Every set has 40 new words and 50 new questions. ทำวันละ 1 ชุด ทุกชุดมีคำศัพท์ใหม่ 40 คำ และข้อสอบใหม่ 50 ข้อ</p>
+    </div>
+    <div class="setgrid" id="setgrid"></div>
+    <div class="legend"><span>Green = done (best score)</span><span>Thick blue = next</span><span>Dashed = being written, coming soon</span></div>
+  </div>
+</section>
+
+<section id="setview" hidden>
+  <div class="sethead">
+    <button class="btn ghost" id="back">← All sets</button>
+    <h2 id="setTitle">Set</h2>
+  </div>
+  <nav role="tablist">
+    <button role="tab" id="tab-vocab" aria-selected="true" data-view="vocab">1 · Vocabulary</button>
+    <button role="tab" id="tab-exam" aria-selected="false" data-view="exam">2 · Exam</button>
+    <button role="tab" id="tab-ans" aria-selected="false" data-view="answers">3 · Answers</button>
+  </nav>
+  <div id="loadMsg" class="err-msg" hidden></div>
+
+  <section id="view-vocab" class="sheet stack">
+    <div class="stack" style="gap:6px">
+      <h2>Vocabulary · 40 words</h2>
+      <p class="note">Every word is used in this set's exam. คำศัพท์ทุกคำอยู่ในข้อสอบชุดนี้</p>
+    </div>
+    <div class="vtools" id="vtools"></div>
+    <div class="vgrid" id="vocab"></div>
+    <div class="row"><button class="btn" id="toExam">Start the exam →</button></div>
+  </section>
+
+  <section id="view-exam" class="sheet" hidden>
+    <div class="stack" style="gap:6px;margin-bottom:4px">
+      <h2>The exam · 50 questions</h2>
+      <p class="note">Choose one answer for each question. Answers stay hidden until you submit. เลือกคำตอบเดียว เฉลยจะแสดงหลังส่งคำตอบ</p>
+    </div>
+    <div id="exam"></div>
+    <div class="bar">
+      <span class="progress" id="progress">0 / 50 answered</span>
+      <button class="btn" id="submit">Submit &amp; see answers</button>
+    </div>
+    <div class="confirm" id="confirm" hidden>
+      <span id="confirmText"></span>
+      <div class="row"><button class="btn" id="confirmYes">Submit anyway</button><button class="btn ghost" id="confirmNo">Keep answering</button></div>
+    </div>
+  </section>
+
+  <section id="view-answers" class="sheet stack" hidden>
+    <div class="today" id="viewNote" style="display:block" hidden></div>
+    <div class="score">
+      <div class="bigscore" id="bigScore">0<small>/50</small></div>
+      <div class="minis" id="partScores"></div>
+    </div>
+    <div class="minis" id="lvlScores"></div>
+    <div class="stack" style="gap:6px">
+      <span class="eyebrow">Your attempts on this set · tap one to see its answers · แตะเพื่อดูคำตอบครั้งนั้น</span>
+      <div class="hist" id="hist"></div>
+    </div>
+    <div class="row"><button class="btn" id="practiseSet">Practise these mistakes</button><button class="btn ghost" id="again">Try this set again</button><button class="btn ghost" id="nextSet">Next set →</button></div>
+    <div class="filter" id="ansFilter">
+      <button class="chip" aria-pressed="true" data-f="all">All 50</button>
+      <button class="chip" aria-pressed="false" data-f="bad">Only my mistakes</button>
+    </div>
+    <div class="stack" id="answers"></div>
+  </section>
+</section>
+
+<section id="grammar" class="stack" hidden>
+  <div class="sethead">
+    <button class="btn ghost" id="gBack">← All sets</button>
+    <h2>Grammar guide · สรุปไวยากรณ์</h2>
+  </div>
+  <p class="note">Tap a topic to open it. Start with the ones marked in red: you got them wrong in Sets 1–2. แตะหัวข้อเพื่อเปิดอ่าน เริ่มจากหัวข้อที่มีป้ายสีแดงก่อน (เรื่องที่ผิดใน Set 1–2)</p>
+  <div class="today">
+    <div class="stack" style="gap:2px">
+      <span class="eyebrow">Grammar practice · แบบฝึกไวยากรณ์</span>
+      <span class="note">20 questions per topic, 10 per round. Your wrong answers come back first. เรื่องละ 20 ข้อ รอบละ 10 ข้อ ข้อที่ผิดจะกลับมาก่อน</span>
+    </div>
+    <button class="btn" id="gqWeak">Practise my weak points</button>
+  </div>
+  <div class="filter" id="gFilter"></div>
+  <div class="stack" style="gap:8px" id="gList"></div>
+</section>
+
+<section id="history" class="stack" hidden>
+  <div class="sethead">
+    <button class="btn ghost" id="hBack">← All sets</button>
+    <h2>My test history · ประวัติการสอบ</h2>
+  </div>
+  <p class="note">Tap an attempt to see the answers you chose and the explanations. แตะเพื่อดูคำตอบที่เลือกและคำอธิบาย</p>
+  <div class="stack" style="gap:8px" id="hList"></div>
+</section>
+
+<section id="words" class="stack" hidden>
+  <div class="sethead">
+    <button class="btn ghost" id="wBack">← All sets</button>
+    <h2>Word partners · คำที่ใช้คู่กัน</h2>
+  </div>
+  <p class="note">Some words always go together. Learn them as one piece, not word by word. คำบางคำต้องใช้คู่กันเสมอ ให้จำเป็นก้อน ไม่ต้องแปลทีละคำ</p>
+  <div class="today">
+    <div class="stack" style="gap:2px">
+      <span class="eyebrow">Mixed practice · ฝึกรวม</span>
+      <span class="note">10 questions from all groups, wrong answers first. สุ่ม 10 ข้อจากทุกกลุ่ม ข้อที่ผิดมาก่อน</span>
+    </div>
+    <button class="btn" id="wMix">Practise all groups</button>
+  </div>
+  <div class="filter" id="wFilter"></div>
+  <div class="stack" style="gap:8px" id="wList"></div>
+</section>
+
+<section id="gquiz" class="stack" hidden>
+  <div class="sethead">
+    <button class="btn ghost" id="gqBack">← Back</button>
+    <h2 id="gqTitle">Grammar practice</h2>
+  </div>
+  <div class="sheet stack" id="gqCard"></div>
+</section>
+
+<section id="review" class="stack" hidden>
+  <div class="sethead">
+    <button class="btn ghost" id="rvBack">← All sets</button>
+    <h2 id="rvTitle">Practise my mistakes</h2>
+  </div>
+  <div class="sheet stack" id="rvSetup">
+    <div class="stack" style="gap:4px">
+      <h3>Which questions? · เลือกประเภทข้อ</h3>
+      <p class="note">Rounds of up to 20 questions, the ones you missed most often first. แต่ละรอบไม่เกิน 20 ข้อ ข้อที่ผิดบ่อยที่สุดมาก่อน</p>
+    </div>
+    <div class="filter" id="rvFilter"></div>
+    <div class="row"><button class="btn" id="rvStart">Start</button></div>
+  </div>
+  <div class="sheet stack" id="rvCard" hidden></div>
+</section>
+</div>
+
+<script>
+const READY=100, TOTAL=100;
+const PART={gap:["Part 1","Complete the sentence","เลือกคำที่ถูกต้องมาเติมในประโยค"],err:["Part 2","Find the mistake","หาส่วนที่ผิดในประโยค (A, B, C หรือ D)"],dlg:["Part 3","Complete the conversation","เลือกคำตอบที่เหมาะสมมาเติมบทสนทนา"],read:["Part 4","Reading","อ่านเรื่องแล้วตอบคำถาม"]};
+const L="ABCD";
+/* Storage: kept in memory + this browser, and copied to the viewer's own private space in the artifact database when available. */
+const mem={};
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+const API="/api/data";
+const cloud={on:false,dirty:new Set(),busy:false,t:0,
+  push(k){if(!this.on)return;this.dirty.add(k);clearTimeout(this.t);this.t=setTimeout(()=>this.flush(),150)},
+  body(keys){return JSON.stringify({items:keys.map(k=>({k,v:mem[k],t:tmOf(k)||Date.now()}))})},
+  async flush(){if(this.busy||!this.on||!this.dirty.size)return;this.busy=true;const keys=[...this.dirty];this.dirty.clear();
+    try{const r=await fetch(API,{method:"PUT",headers:{"Content-Type":"application/json"},body:this.body(keys),credentials:"same-origin"});
+      if(r.status===401){location.href="/login";return}
+      if(!r.ok)throw new Error(r.status);setSync("cloud")}
+    catch(e){keys.forEach(k=>this.dirty.add(k));setSync("retry");clearTimeout(this.t);this.t=setTimeout(()=>this.flush(),5000)}
+    finally{this.busy=false;if(this.dirty.size&&this.on){clearTimeout(this.t);this.t=setTimeout(()=>this.flush(),150)}}},
+  /* When the tab closes: send what's left with keepalive so the browser finishes the request. */
+  beacon(){if(!this.on||!this.dirty.size)return;const keys=[...this.dirty],b=this.body(keys);
+    if(b.length>60000){this.flush();return}
+    try{fetch(API,{method:"PUT",headers:{"Content-Type":"application/json"},body:b,keepalive:true,credentials:"same-origin"});this.dirty.clear()}catch(e){}}};
+/* Local edit times, so the newest copy (this browser or your account) always wins. */
+let TM={};try{TM=JSON.parse(localStorage.getItem("rt20-_t")||"{}")||{}}catch(e){}
+function tmOf(k){return TM[k]||0}
+function touch(k,t){TM[k]=t||Date.now();try{localStorage.setItem("rt20-_t",JSON.stringify(TM))}catch(e){}}
+function flushNow(){clearTimeout(cloud.t);cloud.beacon()}
+addEventListener("pagehide",flushNow);
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="hidden")flushNow()});
+const store={get(k,d){if(k in mem)return mem[k];try{const v=localStorage.getItem(k);if(v)return mem[k]=JSON.parse(v)}catch(e){}return d},
+  set(k,v,t){mem[k]=v;touch(k,t);try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}cloud.push(k)}};
+function setSync(st){const el=$("#sync");if(!el)return;
+  el.className="sync"+(st==="cloud"?" on":" warn");
+  el.textContent=st==="cloud"?"✓ Saved to your account, on any device · บันทึกในบัญชีแล้ว เปิดเครื่องไหนก็เจอ"
+    :st==="retry"?"Can't reach the server. Your answers are kept on this device and will upload when you're back online. · ออฟไลน์อยู่ จะอัปโหลดเมื่อกลับมาออนไลน์"
+    :"Offline: saving on this device for now · ออฟไลน์ บันทึกในเครื่องนี้ไว้ก่อน";}
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+const pad=n=>String(n).padStart(3,"0");
+let S=null,cur=0,order=[],answers={},submitted=false,vFilter="all",aFilter="all",viewA=null;
+
+/* ---------- helpers ---------- */
+function segs(s){return [...s.matchAll(/\[([^\]]+)\]/g)].map(m=>m[1])}
+function optsOf(q){return q.t==="err"?segs(q.s):q.o}
+function correctOf(q){return q.t==="err"?q.a:0}
+function errHTML(s,hi){let k=0;return esc(s).replace(/\[([^\]]+)\]/g,(m,t)=>{const i=k++;return i===hi?`<mark>${t}</mark>`:`<u>${t}<sub>${L[i]}</sub></u>`})}
+function dlgHTML(s){return `<div class="dlg">`+s.split("\n").map(line=>{const m=line.match(/^([A-Z][a-z]*):\s*(.*)$/);return m?`<span class="who">${esc(m[1])}:</span><span>${esc(m[2])}</span>`:`<span></span><span>${esc(line)}</span>`}).join("")+`</div>`}
+function stemHTML(q){return q.t==="err"?`<div class="errs">${errHTML(q.s,-1)}</div>`:q.t==="dlg"?dlgHTML(q.s):`<div>${esc(q.s)}</div>`}
+function wordRe(w){
+  const toks=w.toLowerCase().replace(/\(.*?\)/g,"").replace(/sb|sth|someone|something/g," ").split(/[\s\/]+/).filter(Boolean).filter(t=>/^[a-z'-]+$/.test(t));
+  if(!toks.length)return null;
+  const part=t=>{if(t.length<=3)return t+"(?:s|es|ed|d|ing|n|ne)?";let st=t.replace(/(e|y)$/,"");return st.replace(/[-]/g,"[- ]?")+"[a-z]{0,4}"};
+  return new RegExp("\\b"+toks.map(part).join("\\W+(?:\\w+\\W+)?")+"\\b","i");
+}
+function examText(){return S.q.map((q,i)=>({i,txt:(q.s+" "+(q.t==="err"?"":q.o.join(" "))).replace(/[\[\]]/g,"")}))}
+
+/* ---------- home ---------- */
+function bestOf(k){const h=store.get("rt20-h-"+k,[]);return h.length?Math.max(...h.map(x=>x.s)):null}
+function nextSet(){for(let k=1;k<=READY;k++)if(bestOf(k)===null)return k;return READY||1}
+function renderHome(){
+  let done=0,html="";const nx=nextSet();
+  for(let k=1;k<=TOTAL;k++){
+    const b=bestOf(k);if(b!==null)done++;
+    const ready=k<=READY;
+    html+=`<button class="tile${b!==null?" done":""}${k===nx&&ready?" next":""}" data-set="${k}" ${ready?"":"disabled"} aria-label="Set ${k}${b!==null?", best "+b+" of 50":""}"><span class="n">${k}</span><span class="s">${b!==null?b+"/50":ready?"New":"Soon"}</span></button>`;
+  }
+  $("#setgrid").innerHTML=html;
+  $("#doneCount").textContent=`${done} of ${TOTAL} sets done`;
+  $("#todayName").textContent=READY?`Set ${nx}`:"Sets are being written";
+  $("#todayNote").textContent=READY?(bestOf(nx)!==null?`All ready sets done. Best score here: ${bestOf(nx)}/50.`:"Study the 40 words, then take the exam. อ่านคำศัพท์ 40 คำ แล้วทำข้อสอบ"):"Check back soon.";
+  $("#todayBtn").hidden=!READY;
+  renderBank();
+  const na=allAttempts().length;$("#histNote").textContent=na?`${na} test${na>1?"s":""} submitted. Tap to see any of them again. ส่งแล้ว ${na} ครั้ง แตะเพื่อดูย้อนหลัง`:"Every test you submit is kept with your answers. ทุกชุดที่ส่งแล้วจะเก็บคำตอบไว้ให้ดูย้อนหลัง";
+  const now=new Date(),exam=new Date(2027,2,20);
+  $("#days").textContent=Math.max(0,Math.ceil((exam-new Date(now.getFullYear(),now.getMonth(),now.getDate()))/864e5));
+}
+$("#setgrid").addEventListener("click",e=>{const t=e.target.closest(".tile");if(t&&!t.disabled)openSet(+t.dataset.set)});
+$("#todayBtn").addEventListener("click",()=>openSet(nextSet()));
+function goHome(){$("#history").hidden=true;$("#setview").hidden=true;$("#review").hidden=true;$("#grammar").hidden=true;$("#gquiz").hidden=true;$("#words").hidden=true;$("#home").hidden=false;renderHome();window.scrollTo(0,0)}
+$("#back").addEventListener("click",goHome);
+function allAttempts(){const out=[];for(let k=1;k<=TOTAL;k++){store.get("rt20-h-"+k,[]).forEach((x,i)=>out.push({...x,k,i}))}
+  return out.sort((a,b)=>(b.t||0)-(a.t||0)||b.k-a.k||b.i-a.i)}
+function renderHistory(){
+  const all=allAttempts();
+  $("#hList").innerHTML=all.length?all.map(x=>`<button class="hrow" data-k="${x.k}" data-i="${x.i}" ${x.a?"":"disabled"}>
+    <span class="stack" style="gap:0"><b>Set ${x.k}</b><span class="note">${esc(x.d)}${x.a?" · tap to see answers · แตะเพื่อดูคำตอบ":" · answers not saved (taken before this update) · ครั้งนี้ไม่ได้บันทึกคำตอบ"}</span></span>
+    <span class="hs">${x.s}<small style="font-size:14px;color:var(--muted)">/50</small></span></button>`).join(""):'<p class="note">No tests submitted yet. ยังไม่ได้ส่งข้อสอบชุดไหน</p>';
+}
+$("#histBtn").addEventListener("click",()=>{$("#home").hidden=true;$("#history").hidden=false;renderHistory();window.scrollTo(0,0)});
+$("#hBack").addEventListener("click",goHome);
+$("#hList").addEventListener("click",e=>{const b=e.target.closest(".hrow");if(!b||b.disabled)return;$("#history").hidden=true;OPEN_AT=+b.dataset.i;openSet(+b.dataset.k)});
+
+/* ---------- set ---------- */
+async function openSet(k){
+  cur=k;$("#home").hidden=true;$("#setview").hidden=false;$("#setTitle").textContent=`Set ${k} of ${TOTAL}`;
+  $("#loadMsg").hidden=true;["vocab","exam","answers"].forEach(v=>$("#view-"+v).hidden=true);
+  try{const r=await fetch(`sets/set${pad(k)}.json`);if(!r.ok)throw 0;S=await r.json()}
+  catch(e){$("#loadMsg").textContent="This set couldn't load. Check your internet connection and open it again. โหลดชุดนี้ไม่ได้ กรุณาตรวจสอบอินเทอร์เน็ตแล้วลองใหม่";$("#loadMsg").hidden=false;return}
+  const sv=store.get("rt20-a-"+k,null);
+  if(sv&&sv.order&&sv.order.length===S.q.length){order=sv.order;answers=sv.answers||{};submitted=!!sv.submitted}else newAttempt();
+  vFilter="all";aFilter="all";
+  renderVocab();renderExam();
+  viewA=null;
+  const past=pastAttempts(k);
+  if(submitted){renderAnswers();show("answers")}
+  else{if(past.length){viewA=past[past.length-1].i;renderAnswers()}else $("#tab-ans").disabled=true;show(Object.keys(answers).length?"exam":"vocab")}
+  if(OPEN_AT!==null){const h=store.get("rt20-h-"+k,[]);viewA=(submitted&&OPEN_AT===h.length-1)?null:OPEN_AT;OPEN_AT=null;renderAnswers();show("answers")}
+}
+let OPEN_AT=null,userRetry=false;
+function newAttempt(){
+  answers={};submitted=false;
+  order=S.q.map(q=>{const a=[0,1,2,3];if(q.t!=="err")for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a});
+  save(!userRetry);userRetry=false;
+}
+/* A brand-new empty attempt is stamped as old (1), so it never replaces answers already saved in your account. */
+function save(fresh){store.set("rt20-a-"+cur,{order,answers,submitted},fresh?1:0)}
+function show(view){
+  ["vocab","exam","answers"].forEach(v=>{$("#view-"+v).hidden=v!==view});
+  document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-selected",b.dataset.view===view));
+  window.scrollTo(0,0);
+}
+document.querySelector("nav").addEventListener("click",e=>{const b=e.target.closest("button");if(b&&!b.disabled)show(b.dataset.view)});
+$("#toExam").addEventListener("click",()=>show("exam"));
+
+function renderVocab(){
+  const ex=examText();
+  const lv=["all","A1","A2","B1","B2"];
+  $("#vtools").innerHTML=lv.map(l=>`<button class="chip" data-l="${l}" aria-pressed="${vFilter===l}">${l==="all"?"All":l}</button>`).join("");
+  $("#vocab").innerHTML=S.v.filter(v=>vFilter==="all"||v[2]===vFilter).map(([w,p,l,t,e])=>{
+    const re=wordRe(w);let refs=[];
+    if(re){refs=ex.filter(x=>re.test(x.txt)).map(x=>"Q"+(x.i+1));S.p.forEach((p,pi)=>{if(re.test(p.t+" "+p.x))refs.push("Reading "+(pi+1))})}
+    return `<div class="vcard"><div class="vtop"><span class="word">${esc(w)}</span><span class="pos">${esc(p)}</span><span class="lvl ${l}">${l}</span></div><span class="thai">${esc(t)}</span><p class="ex">${esc(e).replace(/\*([^*]+)\*/g,"<em>$1</em>")}</p>${refs.length?`<span class="qref">In the exam: ${refs.slice(0,4).join(", ")}</span>`:""}</div>`}).join("");
+}
+$("#vtools").addEventListener("click",e=>{const b=e.target.closest(".chip");if(b){vFilter=b.dataset.l;renderVocab()}});
+
+function renderExam(){
+  let html="",pt="",pp=-1;
+  S.q.forEach((q,i)=>{
+    if(q.t!==pt){pt=q.t;const P=PART[pt];html+=`<div class="part"><span class="eyebrow">${P[0]}</span><h3>${P[1]}</h3><span class="th">${P[2]}</span></div>`}
+    if(q.t==="read"&&q.p!==pp){pp=q.p;const P=S.p[pp];html+=`<div class="passage"><span class="eyebrow">Reading ${pp+1}</span><h3>${esc(P.t)}</h3>${P.x.split("\n").map(x=>`<p>${esc(x)}</p>`).join("")}</div>`}
+    const os=optsOf(q);
+    html+=`<div class="q"><div class="qtext"><span class="qn">${i+1}.</span><div class="qbody"><span><span class="lvl ${q.l}">${q.l}</span></span>${stemHTML(q)}</div></div><div class="opts${q.t==="err"?" e4":""}">`+
+      order[i].map((oi,pos)=>`<label><input type="radio" name="q${i}" id="s${cur}q${i}o${pos}" value="${oi}" ${answers[i]===oi?"checked":""}><span><b>${L[pos]}</b>${esc(os[oi])}</span></label>`).join("")+`</div></div>`;
+  });
+  $("#exam").innerHTML=html;updateProgress();$("#confirm").hidden=true;
+}
+function updateProgress(){$("#progress").textContent=`${Object.keys(answers).length} / ${S.q.length} answered`}
+$("#exam").addEventListener("change",e=>{if(e.target.name){answers[+e.target.name.slice(1)]=+e.target.value;updateProgress();save()}});
+
+function grade(A){A=A||answers;
+  let score=0;const lv={A1:[0,0],A2:[0,0],B1:[0,0],B2:[0,0]},pt={gap:[0,0],err:[0,0],dlg:[0,0],read:[0,0]};
+  S.q.forEach((q,i)=>{const ok=A[i]===correctOf(q);lv[q.l][1]++;pt[q.t][1]++;if(ok){score++;lv[q.l][0]++;pt[q.t][0]++}});
+  return{score,lv,pt};
+}
+function pastAttempts(k){return store.get("rt20-h-"+k,[]).map((x,i)=>({...x,i})).filter(x=>x.a&&x.o)}
+function renderAnswers(){
+  const h=store.get("rt20-h-"+cur,[]);
+  const V=viewA!==null&&h[viewA]&&h[viewA].a?h[viewA]:null;
+  const A=V?V.a:answers,O=V?V.o:order;
+  const{score,lv,pt}=grade(A);
+  $("#viewNote").hidden=!V;
+  if(V)$("#viewNote").innerHTML=`Showing your attempt from <b>${esc(V.d)}</b> (${V.s}/50). แสดงคำตอบที่คุณเคยทำเมื่อ ${esc(V.d)}${submitted?' <button class="chip" id="viewLatest">Show latest · ดูครั้งล่าสุด</button>':""}`;
+  $("#bigScore").innerHTML=`${score}<small>/${S.q.length}</small>`;
+  $("#partScores").innerHTML=Object.entries(pt).map(([k,[a,b]])=>`<div>${PART[k][1].replace("Complete the ","")}<br><b>${a}/${b}</b></div>`).join("");
+  $("#lvlScores").innerHTML=Object.entries(lv).map(([k,[a,b]])=>`<div><span class="lvl ${k}">${k}</span> <b>${a}/${b}</b></div>`).join("");
+  const latest=V?viewA:(submitted?h.length-1:-1);
+  $("#hist").innerHTML=h.length?h.map((x,i)=>x.a?`<button class="chip" data-h="${i}" aria-pressed="${i===latest}">${esc(x.d)} · ${x.s}/50</button>`:`<span title="Answers were not saved for this attempt">${esc(x.d)} · ${x.s}/50</span>`).slice(-12).join(""):"<span>No scores yet</span>";
+  $("#nextSet").hidden=cur>=READY;
+  $("#practiseSet").hidden=!Object.values(mistakes()).some(it=>it.s===cur);
+  document.querySelectorAll("#ansFilter .chip").forEach(c=>c.setAttribute("aria-pressed",c.dataset.f===aFilter));
+  let html="",pp=-1;
+  S.q.forEach((q,i)=>{
+    const c=correctOf(q),pick=A[i],ok=pick===c,os=optsOf(q),posOf=oi=>L[O[i].indexOf(oi)];
+    if(aFilter==="bad"&&ok)return;
+    const yours=pick===undefined?'<span class="wrong">No answer</span>':ok?`${posOf(pick)}. ${esc(os[pick])}`:`<span class="wrong">${posOf(pick)}. ${esc(os[pick])}</span>`;
+    let body="";
+    if(q.t==="err"){
+      const others=[0,1,2,3].filter(k=>k!==c);
+      body=`<div class="errs">${errHTML(q.s,c)}</div>
+        <div class="right">✓ ${L[c]} is wrong: “${esc(os[c])}”<br>Correct sentence: ${esc(q.fix)}</div>
+        <div class="why"><p><span class="lang">WHY · EN</span>${esc(q.en)}</p><p><span class="lang">ทำไม · TH</span>${esc(q.th)}</p></div>
+        <ul class="not">${others.map((k,j)=>`<li><span class="opt fine">${L[k]}. ${esc(os[k])}</span> ✓ correct as it is: ${esc(q.x[j][0])}<br><span class="th">${esc(q.x[j][1])}</span></li>`).join("")}</ul>`;
+    }else{
+      if(q.t==="read"&&q.p!==pp){pp=q.p}
+      body=`${q.t==="read"?`<span class="qref">Reading ${q.p+1}: ${esc(S.p[q.p].t)}</span>`:""}${stemHTML(q)}
+        <div class="right">✓ ${posOf(0)}. ${esc(q.o[0])}</div>
+        <div class="why"><p><span class="lang">WHY · EN</span>${esc(q.en)}</p><p><span class="lang">ทำไม · TH</span>${esc(q.th)}</p></div>
+        <ul class="not">${[1,2,3].map(k=>`<li><span class="opt bad">${posOf(k)}. ${esc(q.o[k])}</span> ✗ ${esc(q.x[k-1][0])}<br><span class="th">${esc(q.x[k-1][1])}</span></li>`).join("")}</ul>`;
+    }
+    html+=`<div class="ans ${ok?"ok":"bad"}"><div class="vtop"><span class="mark">${i+1}. ${ok?"✓ Correct":"✗ Wrong"}</span><span class="lvl ${q.l}">${q.l}</span><span class="qref">${PART[q.t][1]}</span></div>
+      <div class="your">Your answer: ${yours}</div>${body}</div>`;
+  });
+  $("#answers").innerHTML=html||'<p class="note">No mistakes. Excellent! ไม่มีข้อผิดเลย เยี่ยมมาก!</p>';
+  $("#tab-ans").disabled=false;
+}
+$("#ansFilter").addEventListener("click",e=>{const b=e.target.closest(".chip");if(b){aFilter=b.dataset.f;renderAnswers()}});
+$("#hist").addEventListener("click",e=>{const b=e.target.closest("[data-h]");if(!b)return;const i=+b.dataset.h,h=store.get("rt20-h-"+cur,[]);
+  viewA=(submitted&&i===h.length-1)?null:i;renderAnswers();$("#view-answers").scrollIntoView({block:"start"})});
+$("#viewNote").addEventListener("click",e=>{if(e.target.closest("#viewLatest")){viewA=null;renderAnswers()}});
+
+function doSubmit(){
+  submitted=true;$("#confirm").hidden=true;
+  const{score}=grade(),h=store.get("rt20-h-"+cur,[]),d=new Date();
+  h.push({d:`${d.getDate()}/${d.getMonth()+1}`,s:score,t:Date.now(),a:{...answers},o:order});store.set("rt20-h-"+cur,h.slice(-20));
+  viewA=null;
+  recordMistakes(cur,S,answers);
+  save();renderAnswers();show("answers");
+}
+$("#submit").addEventListener("click",()=>{
+  const left=S.q.length-Object.keys(answers).length;
+  if(left>0){$("#confirmText").textContent=`You still have ${left} unanswered question${left>1?"s":""}. ยังมีข้อที่ไม่ได้ตอบ ${left} ข้อ`;$("#confirm").hidden=false;$("#confirm").scrollIntoView({block:"center"})}
+  else doSubmit();
+});
+$("#confirmYes").addEventListener("click",doSubmit);
+$("#confirmNo").addEventListener("click",()=>{$("#confirm").hidden=true});
+$("#again").addEventListener("click",()=>{userRetry=true;newAttempt();renderExam();const past=pastAttempts(cur);
+  if(past.length){viewA=past[past.length-1].i;renderAnswers()}else $("#tab-ans").disabled=true;show("exam")});
+$("#nextSet").addEventListener("click",()=>openSet(cur+1));
+
+/* ---------- mistake bank ---------- */
+const SC={};
+async function loadSet(k){if(SC[k])return SC[k];const r=await fetch(`sets/set${pad(k)}.json`);if(!r.ok)throw 0;return SC[k]=await r.json()}
+function mistakes(){return store.get("rt20-m",{})}
+function todayStr(){const d=new Date();return `${d.getDate()}/${d.getMonth()+1}`}
+function recordMistakes(k,T,ans){
+  const m={...mistakes()},d=todayStr();
+  T.q.forEach((q,i)=>{const key=k+"-"+i,c=correctOf(q),p=ans[i];
+    if(p===c)delete m[key];
+    else{const o=m[key]||{n:0};m[key]={s:k,q:i,n:o.n+1,p:p===undefined?-1:p,d}}});
+  const keys=Object.keys(m);if(keys.length>1500)keys.sort((a,b)=>m[a].s-m[b].s).slice(0,keys.length-1500).forEach(x=>delete m[x]);
+  store.set("rt20-m",m);
+}
+function renderBank(){
+  const n=Object.keys(mistakes()).length;
+  $("#mCount").textContent=n===1?"1 question":`${n} questions`;
+  $("#reviewBtn").hidden=!n;
+  $("#mNote").textContent=n?"Answer each one correctly to clear it from the bank. ตอบให้ถูกเพื่อเอาออกจากคลัง":"Every question you get wrong is saved here. Answer it correctly to clear it. ข้อที่ตอบผิดจะถูกเก็บไว้ที่นี่ ตอบถูกแล้วจะหายไปจากคลัง";
+}
+/* Older attempts made before the bank existed: add their mistakes once. */
+async function backfill(){
+  if(store.get("rt20-m",null)!==null)return;
+  const m={};mem["rt20-m"]=m;
+  for(let k=1;k<=READY;k++){const a=store.get("rt20-a-"+k,null);if(!a||!a.submitted)continue;
+    try{const T=await loadSet(k);recordMistakes(k,T,a.answers||{})}catch(e){}}
+  store.set("rt20-m",mistakes());
+  if(!$("#home").hidden)renderBank();
+}
+
+let RV={queue:[],i:0,ok:0,bad:0,cleared:0,only:null,f:"all",picked:null,ord:null};
+const RVF=[["all","All"],["gap","Part 1 · Sentences"],["err","Part 2 · Find the mistake"],["dlg","Part 3 · Conversations"],["read","Part 4 · Reading"]];
+async function openReview(onlySet){
+  RV.only=onlySet||null;RV.f="all";
+  $("#home").hidden=true;$("#setview").hidden=true;$("#review").hidden=false;window.scrollTo(0,0);
+  $("#rvTitle").textContent=onlySet?`Practise Set ${onlySet} mistakes`:"Practise my mistakes";
+  $("#rvCard").hidden=true;$("#rvSetup").hidden=false;
+  $("#rvFilter").innerHTML='<span class="note">Loading… กำลังโหลด</span>';$("#rvStart").disabled=true;
+  const items=Object.values(mistakes()).filter(it=>!onlySet||it.s===onlySet);
+  const sets=[...new Set(items.map(it=>it.s))];
+  await Promise.all(sets.map(k=>loadSet(k).catch(()=>null)));
+  renderRvFilter();
+  if(onlySet)startRound();
+}
+function rvItems(){
+  return Object.entries(mistakes()).filter(([k,it])=>(!RV.only||it.s===RV.only)&&SC[it.s]&&SC[it.s].q[it.q]&&(RV.f==="all"||SC[it.s].q[it.q].t===RV.f));
+}
+function renderRvFilter(){
+  const all=Object.values(mistakes()).filter(it=>(!RV.only||it.s===RV.only)&&SC[it.s]&&SC[it.s].q[it.q]);
+  $("#rvFilter").innerHTML=RVF.map(([f,name])=>{const n=f==="all"?all.length:all.filter(it=>SC[it.s].q[it.q].t===f).length;
+    return `<button class="chip" data-f="${f}" aria-pressed="${RV.f===f}" ${n?"":"disabled"}>${name} (${n})</button>`}).join("");
+  $("#rvStart").disabled=!rvItems().length;
+}
+$("#rvFilter").addEventListener("click",e=>{const b=e.target.closest(".chip");if(b&&!b.disabled){RV.f=b.dataset.f;renderRvFilter()}});
+function startRound(){
+  const it=rvItems();
+  for(let i=it.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[it[i],it[j]]=[it[j],it[i]]}
+  it.sort((a,b)=>b[1].n-a[1].n);
+  RV.queue=it.slice(0,20).map(([k])=>k);RV.i=0;RV.ok=0;RV.bad=0;RV.cleared=0;
+  if(!RV.queue.length)return;
+  $("#rvSetup").hidden=true;$("#rvCard").hidden=false;renderRvQ();
+}
+$("#rvStart").addEventListener("click",startRound);
+$("#reviewBtn").addEventListener("click",()=>openReview());
+$("#practiseSet").addEventListener("click",()=>openReview(cur));
+$("#rvBack").addEventListener("click",goHome);
+
+function rvCtx(){const key=RV.queue[RV.i],it=mistakes()[key]||RV.snap[key],T=SC[it.s],q=T.q[it.q];return{key,it,T,q}}
+function passageHTML(T,q){const P=T.p[q.p];return `<details class="passage"><summary>Reading ${q.p+1}: ${esc(P.t)} (tap to open · แตะเพื่อเปิด)</summary>${P.x.split("\n").map(x=>`<p>${esc(x)}</p>`).join("")}</details>`}
+function renderRvQ(){
+  RV.snap=RV.snap||{};const key=RV.queue[RV.i];RV.snap[key]=mistakes()[key]||RV.snap[key];
+  const{it,T,q}=rvCtx();RV.picked=null;
+  RV.ord=q.t==="err"?[0,1,2,3]:(()=>{const a=[0,1,2,3];for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a})();
+  const os=optsOf(q),P=PART[q.t];
+  $("#rvCard").innerHTML=`<div class="rvbar"><i style="width:${RV.i/RV.queue.length*100}%"></i></div>
+    <div class="rvtop"><span class="tally">Question ${RV.i+1} of ${RV.queue.length}</span><span class="lvl ${q.l}">${q.l}</span><span class="qref">Set ${it.s} · Q${it.q+1} · ${P[1]}</span><span class="qref">${it.n>1?`missed ${it.n} times · ผิด ${it.n} ครั้ง`:""}</span></div>
+    <span class="th">${P[2]}</span>
+    ${q.t==="read"?passageHTML(T,q):""}
+    <div class="qbody">${stemHTML(q)}</div>
+    <div class="rvopts${q.t==="err"?" e4":""}" id="rvOpts">${RV.ord.map((oi,pos)=>`<button data-oi="${oi}"><b>${L[pos]}</b>${esc(os[oi])}</button>`).join("")}</div>
+    <div id="rvFb" class="stack" hidden></div>`;
+}
+function whyNot(q,k){/* explanation for option k (original index), when k is not the answer */
+  if(q.t==="err"){const others=[0,1,2,3].filter(x=>x!==q.a);const j=others.indexOf(k);return q.x[j]}
+  return q.x[k-1];
+}
+$("#rvCard").addEventListener("click",e=>{
+  const b=e.target.closest("#rvOpts button");
+  if(b&&RV.picked===null){answerRv(+b.dataset.oi);return}
+  if(e.target.closest("#rvNext")){RV.i++;if(RV.i<RV.queue.length)renderRvQ();else rvSummary();window.scrollTo(0,0)}
+  if(e.target.closest("#rvAgain")){RV.f="all";renderRvFilter();if(rvItems().length){startRound()}else{goHome()}}
+  if(e.target.closest("#rvHome"))goHome();
+});
+function answerRv(pick){
+  RV.picked=pick;const{key,it,T,q}=rvCtx();const c=correctOf(q),ok=pick===c,os=optsOf(q),pos=oi=>L[RV.ord.indexOf(oi)];
+  document.querySelectorAll("#rvOpts button").forEach(x=>{const oi=+x.dataset.oi;x.disabled=true;if(oi===c)x.classList.add("isright");if(oi===pick&&!ok)x.classList.add("pickbad")});
+  const m={...mistakes()};
+  if(ok){delete m[key];RV.ok++;RV.cleared++}else{m[key]={...it,n:(it.n||0)+1,p:pick,d:todayStr()};RV.bad++}
+  store.set("rt20-m",m);
+  let html=`<span class="verdict ${ok?"ok":"bad"}">${ok?"✓ Correct! Removed from your mistake bank. ถูกต้อง! เอาออกจากคลังแล้ว":"✗ Not yet. It stays in your bank for next time. ยังไม่ถูก เก็บไว้ทำใหม่รอบหน้า"}</span>`;
+  if(q.t==="err")html+=`<div class="errs">${errHTML(q.s,c)}</div><div class="right">✓ ${L[c]} is the mistake: “${esc(os[c])}”<br>Correct sentence: ${esc(q.fix)}</div>`;
+  else html+=`<div class="right">✓ ${pos(0)}. ${esc(q.o[0])}</div>`;
+  html+=`<div class="why"><p><span class="lang">WHY · EN</span>${esc(q.en)}</p><p><span class="lang">ทำไม · TH</span>${esc(q.th)}</p></div>`;
+  const youWhy=(k,label)=>{const w=whyNot(q,k);const lead=q.t==="err"?`${L[k]}. “${esc(os[k])}” is not the mistake; it's correct as written.`:`${pos(k)}. “${esc(os[k])}” is wrong.`;
+    return `<div class="youpick"><b>${label}</b><br>${lead} ${esc(w[0])}<br><span class="th">${esc(w[1])}</span></div>`};
+  if(!ok)html+=youWhy(pick,"Why your answer is wrong · ทำไมคำตอบของคุณผิด");
+  if(it.p>=0&&it.p!==c&&it.p!==pick)html+=youWhy(it.p,"Last time you chose · ครั้งก่อนคุณเลือก");
+  const rest=[0,1,2,3].filter(k=>k!==c&&k!==pick&&k!==it.p);
+  if(rest.length)html+=`<ul class="not">${rest.map(k=>{const w=whyNot(q,k);return q.t==="err"
+    ?`<li><span class="opt fine">${L[k]}. ${esc(os[k])}</span> ✓ correct as it is: ${esc(w[0])}<br><span class="th">${esc(w[1])}</span></li>`
+    :`<li><span class="opt bad">${pos(k)}. ${esc(os[k])}</span> ✗ ${esc(w[0])}<br><span class="th">${esc(w[1])}</span></li>`}).join("")}</ul>`;
+  html+=`<div class="row"><button class="btn" id="rvNext">${RV.i+1<RV.queue.length?"Next question →":"See my result"}</button></div>`;
+  const fb=$("#rvFb");fb.innerHTML=html;fb.hidden=false;fb.scrollIntoView({block:"nearest"});
+}
+function rvSummary(){
+  const left=rvItems().length,total=Object.keys(mistakes()).length;
+  $("#rvCard").innerHTML=`<div class="rvbar"><i style="width:100%"></i></div>
+    <span class="eyebrow">Round finished · จบรอบแล้ว</span>
+    <div class="bigscore">${RV.ok}<small>/${RV.queue.length}</small></div>
+    <p class="note">${RV.cleared} cleared from your bank. ${total} question${total===1?"":"s"} still to practise. เอาออกจากคลัง ${RV.cleared} ข้อ เหลือ ${total} ข้อ</p>
+    <div class="row">${left?'<button class="btn" id="rvAgain">Another round</button>':""}<button class="btn ghost" id="rvHome">← All sets</button></div>`;
+}
+
+/* Grammar guide data: [id, level, title EN, title TH, rule TH, formula, examples[], mistakes [[wrong, right]], tip TH, mine(bool: user got it wrong in sets 1-2)] */
+const GRAMMAR=[
+["present-simple","A1","Present simple","ปัจจุบันกาลธรรมดา",
+ "ใช้กับสิ่งที่ทำเป็นประจำ นิสัย หรือความจริงทั่วไป ประธานเอกพจน์บุรุษที่ 3 (he, she, it, ชื่อคน 1 คน, my brother) กริยาต้องเติม -s / -es แต่ในประโยคปฏิเสธและคำถามที่มี does / doesn't กริยากลับไปเป็นรูปปกติ (ไม่เติม s)",
+ "I / you / we / they + V1 · he / she / it + V-s · doesn't / does + V1",
+ ["My brother wakes up at six every day.","She doesn't like spicy food.","Does your sister work in a bank?"],
+ [["My sister have two cats.","My sister has two cats."],["She doesn't likes it.","She doesn't like it."],["My grandparents visits us.","My grandparents visit us."]],
+ "เช็กประธานก่อนทุกครั้ง: ถ้าเป็น 1 คน/1 สิ่ง → เติม s · ถ้ามี does/doesn't แล้ว → ห้ามเติมซ้ำ",true],
+["there-is-are","A1","There is / There are","มี (บอกว่ามีอะไรอยู่)",
+ "ใช้ There is กับนามเอกพจน์หรือนามนับไม่ได้ ใช้ There are กับนามพหูพจน์ ดูคำนามที่ตามมาเป็นหลัก",
+ "There is + a/an + นามเอกพจน์ · There is + นามนับไม่ได้ · There are + นามพหูพจน์",
+ ["There is a bank near my house.","There is some milk in the fridge.","There are three bedrooms in our house."],
+ [["There is three bedrooms.","There are three bedrooms."],["There are many pigeon.","There are many pigeons."]],
+ "ดูคำนามหลัง is/are: มี s (พหูพจน์) → are",false],
+["countable","A1","Countable & uncountable nouns","นามนับได้ / นับไม่ได้",
+ "นามนับได้ (apple, book) มีพหูพจน์ ใช้ many, a few, How many · นามนับไม่ได้ (water, money, news, advice, information, furniture, homework) ไม่มี s ใช้ much, a little, How much · some / a lot of ใช้ได้ทั้งสองแบบ",
+ "How many + นามพหูพจน์ · How much + นามนับไม่ได้ · some + พหูพจน์ / นับไม่ได้",
+ ["How many apples do you want?","I don't eat much meat.","Would you like some vegetables?"],
+ [["How much apples do you want?","How many apples do you want?"],["I don't eat many meat.","I don't eat much meat."],["some vegetable","some vegetables"],["The news are bad.","The news is bad."]],
+ "news, advice, information, homework, money, furniture นับไม่ได้เสมอ — ห้ามเติม s และใช้กริยาเอกพจน์",true],
+["articles","A1","a / an / the","คำนำหน้านาม",
+ "a ใช้หน้าเสียงพยัญชนะ an ใช้หน้าเสียงสระ (ดูที่เสียง ไม่ใช่ตัวอักษร: an hour, a university) · the ใช้กับสิ่งที่ผู้ฟังรู้ว่าหมายถึงอันไหน หรือมีอันเดียว (the sun) · นามนับได้เอกพจน์ต้องมีคำนำหน้าเสมอ",
+ "a + เสียงพยัญชนะ · an + เสียงสระ · the + สิ่งที่เจาะจง",
+ ["I want an iced coffee.","She's a university student.","Put the cans in the blue bin."],
+ [["I want a iced coffee.","I want an iced coffee."],["Hairdresser cut my hair.","The hairdresser cut my hair."],["She is a honest girl.","She is an honest girl."]],
+ "นามนับได้เอกพจน์ 1 ตัว (book, doctor, car) ห้ามอยู่ลอย ๆ ต้องมี a / an / the / my / his ฯลฯ",false],
+["can-modals","A1","can / should / must + V1","กริยาช่วย + กริยาช่องหนึ่ง",
+ "หลังกริยาช่วย (can, could, will, would, should, must, may, might) ใช้กริยาช่องหนึ่ง ไม่มี to ไม่เติม s ไม่เติม -ing · ยกเว้น have to, need to, ought to ที่มี to",
+ "modal + V1 (ไม่มี to)",
+ ["Can I ask a question?","You should put an ice pack on it.","You might pull a muscle."],
+ [["Can I asking a question?","Can I ask a question?"],["You should to speak up.","You should speak up."],["She can swims.","She can swim."]],
+ "should / can / must ไม่เคยตามด้วย to",false],
+["prep-time","A1","at / on / in (time)","บุพบทบอกเวลา",
+ "at + เวลาบนนาฬิกา, night, midnight, the weekend (UK) · on + วัน, วันที่ (on Monday, on 20 March) · in + เดือน, ปี, ฤดู, ช่วงของวัน (in May, in 2027, in the morning)",
+ "at 6 o'clock · on Monday · in March",
+ ["The exam starts at nine o'clock.","My exam is on 20 March.","I go to bed at midnight."],
+ [["in six o'clock","at six o'clock"],["in Monday","on Monday"],["at the morning","in the morning"]],
+ "เล็กสุด (เวลา) → at · กลาง (วัน) → on · ใหญ่ (เดือน/ปี) → in",false],
+["past-simple","A2","Past simple","อดีตกาลธรรมดา",
+ "ใช้กับเหตุการณ์ที่จบไปแล้วในอดีต มักมีคำบอกเวลา (yesterday, last week, ago, in 2020) · ประโยคบอกเล่าใช้ V2 · ปฏิเสธและคำถามใช้ did / didn't + V1 (กริยากลับเป็นช่องหนึ่ง)",
+ "V2 · didn't + V1 · Did + ประธาน + V1?",
+ ["My mother baked a cake yesterday.","We didn't go to the restaurant.","Did you see the news?"],
+ [["We didn't went.","We didn't go."],["Did you saw it?","Did you see it?"],["I buyed a T-shirt.","I bought a T-shirt."],["I falled.","I fell."]],
+ "มี did / didn't แล้ว → กริยาต้องเป็นช่องหนึ่งเสมอ ท่องกริยาผิดปกติให้ขึ้นใจ: go-went, buy-bought, fall-fell, see-saw, make-made",true],
+["present-continuous","A2","Present continuous","ปัจจุบันกาลกำลังกระทำ",
+ "ใช้กับสิ่งที่กำลังเกิดขึ้นตอนนี้ หรือแผนในอนาคตอันใกล้ที่จัดไว้แล้ว · กริยาบอกสภาพ (like, know, want, need, believe) ปกติไม่ใช้ -ing",
+ "am / is / are + V-ing",
+ ["My mother is cooking in the kitchen.","I'm meeting Tom tomorrow.","Look! It's raining."],
+ [["I am knowing the answer.","I know the answer."],["She cooking now.","She is cooking now."]],
+ "อย่าลืม am/is/are หน้า V-ing",false],
+["comparatives","A2","Comparatives & superlatives","ขั้นกว่า ขั้นสูงสุด",
+ "คุณศัพท์สั้น (1 พยางค์ และ 2 พยางค์ลงท้าย -y) เติม -er / -est (happy → happier) · คุณศัพท์ยาวใช้ more / most · ขั้นกว่าตามด้วย than · ผิดปกติ: good-better-best, bad-worse-worst, far-further",
+ "short: -er than / the -est · long: more … than / the most …",
+ ["The MRT is faster than the bus.","It was the hardest decision of my life.","This is the most expensive phone."],
+ [["more fast","faster"],["the most funny","the funniest"],["older that","older than"],["more better","better"]],
+ "ห้ามใช้ more + -er ซ้อนกัน และขั้นกว่าใช้ than ไม่ใช่ that / then",false],
+["future","A2","will / going to","อนาคต",
+ "will: ตัดสินใจตอนพูด, คาดการณ์, สัญญา · be going to: แผนที่ตั้งใจไว้แล้ว หรือมีหลักฐานเห็นอยู่ (Look at the clouds! It's going to rain.) · หลัง will ใช้ V1",
+ "will + V1 · am/is/are going to + V1",
+ ["I'll help you.","Next year, I'm going to study abroad.","Maybe people will live on Mars."],
+ [["will lives","will live"],["I go to a new school next year.","I'll go / I'm going to go to a new school next year."]],
+ "",false],
+["present-perfect","A2","Present perfect & for / since","ปัจจุบันกาลสมบูรณ์",
+ "ใช้เชื่อมอดีตกับปัจจุบัน: ประสบการณ์ (I've never…), สิ่งที่เริ่มในอดีตและยังทำอยู่ · for + ช่วงเวลา (for three years) · since + จุดเริ่มต้น (since 2020, since I was ten) · ถ้ามีเวลาในอดีตที่ชัดเจน (yesterday, last week, ago) ห้ามใช้ present perfect",
+ "have / has + V3 · for + ระยะเวลา · since + จุดเวลา",
+ ["He has lived here for three years.","I've studied English since I was ten.","I've never tasted such a delicious dessert."],
+ [["since three years","for three years"],["My mother has baked a cake yesterday.","My mother baked a cake yesterday."],["I have ordered it last week.","I ordered it last week."]],
+ "for = นานเท่าไร · since = ตั้งแต่เมื่อไร · เห็น yesterday / ago / last … → ใช้ past simple",true],
+["gerund-inf","A2","Verb + -ing or to + V","กริยาที่ตามด้วย -ing หรือ to V",
+ "บางกริยาตามด้วย -ing: enjoy, finish, mind, suggest, avoid, keep, practise, look forward to · บางกริยาตามด้วย to V: want, need, decide, hope, plan, promise, agree, would like · like / love / hate ใช้ได้ทั้งสอง · หลังบุพบท (before, after, about, of, for, without, instead of) ใช้ -ing เสมอ · forget / remember + to V = จะต้องทำ",
+ "enjoy + V-ing · want + to V · preposition + V-ing",
+ ["I like eating noodles.","I'm looking forward to seeing you.","Don't forget to check your answers.","She suggested using the cloud."],
+ [["I like eat noodles.","I like eating / to eat noodles."],["nobody wanted eating it","nobody wanted to eat it"],["before recycle them","before recycling them"],["I want be a vet.","I want to be a vet."]],
+ "look forward to / be used to: to ในที่นี้เป็นบุพบท → ตามด้วย -ing",true],
+["adverbs","A2","Adjective vs adverb","คุณศัพท์กับกริยาวิเศษณ์",
+ "คุณศัพท์ขยายคำนาม หรือตามหลัง be / look / feel / taste / sound · กริยาวิเศษณ์ขยายกริยา (ทำอย่างไร) ส่วนใหญ่เติม -ly · good → well, fast → fast, hard → hard",
+ "adj + noun · be/look/taste + adj · V + adverb",
+ ["This soup tastes good.","Dad cooked the pancakes very well.","The lights switch on automatically."],
+ [["cooked very good","cooked very well"],["switch on automatic","switch on automatically"]],
+ "ถามว่า 'ทำอย่างไร' → ใช้ adverb",false],
+["conditionals-12","B1","1st & 2nd conditional","ประโยคเงื่อนไขแบบที่ 1 และ 2",
+ "แบบที่ 1: เรื่องที่เป็นไปได้จริงในอนาคต If + present, will + V1 · แบบที่ 2: เรื่องสมมติ ไม่จริงในปัจจุบัน If + past, would + V1 (If I were…) · ห้ามใช้ will ในส่วน If",
+ "If + V1/V-s, … will + V1 · If + V2 / were, … would + V1",
+ ["If you order now, the food will arrive in twenty minutes.","If I were you, I wouldn't get a tattoo.","If I had more money, I would buy a new phone."],
+ [["If you will order now…","If you order now…"],["If I pass, I would be happy.","If I pass, I will be happy."],["If I found a wallet, I will return it.","If I found a wallet, I would return it."]],
+ "จับคู่ให้ถูก: present ↔ will · past ↔ would",true],
+["time-clauses","B1","after / when / until / before + present","อนุประโยคบอกเวลา",
+ "หลัง when, after, before, until, as soon as, by the time ถึงจะพูดถึงอนาคต ให้ใช้ present simple ไม่ใช้ will",
+ "after / when / until + V1 (present) , … will …",
+ ["Can you help me after you finish your lunch?","Knead the dough until it is smooth.","By the time we retire, robots may do most jobs."],
+ [["after you will finish","after you finish"],["until it will be smooth","until it is smooth"],["By the time we will retire…","By the time we retire…"]],
+ "คำบอกเวลา + will = ผิดเสมอ",true],
+["passive","B1","Passive voice","ประโยคกรรมวาจก (ถูกกระทำ)",
+ "ใช้เมื่อสนใจสิ่งที่ถูกกระทำมากกว่าผู้กระทำ รูป: be + V3 · be เปลี่ยนตามกาล (is / was / will be / has been / should be) แต่ V3 ไม่เปลี่ยน",
+ "be + V3 (+ by …)",
+ ["The essays are marked by two examiners.","The story was written by a young reporter.","Most cars will be driven by computers."],
+ [["was wrote","was written"],["are mark","are marked"],["The roses should prune.","The roses should be pruned."],["They were made leave.","They were made to leave."]],
+ "passive ต้องมีทั้ง be และ V3 เสมอ",false],
+["relative","B1","Relative clauses","who / which / that / whose / where",
+ "who = คน · which = สิ่งของ · that = ได้ทั้งคนและสิ่งของ (ในประโยคแบบไม่มีจุลภาค) · whose = ของใคร · where = สถานที่ · ถ้ามีจุลภาค (ข้อมูลเสริม) ห้ามใช้ that ให้ใช้ who / which · ถ้าอ้างถึงทั้งประโยคข้างหน้า ใช้ , which",
+ "noun + who / which / that + clause",
+ ["The man who lives next door is our neighbour.","Hydroponics, which uses water instead of soil, is popular.","The manager, whose feedback was constructive, was popular."],
+ [["a museum who has a mummy","a museum that / which has a mummy"],["Sleep apnoea, that often goes undiagnosed…","Sleep apnoea, which often goes undiagnosed…"],["…festivals, what enrich local culture","…festivals, which enrich local culture"],["who's feedback","whose feedback"]],
+ "มีจุลภาค → which / who เท่านั้น",false],
+["past-perfect","B1","Past continuous & past perfect","อดีตกาลกำลังกระทำ / อดีตสมบูรณ์",
+ "past continuous (was/were + V-ing): เหตุการณ์ฉากหลังที่กำลังเกิด แล้วมีเหตุการณ์อื่นแทรก · past perfect (had + V3): เหตุการณ์ที่เกิดก่อนอีกเหตุการณ์ในอดีต",
+ "was/were + V-ing · had + V3",
+ ["While I was walking down the street, I saw a busker.","When I arrived, the exam had already started."],
+ [["While I walked down the street, I saw…","While I was walking down the street, I saw…"],["the train has already left","the train had already left"]],
+ "",false],
+["used-to","B1","used to / be used to","เคย / เคยชิน",
+ "used to + V1 = เคยทำเป็นประจำในอดีต (ตอนนี้ไม่ทำแล้ว) · be / get used to + V-ing = เคยชิน คุ้นเคย",
+ "used to + V1 · be used to + V-ing",
+ ["I used to take the bus, but now I take the BTS.","She is used to drinking coffee without sugar.","I'm used to working the night shift."],
+ [["I was used to take the bus.","I used to take the bus."],["She is used to drink coffee.","She is used to drinking coffee."]],
+ "",false],
+["reported","B1","Reported questions & embedded questions","คำถามซ้อน / คำถามรายงาน",
+ "เมื่อคำถามอยู่ในประโยคอื่น (I don't know…, Can you tell me…, She asked…) ใช้ลำดับคำแบบประโยคบอกเล่า: ประธาน + กริยา ไม่ใช้ do / does / did · คำถาม yes/no ใช้ if / whether",
+ "wh- + ประธาน + กริยา",
+ ["I didn't understand what he meant.","She asked me where I had read the article.","Can you tell me if the museum is open?"],
+ [["what did he mean","what he meant"],["where did I read","where I had read"]],
+ "",false],
+["contrast","B1","although / despite / in spite of / but","คำแสดงความขัดแย้ง",
+ "although / even though + ประโยค (ประธาน + กริยา) · despite / in spite of + คำนาม หรือ V-ing (despite ไม่มี of) · although กับ but ห้ามใช้คู่กันในประโยคเดียว",
+ "although + clause · despite + noun / V-ing",
+ ["Although she had stage fright, she gave a great performance.","Despite her busy schedule, she calls her parents.","Despite suffering a serious injury, she made a comeback."],
+ [["Despite of her busy schedule","Despite her busy schedule"],["Although I water them, but they die.","Although I water them, they die."],["Despite suffer an injury","Despite suffering an injury"]],
+ "despite of = ผิดเสมอ (in spite of มี of ได้)",true],
+["such-so","B1","so / such / too / enough","มาก… จน… / เกินไป / พอ",
+ "so + คุณศัพท์ (so delicious) · such a + คุณศัพท์ + นามเอกพจน์ (such a delicious dessert) · too + adj + to V (เกินไปจนทำไม่ได้) · adj + enough + to V",
+ "so + adj · such (a) + adj + noun · too + adj + to V",
+ ["I've never tasted such a delicious dessert.","The meat was so overcooked that nobody wanted to eat it.","She was too stressed to sleep."],
+ [["so a delicious dessert","such a delicious dessert"],["too stressed for sleep","too stressed to sleep"],["enough old","old enough"]],
+ "มีคำนามตามมา → such · ไม่มีคำนาม → so",true],
+["prep-verbs","B1","Verb / adjective + preposition","กริยาและคุณศัพท์ที่ต้องใช้บุพบทเฉพาะ",
+ "บุพบทหลังคำต่อไปนี้ต้องจำเป็นคู่: argue about (เรื่อง) / argue with (คน) · depend on · look after (ดูแล) · good at · interested in · responsible for · afraid of · waste money on · stand up for (ยืนหยัดเพื่อ) · apologise for",
+ "",
+ ["We sometimes argue about small things.","It depends on the weather.","Children should be responsible for their rooms.","She is good at making decisions."],
+ [["argue for small things","argue about small things"],["good in making decisions","good at making decisions"],["waste money in snacks","waste money on snacks"]],
+ "จดคู่คำ + บุพบทไว้ในสมุดทุกครั้งที่เจอ",true],
+["conditional-3","B2","3rd conditional & mixed","ประโยคเงื่อนไขแบบที่ 3",
+ "ใช้สมมติเรื่องในอดีตที่ไม่ได้เกิดขึ้นจริง (เสียดาย / คิดย้อนหลัง) If + had + V3, would have + V3",
+ "If + had + V3, … would have + V3",
+ ["If I had known you were exhausted, I would have helped you.","If I had studied harder, I would have passed the exam."],
+ [["…, I would help you.","…, I would have helped you."],["…, I would pass the exam.","…, I would have passed the exam."]],
+ "had ในส่วน If ↔ would have ในอีกส่วน ต้องมาเป็นคู่",true],
+["inversion-cond","B2","Inverted conditionals: Had / Were / Should","เงื่อนไขแบบสลับ (ไม่มี if)",
+ "ตัด if แล้วยก had / were / should ขึ้นหน้าประธาน ความหมายเหมือนเดิม ส่วนหลังใช้ would / would have เหมือนเงื่อนไขปกติ",
+ "Had + S + V3, … would have V3 · Were + S + to V, … would V1 · Should + S + V1, … (imperative / will)",
+ ["Had I managed my time better, I would have finished.","Were scientists to achieve fusion, energy would become almost free.","Should your home be hacked, contact the police."],
+ [["Had I managed…, I would finish.","Had I managed…, I would have finished."],["Were the city to ban hawkers, it will lose…","…, it would lose…"],["Should your home is hacked","Should your home be hacked"]],
+ "",false],
+["inversion","B2","Inversion after negative words","การสลับประธานกับกริยาช่วยหลังคำปฏิเสธ",
+ "เมื่อขึ้นต้นประโยคด้วย Never, Rarely, Seldom, Little, Not only, Hardly … when, No sooner … than, Not until, Only when / Only by, Under no circumstances ต้องสลับเป็น กริยาช่วย + ประธาน เหมือนคำถาม ถ้าไม่มีกริยาช่วยให้เติม do / does / did",
+ "Never / Rarely / Not only + aux + S + V",
+ ["Rarely does a leader admit mistakes so openly.","Not only did she pass, but she also got the highest score.","Hardly had we sat down when the waiter brought the menu.","Not until I lived abroad did I understand…"],
+ [["Rarely a leader admits mistakes.","Rarely does a leader admit mistakes."],["No sooner I had opened the paper…","No sooner had I opened the paper…"],["Only when they arrived they realised…","Only when they arrived did they realise…"]],
+ "ข้อสอบ B2 ชอบออกมาก: เห็นคำพวกนี้ต้นประโยค → หาว่าสลับหรือยัง · Hardly…when / No sooner…than ใช้ had + V3",false],
+["agreement","B2","Tricky subject–verb agreement","ประธานกับกริยาที่ชอบหลอก",
+ "The number of + พหูพจน์ → กริยาเอกพจน์ (has) · A number of → พหูพจน์ · Each / Every / Each of the … → เอกพจน์ · Much of the data → เอกพจน์ · ประธานที่เป็น V-ing → เอกพจน์ (Telling lies is…) · someone / everyone → เอกพจน์",
+ "",
+ ["The number of immigrants has increased.","Each of the devices collects data.","Telling lies is wrong.","Much of the data is used for adverts."],
+ [["The number of immigrants have increased.","…has increased."],["Telling lies are wrong.","Telling lies is wrong."],["someone else are going to help","someone else is going to help"]],
+ "หาคำนามหลักของประธานให้เจอ แล้วค่อยเลือกกริยา",false],
+["wish-time","B2","wish / It's (high) time / would rather","ความปรารถนา",
+ "wish + past simple = อยากให้ปัจจุบันต่างไป · wish + past perfect = เสียดายเรื่องในอดีต · It's (high) time + past simple = ถึงเวลาที่ควรทำแล้ว · I'd rather + V1",
+ "wish + V2 / had V3 · It's time + V2",
+ ["I wish I spoke English fluently.","I wish I had studied harder.","It's high time schools stopped ranking students."],
+ [["It's high time schools stop…","It's high time schools stopped…"],["I wish I can swim.","I wish I could swim."]],
+ "",false],
+["cleft","B2","Cleft sentences: It is … that","ประโยคเน้น",
+ "ใช้เน้นข้อมูลส่วนใดส่วนหนึ่ง It is / was + ส่วนที่เน้น + that / who + ส่วนที่เหลือ · กริยาในส่วนหลังสอดคล้องกับสิ่งที่เน้น",
+ "It is + X + that + …",
+ ["It is the Maillard reaction that gives toast its flavour.","It is emotional intelligence that makes a great leader."],
+ [["It is the Maillard reaction what gives…","It is the Maillard reaction that gives…"],["…that make a great leader","…that makes a great leader"]],
+ "",false]
+];
+
+let gF="all";
+function renderGrammar(){
+  const fs=[["all","All 29"],["mine","My weak points · จุดอ่อนของฉัน"],["A1","A1"],["A2","A2"],["B1","B1"],["B2","B2"]];
+  $("#gFilter").innerHTML=fs.map(([f,n])=>`<button class="chip" data-f="${f}" aria-pressed="${gF===f}">${n}</button>`).join("");
+  $("#gList").innerHTML=GRAMMAR.filter(g=>gF==="all"||(gF==="mine"?g[9]:g[1]===gF)).map(([id,l,t,th,rule,f,ex,mis,tip,mine])=>`
+    <details class="gitem" id="g-${id}"><summary><span class="lvl ${l}">${l}</span><span class="gt">${esc(t)}</span>${mine?'<span class="mine">You missed this · ผิดบ่อย</span>':""}<span class="gth">${esc(th)}</span></summary>
+    <div class="gbody"><p>${esc(rule)}</p>${f?`<div class="formula">${esc(f)}</div>`:""}
+      <div><span class="eyebrow">Examples · ตัวอย่าง</span><ul class="gex">${ex.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+      <div class="gmis"><span class="eyebrow">Common mistakes · จุดที่ชอบผิด</span>${mis.map(([w,r])=>`<div><span class="x">✗</span><span class="xw">${esc(w)}</span><span class="v">✓</span><span>${esc(r)}</span></div>`).join("")}</div>
+      ${tip?`<div class="tip">💡 ${esc(tip)}</div>`:""}
+      <div class="gpr"><button class="btn" data-gq="${id}">Practise this · ฝึก 10 ข้อ</button><span class="gstat">${gqStat(id)}</span></div></div></details>`).join("");
+}
+$("#gFilter").addEventListener("click",e=>{const b=e.target.closest(".chip");if(b){gF=b.dataset.f;renderGrammar()}});
+$("#gList").addEventListener("click",e=>{const b=e.target.closest("[data-gq]");if(b)startGq(b.dataset.gq)});
+
+/* ---------- grammar practice ---------- */
+let GQ=null;const GQS={topic:null,queue:[],i:0,ok:0,picked:null,ord:null,results:[]};
+const COLLO=[["c-make-do", "A2", "make or do?", "make กับ do", "make มักใช้กับการสร้าง ผลิต หรือทำให้เกิดสิ่งใหม่ ส่วน do ใช้กับงาน หน้าที่ และกิจกรรมทั่วไป ต้องจำเป็นคู่ เพราะแปลเป็นไทยว่า \"ทำ\" เหมือนกัน", [["make a decision", "ตัดสินใจ", "It was a hard decision to make."], ["make a mistake", "ทำผิดพลาด", "Everyone makes mistakes."], ["make money", "หาเงิน", "She makes money by selling cakes."], ["make a noise", "ส่งเสียงดัง", "Don't make a noise; the baby is asleep."], ["make friends", "ผูกมิตร", "It's easy to make friends at university."], ["make progress", "ก้าวหน้า", "You're making good progress."], ["make an effort", "พยายาม", "Please make an effort to arrive on time."], ["make a phone call", "โทรศัพท์", "I need to make a phone call."], ["make a plan", "วางแผน", "Let's make a plan for the weekend."], ["do homework", "ทำการบ้าน", "I do my homework after dinner."], ["do the housework", "ทำงานบ้าน", "We share the housework."], ["do the shopping", "ซื้อของ (ประจำ)", "Mum does the shopping on Saturdays."], ["do exercise", "ออกกำลังกาย", "Do some exercise every day."], ["do your best", "ทำให้ดีที่สุด", "Just do your best in the exam."], ["do a favour", "ช่วยธุระ", "Can you do me a favour?"], ["do business", "ทำธุรกิจ", "They do business with China."], ["do damage", "สร้างความเสียหาย", "The storm did a lot of damage."]], "งานและหน้าที่ → do · สร้างสิ่งใหม่ คำพูด เสียง เงิน → make"], ["c-have-take", "A2", "have, take, get, give, pay, keep", "กริยาเบา ๆ ที่ใช้คู่กับคำนาม", "คำนามหลายคำต้องใช้คู่กับกริยาเฉพาะ ภาษาไทยอาจใช้คำว่า \"ทำ\" หรือ \"เอา\" แต่ภาษาอังกฤษเลือกกริยาต่างกัน", [["have a shower", "อาบน้ำ (ฝักบัว)", "I have a shower every morning."], ["have breakfast", "กินอาหารเช้า", "We have breakfast at seven."], ["have a good time", "สนุก", "Have a good time at the party!"], ["take a photo", "ถ่ายรูป", "Can I take a photo of you?"], ["take a break", "พัก", "Let's take a ten-minute break."], ["take an exam", "สอบ", "I'm taking the exam in March."], ["take care of", "ดูแล", "Who takes care of your dog?"], ["get married", "แต่งงาน", "They got married last year."], ["get lost", "หลงทาง", "We got lost in the old town."], ["get ready", "เตรียมตัว", "Get ready! The bus is coming."], ["give advice", "ให้คำแนะนำ", "Can you give me some advice?"], ["give a presentation", "นำเสนอ", "She gave a presentation in English."], ["pay attention", "ตั้งใจ ใส่ใจ", "Pay attention to the instructions."], ["pay a visit", "ไปเยี่ยม", "We paid a visit to our grandparents."], ["keep a promise", "รักษาสัญญา", "He always keeps his promises."], ["keep in touch", "ติดต่อกันไว้", "Let's keep in touch!"], ["catch a cold", "เป็นหวัด", "I caught a cold in the rain."]], "จดเป็นคู่ทั้งก้อน เช่น take a photo (ไม่ใช่ make a photo) · give advice (ไม่ใช่ say advice) · pay attention (ไม่ใช่ give attention)"], ["c-verb-prep", "B1", "Verb + preposition", "กริยา + บุพบท", "กริยาหลายคำต้องตามด้วยบุพบทเฉพาะก่อนคำนาม ถ้าใช้บุพบทผิด ประโยคจะผิดทันที ข้อสอบ Find the mistake ชอบออกเรื่องนี้", [["depend on", "ขึ้นอยู่กับ", "It depends on the weather."], ["listen to", "ฟัง", "Listen to the teacher."], ["look after", "ดูแล", "She looks after her grandmother."], ["look for", "มองหา", "I'm looking for my keys."], ["agree with (sb)", "เห็นด้วยกับ (คน)", "I agree with you."], ["argue about", "เถียงกันเรื่อง", "They argue about money."], ["apologise for", "ขอโทษที่/เรื่อง", "He apologised for being late."], ["belong to", "เป็นของ", "This bag belongs to me."], ["consist of", "ประกอบด้วย", "The exam consists of four parts."], ["rely on", "พึ่งพา", "You can rely on me."], ["succeed in", "สำเร็จใน", "She succeeded in passing the test."], ["insist on", "ยืนกราน", "He insisted on paying."], ["suffer from", "ทนทุกข์จาก, เป็น (โรค)", "She suffers from headaches."], ["pay for", "จ่ายค่า", "Who paid for the tickets?"], ["wait for", "รอ", "We waited for the bus."], ["concentrate on", "ตั้งสมาธิกับ", "Concentrate on your work."], ["complain about", "บ่นเรื่อง", "Guests complained about the noise."]], "หลังบุพบทถ้าเป็นกริยาต้องเติม -ing: apologise for being, succeed in passing, insist on paying"], ["c-adj-prep", "B1", "Adjective + preposition", "คุณศัพท์ + บุพบท", "คุณศัพท์บางคำต้องตามด้วยบุพบทเฉพาะ ใช้บ่อยมากในการพูดถึงความรู้สึกและความสามารถ", [["good at", "เก่ง", "She's good at maths."], ["bad at", "ไม่เก่ง", "I'm bad at drawing."], ["interested in", "สนใจ", "I'm interested in history."], ["afraid of", "กลัว", "He's afraid of dogs."], ["proud of", "ภูมิใจใน", "We're proud of you."], ["responsible for", "รับผิดชอบ", "Who's responsible for this?"], ["famous for", "มีชื่อเสียงเรื่อง", "Thailand is famous for its food."], ["similar to", "คล้ายกับ", "Your bag is similar to mine."], ["different from", "ต่างจาก", "Thai is different from English."], ["keen on", "ชอบมาก", "He's keen on football."], ["aware of", "ตระหนักถึง", "Are you aware of the risks?"], ["worried about", "กังวลเรื่อง", "I'm worried about the exam."], ["tired of", "เบื่อ", "I'm tired of waiting."], ["full of", "เต็มไปด้วย", "The box is full of toys."], ["married to", "แต่งงานกับ", "She's married to a doctor."], ["capable of", "สามารถ", "He's capable of doing better."], ["fond of", "ชอบ", "I'm fond of my grandmother's cooking."]], "ความรู้สึกส่วนใหญ่ใช้ about / of · ความสามารถใช้ at"], ["c-noun-prep", "B1", "Noun + preposition", "คำนาม + บุพบท", "คำนามบางคำต้องตามด้วยบุพบทเฉพาะ พบมากในบทความระดับ B1–B2 และในการเขียน essay", [["reason for", "เหตุผลของ", "What's the reason for the delay?"], ["cause of", "สาเหตุของ", "Smoking is a major cause of cancer."], ["increase in", "การเพิ่มขึ้นของ", "There's been an increase in prices."], ["decrease in", "การลดลงของ", "A decrease in sales"], ["solution to", "ทางแก้ของ", "There's no easy solution to this problem."], ["answer to", "คำตอบของ", "What's the answer to question 5?"], ["demand for", "ความต้องการ", "Demand for electric cars is growing."], ["effect on", "ผลกระทบต่อ", "Social media has an effect on sleep."], ["advantage of", "ข้อดีของ", "The advantage of living here is the price."], ["interest in", "ความสนใจใน", "She has an interest in art."], ["access to", "การเข้าถึง", "Everyone needs access to clean water."], ["attitude towards", "ทัศนคติต่อ", "His attitude towards work is good."], ["damage to", "ความเสียหายต่อ", "The flood caused damage to homes."], ["invitation to", "คำเชิญไป", "Thanks for the invitation to your party."], ["relationship with", "ความสัมพันธ์กับ", "I have a good relationship with my boss."], ["need for", "ความจำเป็นของ", "There's a need for more teachers."], ["lack of", "การขาด", "Lack of sleep makes me tired."]], "increase / decrease / rise / fall + in (เพิ่มขึ้นในอะไร) แต่ + of (เพิ่มขึ้นเท่าไร): an increase of 10%"], ["c-pairs", "B1", "Paired words in a sentence", "คำเชื่อมที่ต้องมาเป็นคู่", "คำเชื่อมบางคำต้องมาเป็นคู่ในประโยคเดียวกันเสมอ ถ้าใช้คู่ผิด เช่น neither…or ประโยคจะผิด", [["both … and", "ทั้ง…และ", "Both my mother and my father work."], ["either … or", "ไม่…ก็… (เลือกหนึ่ง)", "You can either call or email me."], ["neither … nor", "ไม่ทั้ง…และ", "Neither Tom nor Ben came."], ["not only … but also", "ไม่เพียงแต่…แต่ยัง", "She is not only smart but also kind."], ["whether … or", "ไม่ว่า…หรือ", "Whether you like it or not, you must go."], ["between … and", "ระหว่าง…กับ", "between 8 and 9 o'clock"], ["from … to", "จาก…ถึง", "from Monday to Friday"], ["so … that", "มาก…จน", "It was so hot that we stayed inside."], ["such … that", "…มากจน (มีคำนาม)", "It was such a hot day that we stayed inside."], ["as … as", "…เท่ากับ", "He is as tall as his father."], ["the more … the more", "ยิ่ง…ยิ่ง", "The more you practise, the better you get."], ["would rather … than", "อยาก…มากกว่า", "I'd rather walk than take a taxi."], ["prefer … to", "ชอบ…มากกว่า", "I prefer tea to coffee."], ["too … to", "…เกินกว่าจะ", "He's too tired to work."], ["hardly … when", "ทันทีที่…ก็", "Hardly had I arrived when it rained."], ["no sooner … than", "ทันทีที่…ก็", "No sooner had I sat down than the phone rang."]], "neither ↔ nor · either ↔ or · prefer ↔ to · rather ↔ than · no sooner ↔ than · hardly ↔ when"], ["c-adj-noun", "B2", "Adjective + noun", "คุณศัพท์ + คำนามที่ใช้คู่กัน", "ภาษาอังกฤษใช้คุณศัพท์บางคำคู่กับคำนามบางคำ ถ้าแปลตรงจากภาษาไทย มักเลือกคำผิด เช่น \"ฝนตกหนัก\" ต้องเป็น heavy rain ไม่ใช่ strong rain", [["heavy rain", "ฝนตกหนัก", "Heavy rain caused flooding."], ["heavy traffic", "รถติดมาก", "There's heavy traffic on Sukhumvit."], ["strong wind", "ลมแรง", "A strong wind blew the tree down."], ["strong coffee", "กาแฟเข้ม", "I need a strong coffee."], ["high price", "ราคาสูง", "Prices are high this year."], ["fast food", "อาหารจานด่วน", "Fast food is unhealthy."], ["close friend", "เพื่อนสนิท", "She's my close friend."], ["deep sleep", "หลับลึก", "He fell into a deep sleep."], ["bitter disappointment", "ผิดหวังอย่างรุนแรง", "Losing was a bitter disappointment."], ["narrow escape", "รอดหวุดหวิด", "We had a narrow escape."], ["great success", "ความสำเร็จอย่างมาก", "The party was a great success."], ["serious problem", "ปัญหาร้ายแรง", "Pollution is a serious problem."], ["heavy smoker", "คนสูบบุหรี่จัด", "He was a heavy smoker."], ["light meal", "อาหารมื้อเบา", "I had a light meal before bed."], ["common sense", "สามัญสำนึก", "Use your common sense."], ["golden opportunity", "โอกาสทอง", "This is a golden opportunity."], ["brief summary", "สรุปสั้น ๆ", "Give a brief summary of the article."]], "ฝน/รถติด/คนสูบ → heavy · ลม/กาแฟ/ชา → strong · ราคา/เงินเดือน → high"], ["c-phrasal", "B1", "Common phrasal verbs", "กริยาวลีที่ใช้บ่อย", "กริยา + คำเล็ก ๆ (up, off, out…) จะได้ความหมายใหม่ที่เดาจากคำแยกไม่ได้ ต้องจำทั้งก้อน", [["give up", "ยอมแพ้, เลิก", "Don't give up!"], ["look forward to", "ตั้งตารอ", "I look forward to seeing you."], ["put off", "เลื่อน", "Don't put off your homework."], ["turn down", "ปฏิเสธ, หรี่เสียง", "She turned down the job offer."], ["find out", "ค้นพบ, รู้", "I found out the truth."], ["run out of", "หมด", "We've run out of milk."], ["come up with", "คิดออก", "She came up with a great idea."], ["get on with", "เข้ากันได้ดีกับ", "I get on well with my sister."], ["carry on", "ทำต่อ", "Carry on reading."], ["set up", "ก่อตั้ง, ติดตั้ง", "They set up a new company."], ["take up", "เริ่มทำ (งานอดิเรก)", "I took up yoga last year."], ["look up", "ค้นหา (คำ)", "Look up the word in a dictionary."], ["break down", "เสีย (เครื่อง)", "My car broke down."], ["pick up", "ไปรับ", "I'll pick you up at six."], ["fill in", "กรอก", "Fill in this form."], ["turn up", "มาถึง, เพิ่มเสียง", "He turned up late."], ["cut down on", "ลด (การกิน/ใช้)", "Cut down on sugar."]], "look forward to / get used to: to เป็นบุพบท ตามด้วย -ing"], ["c-verb-noun", "B2", "Verb + noun (B2)", "กริยา + คำนาม ระดับ B2", "คู่คำระดับสูงที่พบบ่อยในบทอ่าน B2 และการเขียน essay ใช้แล้วทำให้ภาษาดูเป็นธรรมชาติ", [["raise awareness", "สร้างความตระหนัก", "The campaign aims to raise awareness of plastic waste."], ["reach a decision", "ได้ข้อสรุป ตัดสินใจได้", "The team reached a decision."], ["meet a deadline", "ทำทันกำหนด", "We must meet the deadline."], ["pose a threat", "เป็นภัยคุกคาม", "Rising sea levels pose a threat to Bangkok."], ["draw a conclusion", "สรุปผล", "What conclusion can we draw?"], ["conduct research", "ทำวิจัย", "Scientists conducted research on sleep."], ["take into account", "คำนึงถึง", "Take the cost into account."], ["play a role", "มีบทบาท", "Diet plays a role in health."], ["run a business", "ดำเนินธุรกิจ", "She runs a small business."], ["break a record", "ทำลายสถิติ", "He broke the world record."], ["break the law", "ทำผิดกฎหมาย", "Don't break the law."], ["face a challenge", "เผชิญความท้าทาย", "Cities face many challenges."], ["set a goal", "ตั้งเป้าหมาย", "Set a clear goal."], ["gain experience", "ได้ประสบการณ์", "Volunteering helps you gain experience."], ["save time", "ประหยัดเวลา", "Online shopping saves time."], ["take action", "ลงมือทำ", "We must take action now."], ["make a difference", "สร้างความเปลี่ยนแปลง", "Small changes can make a difference."]], "ใช้ในการเขียน essay ได้ทันที เช่น This poses a serious threat… / We must take action…"], ["c-adv-adj", "B2", "Adverb + adjective", "คำขยายที่ใช้คู่กับคุณศัพท์", "คำขยายบางคำนิยมใช้คู่กับคุณศัพท์บางคำ แทนการใช้ very ซ้ำ ๆ ช่วยให้ภาษาฟังเป็นระดับ B2", [["highly recommended", "แนะนำอย่างยิ่ง", "This book is highly recommended."], ["deeply concerned", "กังวลอย่างมาก", "We're deeply concerned about the floods."], ["bitterly disappointed", "ผิดหวังอย่างมาก", "He was bitterly disappointed."], ["fully aware", "ตระหนักดี", "I'm fully aware of the risks."], ["absolutely delicious", "อร่อยสุด ๆ", "The curry was absolutely delicious."], ["completely different", "ต่างกันโดยสิ้นเชิง", "The two cities are completely different."], ["widely known", "เป็นที่รู้จักอย่างกว้างขวาง", "It is widely known that sugar is bad."], ["seriously injured", "บาดเจ็บสาหัส", "Two people were seriously injured."], ["perfectly clear", "ชัดเจนมาก", "Is that perfectly clear?"], ["totally exhausted", "เหนื่อยสุด ๆ", "I'm totally exhausted."], ["strongly believe", "เชื่ออย่างแรงกล้า", "I strongly believe in equality."], ["badly damaged", "เสียหายหนัก", "The house was badly damaged."], ["entirely possible", "เป็นไปได้ทั้งหมด", "It's entirely possible."], ["painfully slow", "ช้าอย่างน่าหงุดหงิด", "The internet is painfully slow."], ["easily accessible", "เข้าถึงได้ง่าย", "The museum is easily accessible by BTS."]], "คุณศัพท์ที่แรงอยู่แล้ว (delicious, exhausted, amazing) ใช้ absolutely / totally ได้ แต่ไม่ใช้ very"]];
+const gT=id=>GRAMMAR.find(g=>g[0]===id)||COLLO.find(g=>g[0]===id);
+let wF="all";
+function renderWords(){
+  const fs=[["all","All 10"],["A2","A2"],["B1","B1"],["B2","B2"]];
+  $("#wFilter").innerHTML=fs.map(([f,n])=>`<button class="chip" data-f="${f}" aria-pressed="${wF===f}">${n}</button>`).join("");
+  $("#wList").innerHTML=COLLO.filter(c=>wF==="all"||c[1]===wF).map(([id,l,t,th,intro,items,tip])=>`
+    <details class="gitem" id="g-${id}"><summary><span class="lvl ${l}">${l}</span><span class="gt">${esc(t)}</span><span class="gth">${esc(th)} · ${items.length} pairs</span></summary>
+    <div class="gbody"><p>${esc(intro)}</p>
+      <table class="wtab">${items.map(([w,m,e])=>`<tr><td>${esc(w)}</td><td>${esc(m)}<br><span class="wex">${esc(e)}</span></td></tr>`).join("")}</table>
+      ${tip?`<div class="tip">💡 ${esc(tip)}</div>`:""}
+      <div class="gpr"><button class="btn" data-gq="${id}">Practise this · ฝึก 10 ข้อ</button><span class="gstat">${gqStat(id)}</span></div></div></details>`).join("");
+}
+$("#wFilter").addEventListener("click",e=>{const b=e.target.closest(".chip");if(b){wF=b.dataset.f;renderWords()}});
+$("#wList").addEventListener("click",e=>{const b=e.target.closest("[data-gq]");if(b)startGq(b.dataset.gq)});
+$("#wordsBtn").addEventListener("click",()=>{$("#home").hidden=true;$("#words").hidden=false;wF="all";renderWords();window.scrollTo(0,0)});
+$("#wBack").addEventListener("click",goHome);
+$("#wMix").addEventListener("click",()=>startMix(COLLO.map(c=>c[0]),"Word partners · คำที่ใช้คู่กัน",false));
+async function loadGq(){if(GQ)return GQ;const r=await fetch("grammar-quiz.json");if(!r.ok)throw 0;return GQ=await r.json()}
+function gqProg(){return store.get("rt20-gq",{})}
+function gqStat(id){const p=gqProg()[id];if(!p||!p.rounds)return "Not practised yet · ยังไม่ได้ฝึก";
+  return `Last: ${p.last}/10 · Best: ${p.best}/10 · ${p.rounds} round${p.rounds>1?"s":""}${p.wrong&&p.wrong.length?` · ${p.wrong.length} to fix`:""}`}
+const shuf=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+function pickRound(id,n){
+  const P=gqProg()[id]||{},N=GQ[id].length,wrong=(P.wrong||[]).filter(i=>i<N),seen=new Set(P.seen||[]);
+  const unseen=shuf([...Array(N).keys()].filter(i=>!seen.has(i)&&!wrong.includes(i)));
+  const rest=shuf([...Array(N).keys()].filter(i=>seen.has(i)&&!wrong.includes(i)));
+  return [...shuf([...wrong]),...unseen,...rest].slice(0,n).map(i=>[id,i]);
+}
+async function openGq(title){
+  $("#grammar").hidden=true;$("#words").hidden=true;$("#home").hidden=true;$("#gquiz").hidden=false;$("#gqTitle").textContent=title;window.scrollTo(0,0);
+  $("#gqCard").innerHTML='<p class="note">Loading… กำลังโหลด</p>';
+  try{await loadGq();return true}catch(e){$("#gqCard").innerHTML='<p class="err-msg">The questions couldn\'t load. Check your internet and try again. โหลดไม่ได้ กรุณาลองใหม่</p>';return false}
+}
+async function startGq(id){
+  const g=gT(id);if(!await openGq(`${g[2]} · ${g[3]}`))return;
+  GQS.topic=id;GQS.from=id.startsWith("c-")?"words":"grammar";GQS.queue=pickRound(id,10);beginGq();
+}
+function startWeak(){
+  const P=gqProg();
+  startMix(GRAMMAR.filter(g=>g[9]||((P[g[0]]&&P[g[0]].wrong)||[]).length).map(g=>g[0]),"My weak points · จุดอ่อนของฉัน",true);
+}
+async function startMix(ids,title,isWeak){
+  GQS.from=isWeak?"grammar":"words";GQS.mix=[ids,title,isWeak];
+  if(!await openGq(title))return;
+  const P=gqProg();let q=[];
+  ids.forEach(id=>{const w=(P[id]&&P[id].wrong)||[];w.forEach(i=>q.push([id,i]))});
+  shuf(q);
+  const pool=shuf(ids.flatMap(t=>pickRound(t,3)));
+  for(const x of pool){if(q.length>=10)break;if(!q.some(y=>y[0]===x[0]&&y[1]===x[1]))q.push(x)}
+  GQS.topic=null;GQS.queue=q.slice(0,10);beginGq();
+}
+function beginGq(){GQS.i=0;GQS.ok=0;GQS.results=[];renderGqQ()}
+function renderGqQ(){
+  const[id,qi]=GQS.queue[GQS.i],q=GQ[id][qi],g=gT(id);GQS.picked=null;GQS.ord=shuf([0,1,2]);
+  $("#gqCard").innerHTML=`<div class="rvbar"><i style="width:${GQS.i/GQS.queue.length*100}%"></i></div>
+    <div class="rvtop"><span class="tally">Question ${GQS.i+1} of ${GQS.queue.length}</span><span class="lvl ${g[1]}">${g[1]}</span><span class="qref">${esc(g[2])}</span></div>
+    <div class="qbody"><div>${esc(q[0])}</div></div>
+    <div class="rvopts" id="gqOpts">${GQS.ord.map((oi,pos)=>`<button data-oi="${oi}"><b>${L[pos]}</b>${esc(q[1][oi])}</button>`).join("")}</div>
+    <div id="gqFb" class="stack" hidden></div>`;
+}
+function answerGq(pick){
+  GQS.picked=pick;const[id,qi]=GQS.queue[GQS.i],q=GQ[id][qi],ok=pick===0,pos=oi=>L[GQS.ord.indexOf(oi)];
+  document.querySelectorAll("#gqOpts button").forEach(x=>{const oi=+x.dataset.oi;x.disabled=true;if(oi===0)x.classList.add("isright");if(oi===pick&&!ok)x.classList.add("pickbad")});
+  if(ok)GQS.ok++;GQS.results.push([id,qi,ok]);
+  const filled=q[0].replace("___",q[1][0]);
+  let html=`<span class="verdict ${ok?"ok":"bad"}">${ok?"✓ Correct! ถูกต้อง!":"✗ Not quite. ยังไม่ถูก"}</span>
+    <div class="right">✓ ${pos(0)}. ${esc(q[1][0])}<br>${esc(filled)}</div>
+    <div class="why"><p><span class="lang">WHY · EN</span>${esc(q[2])}</p><p><span class="lang">ทำไม · TH</span>${esc(q[3])}</p></div>`;
+  if(!ok)html+=`<div class="youpick"><b>Why your answer is wrong · ทำไมคำตอบของคุณผิด</b><br>${pos(pick)}. “${esc(q[1][pick])}”: ${esc(q[4][pick-1])}</div>`;
+  const rest=[1,2].filter(k=>k!==pick);
+  html+=`<ul class="not">${rest.map(k=>`<li><span class="opt bad">${pos(k)}. ${esc(q[1][k])}</span> ✗ ${esc(q[4][k-1])}</li>`).join("")}</ul>
+    <div class="row"><button class="btn" id="gqNext">${GQS.i+1<GQS.queue.length?"Next question →":"See my result"}</button><button class="btn ghost" data-guide="${id}">${id.startsWith("c-")?"See the word list · ดูรายการคำ":"Read the rule · อ่านกฎ"}</button></div>`;
+  const fb=$("#gqFb");fb.innerHTML=html;fb.hidden=false;fb.scrollIntoView({block:"nearest"});
+}
+function saveGq(complete){
+  const P={...gqProg()};const by={};
+  GQS.results.forEach(([id,qi,ok])=>{(by[id]=by[id]||[]).push([qi,ok])});
+  Object.entries(by).forEach(([id,rs])=>{
+    const o=P[id]||{},N=GQ[id].length;let seen=new Set(o.seen||[]),wrong=new Set(o.wrong||[]);
+    rs.forEach(([qi,ok])=>{seen.add(qi);if(ok)wrong.delete(qi);else wrong.add(qi)});
+    if(seen.size>=N)seen=new Set(rs.map(r=>r[0]));
+    const n={...o,seen:[...seen],wrong:[...wrong]};
+    if(complete&&GQS.topic===id){const sc=GQS.ok;n.rounds=(o.rounds||0)+1;n.last=sc;n.best=Math.max(o.best||0,sc)}
+    P[id]=n});
+  store.set("rt20-gq",P);
+}
+function gqSummary(){
+  saveGq(true);GQS.results=[];
+  const P=gqProg(),toFix=GQS.topic?((P[GQS.topic]&&P[GQS.topic].wrong)||[]).length:GRAMMAR.reduce((a,g)=>a+(((P[g[0]]&&P[g[0]].wrong)||[]).length),0);
+  $("#gqCard").innerHTML=`<div class="rvbar"><i style="width:100%"></i></div>
+    <span class="eyebrow">Round finished · จบรอบแล้ว</span>
+    <div class="bigscore">${GQS.ok}<small>/${GQS.queue.length}</small></div>
+    <p class="note">${toFix?`${toFix} question${toFix>1?"s":""} to fix; they'll come first next round. มี ${toFix} ข้อที่ต้องแก้ จะกลับมาก่อนในรอบหน้า`:"Nothing left to fix here. Great work! ไม่มีข้อที่ต้องแก้แล้ว เยี่ยมมาก!"}</p>
+    <div class="row"><button class="btn" id="gqMore">Next 10 questions →</button><button class="btn ghost" id="gqGuide">← Back to the list</button></div>`;
+}
+$("#gqCard").addEventListener("click",e=>{
+  const b=e.target.closest("#gqOpts button");if(b&&GQS.picked===null){answerGq(+b.dataset.oi);return}
+  if(e.target.closest("#gqNext")){GQS.i++;if(GQS.i<GQS.queue.length)renderGqQ();else gqSummary();window.scrollTo(0,0)}
+  if(e.target.closest("#gqMore")){if(GQS.topic)startGq(GQS.topic);else startMix(...GQS.mix)}
+  if(e.target.closest("#gqGuide"))backToGuide();
+  const rd=e.target.closest("[data-guide]");if(rd){leaveGq();backToGuide(rd.dataset.guide)}
+});
+function backToGuide(openId){
+  $("#gquiz").hidden=true;
+  if(GQS.from==="words"){$("#words").hidden=false;if(openId)wF="all";renderWords()}else{$("#grammar").hidden=false;if(openId)gF="all";renderGrammar()}
+  if(openId){const d=$("#g-"+openId);if(d){d.open=true;d.scrollIntoView({block:"start"})}}else window.scrollTo(0,0);
+}
+function leaveGq(){if(GQS.results.length){saveGq(false);GQS.results=[]}}
+$("#gqBack").addEventListener("click",()=>{leaveGq();backToGuide()});
+$("#gqWeak").addEventListener("click",startWeak);
+$("#grammarBtn").addEventListener("click",()=>{$("#home").hidden=true;$("#grammar").hidden=false;gF="all";renderGrammar();window.scrollTo(0,0)});
+$("#gBack").addEventListener("click",goHome);
+
+/* ---------- account sync ---------- */
+async function syncFromServer(){
+  try{
+    const r=await fetch(API,{credentials:"same-origin",cache:"no-store"});
+    if(r.status===401){location.href="/login";return}
+    if(!r.ok)throw new Error(r.status);
+    const {items}=await r.json();const remote=new Set();let curChanged=false;
+    Object.entries(items||{}).forEach(([k,b])=>{if(!k.startsWith("rt20-")||!b||!("v" in b))return;
+      const rt=+b.t||0,lt=tmOf(k),hasLocal=(k in mem)||(()=>{try{return localStorage.getItem(k)!==null}catch(e){return false}})();
+      if(hasLocal&&lt>rt)return; /* this device has a newer copy: keep it and upload below */
+      remote.add(k);mem[k]=b.v;TM[k]=rt;try{localStorage.setItem(k,JSON.stringify(b.v))}catch(e){}
+      if(k==="rt20-a-"+cur||k==="rt20-h-"+cur)curChanged=true});
+    try{localStorage.setItem("rt20-_t",JSON.stringify(TM))}catch(e){}
+    cloud.on=true;setSync("cloud");
+    try{for(let i=0;i<localStorage.length;i++){const k=localStorage.key(i);if(k&&k.startsWith("rt20-")&&k!=="rt20-_t"&&!remote.has(k)){if(!(k in mem))mem[k]=JSON.parse(localStorage.getItem(k));cloud.dirty.add(k)}}}catch(e){}
+    Object.keys(mem).forEach(k=>{if(k.startsWith("rt20-")&&k!=="rt20-_t"&&!remote.has(k))cloud.dirty.add(k)});
+    cloud.flush();
+    if(curChanged&&!$("#setview").hidden&&cur)openSet(cur);
+    if(!$("#home").hidden)renderHome();
+  }catch(e){setSync("offline");setTimeout(syncFromServer,15000)}
+}
+(async()=>{await syncFromServer();backfill()})();
+addEventListener("online",()=>{if(cloud.on)cloud.flush();else syncFromServer()});
+
+/* ---------- account menu ---------- */
+fetch("/api/auth/me",{credentials:"same-origin"}).then(r=>r.ok?r.json():null).then(d=>{if(d)$("#acctEmail").textContent=d.email}).catch(()=>{});
+$("#logoutBtn").addEventListener("click",async()=>{cloud.beacon();await fetch("/api/auth/logout",{method:"POST",credentials:"same-origin"}).catch(()=>{});
+  try{Object.keys(localStorage).filter(k=>k.startsWith("rt20-")).forEach(k=>localStorage.removeItem(k))}catch(e){}
+  location.href="/login"});
+$("#exportBtn").addEventListener("click",()=>{
+  const items={};Object.keys(mem).concat((()=>{try{return Object.keys(localStorage)}catch(e){return[]}})()).forEach(k=>{if(k.startsWith("rt20-")&&k!=="rt20-_t"){const v=store.get(k,null);if(v!==null)items[k]={v,t:tmOf(k)}}});
+  const blob=new Blob([JSON.stringify({app:"road-to-20-march",exported:new Date().toISOString(),items},null,1)],{type:"application/json"});
+  const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="english-progress.json";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),2000);
+});
+$("#importBtn").addEventListener("click",()=>$("#importFile").click());
+$("#importFile").addEventListener("change",async e=>{
+  const f=e.target.files[0];e.target.value="";if(!f)return;
+  try{const d=JSON.parse(await f.text());const items=d.items||d;let n=0;
+    Object.entries(items).forEach(([k,b])=>{const key=k.startsWith("rt20-")?k:"rt20-"+k;if(!/^rt20-[A-Za-z0-9_-]{1,40}$/.test(key)||key==="rt20-_t")return;
+      const v=b&&typeof b==="object"&&"v" in b?b.v:b;if(v===undefined)return;
+      if(key==="rt20-m"){store.set(key,{...mistakes(),...v})}
+      else if(key.startsWith("rt20-h-")){const cur0=store.get(key,[]);const seen=new Set(cur0.map(x=>x.t+"|"+x.d+"|"+x.s));store.set(key,cur0.concat(v.filter(x=>!seen.has(x.t+"|"+x.d+"|"+x.s))).slice(-20))}
+      else store.set(key,v);n++});
+    cloud.flush();renderHome();alert(`Imported ${n} items. นำเข้าแล้ว ${n} รายการ`);
+  }catch(err){alert("That file couldn't be read. Choose the english-progress.json file. อ่านไฟล์ไม่ได้")}
+});
+
+renderHome();
+const hs=(location.hash.match(/^#set(\d+)$/)||[])[1];if(hs&&+hs<=READY)openSet(+hs);
+</script>
+</body>
+</html>

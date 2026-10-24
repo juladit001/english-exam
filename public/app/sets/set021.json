@@ -1,0 +1,1627 @@
+{
+"id": 21,
+"theme": "Banking and personal finance",
+"v": [
+[
+"bank",
+"noun",
+"A1",
+"ธนาคาร",
+"The *bank* opens at 8:30."
+],
+[
+"coin",
+"noun",
+"A1",
+"เหรียญ",
+"I have a lot of *coins* in my purse."
+],
+[
+"rich",
+"adjective",
+"A1",
+"รวย",
+"He became *rich* from his business."
+],
+[
+"poor",
+"adjective",
+"A1",
+"จน",
+"They were *poor*, but they were happy."
+],
+[
+"count",
+"verb",
+"A1",
+"นับ",
+"Can you *count* the money, please?"
+],
+[
+"cheap",
+"adjective",
+"A1",
+"ถูก (ราคา)",
+"Street food is *cheap* and delicious."
+],
+[
+"cost",
+"verb/noun",
+"A1",
+"มีราคา, ค่าใช้จ่าย",
+"How much does this bag *cost*?"
+],
+[
+"note",
+"noun",
+"A1",
+"ธนบัตร, โน้ต",
+"I only have a 1,000-baht *note*."
+],
+[
+"borrow",
+"verb",
+"A2",
+"ยืม (มาจากผู้อื่น)",
+"Can I *borrow* your umbrella?"
+],
+[
+"lend",
+"verb",
+"A2",
+"ให้ยืม",
+"My brother *lent* me 500 baht."
+],
+[
+"ATM",
+"noun",
+"A2",
+"ตู้เอทีเอ็ม",
+"Is there an *ATM* near here?"
+],
+[
+"account",
+"noun",
+"A2",
+"บัญชี (ธนาคาร)",
+"I opened a bank *account*."
+],
+[
+"credit card",
+"noun",
+"A2",
+"บัตรเครดิต",
+"Can I pay by *credit card*?"
+],
+[
+"purse",
+"noun",
+"A2",
+"กระเป๋าใส่เงิน (ของผู้หญิง)",
+"She keeps her coins in a small *purse*."
+],
+[
+"currency",
+"noun",
+"A2",
+"สกุลเงิน",
+"The Thai *currency* is the baht."
+],
+[
+"owe",
+"verb",
+"A2",
+"ติดหนี้, เป็นหนี้",
+"I *owe* my sister 300 baht."
+],
+[
+"savings",
+"noun",
+"A2",
+"เงินออม",
+"She keeps her *savings* in the bank."
+],
+[
+"fee",
+"noun",
+"A2",
+"ค่าธรรมเนียม",
+"There's a 20-baht *fee* for using that ATM."
+],
+[
+"loan",
+"noun",
+"B1",
+"เงินกู้",
+"He got a *loan* to buy a car."
+],
+[
+"interest",
+"noun",
+"B1",
+"ดอกเบี้ย",
+"The bank pays 2% *interest*."
+],
+[
+"withdraw",
+"verb",
+"B1",
+"ถอน (เงิน)",
+"I *withdrew* 2,000 baht from the ATM."
+],
+[
+"transfer",
+"verb/noun",
+"B1",
+"โอน, การโอน",
+"Please *transfer* the money to my account."
+],
+[
+"balance",
+"noun",
+"B1",
+"ยอดเงินคงเหลือ",
+"Check your *balance* on the app."
+],
+[
+"invest",
+"verb",
+"B1",
+"ลงทุน",
+"She *invested* her money in gold."
+],
+[
+"tax",
+"noun",
+"B1",
+"ภาษี",
+"We pay *tax* on our income."
+],
+[
+"insurance",
+"noun",
+"B1",
+"ประกัน",
+"Do you have health *insurance*?"
+],
+[
+"income",
+"noun",
+"B1",
+"รายได้",
+"His monthly *income* is 40,000 baht."
+],
+[
+"expense",
+"noun",
+"B1",
+"ค่าใช้จ่าย",
+"Rent is my biggest *expense*."
+],
+[
+"PIN",
+"noun",
+"B1",
+"รหัส PIN (รหัสบัตร)",
+"Never tell anyone your *PIN*."
+],
+[
+"inflation",
+"noun",
+"B2",
+"ภาวะเงินเฟ้อ",
+"*Inflation* makes everything more expensive."
+],
+[
+"pension",
+"noun",
+"B2",
+"เงินบำนาญ",
+"My grandfather lives on his *pension*."
+],
+[
+"overdraft",
+"noun",
+"B2",
+"การเบิกเงินเกินบัญชี",
+"I have a small *overdraft* this month."
+],
+[
+"bankrupt",
+"adjective",
+"B2",
+"ล้มละลาย",
+"The company went *bankrupt* last year."
+],
+[
+"fraud",
+"noun",
+"B2",
+"การฉ้อโกง",
+"Credit card *fraud* is increasing."
+],
+[
+"scam",
+"noun",
+"B2",
+"กลโกง, การหลอกลวง",
+"That email is a *scam*."
+],
+[
+"exchange rate",
+"noun",
+"B2",
+"อัตราแลกเปลี่ยน",
+"What's the *exchange rate* for dollars today?"
+],
+[
+"wealth",
+"noun",
+"B2",
+"ความมั่งคั่ง, ทรัพย์สมบัติ",
+"He inherited great *wealth*."
+],
+[
+"statement",
+"noun",
+"B2",
+"รายการเดินบัญชี, คำแถลง",
+"Check your bank *statement* every month."
+],
+[
+"fortune",
+"noun",
+"B2",
+"เงินจำนวนมหาศาล, โชคลาภ",
+"She made a *fortune* selling online."
+],
+[
+"financial",
+"adjective",
+"B2",
+"ทางการเงิน",
+"He asked a *financial* adviser for help."
+]
+],
+"p": [
+{
+"t": "My First Bank Account",
+"x": "When I was twelve, my father took me to the bank to open my first account. I was very excited. For years, I had kept all my coins in a big glass jar in my bedroom. That morning, we counted them together: 3,450 baht!\nThe woman at the bank was very kind. She explained that if I kept my savings in the bank, they would be safe, and I could get money from any ATM with my new card. She said there was no fee for students. She also gave me a small purse with the bank's name on it.\nMy father gave me some advice that day. \"Never borrow money if you can't pay it back,\" he said. \"And be careful when you lend money to friends. Some people forget that they owe you!\" He also told me that being rich isn't about how much money you have, but how carefully you spend it. I still remember that."
+},
+{
+"t": "Think Before You Borrow",
+"x": "Getting a loan has never been easier. With a few taps on your phone, you can borrow money in minutes. But before you do, make sure you understand the true cost.\nFirst, look at the interest. A small loan with a high interest rate can grow quickly if you only make the minimum payments. A credit card can be especially dangerous: many charge more than 15% a year. Second, compare the monthly payments with your income. Financial advisers suggest that loan payments should not be more than one third of what you earn.\nIt also helps to keep a record of every expense. Many banking apps now show your balance in real time and let you transfer money or withdraw cash without visiting a branch. Never share your PIN with anyone, even someone who says they work for the bank. Finally, think about the future. Do you have insurance if you get sick and can't work? Have you included tax in your calculations? If you have money left over at the end of the month, it may be better to invest it than to spend it."
+},
+{
+"t": "The Silent Thief",
+"x": "Inflation is sometimes called \"the silent thief\" because it slowly reduces the value of money without anyone noticing. If prices rise by 3% a year, 100 baht today will buy only around 74 baht's worth of goods in ten years. For people who keep their wealth in cash or low-interest accounts, this can be a serious problem.\nInflation affects some groups more than others. Retired people living on a fixed pension may find it increasingly hard to pay for food and medicine. Young people who rely on an overdraft or credit card debt may find borrowing costs rising as banks increase interest rates. Changes in the exchange rate can make imported goods, such as petrol, even more expensive.\nIn times of financial uncertainty, scams and fraud also tend to increase. Criminals promise quick ways to make a fortune and target people who are worried about their savings. Experts advise checking every bank statement carefully and being suspicious of any investment that sounds too good to be true. In extreme cases, people who borrow heavily to chase high returns end up bankrupt."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "I have three 10-baht ___ in my pocket.",
+"o": [
+"coins",
+"coin",
+"cards",
+"banks"
+],
+"en": "After 'three', a plural noun: coins.",
+"th": "หลัง three ต้องเป็นพหูพจน์: coins",
+"x": [
+[
+"It must be plural after 'three'.",
+"หลัง three ต้องเป็นพหูพจน์"
+],
+[
+"There are no 10-baht cards.",
+"ไม่มีบัตร 10 บาท"
+],
+[
+"Banks don't fit in a pocket.",
+"ธนาคารใส่กระเป๋าไม่ได้"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "This T-shirt is very ___. It's only 99 baht.",
+"o": [
+"cheap",
+"expensive",
+"rich",
+"poor"
+],
+"en": "99 baht is a low price: cheap.",
+"th": "99 บาทราคาถูก (cheap)",
+"x": [
+[
+"'expensive' is the opposite.",
+"expensive = แพง ตรงข้าม"
+],
+[
+"'rich' describes people.",
+"rich ใช้กับคน"
+],
+[
+"'poor' describes people.",
+"poor ใช้กับคน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "How much does this book ___?",
+"o": [
+"cost",
+"costs",
+"price",
+"pay"
+],
+"en": "After 'does', the base form: cost.",
+"th": "หลัง does ใช้กริยาช่อง 1: cost",
+"x": [
+[
+"No -s after 'does'.",
+"หลัง does ไม่เติม s"
+],
+[
+"'price' is a noun.",
+"price เป็นคำนาม"
+],
+[
+"A book doesn't pay.",
+"หนังสือไม่ได้จ่ายเงิน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "He has a big house and three cars. He's very ___.",
+"o": [
+"rich",
+"poor",
+"cheap",
+"hungry"
+],
+"en": "A big house and three cars show he's rich.",
+"th": "บ้านหลังใหญ่และรถสามคันแสดงว่ารวย",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"'cheap' describes things, not wealthy people.",
+"cheap ใช้กับสิ่งของ"
+],
+[
+"Not related.",
+"ไม่เกี่ยวข้อง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Can I ___ 100 baht? I'll give it back tomorrow.",
+"o": [
+"borrow",
+"lend",
+"owe",
+"give"
+],
+"en": "Borrow = take money and return it later.",
+"th": "borrow = ยืม แล้วคืนทีหลัง",
+"x": [
+[
+"'lend' is what the other person does: Can you lend me…?",
+"lend = ให้ยืม ต้องเป็น Can you lend me...?"
+],
+[
+"'Can I owe…?' isn't natural.",
+"Can I owe ไม่เป็นธรรมชาติ"
+],
+[
+"If you give, you don't get it back.",
+"ถ้าให้ก็ไม่ได้คืน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I need some cash. Is there an ___ near here?",
+"o": [
+"ATM",
+"account",
+"interest",
+"coin"
+],
+"en": "You get cash from an ATM.",
+"th": "ถอนเงินสดจากตู้ ATM",
+"x": [
+[
+"An account isn't a place.",
+"บัญชีไม่ใช่สถานที่"
+],
+[
+"Interest is money paid on savings or loans.",
+"ดอกเบี้ยไม่ใช่สถานที่"
+],
+[
+"'an coin' is wrong, and a coin isn't a place.",
+"an coin ผิด และเหรียญไม่ใช่สถานที่"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The euro is the ___ of France and Germany.",
+"o": [
+"currency",
+"country",
+"culture",
+"capital"
+],
+"en": "A currency is a country's money.",
+"th": "currency = สกุลเงิน",
+"x": [
+[
+"The euro isn't a country.",
+"ยูโรไม่ใช่ประเทศ"
+],
+[
+"The euro isn't a culture.",
+"ยูโรไม่ใช่วัฒนธรรม"
+],
+[
+"A capital is a main city.",
+"capital = เมืองหลวง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I paid for your ticket, so you ___ me 200 baht.",
+"o": [
+"owe",
+"own",
+"borrow",
+"lend"
+],
+"en": "Owe = need to pay money back to someone.",
+"th": "owe = ติดหนี้",
+"x": [
+[
+"'own' means to have something as yours.",
+"own = เป็นเจ้าของ"
+],
+[
+"'borrow me' is wrong.",
+"borrow me ผิด"
+],
+[
+"'lend me' would mean give me a loan.",
+"lend me = ให้ฉันยืม"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The bank charges 5% ___ on the loan each year.",
+"o": [
+"interest",
+"interesting",
+"interested",
+"interests"
+],
+"en": "Interest is the extra money paid on a loan. It's uncountable here.",
+"th": "interest = ดอกเบี้ย (นับไม่ได้)",
+"x": [
+[
+"'interesting' is an adjective.",
+"interesting เป็นคุณศัพท์"
+],
+[
+"'interested' is an adjective.",
+"interested เป็นคุณศัพท์"
+],
+[
+"'interests' means hobbies.",
+"interests = งานอดิเรก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I'd like to ___ 5,000 baht from my account.",
+"o": [
+"withdraw",
+"deposit",
+"lend",
+"owe"
+],
+"en": "Withdraw = take money out of an account.",
+"th": "withdraw = ถอนเงิน",
+"x": [
+[
+"Deposit = put money IN, and it uses 'into'.",
+"deposit = ฝาก ใช้กับ into"
+],
+[
+"You lend to a person.",
+"lend ใช้กับคน"
+],
+[
+"'owe from' is wrong.",
+"owe from ผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Can you ___ the money to my account by tomorrow?",
+"o": [
+"transfer",
+"transport",
+"translate",
+"transform"
+],
+"en": "Transfer = move money from one account to another.",
+"th": "transfer = โอนเงิน",
+"x": [
+[
+"Transport is for people or goods.",
+"transport = ขนส่ง"
+],
+[
+"Translate is for languages.",
+"translate = แปล"
+],
+[
+"Transform means change completely.",
+"transform = เปลี่ยนรูป"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Check your ___ before you spend more; you might not have enough money.",
+"o": [
+"balance",
+"balloon",
+"ballot",
+"bargain"
+],
+"en": "Your balance is how much money is in your account.",
+"th": "balance = ยอดเงินคงเหลือ",
+"x": [
+[
+"A balloon is a toy.",
+"balloon = ลูกโป่ง"
+],
+[
+"A ballot is a vote.",
+"ballot = บัตรลงคะแนน"
+],
+[
+"A bargain is a cheap item.",
+"bargain = ของถูก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Because of ___, a bowl of noodles costs twice as much as ten years ago.",
+"o": [
+"inflation",
+"infection",
+"information",
+"inflammation"
+],
+"en": "Inflation = prices rising over time.",
+"th": "inflation = เงินเฟ้อ ราคาสินค้าสูงขึ้น",
+"x": [
+[
+"An infection is an illness.",
+"infection = การติดเชื้อ"
+],
+[
+"Information is facts.",
+"information = ข้อมูล"
+],
+[
+"Inflammation is swelling in the body.",
+"inflammation = การอักเสบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The company went ___ and closed all its shops.",
+"o": [
+"bankrupt",
+"banking",
+"banker",
+"bankroll"
+],
+"en": "'Go bankrupt' = lose all money and be unable to pay debts.",
+"th": "go bankrupt = ล้มละลาย",
+"x": [
+[
+"'banking' is the industry.",
+"banking = ธุรกิจธนาคาร"
+],
+[
+"A banker is a person.",
+"banker = นายธนาคาร"
+],
+[
+"'bankroll' means to fund.",
+"bankroll = ให้ทุน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Don't click that link! It's a ___ to steal your bank details.",
+"o": [
+"scam",
+"scan",
+"scar",
+"scale"
+],
+"en": "A scam is a trick to steal money.",
+"th": "scam = กลโกง",
+"x": [
+[
+"A scan is a medical image or copy.",
+"scan = การสแกน"
+],
+[
+"A scar is a mark on skin.",
+"scar = แผลเป็น"
+],
+[
+"A scale measures weight.",
+"scale = ตาชั่ง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "How [many] money [do] [you] [have]?",
+"a": 0,
+"fix": "How much money do you have?",
+"en": "'Money' is uncountable: How much.",
+"th": "money นับไม่ได้: How much",
+"x": [
+[
+"'do' is correct.",
+"do ถูกต้อง"
+],
+[
+"'you' is correct.",
+"you ถูกต้อง"
+],
+[
+"'have' is correct.",
+"have ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "I [have] [only] [two] [coin].",
+"a": 3,
+"fix": "I have only two coins.",
+"en": "After 'two', the noun must be plural.",
+"th": "หลัง two ต้องเป็นพหูพจน์",
+"x": [
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'only' is correct.",
+"only ถูกต้อง"
+],
+[
+"'two' is correct.",
+"two ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "She [doesn't] [have] [some] money [left].",
+"a": 2,
+"fix": "She doesn't have any money left.",
+"en": "In negative sentences, use 'any'.",
+"th": "ประโยคปฏิเสธใช้ any",
+"x": [
+[
+"'doesn't' is correct.",
+"doesn't ถูกต้อง"
+],
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'left' is correct.",
+"left ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Could] I [lend] [your] pen [for] a minute?",
+"a": 1,
+"fix": "Could I borrow your pen for a minute?",
+"en": "When you take something, you borrow it.",
+"th": "เวลาขอยืมของ ใช้ borrow",
+"x": [
+[
+"'Could I' is a polite request.",
+"Could I ถูกต้อง"
+],
+[
+"'your' is correct.",
+"your ถูกต้อง"
+],
+[
+"'for a minute' is correct.",
+"for ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "Money [are] not [the] [most] important [thing].",
+"a": 0,
+"fix": "Money is not the most important thing.",
+"en": "'Money' is uncountable: is.",
+"th": "money นับไม่ได้: is",
+"x": [
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'most' is correct.",
+"most ถูกต้อง"
+],
+[
+"'thing' is correct.",
+"thing ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "If I [save] 1,000 baht a month, I [will have] 12,000 baht [in] [the] end of the year.",
+"a": 2,
+"fix": "If I save 1,000 baht a month, I will have 12,000 baht at the end of the year.",
+"en": "The phrase is 'at the end of'.",
+"th": "วลีที่ถูกคือ at the end of",
+"x": [
+[
+"'save' is correct.",
+"save ถูกต้อง"
+],
+[
+"'will have' is correct.",
+"will have ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[I] [have been] saving for a new phone [since] [six months].",
+"a": 2,
+"fix": "I have been saving for a new phone for six months.",
+"en": "'Six months' is a period: for.",
+"th": "six months เป็นระยะเวลา: for",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'have been' is correct.",
+"have been ถูกต้อง"
+],
+[
+"'six months' is correct.",
+"six months ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "The bank clerk [asked] me [what] [did I want] [to do].",
+"a": 2,
+"fix": "The bank clerk asked me what I wanted to do.",
+"en": "Reported questions use statement word order: what I wanted.",
+"th": "ประโยครายงานคำถามใช้ลำดับคำแบบบอกเล่า: what I wanted",
+"x": [
+[
+"'asked' is correct.",
+"asked ถูกต้อง"
+],
+[
+"'what' is correct.",
+"what ถูกต้อง"
+],
+[
+"'to do' is correct.",
+"to do ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "I [regret] [not to save] more money [when] I [was] young.",
+"a": 1,
+"fix": "I regret not saving more money when I was young.",
+"en": "'Regret' + verb-ing for past actions: regret not saving.",
+"th": "regret + V-ing สำหรับสิ่งที่ทำในอดีต: regret not saving",
+"x": [
+[
+"'regret' is correct.",
+"regret ถูกต้อง"
+],
+[
+"'when' is correct.",
+"when ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Were] you [to lose] your card, you [should] [to call] the bank immediately.",
+"a": 3,
+"fix": "Were you to lose your card, you should call the bank immediately.",
+"en": "After 'should', use the base form without 'to'.",
+"th": "หลัง should ใช้กริยาช่อง 1 ไม่มี to",
+"x": [
+[
+"'Were' with inversion is correct.",
+"Were ถูกต้อง"
+],
+[
+"'to lose' is correct after 'were'.",
+"to lose ถูกต้อง"
+],
+[
+"'should' is correct.",
+"should ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you have any coins?\nB: ___ I only have a 1,000-baht note.",
+"o": [
+"Sorry, I don't.",
+"Yes, lots.",
+"Yes, here are ten.",
+"I have a lot of coins."
+],
+"en": "B only has a note, so B has no coins.",
+"th": "B มีแต่ธนบัตร จึงไม่มีเหรียญ",
+"x": [
+[
+"It contradicts 'only a note'.",
+"ขัดกับ มีแค่ธนบัตร"
+],
+[
+"It contradicts 'only a note'.",
+"ขัดกับ มีแค่ธนบัตร"
+],
+[
+"It contradicts 'only a note'.",
+"ขัดกับ มีแค่ธนบัตร"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Where is the bank?\nB: ___",
+"o": [
+"It's next to the post office.",
+"It's open.",
+"It has money.",
+"Yes, it is."
+],
+"en": "'Where' asks for a place.",
+"th": "Where ถามสถานที่",
+"x": [
+[
+"Not a place.",
+"ไม่ใช่สถานที่"
+],
+[
+"Not a place.",
+"ไม่ใช่สถานที่"
+],
+[
+"'Where' isn't a yes/no question.",
+"Where ไม่ใช่คำถาม yes/no"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can I pay by card?\nB: ___",
+"o": [
+"Yes, of course.",
+"Yes, it's a card.",
+"No, I'm a bank.",
+"It's 100 baht."
+],
+"en": "B answers the question.",
+"th": "B ตอบคำถาม",
+"x": [
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"It's a price.",
+"เป็นราคา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Can you lend me 500 baht?\nB: ___ I've only got 100 baht in my wallet.",
+"o": [
+"Sorry, I can't.",
+"Sure, here you are.",
+"Yes, take 1,000.",
+"Of course, no problem."
+],
+"en": "B doesn't have enough, so B says no.",
+"th": "B มีเงินไม่พอ จึงปฏิเสธ",
+"x": [
+[
+"It contradicts having only 100.",
+"ขัดกับการมีแค่ 100"
+],
+[
+"It contradicts having only 100.",
+"ขัดกับการมีแค่ 100"
+],
+[
+"It contradicts having only 100.",
+"ขัดกับการมีแค่ 100"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: I'd like to open a bank account.\nB: ___",
+"o": [
+"Certainly. Can I see your ID card, please?",
+"Sorry, the bank is a building.",
+"Yes, I have an account.",
+"You're welcome."
+],
+"en": "The bank clerk agrees and asks for ID.",
+"th": "พนักงานตกลงและขอดูบัตรประชาชน",
+"x": [
+[
+"This makes no sense.",
+"ไม่สมเหตุผล"
+],
+[
+"It's about B, not helping A.",
+"พูดถึง B ไม่ได้ช่วย A"
+],
+[
+"It replies to thanks.",
+"ใช้ตอบคำขอบคุณ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: The ATM has kept my card!\nB: ___",
+"o": [
+"Oh no! You should call the bank right away.",
+"Great! Now you have more money.",
+"Let's go shopping.",
+"ATMs are very useful."
+],
+"en": "B gives sensible advice for the problem.",
+"th": "B ให้คำแนะนำที่สมเหตุสมผล",
+"x": [
+[
+"It's a problem, not good news.",
+"เป็นปัญหา ไม่ใช่ข่าวดี"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: What's the interest rate on this savings account?\nB: ___",
+"o": [
+"It's 2% a year.",
+"It's very interesting.",
+"You can withdraw any time.",
+"It's in the bank."
+],
+"en": "B gives the rate.",
+"th": "B บอกอัตราดอกเบี้ย",
+"x": [
+[
+"'interesting' isn't 'interest rate'.",
+"interesting ไม่ใช่อัตราดอกเบี้ย"
+],
+[
+"It doesn't give the rate.",
+"ไม่ได้บอกอัตรา"
+],
+[
+"It doesn't give the rate.",
+"ไม่ได้บอกอัตรา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Have you paid your taxes yet?\nB: ___ The deadline is next week.",
+"o": [
+"Not yet, but I will soon.",
+"Yes, I paid them next week.",
+"I never pay anything.",
+"Taxes are free."
+],
+"en": "There is still time, so B hasn't paid yet.",
+"th": "ยังมีเวลา B จึงยังไม่ได้จ่าย",
+"x": [
+[
+"'paid' and 'next week' don't match.",
+"paid กับ next week ไม่เข้ากัน"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I got a message saying I'd won a million baht. I just need to send my bank details.\nB: ___",
+"o": [
+"Don't do it. It's almost certainly a scam.",
+"Wow! Send them right away.",
+"You're so lucky!",
+"Banks always do that."
+],
+"en": "Asking for bank details to claim a prize is a typical scam.",
+"th": "การขอข้อมูลธนาคารเพื่อรับรางวัลเป็นกลโกงทั่วไป",
+"x": [
+[
+"Dangerous advice.",
+"คำแนะนำที่อันตราย"
+],
+[
+"It's not luck; it's a trick.",
+"ไม่ใช่โชค แต่เป็นกลโกง"
+],
+[
+"Banks don't do that.",
+"ธนาคารไม่ทำเช่นนั้น"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think young people should start saving for their pension now?\nB: ___ The earlier you start, the more your savings grow.",
+"o": [
+"Absolutely.",
+"Not at all.",
+"It's a waste of money.",
+"Only old people need pensions."
+],
+"en": "B's reason supports saving early.",
+"th": "เหตุผลของ B สนับสนุนการออมตั้งแต่เนิ่นๆ",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How old was the writer when the account was opened?",
+"o": [
+"Twelve",
+"Ten",
+"Eighteen",
+"Twenty"
+],
+"en": "'When I was twelve…'",
+"th": "ตอนอายุ 12 ปี",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where had the writer kept the coins?",
+"o": [
+"In a glass jar in the bedroom",
+"In a purse",
+"In the bank",
+"Under the bed"
+],
+"en": "'I had kept all my coins in a big glass jar in my bedroom.'",
+"th": "เก็บเหรียญในโหลแก้วในห้องนอน",
+"x": [
+[
+"The purse was a gift from the bank.",
+"กระเป๋าเงินเป็นของขวัญจากธนาคาร"
+],
+[
+"They were taken to the bank later.",
+"นำไปธนาคารทีหลัง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How much money was in the jar?",
+"o": [
+"3,450 baht",
+"345 baht",
+"34,500 baht",
+"3,000 baht"
+],
+"en": "'We counted them together: 3,450 baht!'",
+"th": "นับได้ 3,450 บาท",
+"x": [
+[
+"Wrong number.",
+"ตัวเลขผิด"
+],
+[
+"Wrong number.",
+"ตัวเลขผิด"
+],
+[
+"Wrong number.",
+"ตัวเลขผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the woman at the bank give the writer?",
+"o": [
+"A small purse",
+"A credit card",
+"Some coins",
+"A glass jar"
+],
+"en": "'She also gave me a small purse with the bank's name on it.'",
+"th": "ให้กระเป๋าเงินใบเล็ก",
+"x": [
+[
+"The card was for the ATM, not a credit card.",
+"บัตรเป็นบัตร ATM"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The jar was the writer's.",
+"โหลเป็นของผู้เขียน"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "According to the father, what does being rich mean?",
+"o": [
+"Spending money carefully",
+"Having lots of money",
+"Never lending money",
+"Owning a bank"
+],
+"en": "'Being rich isn't about how much money you have, but how carefully you spend it.'",
+"th": "ความรวยไม่ใช่มีเงินเท่าไร แต่ใช้เงินอย่างระมัดระวังแค่ไหน",
+"x": [
+[
+"He says it ISN'T about this.",
+"เขาบอกว่าไม่ใช่เรื่องนี้"
+],
+[
+"He says be careful, not never.",
+"เขาบอกให้ระวัง ไม่ใช่ห้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What point does the writer make in the first paragraph?",
+"o": [
+"Borrowing is easy, but you should understand the true cost.",
+"Banks don't lend money anymore.",
+"Phones are dangerous.",
+"Loans are always free."
+],
+"en": "'Getting a loan has never been easier… make sure you understand the true cost.'",
+"th": "การกู้ง่ายมาก แต่ต้องเข้าใจต้นทุนที่แท้จริง",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why can a credit card be especially dangerous?",
+"o": [
+"Many charge very high interest.",
+"They are easy to lose.",
+"They have no PIN.",
+"Shops don't accept them."
+],
+"en": "'Many charge more than 15% a year.'",
+"th": "หลายใบคิดดอกเบี้ยมากกว่า 15% ต่อปี",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do financial advisers suggest about loan payments?",
+"o": [
+"They should be no more than one third of your income.",
+"They should be as high as possible.",
+"They should be paid once a year.",
+"They should equal your income."
+],
+"en": "'Loan payments should not be more than one third of what you earn.'",
+"th": "ค่างวดไม่ควรเกินหนึ่งในสามของรายได้",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Payments are monthly.",
+"จ่ายรายเดือน"
+],
+[
+"Far too much.",
+"มากเกินไป"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What should you never do?",
+"o": [
+"Share your PIN",
+"Check your balance",
+"Use a banking app",
+"Keep a record of expenses"
+],
+"en": "'Never share your PIN with anyone.'",
+"th": "อย่าบอกรหัส PIN กับใคร",
+"x": [
+[
+"The writer recommends it.",
+"ผู้เขียนแนะนำ"
+],
+[
+"The writer recommends it.",
+"ผู้เขียนแนะนำ"
+],
+[
+"The writer recommends it.",
+"ผู้เขียนแนะนำ"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does the writer suggest doing with leftover money?",
+"o": [
+"Investing it",
+"Spending it immediately",
+"Lending it to friends",
+"Hiding it at home"
+],
+"en": "'It may be better to invest it than to spend it.'",
+"th": "อาจนำไปลงทุนดีกว่าใช้",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why is inflation called 'the silent thief'?",
+"o": [
+"It slowly reduces the value of money without people noticing.",
+"Criminals use it to steal money.",
+"Banks hide it from customers.",
+"It only affects thieves."
+],
+"en": "'…because it slowly reduces the value of money without anyone noticing.'",
+"th": "เพราะค่อยๆ ลดค่าเงินโดยไม่มีใครสังเกต",
+"x": [
+[
+"It's a metaphor, not real criminals.",
+"เป็นการเปรียบเปรย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the example of 100 baht show?",
+"o": [
+"Money loses buying power over time.",
+"Prices fall over time.",
+"Savings always grow.",
+"Interest is always 3%."
+],
+"en": "100 baht will buy only about 74 baht's worth of goods in ten years.",
+"th": "100 บาทวันนี้ อีก 10 ปีจะซื้อของได้แค่ราว 74 บาท",
+"x": [
+[
+"Prices rise.",
+"ราคาสูงขึ้น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"3% is the inflation rate in the example.",
+"3% คืออัตราเงินเฟ้อในตัวอย่าง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do retired people suffer from inflation?",
+"o": [
+"Their pension stays the same, but prices rise.",
+"They have no savings at all.",
+"They use too many credit cards.",
+"They buy too much petrol."
+],
+"en": "'Retired people living on a fixed pension may find it increasingly hard to pay.'",
+"th": "ผู้เกษียณที่มีเงินบำนาญคงที่จ่ายค่าครองชีพได้ยากขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That's about young people.",
+"นั่นคือคนหนุ่มสาว"
+],
+[
+"Petrol is an example of imports.",
+"น้ำมันเป็นตัวอย่างสินค้านำเข้า"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How can a change in the exchange rate affect people?",
+"o": [
+"It can make imported goods more expensive.",
+"It makes local food cheaper.",
+"It stops inflation.",
+"It increases pensions."
+],
+"en": "'Changes in the exchange rate can make imported goods… even more expensive.'",
+"th": "อาจทำให้สินค้านำเข้าแพงขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do experts advise?",
+"o": [
+"Check bank statements and be suspicious of offers that sound too good.",
+"Invest in anything with high returns.",
+"Keep all your money in cash.",
+"Borrow heavily to grow your wealth."
+],
+"en": "'Checking every bank statement carefully and being suspicious of any investment that sounds too good to be true.'",
+"th": "ตรวจรายการเดินบัญชีและระวังการลงทุนที่ดีเกินจริง",
+"x": [
+[
+"That can lead to bankruptcy.",
+"อาจนำไปสู่การล้มละลาย"
+],
+[
+"Cash loses value with inflation.",
+"เงินสดเสื่อมค่าเพราะเงินเฟ้อ"
+],
+[
+"That can lead to bankruptcy.",
+"อาจนำไปสู่การล้มละลาย"
+]
+]
+}
+]
+}

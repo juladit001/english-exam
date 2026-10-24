@@ -1,0 +1,1627 @@
+{
+"id": 7,
+"theme": "Work and jobs",
+"v": [
+[
+"job",
+"noun",
+"A1",
+"งาน, อาชีพ",
+"She has a new *job* at a hotel."
+],
+[
+"work",
+"verb/noun",
+"A1",
+"ทำงาน, งาน",
+"I *work* from Monday to Friday."
+],
+[
+"office",
+"noun",
+"A1",
+"สำนักงาน, ออฟฟิศ",
+"His *office* is on the tenth floor."
+],
+[
+"boss",
+"noun",
+"A1",
+"เจ้านาย, หัวหน้า",
+"My *boss* is very busy today."
+],
+[
+"farmer",
+"noun",
+"A1",
+"ชาวนา, เกษตรกร",
+"The *farmer* grows rice."
+],
+[
+"driver",
+"noun",
+"A1",
+"คนขับรถ",
+"The bus *driver* was very friendly."
+],
+[
+"start",
+"verb",
+"A1",
+"เริ่ม",
+"The meeting *starts* at nine."
+],
+[
+"finish",
+"verb",
+"A1",
+"เสร็จ, จบ",
+"I *finish* work at five."
+],
+[
+"salary",
+"noun",
+"A2",
+"เงินเดือน",
+"Her *salary* is 30,000 baht a month."
+],
+[
+"colleague",
+"noun",
+"A2",
+"เพื่อนร่วมงาน",
+"I have lunch with my *colleagues*."
+],
+[
+"manager",
+"noun",
+"A2",
+"ผู้จัดการ",
+"The *manager* wants to see you."
+],
+[
+"meeting",
+"noun",
+"A2",
+"การประชุม",
+"We have a *meeting* every Monday."
+],
+[
+"interview",
+"noun",
+"A2",
+"การสัมภาษณ์",
+"I have a job *interview* tomorrow."
+],
+[
+"part-time",
+"adjective",
+"A2",
+"นอกเวลา, พาร์ทไทม์",
+"He has a *part-time* job at a café."
+],
+[
+"earn",
+"verb",
+"A2",
+"หาเงินได้, ได้รับ (ค่าจ้าง)",
+"How much do nurses *earn*?"
+],
+[
+"career",
+"noun",
+"A2",
+"อาชีพการงาน (ในระยะยาว)",
+"She wants a *career* in medicine."
+],
+[
+"retire",
+"verb",
+"A2",
+"เกษียณ",
+"My father will *retire* next year."
+],
+[
+"factory",
+"noun",
+"A2",
+"โรงงาน",
+"This *factory* makes cars."
+],
+[
+"apply",
+"verb",
+"B1",
+"สมัคร",
+"I *applied* for a job at the bank."
+],
+[
+"experience",
+"noun",
+"B1",
+"ประสบการณ์",
+"Do you have any work *experience*?"
+],
+[
+"promotion",
+"noun",
+"B1",
+"การเลื่อนตำแหน่ง",
+"He got a *promotion* last month."
+],
+[
+"contract",
+"noun",
+"B1",
+"สัญญา (การจ้างงาน)",
+"I signed a one-year *contract*."
+],
+[
+"resign",
+"verb",
+"B1",
+"ลาออก",
+"She *resigned* because she was moving abroad."
+],
+[
+"staff",
+"noun",
+"B1",
+"พนักงาน, บุคลากร",
+"The hotel has 50 *staff*."
+],
+[
+"skill",
+"noun",
+"B1",
+"ทักษะ",
+"Communication is an important *skill*."
+],
+[
+"overtime",
+"noun",
+"B1",
+"การทำงานล่วงเวลา, โอที",
+"I worked *overtime* on Saturday."
+],
+[
+"qualification",
+"noun",
+"B1",
+"วุฒิการศึกษา, คุณสมบัติ",
+"What *qualifications* do you need to be a pilot?"
+],
+[
+"unemployed",
+"adjective",
+"B1",
+"ว่างงาน",
+"He has been *unemployed* for six months."
+],
+[
+"candidate",
+"noun",
+"B1",
+"ผู้สมัคร",
+"There are ten *candidates* for the job."
+],
+[
+"workload",
+"noun",
+"B2",
+"ปริมาณงาน",
+"My *workload* is heavy this week."
+],
+[
+"burnout",
+"noun",
+"B2",
+"ภาวะหมดไฟ",
+"Working too much can lead to *burnout*."
+],
+[
+"redundant",
+"adjective",
+"B2",
+"ถูกเลิกจ้าง (เพราะตำแหน่งไม่จำเป็นแล้ว)",
+"200 workers were made *redundant*."
+],
+[
+"freelance",
+"adjective",
+"B2",
+"อิสระ, ฟรีแลนซ์",
+"She's a *freelance* photographer."
+],
+[
+"negotiate",
+"verb",
+"B2",
+"เจรจาต่อรอง",
+"He *negotiated* a higher salary."
+],
+[
+"perk",
+"noun",
+"B2",
+"สวัสดิการพิเศษ, ผลประโยชน์เสริม",
+"Free meals are a nice *perk* of the job."
+],
+[
+"entrepreneur",
+"noun",
+"B2",
+"ผู้ประกอบการ",
+"She is a young *entrepreneur* with three shops."
+],
+[
+"productivity",
+"noun",
+"B2",
+"ผลิตภาพ, ประสิทธิภาพการทำงาน",
+"Music can increase *productivity*."
+],
+[
+"recruit",
+"verb",
+"B2",
+"รับสมัคร (พนักงาน), สรรหา",
+"We need to *recruit* more nurses."
+],
+[
+"delegate",
+"verb",
+"B2",
+"มอบหมาย (งาน)",
+"Good managers *delegate* tasks to their team."
+],
+[
+"morale",
+"noun",
+"B2",
+"ขวัญกำลังใจ",
+"Team *morale* is high after the bonus."
+]
+],
+"p": [
+{
+"t": "Work in My Family",
+"x": "In my family, everyone has a different job. My father is a farmer. He grows rice and vegetables, and he starts work at five o'clock every morning. My mother works in a factory that makes shoes. She doesn't earn a big salary, but she likes her boss and her colleagues.\nMy older brother is a taxi driver in Bangkok. He works long hours and often finishes after midnight. My sister is a student, but she also has a part-time job in an office at the weekend. My grandfather retired ten years ago. He was a teacher for forty years. Now he looks after the chickens and tells everyone what to do!"
+},
+{
+"t": "Getting Your First Job",
+"x": "Finding your first job can feel impossible. Many companies want staff with experience, but how can you get experience if nobody will give you a job? Being unemployed for a few months after university is normal, so don't panic. Careers advisers say there are several ways to solve this problem.\nFirst, think about the skills you already have. Maybe you organised a school event, helped in your family's shop or volunteered at a temple fair. These all show that you are reliable and can work with others. Second, don't apply for every job you see. Choose the ones that match your qualifications and interests, and write a short, clear letter for each one.\nIf you are invited to an interview, find out as much as you can about the company. Candidates who know about the company's products and plans always make a better impression. Finally, be patient. Your first contract may be short or the pay may be low, but if you work hard, a promotion may come sooner than you think. Remember that most successful people started at the bottom of their career ladder."
+},
+{
+"t": "Is the Four-Day Week the Future?",
+"x": "In 2022, dozens of British companies took part in a six-month trial of a four-day working week, with no reduction in pay. The results surprised many sceptics. Most firms reported that productivity stayed the same or even rose, while staff took fewer sick days. Employees said they felt less burnout, and managers noticed that team morale improved. By the end of the trial, the vast majority of companies decided to continue.\nSupporters argue that a shorter week forces people to work more efficiently. Meetings become shorter, managers learn to delegate tasks, and employees do less overtime. Companies also find it easier to recruit talented workers, since a three-day weekend is a far more attractive perk than free coffee or a ping-pong table.\nNevertheless, the model does not suit every business. Hospitals, schools and restaurants cannot simply close for a day, and some entrepreneurs running small firms worry that a lighter schedule would leave them unable to compete. Critics also warn that squeezing five days of work into four could increase each employee's daily workload. In some cases, workers have had to negotiate carefully to make sure the change did not simply mean longer days. And in industries facing financial pressure, some fear that the extra cost could eventually lead to staff being made redundant."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "My uncle is a ___. He grows rice.",
+"o": [
+"farmer",
+"driver",
+"doctor",
+"teacher"
+],
+"en": "A farmer grows rice and vegetables.",
+"th": "ชาวนา (farmer) ปลูกข้าว",
+"x": [
+[
+"A driver drives cars or buses.",
+"driver = คนขับรถ"
+],
+[
+"A doctor helps sick people.",
+"doctor = หมอ"
+],
+[
+"A teacher works at a school.",
+"teacher = ครู"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I ___ work at 9 a.m. and finish at 5 p.m.",
+"o": [
+"start",
+"starts",
+"starting",
+"am start"
+],
+"en": "Present Simple for a routine. With 'I', no -s.",
+"th": "Present Simple ใช้กับกิจวัตร ประธาน I ไม่เติม s",
+"x": [
+[
+"-s is for he/she/it.",
+"เติม s กับ he/she/it"
+],
+[
+"'starting' needs 'am'.",
+"starting ต้องมี am"
+],
+[
+"'am' + base verb is wrong.",
+"am + กริยาช่อง 1 ผิด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "My ___ is very nice. She lets me go home early on Fridays.",
+"o": [
+"boss",
+"office",
+"job",
+"work"
+],
+"en": "'She' is a person who decides when you can go home: your boss.",
+"th": "she เป็นคนที่ตัดสินใจว่าเรากลับบ้านได้เมื่อไร คือหัวหน้า (boss)",
+"x": [
+[
+"An office is a place, not 'she'.",
+"office เป็นสถานที่ ไม่ใช่คน"
+],
+[
+"A job is not a person.",
+"job ไม่ใช่คน"
+],
+[
+"'work' is not a person.",
+"work ไม่ใช่คน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Where ___ your sister work?",
+"o": [
+"does",
+"do",
+"is",
+"are"
+],
+"en": "'Your sister' = she, and 'work' is a main verb, so we use 'does'.",
+"th": "your sister = she และ work เป็นกริยาแท้ จึงใช้ does",
+"x": [
+[
+"'do' is for I/you/we/they.",
+"do ใช้กับ I/you/we/they"
+],
+[
+"'is' would need 'working'.",
+"is ต้องใช้กับ working"
+],
+[
+"'are' is for plural, and would need 'working'.",
+"are ใช้กับพหูพจน์ และต้องใช้ working"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My ___ is 25,000 baht a month.",
+"o": [
+"salary",
+"price",
+"fare",
+"change"
+],
+"en": "A salary is the money you earn from your job every month.",
+"th": "salary = เงินเดือน",
+"x": [
+[
+"A price is what something costs.",
+"price = ราคาสินค้า"
+],
+[
+"A fare is what you pay for transport.",
+"fare = ค่าโดยสาร"
+],
+[
+"Change is money given back when you pay.",
+"change = เงินทอน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I work with nice people. My ___ are very friendly.",
+"o": [
+"colleagues",
+"neighbours",
+"strangers",
+"competitors"
+],
+"en": "Colleagues are the people you work with.",
+"th": "colleagues = เพื่อนร่วมงาน",
+"x": [
+[
+"Neighbours live near you.",
+"neighbours = เพื่อนบ้าน"
+],
+[
+"Strangers are people you don't know.",
+"strangers = คนแปลกหน้า"
+],
+[
+"Competitors work for rival companies.",
+"competitors = คู่แข่ง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She has a ___ job at a café; she works only in the evenings.",
+"o": [
+"part-time",
+"full-time",
+"full",
+"half"
+],
+"en": "A part-time job means working only some hours of the day or week.",
+"th": "part-time job = งานนอกเวลา ทำแค่บางชั่วโมง",
+"x": [
+[
+"'full-time' is the opposite.",
+"full-time = เต็มเวลา ตรงข้าม"
+],
+[
+"'a full job' is not English.",
+"ไม่มีคำว่า a full job"
+],
+[
+"'a half job' is not English.",
+"ไม่มีคำว่า a half job"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "My grandfather ___ when he was 60. Now he plays golf every day.",
+"o": [
+"retired",
+"retires",
+"retiring",
+"has retire"
+],
+"en": "'When he was 60' is finished past: Past Simple 'retired'.",
+"th": "when he was 60 เป็นอดีตที่จบแล้ว ใช้ Past Simple: retired",
+"x": [
+[
+"'retires' is present.",
+"retires เป็นปัจจุบัน"
+],
+[
+"'retiring' needs a helping verb.",
+"retiring ต้องมีกริยาช่วย"
+],
+[
+"'has retire' is wrong; it would be 'has retired', and that doesn't go with 'when he was 60'.",
+"has retire ผิด และ Present Perfect ไม่ใช้กับ when he was 60"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "I'd like to ___ for the job of sales assistant.",
+"o": [
+"apply",
+"applying",
+"application",
+"applied to"
+],
+"en": "'Would like to' + base verb: apply for a job.",
+"th": "would like to + กริยาช่อง 1: apply for a job = สมัครงาน",
+"x": [
+[
+"After 'to' we use the base form.",
+"หลัง to ใช้กริยาช่อง 1"
+],
+[
+"'application' is a noun.",
+"application เป็นคำนาม"
+],
+[
+"After 'to' we can't use a past form.",
+"หลัง to ใช้รูปอดีตไม่ได้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "After three years, she got a ___ and became team leader.",
+"o": [
+"promotion",
+"promise",
+"pension",
+"permission"
+],
+"en": "A promotion is a move to a higher position.",
+"th": "promotion = การเลื่อนตำแหน่ง",
+"x": [
+[
+"A promise is saying you will do something.",
+"promise = คำสัญญา"
+],
+[
+"A pension is money you get after you retire.",
+"pension = เงินบำนาญ"
+],
+[
+"Permission is being allowed to do something.",
+"permission = การอนุญาต"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "He ___ from his job because he wanted to start his own business.",
+"o": [
+"resigned",
+"retired",
+"fired",
+"dismissed"
+],
+"en": "Resign = leave your job by your own choice.",
+"th": "resign = ลาออกด้วยความสมัครใจ",
+"x": [
+[
+"Retiring means stopping work for good, usually because of age.",
+"retire = เกษียณ หยุดทำงานถาวรเพราะอายุ"
+],
+[
+"'fire' is what a boss does to you; it would need 'was fired'.",
+"fire = ไล่ออก ต้องเป็น was fired"
+],
+[
+"'dismiss' is also done by an employer: was dismissed.",
+"dismiss = ไล่ออก ต้องเป็น was dismissed"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Do you have any ___ of working with children?",
+"o": [
+"experience",
+"experiment",
+"expert",
+"expense"
+],
+"en": "Experience = knowledge or skill from doing something before.",
+"th": "experience = ประสบการณ์",
+"x": [
+[
+"An experiment is a scientific test.",
+"experiment = การทดลอง"
+],
+[
+"An expert is a person.",
+"expert = ผู้เชี่ยวชาญ"
+],
+[
+"An expense is money spent.",
+"expense = ค่าใช้จ่าย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "I have too much work. My ___ is impossible this month.",
+"o": [
+"workload",
+"workplace",
+"workshop",
+"workforce"
+],
+"en": "Workload = the amount of work you have to do.",
+"th": "workload = ปริมาณงาน",
+"x": [
+[
+"A workplace is where you work.",
+"workplace = สถานที่ทำงาน"
+],
+[
+"A workshop is a room for making things, or a training session.",
+"workshop = โรงงานเล็ก หรือการอบรม"
+],
+[
+"A workforce is all the workers in a company or country.",
+"workforce = แรงงานทั้งหมด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "As a ___ designer, she works for several companies and chooses her own hours.",
+"o": [
+"freelance",
+"full-time",
+"permanent",
+"redundant"
+],
+"en": "Freelance = self-employed, working for different clients.",
+"th": "freelance = ทำงานอิสระให้หลายบริษัท",
+"x": [
+[
+"Full-time workers usually work for one employer with fixed hours.",
+"full-time = ทำงานเต็มเวลาให้ที่เดียว"
+],
+[
+"Permanent staff work for one company.",
+"permanent = พนักงานประจำของบริษัทเดียว"
+],
+[
+"'redundant' means having lost your job.",
+"redundant = ถูกเลิกจ้าง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Free lunch and a gym membership are some of the ___ of working here.",
+"o": [
+"perks",
+"duties",
+"fines",
+"taxes"
+],
+"en": "Perks are extra benefits you get from a job.",
+"th": "perks = สวัสดิการ/ผลประโยชน์พิเศษจากงาน",
+"x": [
+[
+"Duties are tasks you must do.",
+"duties = หน้าที่"
+],
+[
+"Fines are punishments.",
+"fines = ค่าปรับ"
+],
+[
+"Taxes are money you pay to the government.",
+"taxes = ภาษี"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "My mother [work] [in] [a] bank in [Bangkok].",
+"a": 0,
+"fix": "My mother works in a bank in Bangkok.",
+"en": "'My mother' = she, so the verb needs -s: works.",
+"th": "My mother = she กริยาต้องเติม s: works",
+"x": [
+[
+"'in a bank' is correct.",
+"in a bank ถูกต้อง"
+],
+[
+"'a bank' is correct.",
+"a bank ถูกต้อง"
+],
+[
+"'Bangkok' is correct.",
+"Bangkok ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[He] [is] [a] [engineer].",
+"a": 2,
+"fix": "He is an engineer.",
+"en": "'Engineer' starts with a vowel sound, so we use 'an'.",
+"th": "engineer ขึ้นต้นด้วยเสียงสระ ใช้ an",
+"x": [
+[
+"'He' is a correct subject.",
+"He ถูกต้อง"
+],
+[
+"'is' is correct for he.",
+"is ถูกต้องกับ he"
+],
+[
+"'engineer' is the correct noun.",
+"engineer ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "I [have] a meeting [on] 3 o'clock [this] [afternoon].",
+"a": 1,
+"fix": "I have a meeting at 3 o'clock this afternoon.",
+"en": "We use 'at' with clock times.",
+"th": "ใช้ at กับเวลา",
+"x": [
+[
+"'have a meeting' is correct.",
+"have a meeting ถูกต้อง"
+],
+[
+"'this afternoon' needs no preposition.",
+"this afternoon ไม่ต้องมีบุพบท"
+],
+[
+"'afternoon' is correct.",
+"afternoon ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "She [earns] [more] money [that] her [husband].",
+"a": 2,
+"fix": "She earns more money than her husband.",
+"en": "Comparisons use 'than', not 'that'.",
+"th": "การเปรียบเทียบใช้ than ไม่ใช่ that",
+"x": [
+[
+"'earns' is correct for she.",
+"earns ถูกต้อง"
+],
+[
+"'more money' is correct.",
+"more money ถูกต้อง"
+],
+[
+"'husband' is correct.",
+"husband ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "Our company [need] more [staff] [at] the [moment].",
+"a": 0,
+"fix": "Our company needs more staff at the moment.",
+"en": "'Our company' is singular (it), so the verb needs -s: needs.",
+"th": "Our company เป็นเอกพจน์ (it) กริยาต้องเติม s: needs",
+"x": [
+[
+"'staff' is correct (it is usually not 'staffs').",
+"staff ถูกต้อง (ปกติไม่เติม s)"
+],
+[
+"'at the moment' is correct.",
+"at the moment ถูกต้อง"
+],
+[
+"'moment' is correct.",
+"moment ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "I [have worked] here [for] five years, but I [didn't get] a promotion [yet].",
+"a": 2,
+"fix": "I have worked here for five years, but I haven't got a promotion yet.",
+"en": "'Yet' in a negative sentence goes with Present Perfect: haven't got.",
+"th": "yet ในประโยคปฏิเสธใช้กับ Present Perfect: haven't got",
+"x": [
+[
+"'have worked' is correct Present Perfect.",
+"have worked ถูกต้อง"
+],
+[
+"'for five years' is correct.",
+"for five years ถูกต้อง"
+],
+[
+"'yet' is correct at the end of the sentence.",
+"yet อยู่ท้ายประโยคถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "The manager [let] us [to leave] early [because] it [was] Friday.",
+"a": 1,
+"fix": "The manager let us leave early because it was Friday.",
+"en": "'Let someone do something' uses the base form without 'to'.",
+"th": "let someone do something ใช้กริยาช่อง 1 ไม่มี to",
+"x": [
+[
+"'let' is the same in the past.",
+"let รูปอดีตเหมือนเดิม"
+],
+[
+"'because' gives the reason correctly.",
+"because ให้เหตุผลถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "She [is] [used to] [work] [at] night because she's a nurse.",
+"a": 2,
+"fix": "She is used to working at night because she's a nurse.",
+"en": "'Be used to' (= be familiar with) is followed by verb-ing.",
+"th": "be used to (= เคยชินกับ) ตามด้วย V-ing",
+"x": [
+[
+"'is' is correct for she.",
+"is ถูกต้อง"
+],
+[
+"'used to' is correct in 'be used to'.",
+"used to ถูกต้องใน be used to"
+],
+[
+"'at night' is correct.",
+"at night ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "The candidate [who] [I interviewed] [him] yesterday [has] accepted the offer.",
+"a": 2,
+"fix": "The candidate who I interviewed yesterday has accepted the offer.",
+"en": "'Who' already replaces 'him', so 'him' must be removed.",
+"th": "who แทน him อยู่แล้ว จึงต้องตัด him ออก",
+"x": [
+[
+"'who' is correct for a person.",
+"who ใช้กับคนถูกต้อง"
+],
+[
+"'I interviewed' is correct Past Simple with 'yesterday'.",
+"I interviewed ถูกต้องกับ yesterday"
+],
+[
+"'has accepted' is correct for a recent result.",
+"has accepted ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "I'd rather you [don't] [tell] the boss [about] my mistake [yet].",
+"a": 0,
+"fix": "I'd rather you didn't tell the boss about my mistake yet.",
+"en": "'I'd rather + another person' is followed by a past form, even though it means now: you didn't tell.",
+"th": "I'd rather + คนอื่น ตามด้วยรูปอดีต แม้จะหมายถึงปัจจุบัน: you didn't tell",
+"x": [
+[
+"'tell' is the base form after didn't.",
+"tell เป็นกริยาช่อง 1 ถูกต้อง"
+],
+[
+"'tell someone about something' is correct.",
+"tell someone about something ถูกต้อง"
+],
+[
+"'yet' is correct in a negative.",
+"yet ใช้ในประโยคปฏิเสธถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What do you do?\nB: ___",
+"o": [
+"I'm a driver.",
+"I'm fine, thanks.",
+"I'm doing my homework.",
+"I do it every day."
+],
+"en": "'What do you do?' asks about your job.",
+"th": "What do you do? ถามอาชีพ",
+"x": [
+[
+"This answers 'How are you?'",
+"ตอบคำถาม How are you?"
+],
+[
+"This answers 'What are you doing (now)?'",
+"ตอบคำถาม What are you doing?"
+],
+[
+"It doesn't answer the question.",
+"ไม่ได้ตอบคำถาม"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What time do you finish work?\nB: ___",
+"o": [
+"At six o'clock.",
+"In an office.",
+"By bus.",
+"My boss."
+],
+"en": "'What time' asks for a time.",
+"th": "What time ถามเวลา",
+"x": [
+[
+"This answers 'Where?'",
+"ตอบคำถาม Where?"
+],
+[
+"This answers 'How do you travel?'",
+"ตอบคำถาม How?"
+],
+[
+"This answers 'Who?'",
+"ตอบคำถาม Who?"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you like your job?\nB: ___",
+"o": [
+"Yes, I love it.",
+"Yes, it's Monday.",
+"No, I'm a farmer.",
+"I work there."
+],
+"en": "A yes/no question about liking; B answers clearly.",
+"th": "คำถาม yes/no เรื่องความชอบ B ตอบชัดเจน",
+"x": [
+[
+"The day doesn't answer the question.",
+"วันไม่ได้ตอบคำถาม"
+],
+[
+"Being a farmer doesn't explain not liking it.",
+"การเป็นชาวนาไม่ได้อธิบายว่าไม่ชอบ"
+],
+[
+"It doesn't answer the question.",
+"ไม่ได้ตอบคำถาม"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Good morning. I have an interview with the manager, Ms Lee, at ten.\nB: ___",
+"o": [
+"Please take a seat. She'll be with you in a moment.",
+"Yes, she is very tall.",
+"Congratulations on your new job!",
+"No, I don't have an interview."
+],
+"en": "The receptionist politely asks the visitor to wait.",
+"th": "พนักงานต้อนรับเชิญให้นั่งรออย่างสุภาพ",
+"x": [
+[
+"Her appearance doesn't matter here.",
+"รูปร่างไม่เกี่ยว"
+],
+[
+"A hasn't got the job yet.",
+"A ยังไม่ได้งาน"
+],
+[
+"B isn't the one being interviewed.",
+"B ไม่ใช่ผู้ถูกสัมภาษณ์"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Are you going to apply for the manager's job?\nB: ___ I don't have enough experience yet.",
+"o": [
+"I don't think so.",
+"Yes, definitely.",
+"I already got it.",
+"Of course I am."
+],
+"en": "B's reason shows B won't apply.",
+"th": "เหตุผลของ B แสดงว่าจะไม่สมัคร",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+],
+[
+"It contradicts 'not enough experience'.",
+"ขัดกับ ประสบการณ์ไม่พอ"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Can you come to the meeting on Friday?\nB: ___ I'll be on holiday.",
+"o": [
+"I'm afraid I can't.",
+"Yes, of course.",
+"Sure, see you there.",
+"No problem."
+],
+"en": "B will be on holiday, so B politely says no.",
+"th": "B จะไปเที่ยว จึงปฏิเสธอย่างสุภาพ",
+"x": [
+[
+"It contradicts being on holiday.",
+"ขัดกับการไปเที่ยว"
+],
+[
+"It contradicts being on holiday.",
+"ขัดกับการไปเที่ยว"
+],
+[
+"It means yes, which contradicts being on holiday.",
+"หมายถึงตกลง ขัดกับการไปเที่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A (interviewer): Why do you want to work for our company?\nB: ___",
+"o": [
+"Because I admire your products and I'd like to develop my skills here.",
+"Because I've never heard of it.",
+"Because I was fired from my last job.",
+"Because I don't like working hard."
+],
+"en": "In an interview, you should give positive reasons that show interest in the company.",
+"th": "ในการสัมภาษณ์งานควรให้เหตุผลด้านบวกที่แสดงความสนใจบริษัท",
+"x": [
+[
+"It makes no sense and shows no interest.",
+"ไม่สมเหตุผลและไม่แสดงความสนใจ"
+],
+[
+"It gives a negative reason about a past job.",
+"ให้เหตุผลด้านลบเกี่ยวกับงานเก่า"
+],
+[
+"It shows a bad attitude.",
+"แสดงทัศนคติที่ไม่ดี"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I'm thinking of resigning.\nB: ___",
+"o": [
+"Really? Have you found another job?",
+"Congratulations on your promotion!",
+"Great, you'll start tomorrow.",
+"Me neither."
+],
+"en": "B reacts with surprise and asks a sensible follow-up question.",
+"th": "B แปลกใจและถามคำถามต่อที่สมเหตุสมผล",
+"x": [
+[
+"Resigning is not a promotion.",
+"การลาออกไม่ใช่การเลื่อนตำแหน่ง"
+],
+[
+"A is leaving, not starting.",
+"A จะลาออก ไม่ใช่เริ่มงาน"
+],
+[
+"'Me neither' replies to a negative sentence.",
+"Me neither ใช้ตอบประโยคปฏิเสธ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I've been working twelve-hour days for months.\nB: ___ You need to take a break before you burn out.",
+"o": [
+"That's not sustainable.",
+"That sounds perfectly healthy.",
+"Lucky you!",
+"Keep it up!"
+],
+"en": "B is worried, so B says this can't continue: 'That's not sustainable.'",
+"th": "B เป็นห่วง จึงบอกว่าแบบนี้ไม่ยั่งยืน ทำต่อไปไม่ได้",
+"x": [
+[
+"It contradicts B's warning.",
+"ขัดกับคำเตือนของ B"
+],
+[
+"It sounds positive, which doesn't match B's warning.",
+"ฟังดูดี ไม่เข้ากับคำเตือน"
+],
+[
+"It encourages A to continue, the opposite of B's advice.",
+"สนับสนุนให้ทำต่อ ตรงข้ามกับคำแนะนำ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: The team's morale is really low after the job cuts.\nB: ___",
+"o": [
+"Maybe we could do something to thank everyone for their hard work.",
+"Great, that means they're happy.",
+"Let's cut more jobs then.",
+"Morale is not important at all."
+],
+"en": "Low morale = people feel unhappy. B suggests a way to improve it.",
+"th": "morale ต่ำ = ขวัญกำลังใจต่ำ B เสนอวิธีช่วยให้ดีขึ้น",
+"x": [
+[
+"Low morale means unhappy, not happy.",
+"morale ต่ำ = ไม่มีความสุข"
+],
+[
+"That would make it worse.",
+"จะทำให้แย่ลง"
+],
+[
+"It dismisses the problem rudely.",
+"ปัดปัญหาทิ้งอย่างไม่ใส่ใจ"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What is the writer's father's job?",
+"o": [
+"He's a farmer.",
+"He's a taxi driver.",
+"He's a teacher.",
+"He works in a factory."
+],
+"en": "'My father is a farmer.'",
+"th": "พ่อเป็นชาวนา",
+"x": [
+[
+"That's the brother.",
+"นั่นคือพี่ชาย"
+],
+[
+"That was the grandfather.",
+"นั่นคือคุณตา"
+],
+[
+"That's the mother.",
+"นั่นคือแม่"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the writer's mother think about her job?",
+"o": [
+"She likes the people she works with.",
+"She thinks the salary is very high.",
+"She doesn't like her boss.",
+"She wants to retire."
+],
+"en": "'She likes her boss and her colleagues.'",
+"th": "แม่ชอบหัวหน้าและเพื่อนร่วมงาน",
+"x": [
+[
+"'She doesn't earn a big salary.'",
+"เธอได้เงินเดือนไม่มาก"
+],
+[
+"She likes her boss.",
+"เธอชอบหัวหน้า"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "When does the brother often finish work?",
+"o": [
+"After midnight",
+"At five in the morning",
+"At the weekend",
+"In the afternoon"
+],
+"en": "'He works long hours and often finishes after midnight.'",
+"th": "เขาทำงานหลายชั่วโมงและมักเลิกงานหลังเที่ยงคืน",
+"x": [
+[
+"Five o'clock is when the father starts.",
+"ตีห้าคือเวลาที่พ่อเริ่มงาน"
+],
+[
+"The weekend is when the sister works.",
+"วันหยุดคือเวลาที่น้องสาวทำงาน"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "When does the sister work?",
+"o": [
+"At the weekend",
+"Every evening",
+"Every morning",
+"Never"
+],
+"en": "'She also has a part-time job in an office at the weekend.'",
+"th": "เธอทำงานพาร์ทไทม์ที่ออฟฟิศในวันหยุดสุดสัปดาห์",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"She has a part-time job.",
+"เธอมีงานพาร์ทไทม์"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was the grandfather's job before he retired?",
+"o": [
+"A teacher",
+"A farmer",
+"A driver",
+"A factory worker"
+],
+"en": "'He was a teacher for forty years.'",
+"th": "เขาเป็นครูมา 40 ปี",
+"x": [
+[
+"Farmer is the father's job.",
+"ชาวนาเป็นอาชีพของพ่อ"
+],
+[
+"Driver is the brother's job.",
+"คนขับรถเป็นอาชีพของพี่ชาย"
+],
+[
+"Factory worker is the mother's job.",
+"คนงานโรงงานเป็นอาชีพของแม่"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What problem does the first paragraph describe?",
+"o": [
+"You need experience to get a job, but you need a job to get experience.",
+"There are not enough companies.",
+"Careers advisers don't help students.",
+"Most jobs are badly paid."
+],
+"en": "'Many companies want staff with experience, but how can you get experience if nobody will give you a job?'",
+"th": "บริษัทต้องการคนมีประสบการณ์ แต่จะมีประสบการณ์ได้อย่างไรถ้าไม่มีใครให้งาน",
+"x": [
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"The advisers DO offer solutions.",
+"ผู้ให้คำปรึกษาเสนอทางแก้"
+],
+[
+"Pay is mentioned later, not as the main problem.",
+"ค่าจ้างพูดถึงทีหลัง ไม่ใช่ปัญหาหลัก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why does the writer mention a temple fair?",
+"o": [
+"As an example of experience that shows useful skills",
+"Because many jobs are at temple fairs",
+"As a good place to find job adverts",
+"Because volunteers get paid well"
+],
+"en": "Volunteering at a temple fair 'shows that you are reliable and can work with others.'",
+"th": "การเป็นอาสาสมัครที่งานวัดแสดงว่าเชื่อถือได้และทำงานกับคนอื่นได้",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Volunteers are not paid.",
+"อาสาสมัครไม่ได้รับเงิน"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does the writer say about applying for jobs?",
+"o": [
+"Apply only for jobs that match your qualifications and interests.",
+"Apply for as many jobs as possible.",
+"Use the same letter for every job.",
+"Write very long letters."
+],
+"en": "'Don't apply for every job you see. Choose the ones that match your qualifications and interests.'",
+"th": "อย่าสมัครทุกงาน เลือกงานที่ตรงกับคุณวุฒิและความสนใจ",
+"x": [
+[
+"The opposite of the advice.",
+"ตรงข้ามกับคำแนะนำ"
+],
+[
+"'Write a short, clear letter for each one.'",
+"เขียนจดหมายสั้นๆ ชัดเจนสำหรับแต่ละงาน"
+],
+[
+"The letters should be short.",
+"จดหมายควรสั้น"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do good candidates do before an interview?",
+"o": [
+"Find out about the company",
+"Ask for a high salary",
+"Bring their family",
+"Read about the other candidates"
+],
+"en": "'Find out as much as you can about the company.'",
+"th": "หาข้อมูลเกี่ยวกับบริษัทให้มากที่สุด",
+"x": [
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is the writer's advice about your first job?",
+"o": [
+"Be patient; things can improve if you work hard.",
+"Refuse a short contract.",
+"Leave if the pay is low.",
+"Expect a promotion immediately."
+],
+"en": "'Be patient… if you work hard, a promotion may come sooner than you think.'",
+"th": "อดทนไว้ ถ้าทำงานหนัก อาจได้เลื่อนตำแหน่งเร็วกว่าที่คิด",
+"x": [
+[
+"The writer accepts short contracts.",
+"ผู้เขียนยอมรับสัญญาระยะสั้นได้"
+],
+[
+"The writer accepts low pay at first.",
+"ผู้เขียนยอมรับค่าจ้างต่ำในช่วงแรก"
+],
+[
+"'Be patient' means not immediately.",
+"be patient = อดทนรอ ไม่ใช่ทันที"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What was special about the 2022 trial?",
+"o": [
+"Employees worked four days but received the same pay.",
+"Employees worked four days and earned less.",
+"Only managers took part.",
+"It lasted for two years."
+],
+"en": "'A four-day working week, with no reduction in pay.'",
+"th": "ทำงานสี่วันต่อสัปดาห์ โดยไม่ลดเงินเดือน",
+"x": [
+[
+"There was 'no reduction in pay'.",
+"ไม่มีการลดเงินเดือน"
+],
+[
+"Staff took part, not only managers.",
+"พนักงานทุกคนเข้าร่วม"
+],
+[
+"It was a six-month trial.",
+"เป็นการทดลอง 6 เดือน"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "According to the passage, what happened to productivity?",
+"o": [
+"It stayed the same or improved.",
+"It fell sharply.",
+"It was not measured.",
+"It improved only in hospitals."
+],
+"en": "'Productivity stayed the same or even rose.'",
+"th": "ผลิตภาพคงที่หรือเพิ่มขึ้น",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"The firms reported it.",
+"บริษัทรายงานผลไว้"
+],
+[
+"Hospitals weren't part of the trial results.",
+"โรงพยาบาลไม่ได้อยู่ในผลการทดลอง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why might a four-day week help companies hire people?",
+"o": [
+"A longer weekend is an attractive benefit.",
+"Workers can get free coffee.",
+"Companies can pay lower salaries.",
+"Candidates don't need any experience."
+],
+"en": "'A three-day weekend is a far more attractive perk than free coffee.'",
+"th": "วันหยุดสามวันเป็นสวัสดิการที่น่าสนใจกว่ากาแฟฟรีมาก",
+"x": [
+[
+"Free coffee is mentioned as LESS attractive.",
+"กาแฟฟรีถูกพูดถึงว่าน่าสนใจน้อยกว่า"
+],
+[
+"Pay stays the same.",
+"เงินเดือนเท่าเดิม"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which type of business might find the model difficult?",
+"o": [
+"Hospitals and restaurants",
+"Large British companies",
+"Companies with ping-pong tables",
+"Companies with good morale"
+],
+"en": "'Hospitals, schools and restaurants cannot simply close for a day.'",
+"th": "โรงพยาบาล โรงเรียน และร้านอาหารปิดหนึ่งวันไม่ได้",
+"x": [
+[
+"Many British companies continued successfully.",
+"บริษัทอังกฤษหลายแห่งทำต่อได้ดี"
+],
+[
+"Ping-pong tables are an example of a perk.",
+"โต๊ะปิงปองเป็นตัวอย่างสวัสดิการ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which concern about the four-day week is mentioned?",
+"o": [
+"Each working day could become more intense.",
+"Workers will become bored.",
+"Managers will refuse to delegate.",
+"Sick days will increase."
+],
+"en": "'Squeezing five days of work into four could increase each employee's daily workload.'",
+"th": "การอัดงานห้าวันลงในสี่วันอาจทำให้งานแต่ละวันหนักขึ้น",
+"x": [
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Managers 'learn to delegate'.",
+"ผู้จัดการเรียนรู้ที่จะมอบหมายงาน"
+],
+[
+"Staff took FEWER sick days.",
+"พนักงานลาป่วยน้อยลง"
+]
+]
+}
+]
+}

@@ -1,0 +1,1627 @@
+{
+"id": 37,
+"theme": "Oceans and sea life",
+"v": [
+[
+"blue",
+"adjective",
+"A1",
+"สีน้ำเงิน, สีฟ้า",
+"The sea is very *blue* today."
+],
+[
+"deep",
+"adjective",
+"A1",
+"ลึก",
+"Is the water *deep* here?"
+],
+[
+"sand",
+"noun",
+"A1",
+"ทราย",
+"The children played in the *sand*."
+],
+[
+"shell",
+"noun",
+"A1",
+"เปลือกหอย",
+"I found a pretty *shell* on the beach."
+],
+[
+"crab",
+"noun",
+"A1",
+"ปู",
+"A small *crab* ran across the sand."
+],
+[
+"whale",
+"noun",
+"A1",
+"วาฬ",
+"The blue *whale* is the biggest animal."
+],
+[
+"shark",
+"noun",
+"A1",
+"ฉลาม",
+"Most *sharks* don't attack people."
+],
+[
+"dolphin",
+"noun",
+"A1",
+"โลมา",
+"*Dolphins* are very intelligent."
+],
+[
+"turtle",
+"noun",
+"A2",
+"เต่า (ทะเล)",
+"Sea *turtles* lay eggs on the beach."
+],
+[
+"coral",
+"noun",
+"A2",
+"ปะการัง",
+"The *coral* here is red and orange."
+],
+[
+"coast",
+"noun",
+"A2",
+"ชายฝั่ง",
+"We drove along the *coast*."
+],
+[
+"diver",
+"noun",
+"A2",
+"นักดำน้ำ",
+"The *diver* saw a shark."
+],
+[
+"dive",
+"verb",
+"A2",
+"ดำน้ำ",
+"I want to learn to *dive*."
+],
+[
+"octopus",
+"noun",
+"A2",
+"ปลาหมึกยักษ์",
+"An *octopus* has eight arms."
+],
+[
+"jellyfish",
+"noun",
+"A2",
+"แมงกะพรุน",
+"Be careful, there are *jellyfish* in the water."
+],
+[
+"seaweed",
+"noun",
+"A2",
+"สาหร่ายทะเล",
+"Japanese food often uses *seaweed*."
+],
+[
+"underwater",
+"adjective/adverb",
+"A2",
+"ใต้น้ำ",
+"He took *underwater* photos."
+],
+[
+"shore",
+"noun",
+"A2",
+"ฝั่ง, ชายหาด",
+"We swam back to the *shore*."
+],
+[
+"reef",
+"noun",
+"B1",
+"แนวปะการัง",
+"The Great Barrier *Reef* is in Australia."
+],
+[
+"tide",
+"noun",
+"B1",
+"น้ำขึ้นน้ำลง",
+"The *tide* comes in twice a day."
+],
+[
+"current",
+"noun",
+"B1",
+"กระแสน้ำ",
+"The *current* is strong here; don't swim."
+],
+[
+"marine",
+"adjective",
+"B1",
+"เกี่ยวกับทะเล",
+"She studies *marine* biology."
+],
+[
+"net",
+"noun",
+"B1",
+"อวน, ตาข่าย",
+"The fishermen pulled in their *nets*."
+],
+[
+"pollute",
+"verb",
+"B1",
+"ทำให้เป็นมลพิษ",
+"Factories *pollute* the sea."
+],
+[
+"depth",
+"noun",
+"B1",
+"ความลึก",
+"The *depth* of the lake is 30 metres."
+],
+[
+"submarine",
+"noun",
+"B1",
+"เรือดำน้ำ",
+"The *submarine* went down to 500 metres."
+],
+[
+"harbour",
+"noun",
+"B1",
+"ท่าเรือ",
+"The boats are in the *harbour*."
+],
+[
+"scuba",
+"noun/adjective",
+"B1",
+"การดำน้ำแบบใช้ถังอากาศ",
+"I did a *scuba* course in Koh Tao."
+],
+[
+"seabed",
+"noun",
+"B1",
+"พื้นทะเล",
+"The ship lies on the *seabed*."
+],
+[
+"overfishing",
+"noun",
+"B2",
+"การจับปลามากเกินไป",
+"*Overfishing* has reduced fish numbers."
+],
+[
+"biodiversity",
+"noun",
+"B2",
+"ความหลากหลายทางชีวภาพ",
+"Coral reefs have rich *biodiversity*."
+],
+[
+"acidification",
+"noun",
+"B2",
+"การเป็นกรด",
+"Ocean *acidification* harms shellfish."
+],
+[
+"plankton",
+"noun",
+"B2",
+"แพลงก์ตอน",
+"Whales eat tiny *plankton*."
+],
+[
+"bleaching",
+"noun",
+"B2",
+"การฟอกขาว (ปะการัง)",
+"Coral *bleaching* is caused by warm water."
+],
+[
+"trawler",
+"noun",
+"B2",
+"เรือประมงอวนลาก",
+"Large *trawlers* catch tons of fish."
+],
+[
+"microplastic",
+"noun",
+"B2",
+"ไมโครพลาสติก",
+"*Microplastics* are found in fish."
+],
+[
+"exploit",
+"verb",
+"B2",
+"แสวงหาประโยชน์ (เกินควร)",
+"We must not *exploit* the ocean."
+],
+[
+"abyss",
+"noun",
+"B2",
+"ห้วงลึก, เหวลึก",
+"Strange creatures live in the *abyss*."
+],
+[
+"aquatic",
+"adjective",
+"B2",
+"เกี่ยวกับน้ำ, อาศัยในน้ำ",
+"Frogs are partly *aquatic*."
+],
+[
+"protected area",
+"noun",
+"B2",
+"เขตคุ้มครอง",
+"Fishing is banned in the *protected area*."
+]
+],
+"p": [
+{
+"t": "A Day at the Beach",
+"x": "Last summer, my family went to Krabi. The beach was beautiful, with white sand and blue water. My little brother looked for shells, and I found a small crab under a rock.\nIn the afternoon, we took a boat trip. The water was very deep and clear. Suddenly, my dad shouted, \"Look! Dolphins!\" Five dolphins were swimming next to the boat. It was amazing! The guide said there are no sharks near this beach, and whales sometimes visit in winter.\nThen we went snorkelling. Under the water, I saw colourful coral, a turtle eating seaweed and an octopus hiding in the rocks. We had to be careful because there were some jellyfish. In the evening, we sat on the shore and watched the sunset. It was the best day of the holiday."
+},
+{
+"t": "Learning to Dive in Koh Tao",
+"x": "Koh Tao, a small island in the Gulf of Thailand, is one of the most popular places in the world to learn scuba diving. Every year, thousands of people come here to do their first diving course.\nA beginner's course usually takes three or four days. First, students learn the theory and practise in a swimming pool. Then they make four dives in the sea. The maximum depth for beginners is 18 metres. Instructors teach them how to check their equipment, how to breathe slowly and what to do if there is a strong current.\nThe reefs around Koh Tao are full of marine life. Divers often see colourful fish, turtles and sometimes even a whale shark, the largest fish in the sea. However, the reefs are in danger. Boats, sun cream and rubbish pollute the water, and old fishing nets get stuck on the coral. Some dive schools now organise clean-up dives to collect rubbish from the seabed and from the harbour.\nOne instructor said, \"When people see how beautiful it is underwater, they want to protect it.\""
+},
+{
+"t": "Our Blue Planet in Danger",
+"x": "The ocean covers more than 70 per cent of the Earth's surface and produces about half of the oxygen we breathe, much of it from tiny plankton. Yet this vast aquatic world is under threat as never before.\nOverfishing is one of the most serious problems. Industrial trawlers drag enormous nets along the seabed, catching everything in their path and destroying habitats that took centuries to form. Scientists estimate that over a third of fish populations are now exploited beyond sustainable levels.\nClimate change adds further pressure. As the ocean absorbs carbon dioxide, it becomes more acidic. This acidification makes it harder for creatures such as crabs and shellfish to build their shells. Warmer water, meanwhile, causes coral bleaching, in which corals lose the algae that give them colour and food. Large areas of reefs, home to a quarter of all marine species, have already died.\nPollution, too, reaches every corner of the sea. Microplastics have been found not only along the coast and in shallow waters but even in the abyss, thousands of metres below the surface, where submarines have discovered plastic bags on the ocean floor.\nThere are signs of hope, however. Where governments have established protected areas, fish numbers and biodiversity have often recovered within a few years. The tide, it seems, can still be turned, if action is taken quickly."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "Be careful! The water is very ___ here.",
+"o": [
+"deep",
+"deer",
+"deep-fried",
+"dead"
+],
+"en": "Deep water is dangerous.",
+"th": "น้ำลึก",
+"x": [
+[
+"A deer is an animal.",
+"deer = กวาง"
+],
+[
+"'deep-fried' is about cooking.",
+"deep-fried = ทอด"
+],
+[
+"'dead' means not alive.",
+"dead = ตาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The blue ___ is the biggest animal in the world.",
+"o": [
+"whale",
+"wheel",
+"while",
+"wall"
+],
+"en": "The blue whale is the largest animal.",
+"th": "วาฬสีน้ำเงินใหญ่ที่สุด",
+"x": [
+[
+"A wheel is on a car.",
+"wheel = ล้อ"
+],
+[
+"'while' is a conjunction.",
+"while = ขณะที่"
+],
+[
+"A wall is part of a building.",
+"wall = กำแพง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I found a beautiful ___ on the beach.",
+"o": [
+"shell",
+"shelf",
+"shall",
+"sell"
+],
+"en": "Shells are found on beaches.",
+"th": "เปลือกหอยพบบนชายหาด",
+"x": [
+[
+"A shelf holds books.",
+"shelf = ชั้นวาง"
+],
+[
+"'shall' is a modal verb.",
+"shall เป็นกริยาช่วย"
+],
+[
+"'sell' is a verb.",
+"sell = ขาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "___ are friendly and very intelligent sea animals.",
+"o": [
+"Dolphins",
+"Dolls",
+"Donkeys",
+"Doctors"
+],
+"en": "Dolphins live in the sea.",
+"th": "โลมาอาศัยในทะเล",
+"x": [
+[
+"Dolls are toys.",
+"doll = ตุ๊กตา"
+],
+[
+"Donkeys live on land.",
+"donkey = ลา"
+],
+[
+"Doctors are people.",
+"doctor = แพทย์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Sea ___ come to this beach to lay their eggs.",
+"o": [
+"turtles",
+"tunnels",
+"towels",
+"tickets"
+],
+"en": "Sea turtles lay eggs on beaches.",
+"th": "เต่าทะเลวางไข่บนชายหาด",
+"x": [
+[
+"Tunnels are passages.",
+"tunnel = อุโมงค์"
+],
+[
+"Towels are for drying.",
+"towel = ผ้าเช็ดตัว"
+],
+[
+"Tickets are for travel.",
+"ticket = ตั๋ว"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Ouch! A ___ stung my leg.",
+"o": [
+"jellyfish",
+"jelly",
+"goldfish",
+"starfruit"
+],
+"en": "Jellyfish sting.",
+"th": "แมงกะพรุนต่อย",
+"x": [
+[
+"Jelly is a dessert.",
+"jelly = เยลลี่"
+],
+[
+"Goldfish don't sting.",
+"ปลาทองไม่ต่อย"
+],
+[
+"Starfruit is a fruit.",
+"starfruit = มะเฟือง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "An ___ has eight arms.",
+"o": [
+"octopus",
+"octagon",
+"October",
+"ostrich"
+],
+"en": "An octopus has eight arms.",
+"th": "ปลาหมึกยักษ์มีแปดแขน",
+"x": [
+[
+"An octagon is a shape.",
+"octagon = แปดเหลี่ยม"
+],
+[
+"October is a month.",
+"October = ตุลาคม"
+],
+[
+"An ostrich is a bird.",
+"ostrich = นกกระจอกเทศ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "We drove along the ___ and stopped at every beach.",
+"o": [
+"coast",
+"cost",
+"coat",
+"toast"
+],
+"en": "The coast is land next to the sea.",
+"th": "coast = ชายฝั่ง",
+"x": [
+[
+"Cost is a price.",
+"cost = ราคา"
+],
+[
+"A coat is clothing.",
+"coat = เสื้อโค้ท"
+],
+[
+"Toast is bread.",
+"toast = ขนมปังปิ้ง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Don't swim here; the ___ is very strong and could pull you out to sea.",
+"o": [
+"current",
+"currency",
+"curtain",
+"curry"
+],
+"en": "A current is moving water.",
+"th": "current = กระแสน้ำ",
+"x": [
+[
+"Currency is money.",
+"currency = สกุลเงิน"
+],
+[
+"A curtain hangs at a window.",
+"curtain = ผ้าม่าน"
+],
+[
+"Curry is food.",
+"curry = แกง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The fishing boats came back into the ___ at sunrise.",
+"o": [
+"harbour",
+"harvest",
+"harbourer",
+"hardware"
+],
+"en": "A harbour is where boats stay.",
+"th": "harbour = ท่าเรือ",
+"x": [
+[
+"A harvest is crops collected.",
+"harvest = การเก็บเกี่ยว"
+],
+[
+"Not a common word.",
+"ไม่ใช่คำที่ใช้"
+],
+[
+"Hardware is tools or computer parts.",
+"hardware = ฮาร์ดแวร์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "At high ___, the water covers the whole beach.",
+"o": [
+"tide",
+"tidy",
+"tie",
+"tidal"
+],
+"en": "High tide = when the sea is highest.",
+"th": "high tide = น้ำขึ้นสูงสุด",
+"x": [
+[
+"'tidy' means neat.",
+"tidy = เรียบร้อย"
+],
+[
+"A tie is clothing.",
+"tie = เนคไท"
+],
+[
+"'tidal' is an adjective.",
+"tidal เป็นคุณศัพท์"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "She wants to study ___ biology and work with sea animals.",
+"o": [
+"marine",
+"married",
+"marina",
+"maritime-ly"
+],
+"en": "Marine biology = study of sea life.",
+"th": "marine biology = ชีววิทยาทางทะเล",
+"x": [
+[
+"'married' is about marriage.",
+"married = แต่งงานแล้ว"
+],
+[
+"A marina is a harbour for small boats.",
+"marina = ท่าจอดเรือยอชต์"
+],
+[
+"Not a real word.",
+"ไม่มีคำนี้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Warm water causes coral ___, turning reefs white.",
+"o": [
+"bleaching",
+"breaching",
+"bleeding",
+"beaching"
+],
+"en": "Coral bleaching turns coral white.",
+"th": "การฟอกขาวของปะการัง",
+"x": [
+[
+"Breaching is breaking a rule or a whale jumping.",
+"breaching = การละเมิด"
+],
+[
+"Bleeding is losing blood.",
+"bleeding = เลือดออก"
+],
+[
+"Beaching is landing on a beach.",
+"beaching = เกยตื้น"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Huge ___ catch thousands of tons of fish every year.",
+"o": [
+"trawlers",
+"travellers",
+"trailers",
+"trainers"
+],
+"en": "Trawlers are fishing boats with large nets.",
+"th": "trawler = เรือประมงอวนลาก",
+"x": [
+[
+"Travellers are people on journeys.",
+"traveller = นักเดินทาง"
+],
+[
+"Trailers are pulled by cars.",
+"trailer = รถพ่วง"
+],
+[
+"Trainers are shoes or coaches.",
+"trainer = รองเท้าผ้าใบ/ผู้ฝึก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Fish numbers recovered after the area became a ___ area.",
+"o": [
+"protected",
+"protective",
+"protesting",
+"projected"
+],
+"en": "A protected area is where fishing is controlled.",
+"th": "protected area = เขตคุ้มครอง",
+"x": [
+[
+"'protective' describes a person or thing that protects.",
+"protective = ซึ่งปกป้อง"
+],
+[
+"'protesting' means objecting.",
+"protesting = ประท้วง"
+],
+[
+"'projected' means predicted.",
+"projected = คาดการณ์"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Fishes] [live] [in] [the] sea.",
+"a": 0,
+"fix": "Fish live in the sea.",
+"en": "The usual plural is 'fish'.",
+"th": "พหูพจน์ทั่วไปคือ fish",
+"x": [
+[
+"'live' is correct.",
+"live ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[I] [can] [swim] [very good].",
+"a": 3,
+"fix": "I can swim very well.",
+"en": "Describe a verb with an adverb: well.",
+"th": "ขยายกริยาใช้ well",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'can' is correct.",
+"can ถูกต้อง"
+],
+[
+"'swim' is correct.",
+"swim ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[We] [seen] [five] dolphins [yesterday].",
+"a": 1,
+"fix": "We saw five dolphins yesterday.",
+"en": "Past Simple: saw.",
+"th": "Past Simple: saw",
+"x": [
+[
+"'We' is correct.",
+"We ถูกต้อง"
+],
+[
+"'five' is correct.",
+"five ถูกต้อง"
+],
+[
+"'yesterday' is correct.",
+"yesterday ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "We [went] [to] [the] beach [in] last Sunday.",
+"a": 3,
+"fix": "We went to the beach last Sunday.",
+"en": "No preposition before 'last + day'.",
+"th": "หน้า last + วัน ไม่ใช้บุพบท",
+"x": [
+[
+"'went' is correct.",
+"went ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] water [was] [enough warm] [for] swimming.",
+"a": 2,
+"fix": "The water was warm enough for swimming.",
+"en": "'Enough' goes after adjectives: warm enough.",
+"th": "enough อยู่หลังคุณศัพท์: warm enough",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'was' is correct.",
+"was ถูกต้อง"
+],
+[
+"'for' is correct.",
+"for ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[The] reef [is being] [polluted] [from] boats and rubbish.",
+"a": 3,
+"fix": "The reef is being polluted by boats and rubbish.",
+"en": "Passive agent: by.",
+"th": "ผู้กระทำใน passive ใช้ by",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'is being' is correct.",
+"is being ถูกต้อง"
+],
+[
+"'polluted' is correct.",
+"polluted ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[I've] [never] [dived] [before], so I was nervous.",
+"a": 0,
+"fix": "I'd never dived before, so I was nervous.",
+"en": "Before a past event (was nervous): Past Perfect I'd.",
+"th": "ก่อนเหตุการณ์อดีตใช้ Past Perfect: I'd",
+"x": [
+[
+"'never' is correct.",
+"never ถูกต้อง"
+],
+[
+"'dived' is correct.",
+"dived ถูกต้อง"
+],
+[
+"'before' is correct.",
+"before ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Diving] [in] Koh Tao is [cheaper] [that] in Australia.",
+"a": 3,
+"fix": "Diving in Koh Tao is cheaper than in Australia.",
+"en": "Comparatives use 'than'.",
+"th": "ขั้นกว่าใช้ than",
+"x": [
+[
+"'Diving' is correct.",
+"Diving ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'cheaper' is correct.",
+"cheaper ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Not only] [overfishing] [reduces] fish numbers, but it also destroys [habitats].",
+"a": 2,
+"fix": "Not only does overfishing reduce fish numbers, but it also destroys habitats.",
+"en": "After 'Not only' at the start: does + subject + base verb.",
+"th": "ขึ้นต้น Not only ต้องสลับ: does + ประธาน + V1",
+"x": [
+[
+"'Not only' is correct.",
+"Not only ถูกต้อง"
+],
+[
+"'overfishing' is correct.",
+"overfishing ถูกต้อง"
+],
+[
+"'habitats' is correct.",
+"habitats ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Microplastics], [which] [has been] found in the abyss, [threaten] marine life.",
+"a": 2,
+"fix": "Microplastics, which have been found in the abyss, threaten marine life.",
+"en": "'Which' refers to plural 'microplastics': have been.",
+"th": "which หมายถึง microplastics (พหูพจน์): have been",
+"x": [
+[
+"'Microplastics' is correct.",
+"Microplastics ถูกต้อง"
+],
+[
+"'which' is correct.",
+"which ถูกต้อง"
+],
+[
+"'threaten' is correct.",
+"threaten ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can you swim?\nB: ___ I go to the pool every week.",
+"o": [
+"Yes, I can.",
+"No, I can't.",
+"I'm a fish.",
+"It's wet."
+],
+"en": "Going to the pool → yes.",
+"th": "ไปสระทุกสัปดาห์ จึงว่ายได้",
+"x": [
+[
+"It contradicts the pool.",
+"ขัดกับการไปสระ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Look! A crab!\nB: ___",
+"o": [
+"Where? I can't see it.",
+"Thank you, crab.",
+"I'm fine.",
+"It's Tuesday."
+],
+"en": "B asks where it is.",
+"th": "B ถามว่าอยู่ที่ไหน",
+"x": [
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Is the water cold?\nB: ___ Come in!",
+"o": [
+"No, it's lovely and warm.",
+"Yes, it's freezing.",
+"It's blue.",
+"I'm cold."
+],
+"en": "'Come in!' suggests the water is nice.",
+"th": "Come in! แสดงว่าน้ำอุ่นสบาย",
+"x": [
+[
+"Then B wouldn't invite A.",
+"ถ้าเย็นจัดคงไม่ชวน"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Have you ever been diving?\nB: ___ It was in Koh Tao.",
+"o": [
+"Yes, once.",
+"No, never.",
+"I don't like water.",
+"Diving is a sport."
+],
+"en": "B describes the place, so yes.",
+"th": "B บอกสถานที่ จึงเคย",
+"x": [
+[
+"It contradicts the place.",
+"ขัดกับสถานที่"
+],
+[
+"It contradicts the experience.",
+"ขัดกับประสบการณ์"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Are there sharks here?\nB: ___ The water is too shallow.",
+"o": [
+"No, don't worry.",
+"Yes, lots!",
+"Sharks are fish.",
+"I'm a shark."
+],
+"en": "Shallow water → no sharks.",
+"th": "น้ำตื้น จึงไม่มีฉลาม",
+"x": [
+[
+"It contradicts 'shallow'.",
+"ขัดกับ shallow"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: What did you see underwater?\nB: ___",
+"o": [
+"A turtle and lots of colourful fish.",
+"Yesterday morning.",
+"With my brother.",
+"For an hour."
+],
+"en": "'What' asks for things.",
+"th": "what ถามสิ่งที่เห็น",
+"x": [
+[
+"Time.",
+"เวลา"
+],
+[
+"Person.",
+"บุคคล"
+],
+[
+"Duration.",
+"ระยะเวลา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I'm nervous about my first scuba dive.\nB: ___",
+"o": [
+"That's normal. Just breathe slowly and stay close to your instructor.",
+"Then don't breathe.",
+"Dive as deep as possible.",
+"Scuba is dangerous; you'll die."
+],
+"en": "B reassures and advises.",
+"th": "B ให้กำลังใจและคำแนะนำ",
+"x": [
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Dangerous.",
+"อันตราย"
+],
+[
+"Unkind and untrue.",
+"ใจร้ายและไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Should I use sun cream when I snorkel?\nB: ___ Some kinds harm the coral.",
+"o": [
+"Yes, but choose a reef-safe one.",
+"No, never use it.",
+"Use as much as possible.",
+"Coral likes sun cream."
+],
+"en": "B advises reef-safe sun cream.",
+"th": "B แนะนำครีมกันแดดที่ปลอดภัยต่อปะการัง",
+"x": [
+[
+"Too extreme; sun protection matters.",
+"สุดโต่งเกินไป"
+],
+[
+"It contradicts the harm.",
+"ขัดกับอันตราย"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think fishing should be banned completely?\nB: ___ Millions of people depend on it for food and work.",
+"o": [
+"That would be going too far.",
+"Absolutely, immediately.",
+"Fish aren't important.",
+"Only sharks should be fished."
+],
+"en": "B disagrees with a total ban.",
+"th": "B ไม่เห็นด้วยกับการห้ามทั้งหมด",
+"x": [
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผล"
+],
+[
+"Not B's view.",
+"ไม่ใช่มุมมองของ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I've decided to stop eating fish completely.\nB: ___ Or you could choose sustainably caught fish instead.",
+"o": [
+"That's one option.",
+"That's the only option.",
+"You must eat more fish.",
+"Fish is unhealthy."
+],
+"en": "B offers an alternative.",
+"th": "B เสนอทางเลือกอื่น",
+"x": [
+[
+"It contradicts the alternative.",
+"ขัดกับทางเลือกที่เสนอ"
+],
+[
+"Not B's point.",
+"ไม่ใช่ประเด็นของ B"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the writer's brother look for?",
+"o": [
+"Shells",
+"Crabs",
+"Dolphins",
+"Coral"
+],
+"en": "'My little brother looked for shells.'",
+"th": "เปลือกหอย",
+"x": [
+[
+"The writer found a crab.",
+"ผู้เขียนพบปู"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How many dolphins did they see?",
+"o": [
+"Five",
+"Two",
+"Ten",
+"One"
+],
+"en": "'Five dolphins were swimming next to the boat.'",
+"th": "ห้าตัว",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "According to the guide, when do whales sometimes visit?",
+"o": [
+"In winter",
+"In summer",
+"Every day",
+"Never"
+],
+"en": "'Whales sometimes visit in winter.'",
+"th": "ฤดูหนาว",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They sometimes visit.",
+"บางครั้งมา"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where was the octopus?",
+"o": [
+"Hiding in the rocks",
+"On the sand",
+"Next to the boat",
+"In the sky"
+],
+"en": "'An octopus hiding in the rocks.'",
+"th": "ซ่อนในโขดหิน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The dolphins were.",
+"นั่นคือโลมา"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Why did they have to be careful?",
+"o": [
+"There were some jellyfish.",
+"There were sharks.",
+"The water was too deep.",
+"The boat was old."
+],
+"en": "'We had to be careful because there were some jellyfish.'",
+"th": "มีแมงกะพรุน",
+"x": [
+[
+"No sharks.",
+"ไม่มีฉลาม"
+],
+[
+"Not the reason given.",
+"ไม่ใช่เหตุผลที่ให้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why is Koh Tao famous?",
+"o": [
+"It's popular for learning scuba diving.",
+"It's the biggest island in Thailand.",
+"It has no tourists.",
+"It has the deepest sea."
+],
+"en": "'…one of the most popular places… to learn scuba diving.'",
+"th": "เป็นที่นิยมเรียนดำน้ำ",
+"x": [
+[
+"It's small.",
+"เป็นเกาะเล็ก"
+],
+[
+"Thousands visit.",
+"มีคนมาหลายพัน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is the maximum depth for beginners?",
+"o": [
+"18 metres",
+"4 metres",
+"40 metres",
+"80 metres"
+],
+"en": "'The maximum depth for beginners is 18 metres.'",
+"th": "18 เมตร",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is a whale shark?",
+"o": [
+"The largest fish in the sea",
+"A type of whale",
+"A small dangerous shark",
+"A kind of coral"
+],
+"en": "'…a whale shark, the largest fish in the sea.'",
+"th": "ปลาที่ใหญ่ที่สุดในทะเล",
+"x": [
+[
+"It's a fish, not a whale.",
+"เป็นปลา ไม่ใช่วาฬ"
+],
+[
+"It's very large.",
+"ตัวใหญ่มาก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which is NOT mentioned as a danger to the reefs?",
+"o": [
+"Hot weather",
+"Boats",
+"Sun cream",
+"Old fishing nets"
+],
+"en": "Hot weather isn't mentioned in this passage.",
+"th": "ไม่ได้กล่าวถึงอากาศร้อน",
+"x": [
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What do clean-up dives involve?",
+"o": [
+"Collecting rubbish from the seabed and harbour",
+"Cleaning diving equipment",
+"Washing boats",
+"Teaching beginners"
+],
+"en": "'…clean-up dives to collect rubbish from the seabed and from the harbour.'",
+"th": "เก็บขยะจากพื้นทะเลและท่าเรือ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Where does much of the oxygen produced by the ocean come from?",
+"o": [
+"Tiny plankton",
+"Coral reefs",
+"Whales",
+"The seabed"
+],
+"en": "'…much of it from tiny plankton.'",
+"th": "แพลงก์ตอนขนาดเล็ก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why are trawlers so damaging?",
+"o": [
+"Their nets catch everything and destroy seabed habitats.",
+"They pollute with oil.",
+"They are too slow.",
+"They only catch sharks."
+],
+"en": "'…catching everything in their path and destroying habitats.'",
+"th": "จับทุกอย่างและทำลายถิ่นที่อยู่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How does acidification affect crabs and shellfish?",
+"o": [
+"It makes it harder for them to build shells.",
+"It makes them grow faster.",
+"It turns them white.",
+"It has no effect."
+],
+"en": "'…makes it harder for creatures such as crabs and shellfish to build their shells.'",
+"th": "สร้างเปลือกได้ยากขึ้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That's coral bleaching.",
+"นั่นคือการฟอกขาว"
+],
+[
+"It has an effect.",
+"มีผลกระทบ"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the discovery of plastic in the abyss show?",
+"o": [
+"Pollution reaches every part of the ocean.",
+"The abyss is clean.",
+"Submarines cause pollution.",
+"Plastic sinks only near the coast."
+],
+"en": "'Pollution, too, reaches every corner of the sea.'",
+"th": "มลพิษไปถึงทุกส่วนของมหาสมุทร",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"It's found deep too.",
+"พบในที่ลึกด้วย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does 'The tide… can still be turned' mean?",
+"o": [
+"The situation can still be improved.",
+"The sea level is rising.",
+"Tides are changing direction.",
+"It is too late."
+],
+"en": "'Turn the tide' = reverse a bad situation.",
+"th": "turn the tide = พลิกสถานการณ์",
+"x": [
+[
+"Literal meaning, not intended.",
+"ความหมายตรงตัว ไม่ใช่ที่ตั้งใจ"
+],
+[
+"Literal meaning, not intended.",
+"ความหมายตรงตัว ไม่ใช่ที่ตั้งใจ"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+}
+]
+}

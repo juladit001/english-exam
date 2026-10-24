@@ -1,0 +1,1627 @@
+{
+"id": 35,
+"theme": "The future of transport",
+"v": [
+[
+"car",
+"noun",
+"A1",
+"รถยนต์",
+"My father drives a red *car*."
+],
+[
+"bike",
+"noun",
+"A1",
+"จักรยาน",
+"I ride my *bike* to school."
+],
+[
+"plane",
+"noun",
+"A1",
+"เครื่องบิน",
+"We went to Phuket by *plane*."
+],
+[
+"drive",
+"verb",
+"A1",
+"ขับรถ",
+"Can you *drive*?"
+],
+[
+"fast",
+"adjective/adverb",
+"A1",
+"เร็ว",
+"This train is very *fast*."
+],
+[
+"slow",
+"adjective",
+"A1",
+"ช้า",
+"The bus is *slow* in the rain."
+],
+[
+"road",
+"noun",
+"A1",
+"ถนน",
+"Be careful when you cross the *road*."
+],
+[
+"taxi",
+"noun",
+"A1",
+"รถแท็กซี่",
+"Let's take a *taxi* to the airport."
+],
+[
+"electric",
+"adjective",
+"A2",
+"ไฟฟ้า",
+"She bought an *electric* car."
+],
+[
+"petrol",
+"noun",
+"A2",
+"น้ำมันเบนซิน",
+"*Petrol* is getting more expensive."
+],
+[
+"scooter",
+"noun",
+"A2",
+"สกู๊ตเตอร์",
+"He rides an electric *scooter* to work."
+],
+[
+"subway",
+"noun",
+"A2",
+"รถไฟใต้ดิน",
+"Take the *subway* to the city centre."
+],
+[
+"tram",
+"noun",
+"A2",
+"รถราง",
+"Melbourne has many *trams*."
+],
+[
+"passenger",
+"noun",
+"A2",
+"ผู้โดยสาร",
+"The bus has fifty *passengers*."
+],
+[
+"engine",
+"noun",
+"A2",
+"เครื่องยนต์",
+"The *engine* won't start."
+],
+[
+"speed",
+"noun",
+"A2",
+"ความเร็ว",
+"The train travels at high *speed*."
+],
+[
+"cycle lane",
+"noun",
+"A2",
+"ช่องทางจักรยาน",
+"Ride in the *cycle lane*, not on the pavement."
+],
+[
+"rail",
+"noun",
+"A2",
+"ทางรถไฟ, ระบบราง",
+"Travelling by *rail* is relaxing."
+],
+[
+"driverless",
+"adjective",
+"B1",
+"ไร้คนขับ",
+"*Driverless* cars are being tested."
+],
+[
+"route",
+"noun",
+"B1",
+"เส้นทาง",
+"Which *route* is the fastest?"
+],
+[
+"lane",
+"noun",
+"B1",
+"ช่องทางเดินรถ",
+"Stay in the left *lane*."
+],
+[
+"drone",
+"noun",
+"B1",
+"โดรน",
+"The parcel was delivered by *drone*."
+],
+[
+"charging station",
+"noun",
+"B1",
+"สถานีชาร์จ",
+"Is there a *charging station* near here?"
+],
+[
+"flying car",
+"noun",
+"B1",
+"รถบินได้",
+"Will we ever have *flying cars*?"
+],
+[
+"ride-sharing",
+"noun",
+"B1",
+"การแชร์รถ (เรียกรถผ่านแอป)",
+"*Ride-sharing* apps are popular in cities."
+],
+[
+"high-speed",
+"adjective",
+"B1",
+"ความเร็วสูง",
+"A *high-speed* train links the two cities."
+],
+[
+"emission",
+"noun",
+"B1",
+"การปล่อย (ก๊าซ, มลพิษ)",
+"Cars produce harmful *emissions*."
+],
+[
+"sensor",
+"noun",
+"B1",
+"เซนเซอร์",
+"The car uses *sensors* to see the road."
+],
+[
+"range",
+"noun",
+"B1",
+"ระยะทางวิ่งได้ (ต่อการชาร์จ), ขอบเขต",
+"This car has a *range* of 500 km."
+],
+[
+"autonomous",
+"adjective",
+"B2",
+"อัตโนมัติ, ควบคุมตนเอง",
+"*Autonomous* vehicles may reduce accidents."
+],
+[
+"hydrogen",
+"noun",
+"B2",
+"ไฮโดรเจน",
+"*Hydrogen* buses produce only water."
+],
+[
+"hyperloop",
+"noun",
+"B2",
+"ไฮเปอร์ลูป (ระบบขนส่งในท่อสุญญากาศ)",
+"The *hyperloop* could carry people at 1,000 km/h."
+],
+[
+"carbon-neutral",
+"adjective",
+"B2",
+"ปลอดคาร์บอน, คาร์บอนเป็นกลาง",
+"The city aims to be *carbon-neutral* by 2050."
+],
+[
+"transition",
+"noun",
+"B2",
+"การเปลี่ยนผ่าน",
+"The *transition* to electric cars is happening fast."
+],
+[
+"adopt",
+"verb",
+"B2",
+"นำมาใช้, รับเอา",
+"Many countries have *adopted* new technology."
+],
+[
+"subsidy",
+"noun",
+"B2",
+"เงินอุดหนุน",
+"The government offers a *subsidy* for electric cars."
+],
+[
+"liability",
+"noun",
+"B2",
+"ความรับผิดชอบทางกฎหมาย",
+"Who has *liability* if a driverless car crashes?"
+],
+[
+"feasible",
+"adjective",
+"B2",
+"เป็นไปได้",
+"Is the plan technically *feasible*?"
+],
+[
+"incentive",
+"noun",
+"B2",
+"สิ่งจูงใจ",
+"Tax cuts are an *incentive* to buy clean cars."
+],
+[
+"mobility",
+"noun",
+"B2",
+"การเดินทาง, การเคลื่อนที่",
+"Good transport improves *mobility* for the elderly."
+]
+],
+"p": [
+{
+"t": "How I Get to Work",
+"x": "I live in Bangkok, and the traffic here can be terrible. When I started my job, I drove my car to work every day. The road was always busy, and the journey took more than an hour. It was very slow, and petrol was expensive.\nNow I take the subway. It is fast and cheap, and I can read a book on the way. The station is only five minutes from my home. Sometimes, when it rains, I take a taxi to the station.\nMy friend Lek has an electric scooter. She says it is quiet and easy to park. My brother rides his bike, but he says there aren't enough cycle lanes in our city. One day, I want to try a plane to Chiang Mai instead of the bus, because it's much quicker!"
+},
+{
+"t": "Cars Without Drivers",
+"x": "Imagine sitting in a car that drives itself. You could read, sleep or watch a film while the car takes you to work. Driverless cars are no longer science fiction. In several cities in the USA and China, ride-sharing companies already use them to carry passengers.\nThese cars use sensors and cameras to see the road, other cars and people. A computer decides the speed and the best route, and it can change lanes safely. Most of them are electric, so they produce no emissions from the engine, and they stop at a charging station when their battery is low. The range of newer models is over 400 kilometres.\nSupporters say driverless cars will reduce accidents, because computers don't get tired or drunk. However, some people are worried. What happens if a sensor fails? And will taxi drivers lose their jobs?\nMeanwhile, other ideas are being tested too: drones that deliver parcels, high-speed trains, and even flying cars. The way we travel may look very different in twenty years."
+},
+{
+"t": "The Road to Zero Emissions",
+"x": "Transport produces around a quarter of the world's carbon emissions, so a transition to cleaner travel is essential if countries are to become carbon-neutral. Electric vehicles are leading the way, but they are only part of the solution.\nMany governments offer subsidies or tax incentives to encourage people to adopt electric cars. In Norway, these policies have been so successful that most new cars sold are now electric. Critics, however, point out that subsidies mainly benefit wealthier buyers, and that electricity generated from coal is hardly clean.\nFor heavy transport such as lorries and ships, batteries may be too heavy, so engineers are exploring hydrogen fuel. Meanwhile, ambitious projects like the hyperloop, which would send passenger pods through low-pressure tubes, promise speeds of over 1,000 km/h, although many experts doubt whether they are economically feasible.\nFully autonomous vehicles raise further questions. If a self-driving car causes an accident, who bears liability: the owner, the manufacturer or the software company? Laws in most countries have not yet answered this.\nPerhaps the most effective changes are the least glamorous. Investing in trams, rail and safe streets for walking can improve mobility for everyone, including those who cannot afford a car."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "My sister is learning to ___. She wants to buy a car.",
+"o": [
+"drive",
+"dive",
+"drink",
+"drop"
+],
+"en": "Drive = control a car.",
+"th": "drive = ขับรถ",
+"x": [
+[
+"'dive' means jump into water.",
+"dive = ดำน้ำ กระโดดน้ำ"
+],
+[
+"'drink' is for liquids.",
+"drink = ดื่ม"
+],
+[
+"'drop' means let fall.",
+"drop = ทำตก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The train is very ___; it goes 300 km per hour.",
+"o": [
+"fast",
+"fat",
+"first",
+"fine"
+],
+"en": "Fast = quick.",
+"th": "fast = เร็ว",
+"x": [
+[
+"'fat' describes body size.",
+"fat = อ้วน"
+],
+[
+"'first' is an order.",
+"first = แรก"
+],
+[
+"'fine' means OK.",
+"fine = ดี สบาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "We're late! Let's take a ___ to the airport.",
+"o": [
+"taxi",
+"tax",
+"text",
+"tea"
+],
+"en": "A taxi is a car you pay to ride in.",
+"th": "taxi = รถแท็กซี่",
+"x": [
+[
+"Tax is money to the government.",
+"tax = ภาษี"
+],
+[
+"A text is a message.",
+"text = ข้อความ"
+],
+[
+"Tea is a drink.",
+"tea = ชา"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Look left and right before you cross the ___.",
+"o": [
+"road",
+"read",
+"rode",
+"roof"
+],
+"en": "You cross a road.",
+"th": "ข้ามถนน",
+"x": [
+[
+"'read' is a verb.",
+"read = อ่าน"
+],
+[
+"'rode' is past of ride.",
+"rode = ขี่ (อดีต)"
+],
+[
+"A roof is on top of a house.",
+"roof = หลังคา"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The bus was full; there were over sixty ___.",
+"o": [
+"passengers",
+"messengers",
+"passports",
+"passages"
+],
+"en": "Passengers travel in a vehicle.",
+"th": "passenger = ผู้โดยสาร",
+"x": [
+[
+"Messengers carry messages.",
+"messenger = ผู้ส่งสาร"
+],
+[
+"Passports are travel documents.",
+"passport = หนังสือเดินทาง"
+],
+[
+"Passages are corridors or texts.",
+"passage = ทางเดิน บทความ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "An ___ car doesn't need petrol; you charge it.",
+"o": [
+"electric",
+"elastic",
+"electronic",
+"eclectic"
+],
+"en": "Electric cars run on electricity.",
+"th": "รถยนต์ไฟฟ้า",
+"x": [
+[
+"'elastic' means stretchy.",
+"elastic = ยืดหยุ่น"
+],
+[
+"'electronic' is for devices like phones; we say 'electric car'.",
+"electronic ใช้กับอุปกรณ์อิเล็กทรอนิกส์"
+],
+[
+"'eclectic' means varied.",
+"eclectic = หลากหลาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Bicycles should use the ___, not the pavement.",
+"o": [
+"cycle lane",
+"cycle shop",
+"cycle race",
+"cyclone"
+],
+"en": "A cycle lane is a part of the road for bikes.",
+"th": "cycle lane = ช่องทางจักรยาน",
+"x": [
+[
+"A shop isn't for riding in.",
+"ร้านไม่ใช่ที่ขี่"
+],
+[
+"A race is a competition.",
+"race = การแข่งขัน"
+],
+[
+"A cyclone is a storm.",
+"cyclone = พายุไซโคลน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The car won't start. I think there's a problem with the ___.",
+"o": [
+"engine",
+"engineer",
+"energy",
+"enemy"
+],
+"en": "The engine makes a car go.",
+"th": "engine = เครื่องยนต์",
+"x": [
+[
+"An engineer is a person.",
+"engineer = วิศวกร"
+],
+[
+"Energy is power in general.",
+"energy = พลังงาน"
+],
+[
+"An enemy is an opponent.",
+"enemy = ศัตรู"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The traffic app showed us a faster ___ through the city.",
+"o": [
+"route",
+"root",
+"rout",
+"rote"
+],
+"en": "A route is a way from one place to another.",
+"th": "route = เส้นทาง",
+"x": [
+[
+"A root is part of a plant.",
+"root = ราก"
+],
+[
+"A rout is a heavy defeat.",
+"rout = ความพ่ายแพ้ยับเยิน"
+],
+[
+"Rote is learning by repetition.",
+"rote = การท่องจำ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "___ cars use cameras and computers instead of a human driver.",
+"o": [
+"Driverless",
+"Driving",
+"Drivers",
+"Drive-in"
+],
+"en": "Driverless = with no driver.",
+"th": "driverless = ไร้คนขับ",
+"x": [
+[
+"'Driving cars' isn't the term.",
+"ไม่ใช่คำที่ใช้"
+],
+[
+"'Drivers' are people.",
+"drivers = คนขับ"
+],
+[
+"A drive-in is a cinema or restaurant.",
+"drive-in = โรงหนัง/ร้านแบบขับรถเข้าไป"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "My new electric car has a ___ of 450 kilometres per charge.",
+"o": [
+"range",
+"rang",
+"rank",
+"rage"
+],
+"en": "Range = how far it can go.",
+"th": "range = ระยะทางที่วิ่งได้",
+"x": [
+[
+"'rang' is past of ring.",
+"rang = ดัง (อดีต)"
+],
+[
+"A rank is a position.",
+"rank = อันดับ"
+],
+[
+"Rage is anger.",
+"rage = ความโกรธ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The company delivers small parcels by ___.",
+"o": [
+"drone",
+"drown",
+"drain",
+"drum"
+],
+"en": "A drone is a small flying machine without a pilot.",
+"th": "drone = โดรน",
+"x": [
+[
+"'drown' means die in water.",
+"drown = จมน้ำ"
+],
+[
+"A drain takes away water.",
+"drain = ท่อระบายน้ำ"
+],
+[
+"A drum is a musical instrument.",
+"drum = กลอง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The government offers a ___ to people who buy electric cars.",
+"o": [
+"subsidy",
+"subway",
+"subsidiary",
+"subject"
+],
+"en": "A subsidy is money from the government to reduce costs.",
+"th": "subsidy = เงินอุดหนุน",
+"x": [
+[
+"A subway is an underground train.",
+"subway = รถไฟใต้ดิน"
+],
+[
+"A subsidiary is a company owned by another.",
+"subsidiary = บริษัทลูก"
+],
+[
+"A subject is a topic.",
+"subject = หัวข้อ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Experts doubt that the project is economically ___.",
+"o": [
+"feasible",
+"fearful",
+"favourable",
+"feeble"
+],
+"en": "Feasible = possible to do.",
+"th": "feasible = เป็นไปได้",
+"x": [
+[
+"'fearful' means afraid.",
+"fearful = หวาดกลัว"
+],
+[
+"'favourable' means positive, but doesn't fit 'doubt that…is possible'.",
+"favourable = เป็นผลดี"
+],
+[
+"'feeble' means weak.",
+"feeble = อ่อนแอ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Lower taxes are a strong ___ for drivers to switch to cleaner cars.",
+"o": [
+"incentive",
+"incident",
+"income",
+"instinct"
+],
+"en": "An incentive encourages someone to do something.",
+"th": "incentive = สิ่งจูงใจ",
+"x": [
+[
+"An incident is an event.",
+"incident = เหตุการณ์"
+],
+[
+"Income is money you earn.",
+"income = รายได้"
+],
+[
+"An instinct is natural behaviour.",
+"instinct = สัญชาตญาณ"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[He] [drive] [to] [work] every day.",
+"a": 1,
+"fix": "He drives to work every day.",
+"en": "He + Present Simple: drives.",
+"th": "He ใช้ drives",
+"x": [
+[
+"'He' is correct.",
+"He ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+],
+[
+"'work' is correct.",
+"work ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "I [go] [to] school [by] [the bike].",
+"a": 3,
+"fix": "I go to school by bike.",
+"en": "'By + transport' has no article: by bike.",
+"th": "by + พาหนะ ไม่ใช้ the: by bike",
+"x": [
+[
+"'go' is correct.",
+"go ถูกต้อง"
+],
+[
+"'to' is correct.",
+"to ถูกต้อง"
+],
+[
+"'by' is correct.",
+"by ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "The subway is [much] [more fast] [than] [the] bus.",
+"a": 1,
+"fix": "The subway is faster than the bus.",
+"en": "Short adjectives: faster, not 'more fast'.",
+"th": "คุณศัพท์สั้นใช้ faster ไม่ใช่ more fast",
+"x": [
+[
+"'much' is correct before a comparative.",
+"much ใช้หน้าขั้นกว่า ถูกต้อง"
+],
+[
+"'than' is correct.",
+"than ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[How] [many] [petrol] [do] we need?",
+"a": 1,
+"fix": "How much petrol do we need?",
+"en": "'Petrol' is uncountable: How much.",
+"th": "petrol นับไม่ได้: How much",
+"x": [
+[
+"'How' is correct.",
+"How ถูกต้อง"
+],
+[
+"'petrol' is correct.",
+"petrol ถูกต้อง"
+],
+[
+"'do' is correct.",
+"do ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[There] [is] [many] [cars] on the road today.",
+"a": 1,
+"fix": "There are many cars on the road today.",
+"en": "Plural noun: There are.",
+"th": "นามพหูพจน์: There are",
+"x": [
+[
+"'There' is correct.",
+"There ถูกต้อง"
+],
+[
+"'many' is correct.",
+"many ถูกต้อง"
+],
+[
+"'cars' is correct.",
+"cars ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Driverless] cars [are] [tested] [since] 2020 in this city.",
+"a": 1,
+"fix": "Driverless cars have been tested since 2020 in this city.",
+"en": "'Since' needs Present Perfect passive: have been tested.",
+"th": "since ต้องใช้ Present Perfect passive: have been tested",
+"x": [
+[
+"'Driverless' is correct.",
+"Driverless ถูกต้อง"
+],
+[
+"'tested' is correct as part of the passive.",
+"tested ถูกต้อง"
+],
+[
+"'since' is correct with a year.",
+"since ใช้กับปี ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[In] the future, [most] cars [will be] [electrics].",
+"a": 3,
+"fix": "In the future, most cars will be electric.",
+"en": "Adjectives don't take -s: electric.",
+"th": "คุณศัพท์ไม่เติม s: electric",
+"x": [
+[
+"'In' is correct.",
+"In ถูกต้อง"
+],
+[
+"'most' is correct.",
+"most ถูกต้อง"
+],
+[
+"'will be' is correct.",
+"will be ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[It] [took] [us] three hours [getting] to Pattaya.",
+"a": 3,
+"fix": "It took us three hours to get to Pattaya.",
+"en": "'It takes + time + to do'.",
+"th": "It takes + เวลา + to do",
+"x": [
+[
+"'It' is correct.",
+"It ถูกต้อง"
+],
+[
+"'took' is correct.",
+"took ถูกต้อง"
+],
+[
+"'us' is correct.",
+"us ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Should] the battery [run out], the car [would stop] [safely] at the roadside.",
+"a": 2,
+"fix": "Should the battery run out, the car will stop safely at the roadside.",
+"en": "'Should + subject' (first conditional) takes 'will' in the result.",
+"th": "Should + ประธาน (first conditional) ผลใช้ will",
+"x": [
+[
+"'Should' is correct inversion.",
+"Should ถูกต้อง"
+],
+[
+"'run out' is correct.",
+"run out ถูกต้อง"
+],
+[
+"'safely' is correct.",
+"safely ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Little] people [know] that [the] first electric car [was built] in the 1830s.",
+"a": 0,
+"fix": "Few people know that the first electric car was built in the 1830s.",
+"en": "'People' is countable: few, not little.",
+"th": "people นับได้: ใช้ few ไม่ใช่ little",
+"x": [
+[
+"'know' is correct.",
+"know ถูกต้อง"
+],
+[
+"'the' is correct before 'first'.",
+"the ถูกต้องหน้า first"
+],
+[
+"'was built' is correct passive.",
+"was built ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: How do you go to school?\nB: ___",
+"o": [
+"By bus.",
+"At eight.",
+"Yes, I do.",
+"My school."
+],
+"en": "'How' asks about transport.",
+"th": "how ถามวิธีเดินทาง",
+"x": [
+[
+"It's a time.",
+"เป็นเวลา"
+],
+[
+"Not an answer to 'how'.",
+"ไม่ตอบ how"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Can you drive?\nB: ___ I'm only fourteen.",
+"o": [
+"No, I can't.",
+"Yes, I can.",
+"I drive a car.",
+"It's red."
+],
+"en": "Fourteen is too young to drive.",
+"th": "14 ปียังขับรถไม่ได้",
+"x": [
+[
+"It contradicts the age.",
+"ขัดกับอายุ"
+],
+[
+"It contradicts the age.",
+"ขัดกับอายุ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Is the taxi here?\nB: ___ It's outside the door.",
+"o": [
+"Yes, it is.",
+"No, it isn't.",
+"It's a car.",
+"Thank you."
+],
+"en": "It's outside, so yes.",
+"th": "อยู่ข้างนอก จึงตอบว่าใช่",
+"x": [
+[
+"It contradicts 'outside'.",
+"ขัดกับ outside"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Excuse me, which tram goes to the museum?\nB: ___",
+"o": [
+"Number 5. It stops right outside.",
+"It's a big museum.",
+"I like trams.",
+"Ten baht, please."
+],
+"en": "B identifies the tram.",
+"th": "B บอกสายรถราง",
+"x": [
+[
+"It doesn't answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"That's a price.",
+"นั่นคือราคา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Why did you buy an electric scooter?\nB: ___",
+"o": [
+"It's cheap to run and easy to park.",
+"It's my birthday.",
+"Yesterday.",
+"At the shop."
+],
+"en": "B gives reasons.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"Not a clear reason.",
+"ไม่ใช่เหตุผลชัดเจน"
+],
+[
+"It's a time.",
+"เป็นเวลา"
+],
+[
+"It's a place.",
+"เป็นสถานที่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Shall we take the subway or a taxi?\nB: ___ The traffic is terrible at this time.",
+"o": [
+"The subway, I think.",
+"A taxi, definitely.",
+"Let's drive.",
+"I don't care about traffic."
+],
+"en": "Bad traffic → subway is better.",
+"th": "รถติดจึงควรนั่งรถไฟใต้ดิน",
+"x": [
+[
+"Taxis get stuck in traffic.",
+"แท็กซี่ติดรถ"
+],
+[
+"Driving is also affected.",
+"ขับรถก็ติด"
+],
+[
+"It contradicts B's reason.",
+"ขัดกับเหตุผลของ B"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Would you feel safe in a driverless car?\nB: ___ I'd want to see more tests first.",
+"o": [
+"I'm not sure yet.",
+"Completely safe!",
+"I've never seen a car.",
+"Yes, I drive one every day."
+],
+"en": "B is uncertain.",
+"th": "B ยังไม่แน่ใจ",
+"x": [
+[
+"It contradicts wanting more tests.",
+"ขัดกับการอยากเห็นการทดสอบเพิ่ม"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"It contradicts wanting more tests.",
+"ขัดกับการอยากเห็นการทดสอบเพิ่ม"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: My battery's almost empty.\nB: ___",
+"o": [
+"There's a charging station two kilometres ahead.",
+"Buy more petrol.",
+"Batteries are expensive.",
+"Drive faster."
+],
+"en": "B gives a useful solution.",
+"th": "B ให้ทางแก้ที่มีประโยชน์",
+"x": [
+[
+"Electric cars don't use petrol.",
+"รถไฟฟ้าไม่ใช้น้ำมัน"
+],
+[
+"Not helpful.",
+"ไม่ช่วย"
+],
+[
+"That uses more power.",
+"ใช้พลังงานมากขึ้น"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think subsidies for electric cars are fair?\nB: ___ They help the environment, but mostly benefit people who can already afford new cars.",
+"o": [
+"It's debatable.",
+"Completely fair.",
+"Totally unfair.",
+"I don't know what subsidies are."
+],
+"en": "B gives both sides.",
+"th": "B ให้ทั้งสองด้าน",
+"x": [
+[
+"B mentions a problem.",
+"B พูดถึงปัญหา"
+],
+[
+"B mentions a benefit.",
+"B พูดถึงข้อดี"
+],
+[
+"B clearly knows.",
+"B รู้ชัดเจน"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: The hyperloop could go 1,000 km/h!\nB: ___ Many experts say it's too expensive to build.",
+"o": [
+"That sounds great in theory, but I have my doubts.",
+"I'm sure it will open next year.",
+"That's slower than a bike.",
+"Speed doesn't matter."
+],
+"en": "B is sceptical.",
+"th": "B มีข้อสงสัย",
+"x": [
+[
+"It contradicts the doubts.",
+"ขัดกับข้อสงสัย"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How did the writer go to work at first?",
+"o": [
+"By car",
+"By subway",
+"By bike",
+"By taxi"
+],
+"en": "'I drove my car to work every day.'",
+"th": "ขับรถไปทำงาน",
+"x": [
+[
+"That's now.",
+"นั่นคือตอนนี้"
+],
+[
+"That's the brother.",
+"นั่นคือน้องชาย"
+],
+[
+"Only sometimes to the station.",
+"บางครั้งไปสถานี"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What can the writer do on the subway?",
+"o": [
+"Read a book",
+"Sleep in a bed",
+"Drive",
+"Cook"
+],
+"en": "'I can read a book on the way.'",
+"th": "อ่านหนังสือ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not possible.",
+"เป็นไปไม่ได้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "When does the writer take a taxi?",
+"o": [
+"When it rains",
+"Every day",
+"On Sundays",
+"When the subway is closed"
+],
+"en": "'Sometimes, when it rains, I take a taxi to the station.'",
+"th": "เมื่อฝนตก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does Lek like about her scooter?",
+"o": [
+"It's quiet and easy to park.",
+"It's very fast.",
+"It's cheap to buy.",
+"It has a big engine."
+],
+"en": "'She says it is quiet and easy to park.'",
+"th": "เงียบและจอดง่าย",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the writer's brother complain about?",
+"o": [
+"Not enough cycle lanes",
+"Expensive petrol",
+"Slow trains",
+"Noisy scooters"
+],
+"en": "'…there aren't enough cycle lanes in our city.'",
+"th": "ช่องทางจักรยานไม่พอ",
+"x": [
+[
+"That was the writer.",
+"นั่นคือผู้เขียน"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Where are driverless cars already carrying passengers?",
+"o": [
+"In some cities in the USA and China",
+"In every city in the world",
+"Only in Thailand",
+"Nowhere yet"
+],
+"en": "'In several cities in the USA and China…'",
+"th": "บางเมืองในสหรัฐฯ และจีน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They are already used.",
+"ใช้อยู่แล้ว"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "How do driverless cars 'see' the road?",
+"o": [
+"With sensors and cameras",
+"With a human driver",
+"With drones",
+"With maps only"
+],
+"en": "'These cars use sensors and cameras to see the road.'",
+"th": "ใช้เซนเซอร์และกล้อง",
+"x": [
+[
+"They have no driver.",
+"ไม่มีคนขับ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do supporters think driverless cars are safer?",
+"o": [
+"Computers don't get tired or drunk.",
+"They are slower.",
+"They have no engines.",
+"They use petrol."
+],
+"en": "'…because computers don't get tired or drunk.'",
+"th": "คอมพิวเตอร์ไม่เหนื่อยหรือเมา",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They have engines/motors.",
+"มีเครื่องยนต์"
+],
+[
+"Most are electric.",
+"ส่วนใหญ่เป็นไฟฟ้า"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which worry is mentioned?",
+"o": [
+"Taxi drivers may lose their jobs.",
+"The cars are too slow.",
+"Passengers will get bored.",
+"The cars are too quiet."
+],
+"en": "'Will taxi drivers lose their jobs?'",
+"th": "คนขับแท็กซี่อาจตกงาน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is the range of newer models?",
+"o": [
+"Over 400 kilometres",
+"Under 100 kilometres",
+"Exactly 1,000 kilometres",
+"Not mentioned"
+],
+"en": "'The range of newer models is over 400 kilometres.'",
+"th": "มากกว่า 400 กิโลเมตร",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"It is mentioned.",
+"มีกล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why is a transition to cleaner transport essential?",
+"o": [
+"Transport produces about a quarter of carbon emissions.",
+"Petrol has run out.",
+"Electric cars are cheaper.",
+"Trains are too slow."
+],
+"en": "'Transport produces around a quarter of the world's carbon emissions.'",
+"th": "การขนส่งปล่อยคาร์บอนประมาณหนึ่งในสี่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What criticism of subsidies is mentioned?",
+"o": [
+"They mainly benefit wealthier buyers.",
+"They are too small.",
+"They only apply to petrol cars.",
+"They have failed in Norway."
+],
+"en": "'Subsidies mainly benefit wealthier buyers.'",
+"th": "เป็นประโยชน์กับผู้มีฐานะเป็นหลัก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"They succeeded in Norway.",
+"สำเร็จในนอร์เวย์"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why might hydrogen be used for lorries and ships?",
+"o": [
+"Batteries may be too heavy.",
+"Hydrogen is cheaper than electricity.",
+"Lorries can't use electricity at all.",
+"Ships need hyperloops."
+],
+"en": "'For heavy transport… batteries may be too heavy.'",
+"th": "แบตเตอรี่อาจหนักเกินไป",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Too extreme.",
+"สุดโต่งเกินไป"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What question about autonomous vehicles remains unanswered?",
+"o": [
+"Who is responsible if one causes an accident",
+"How fast they can go",
+"What colour they should be",
+"Whether they use sensors"
+],
+"en": "'…who bears liability… Laws… have not yet answered this.'",
+"th": "ใครต้องรับผิดชอบเมื่อเกิดอุบัติเหตุ",
+"x": [
+[
+"Not discussed.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Not discussed.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Not discussed here.",
+"ไม่ได้กล่าวถึงที่นี่"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does the writer suggest in the final paragraph?",
+"o": [
+"Simple investments in trams, rail and walking may be most effective.",
+"Flying cars are the best solution.",
+"Only rich people need transport.",
+"Cars should be banned completely."
+],
+"en": "'Perhaps the most effective changes are the least glamorous.'",
+"th": "การลงทุนพื้นฐานอาจได้ผลที่สุด",
+"x": [
+[
+"Not mentioned here.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"The opposite: 'improve mobility for everyone'.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

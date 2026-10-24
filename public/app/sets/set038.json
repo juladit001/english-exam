@@ -1,0 +1,1627 @@
+{
+"id": 38,
+"theme": "Learning languages",
+"v": [
+[
+"say",
+"verb",
+"A1",
+"พูด, บอก",
+"How do you *say* 'hello' in Japanese?"
+],
+[
+"language",
+"noun",
+"A1",
+"ภาษา",
+"How many *languages* do you speak?"
+],
+[
+"letter",
+"noun",
+"A1",
+"ตัวอักษร, จดหมาย",
+"The English alphabet has 26 *letters*."
+],
+[
+"spell",
+"verb",
+"A1",
+"สะกด",
+"How do you *spell* your name?"
+],
+[
+"mean",
+"verb",
+"A1",
+"หมายถึง",
+"What does this word *mean*?"
+],
+[
+"sentence",
+"noun",
+"A1",
+"ประโยค",
+"Write a *sentence* with this word."
+],
+[
+"practise",
+"verb",
+"A1",
+"ฝึก",
+"I *practise* English every day."
+],
+[
+"mistake",
+"noun",
+"A1",
+"ข้อผิดพลาด",
+"Don't worry about making *mistakes*."
+],
+[
+"grammar",
+"noun",
+"A2",
+"ไวยากรณ์",
+"English *grammar* is not easy."
+],
+[
+"accent",
+"noun",
+"A2",
+"สำเนียง",
+"She has a British *accent*."
+],
+[
+"translate",
+"verb",
+"A2",
+"แปล",
+"Can you *translate* this into Thai?"
+],
+[
+"dictionary",
+"noun",
+"A2",
+"พจนานุกรม",
+"Look it up in the *dictionary*."
+],
+[
+"vocabulary",
+"noun",
+"A2",
+"คำศัพท์",
+"Reading helps you build *vocabulary*."
+],
+[
+"phrase",
+"noun",
+"A2",
+"วลี",
+"Learn some useful *phrases* before your trip."
+],
+[
+"conversation",
+"noun",
+"A2",
+"บทสนทนา",
+"We had a long *conversation* in English."
+],
+[
+"improve",
+"verb",
+"A2",
+"พัฒนา, ปรับปรุง",
+"My English has *improved* a lot."
+],
+[
+"formal",
+"adjective",
+"A2",
+"เป็นทางการ",
+"Use *formal* language in a job letter."
+],
+[
+"informal",
+"adjective",
+"A2",
+"ไม่เป็นทางการ",
+"'Hi' is more *informal* than 'Hello'."
+],
+[
+"pronounce",
+"verb",
+"B1",
+"ออกเสียง",
+"How do you *pronounce* this word?"
+],
+[
+"fluent",
+"adjective",
+"B1",
+"คล่อง",
+"He's *fluent* in three languages."
+],
+[
+"native speaker",
+"noun",
+"B1",
+"เจ้าของภาษา",
+"Practise with a *native speaker*."
+],
+[
+"bilingual",
+"adjective",
+"B1",
+"พูดได้สองภาษา",
+"Their children are *bilingual*."
+],
+[
+"idiom",
+"noun",
+"B1",
+"สำนวน",
+"'Break a leg' is an *idiom*."
+],
+[
+"flashcard",
+"noun",
+"B1",
+"บัตรคำ",
+"I use *flashcards* to learn new words."
+],
+[
+"subtitle",
+"noun",
+"B1",
+"คำบรรยายใต้ภาพ",
+"Watch films with English *subtitles*."
+],
+[
+"dialect",
+"noun",
+"B1",
+"ภาษาถิ่น",
+"The northern *dialect* sounds different."
+],
+[
+"syllable",
+"noun",
+"B1",
+"พยางค์",
+"'Banana' has three *syllables*."
+],
+[
+"interpreter",
+"noun",
+"B1",
+"ล่าม",
+"The minister spoke through an *interpreter*."
+],
+[
+"mother tongue",
+"noun",
+"B1",
+"ภาษาแม่",
+"My *mother tongue* is Thai."
+],
+[
+"immersion",
+"noun",
+"B2",
+"การเรียนรู้แบบจุ่มตัว (ใช้ภาษานั้นตลอด)",
+"*Immersion* is the fastest way to learn."
+],
+[
+"proficiency",
+"noun",
+"B2",
+"ความเชี่ยวชาญ, ความสามารถ",
+"You need a certificate of English *proficiency*."
+],
+[
+"acquisition",
+"noun",
+"B2",
+"การรับ (ภาษา), การได้มา",
+"Children's language *acquisition* is natural."
+],
+[
+"nuance",
+"noun",
+"B2",
+"ความแตกต่างเล็กน้อย (ของความหมาย)",
+"Translators must understand every *nuance*."
+],
+[
+"colloquial",
+"adjective",
+"B2",
+"ภาษาพูด, ภาษาปาก",
+"'Gonna' is *colloquial* English."
+],
+[
+"intonation",
+"noun",
+"B2",
+"ทำนองเสียงสูงต่ำ",
+"Your *intonation* goes up in yes/no questions."
+],
+[
+"polyglot",
+"noun",
+"B2",
+"ผู้รู้หลายภาษา",
+"The *polyglot* speaks nine languages."
+],
+[
+"lingua franca",
+"noun",
+"B2",
+"ภาษากลาง",
+"English is a global *lingua franca*."
+],
+[
+"literal",
+"adjective",
+"B2",
+"ตามตัวอักษร, ตรงตัว",
+"A *literal* translation often sounds strange."
+],
+[
+"grasp",
+"verb/noun",
+"B2",
+"เข้าใจ, ความเข้าใจ",
+"She quickly *grasped* the rules."
+],
+[
+"plateau",
+"noun",
+"B2",
+"ภาวะคงที่ (ไม่พัฒนาขึ้น)",
+"Many learners reach a *plateau* at B1."
+]
+],
+"p": [
+{
+"t": "My English Diary",
+"x": "I started learning English two years ago. At first, it was very difficult. I didn't know how to say simple things, and I couldn't spell many words. The letters were the same as in other languages, but the sounds were different!\nNow I practise every day. In the morning, I learn five new words. I write each word in a sentence in my notebook. If I don't know what a word means, I ask my teacher. In the evening, I listen to English songs.\nMy teacher says that mistakes are OK. \"Everyone makes mistakes when they learn a language,\" she says. \"That's how you learn.\" My favourite thing is talking to tourists in my town. They are always friendly and patient with me."
+},
+{
+"t": "Tips From a Language Teacher",
+"x": "Many students ask me, \"How can I become fluent quickly?\" There is no magic answer, but some methods work better than others.\nFirst, don't only study grammar. Grammar is important, but you also need lots of vocabulary and useful phrases. Flashcards are a great way to remember new words, especially if you review them regularly.\nSecond, listen as much as you can. Watch films and series with English subtitles. This helps you learn how to pronounce words correctly and how to divide them into syllables. Don't worry about your accent; most people understand many different accents.\nThird, find a conversation partner. A native speaker is ideal, but a classmate is fine too. Practise both formal and informal situations, like a job interview and a chat with a friend. Learning idioms will make you sound more natural.\nFinally, don't translate everything word by word. Try to think in English. A dictionary is useful, but if you check every word, you'll never finish a book! As one bilingual student told me, \"I improved when I stopped translating from my mother tongue.\" It is also interesting to learn about dialects: English in Scotland, India and Australia can sound very different. Some of my students now work as interpreters."
+},
+{
+"t": "Is It Ever Too Late to Learn?",
+"x": "It is often said that children learn languages more easily than adults. In one sense this is true: young children who grow up hearing two languages achieve native-like pronunciation and intonation without apparent effort. Researchers describe this process as acquisition rather than learning, because it happens naturally, without formal instruction.\nAdults, however, have advantages of their own. They can grasp grammatical rules quickly, use learning strategies deliberately and draw on knowledge of their first language. Studies show that, in the early stages, adult learners often progress faster than children. Many famous polyglots began learning most of their languages after the age of twenty.\nWhat adults typically lack is time and exposure. A child in an immersion programme hears the language for many hours a day; an adult in a weekly evening class may hear it for ninety minutes. It is therefore unsurprising that many adult learners reach a plateau at an intermediate level of proficiency, able to communicate but struggling with colloquial speech and subtle nuances of meaning.\nFor speakers of languages like Thai, English presents specific challenges, from consonant clusters to the gap between spelling and sound. Yet as English has become the world's lingua franca, used daily by more non-native than native speakers, the goal has shifted. Few learners now aim to sound exactly like a native speaker. Instead, they aim to communicate clearly, understanding that a literal translation of their thoughts is rarely enough, and that real fluency means expressing ideas the way English speakers naturally would."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "How do you ___ 'restaurant'? R-E-S…",
+"o": [
+"spell",
+"spill",
+"spend",
+"smell"
+],
+"en": "Spell = say the letters of a word.",
+"th": "spell = สะกด",
+"x": [
+[
+"'spill' means drop liquid.",
+"spill = ทำหก"
+],
+[
+"'spend' is for money or time.",
+"spend = ใช้จ่าย"
+],
+[
+"'smell' uses your nose.",
+"smell = ดม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "What does this word ___? I don't understand it.",
+"o": [
+"mean",
+"meet",
+"mind",
+"main"
+],
+"en": "What does X mean? = ask for definition.",
+"th": "What does X mean? = ถามความหมาย",
+"x": [
+[
+"'meet' is to see someone.",
+"meet = พบ"
+],
+[
+"'mind' doesn't fit here.",
+"mind ไม่เข้าความหมาย"
+],
+[
+"'main' is an adjective.",
+"main = หลัก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "Don't worry if you make a ___. Just try again.",
+"o": [
+"mistake",
+"mistaken",
+"mystery",
+"mist"
+],
+"en": "Make a mistake = do something wrong.",
+"th": "make a mistake = ทำผิด",
+"x": [
+[
+"'mistaken' is an adjective.",
+"mistaken เป็นคุณศัพท์"
+],
+[
+"A mystery is something unknown.",
+"mystery = ความลึกลับ"
+],
+[
+"Mist is light fog.",
+"mist = หมอกบาง"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I ___ English with my friends every day after school.",
+"o": [
+"practise",
+"practice's",
+"practised tomorrow",
+"practically"
+],
+"en": "Present habit: practise (verb).",
+"th": "นิสัยปัจจุบัน: practise",
+"x": [
+[
+"Not a correct form.",
+"รูปผิด"
+],
+[
+"Past with 'tomorrow' is wrong.",
+"อดีตกับ tomorrow ผิด"
+],
+[
+"An adverb, not a verb.",
+"เป็นกริยาวิเศษณ์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "If you don't know a word, look it up in a ___.",
+"o": [
+"dictionary",
+"diary",
+"directory",
+"dictation"
+],
+"en": "A dictionary gives meanings.",
+"th": "พจนานุกรมให้ความหมาย",
+"x": [
+[
+"A diary is for personal notes.",
+"diary = ไดอารี่"
+],
+[
+"A directory lists names and numbers.",
+"directory = สมุดรายชื่อ"
+],
+[
+"Dictation is writing what you hear.",
+"dictation = การเขียนตามคำบอก"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Can you ___ this email into Thai for me?",
+"o": [
+"translate",
+"transport",
+"transfer",
+"transform"
+],
+"en": "Translate = change into another language.",
+"th": "translate = แปล",
+"x": [
+[
+"'transport' means carry.",
+"transport = ขนส่ง"
+],
+[
+"'transfer' means move.",
+"transfer = โอน ย้าย"
+],
+[
+"'transform' means change completely.",
+"transform = เปลี่ยนรูป"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She speaks English with an Australian ___.",
+"o": [
+"accent",
+"accident",
+"access",
+"account"
+],
+"en": "Accent = way of pronouncing.",
+"th": "accent = สำเนียง",
+"x": [
+[
+"An accident is a crash.",
+"accident = อุบัติเหตุ"
+],
+[
+"Access is a way in.",
+"access = การเข้าถึง"
+],
+[
+"An account is at a bank.",
+"account = บัญชี"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "'Dear Sir or Madam' is a ___ way to start a letter.",
+"o": [
+"formal",
+"normal",
+"former",
+"formula"
+],
+"en": "Formal = official, polite.",
+"th": "formal = เป็นทางการ",
+"x": [
+[
+"'normal' doesn't describe style here.",
+"normal = ปกติ"
+],
+[
+"'former' means previous.",
+"former = อดีต"
+],
+[
+"A formula is in maths.",
+"formula = สูตร"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "She's lived in London for ten years and is ___ in English.",
+"o": [
+"fluent",
+"fluid",
+"fluency",
+"flowing"
+],
+"en": "Fluent in a language = speaks it easily.",
+"th": "fluent in = คล่อง",
+"x": [
+[
+"'fluid' is a liquid.",
+"fluid = ของเหลว"
+],
+[
+"'fluency' is a noun.",
+"fluency เป็นคำนาม"
+],
+[
+"'flowing' isn't used this way.",
+"flowing ไม่ใช้แบบนี้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "'It's raining cats and dogs' is an ___ meaning it's raining heavily.",
+"o": [
+"idiom",
+"idiot",
+"idol",
+"ideal"
+],
+"en": "An idiom has a non-literal meaning.",
+"th": "idiom = สำนวน",
+"x": [
+[
+"An idiot is a stupid person.",
+"idiot = คนโง่"
+],
+[
+"An idol is a star or statue.",
+"idol = รูปเคารพ ไอดอล"
+],
+[
+"'ideal' means perfect.",
+"ideal = อุดมคติ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The president spoke through an ___ at the meeting.",
+"o": [
+"interpreter",
+"interrupter",
+"internet",
+"intern"
+],
+"en": "An interpreter translates speech.",
+"th": "interpreter = ล่าม",
+"x": [
+[
+"An interrupter stops others speaking.",
+"interrupter = ผู้ขัดจังหวะ"
+],
+[
+"The internet is a network.",
+"internet = อินเทอร์เน็ต"
+],
+[
+"An intern is a trainee.",
+"intern = นักศึกษาฝึกงาน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "'Computer' has three ___: com-pu-ter.",
+"o": [
+"syllables",
+"syllabuses",
+"symbols",
+"signals"
+],
+"en": "Syllables are parts of a word's sound.",
+"th": "syllable = พยางค์",
+"x": [
+[
+"Syllabuses are course plans.",
+"syllabus = หลักสูตร"
+],
+[
+"Symbols are signs.",
+"symbol = สัญลักษณ์"
+],
+[
+"Signals are messages or signs.",
+"signal = สัญญาณ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "A ___ translation of an idiom often makes no sense.",
+"o": [
+"literal",
+"literary",
+"literate",
+"lateral"
+],
+"en": "Literal = word for word.",
+"th": "literal = ตรงตัว",
+"x": [
+[
+"'literary' is about literature.",
+"literary = เกี่ยวกับวรรณกรรม"
+],
+[
+"'literate' means able to read.",
+"literate = อ่านออกเขียนได้"
+],
+[
+"'lateral' means to the side.",
+"lateral = ด้านข้าง"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "English has become a global ___ for business and science.",
+"o": [
+"lingua franca",
+"lingerie",
+"linguist",
+"language barrier"
+],
+"en": "A lingua franca is a shared common language.",
+"th": "lingua franca = ภาษากลาง",
+"x": [
+[
+"Lingerie is underwear.",
+"lingerie = ชุดชั้นใน"
+],
+[
+"A linguist is a person.",
+"linguist = นักภาษาศาสตร์"
+],
+[
+"A language barrier is a problem, not a shared language.",
+"language barrier = อุปสรรคทางภาษา"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "After months of progress, many learners reach a ___ and feel they aren't improving.",
+"o": [
+"plateau",
+"plate",
+"palette",
+"platform"
+],
+"en": "A plateau = a period with no progress.",
+"th": "plateau = ภาวะคงที่",
+"x": [
+[
+"A plate is for food.",
+"plate = จาน"
+],
+[
+"A palette is for paint.",
+"palette = จานสี"
+],
+[
+"A platform is at a station.",
+"platform = ชานชาลา"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[How] [say] you 'thank you' [in] [French]?",
+"a": 1,
+"fix": "How do you say 'thank you' in French?",
+"en": "Questions need 'do': How do you say…?",
+"th": "คำถามต้องมี do: How do you say...?",
+"x": [
+[
+"'How' is correct.",
+"How ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+],
+[
+"'French' is correct.",
+"French ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[She] [speak] [three] [languages].",
+"a": 1,
+"fix": "She speaks three languages.",
+"en": "She + Present Simple: speaks.",
+"th": "She ใช้ speaks",
+"x": [
+[
+"'She' is correct.",
+"She ถูกต้อง"
+],
+[
+"'three' is correct.",
+"three ถูกต้อง"
+],
+[
+"'languages' is correct.",
+"languages ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[I] [have] [learned] English [since] five years.",
+"a": 3,
+"fix": "I have learned English for five years.",
+"en": "A period of time uses 'for'.",
+"th": "ช่วงเวลาใช้ for",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'have' is correct.",
+"have ถูกต้อง"
+],
+[
+"'learned' is correct.",
+"learned ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[English] grammar [is] [much] [more easy] than Thai grammar for me.",
+"a": 3,
+"fix": "English grammar is easier than Thai grammar for me.",
+"en": "Short adjective: easier (remove 'more').",
+"th": "คุณศัพท์สั้น: easier (ไม่ใช้ more)",
+"x": [
+[
+"'English' is correct.",
+"English ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'much' is correct before a comparative.",
+"much ใช้หน้าขั้นกว่า ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Can] you [explain] [me] [this] word?",
+"a": 2,
+"fix": "Can you explain this word to me?",
+"en": "'Explain something to someone' — not 'explain me'.",
+"th": "explain something to someone ไม่ใช่ explain me",
+"x": [
+[
+"'Can' is correct.",
+"Can ถูกต้อง"
+],
+[
+"'explain' is correct.",
+"explain ถูกต้อง"
+],
+[
+"'this' is correct.",
+"this ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Learn] idioms [makes] your English [sound] [more natural].",
+"a": 0,
+"fix": "Learning idioms makes your English sound more natural.",
+"en": "An activity as subject: Learning.",
+"th": "กิจกรรมเป็นประธาน: Learning",
+"x": [
+[
+"'makes' is correct (singular subject).",
+"makes ถูกต้อง"
+],
+[
+"'sound' is correct after 'make'.",
+"sound ถูกต้องหลัง make"
+],
+[
+"'more natural' is correct.",
+"more natural ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[I'm] [used to] [speak] English [at] work now.",
+"a": 2,
+"fix": "I'm used to speaking English at work now.",
+"en": "'Be used to + -ing': speaking.",
+"th": "be used to + V-ing: speaking",
+"x": [
+[
+"'I'm' is correct.",
+"I'm ถูกต้อง"
+],
+[
+"'used to' is correct with 'be'.",
+"used to ถูกต้องกับ be"
+],
+[
+"'at' is correct.",
+"at ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Although] she [is] fluent, [but] she still [makes] mistakes.",
+"a": 2,
+"fix": "Although she is fluent, she still makes mistakes.",
+"en": "Don't use 'although' and 'but' together.",
+"th": "ไม่ใช้ although คู่กับ but",
+"x": [
+[
+"'Although' is correct.",
+"Although ถูกต้อง"
+],
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'makes' is correct.",
+"makes ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[It's] no use [to translate] every word; [just] [try] to think in English.",
+"a": 1,
+"fix": "It's no use translating every word; just try to think in English.",
+"en": "'It's no use + -ing': translating.",
+"th": "It's no use + V-ing: translating",
+"x": [
+[
+"'It's' is correct.",
+"It's ถูกต้อง"
+],
+[
+"'just' is correct.",
+"just ถูกต้อง"
+],
+[
+"'try' is correct.",
+"try ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Were] I [to live] in London, my English [will improve] [quickly].",
+"a": 2,
+"fix": "Were I to live in London, my English would improve quickly.",
+"en": "Hypothetical 'Were I to…' needs 'would'.",
+"th": "Were I to... (สมมติ) ต้องใช้ would",
+"x": [
+[
+"'Were' is correct inversion.",
+"Were ถูกต้อง"
+],
+[
+"'to live' is correct.",
+"to live ถูกต้อง"
+],
+[
+"'quickly' is correct.",
+"quickly ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you speak English?\nB: ___ I'm still learning.",
+"o": [
+"A little.",
+"No, never.",
+"Yes, perfectly.",
+"I'm English."
+],
+"en": "'Still learning' → a little.",
+"th": "ยังเรียนอยู่ จึงพูดได้นิดหน่อย",
+"x": [
+[
+"B is learning, so B speaks some.",
+"B กำลังเรียน จึงพูดได้บ้าง"
+],
+[
+"It contradicts 'still learning'.",
+"ขัดกับ still learning"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Sorry, can you say that again?\nB: ___",
+"o": [
+"Of course. I said, 'Where is the station?'",
+"No, I'm sorry.",
+"Again.",
+"Thank you."
+],
+"en": "B repeats politely.",
+"th": "B พูดซ้ำอย่างสุภาพ",
+"x": [
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: What's your first language?\nB: ___",
+"o": [
+"Thai.",
+"I'm 20.",
+"Bangkok.",
+"Yes, it is."
+],
+"en": "B names a language.",
+"th": "B บอกชื่อภาษา",
+"x": [
+[
+"Age.",
+"อายุ"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How do you learn new vocabulary?\nB: ___",
+"o": [
+"I write words on cards and review them every day.",
+"Vocabulary is difficult.",
+"At school.",
+"Yesterday."
+],
+"en": "B describes a method.",
+"th": "B อธิบายวิธี",
+"x": [
+[
+"Not a method.",
+"ไม่ใช่วิธี"
+],
+[
+"A place, not a method.",
+"สถานที่"
+],
+[
+"A time.",
+"เวลา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Your English has really improved!\nB: ___",
+"o": [
+"Thanks! I've been practising a lot.",
+"Yes, it's terrible.",
+"I don't know English.",
+"You're welcome."
+],
+"en": "B thanks A.",
+"th": "B ขอบคุณ",
+"x": [
+[
+"Contradictory.",
+"ขัดแย้ง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Wrong response to a compliment.",
+"ตอบคำชมผิด"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Is it OK to say 'Hey' to my boss?\nB: ___ It's a bit too informal.",
+"o": [
+"I wouldn't.",
+"Yes, always.",
+"Hey!",
+"Your boss is nice."
+],
+"en": "Too informal → don't.",
+"th": "ไม่เป็นทางการเกินไป จึงไม่ควร",
+"x": [
+[
+"It contradicts 'too informal'.",
+"ขัดกับ too informal"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: I can understand English, but I'm too shy to speak.\nB: ___",
+"o": [
+"Why not start by talking to yourself in English at home?",
+"Then stop learning.",
+"Shy people can't learn languages.",
+"Just read more grammar books."
+],
+"en": "B suggests a gentle way to start.",
+"th": "B แนะนำวิธีเริ่มต้นแบบง่าย",
+"x": [
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Doesn't address speaking.",
+"ไม่ช่วยเรื่องการพูด"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: What does 'break the ice' mean?\nB: ___",
+"o": [
+"It means to make people feel relaxed when they first meet.",
+"It means to break some ice.",
+"It's a type of drink.",
+"I don't like ice."
+],
+"en": "B explains the idiom.",
+"th": "B อธิบายสำนวน",
+"x": [
+[
+"Literal, not the idiom's meaning.",
+"ความหมายตรงตัว"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Do you think I need to sound like a native speaker?\nB: ___ Being clear matters far more than having a perfect accent.",
+"o": [
+"Not necessarily.",
+"Absolutely, or nobody will understand you.",
+"Yes, accents are terrible.",
+"Native speakers don't exist."
+],
+"en": "B says clarity matters more.",
+"th": "B บอกว่าความชัดเจนสำคัญกว่า",
+"x": [
+[
+"It contradicts B's point.",
+"ขัดกับประเด็นของ B"
+],
+[
+"Not true and contradictory.",
+"ไม่จริงและขัดแย้ง"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I've been stuck at the same level for a year.\nB: ___",
+"o": [
+"Maybe you've hit a plateau. Try something new, like reading novels or joining a debate club.",
+"That means you're fluent.",
+"Stop studying for a year.",
+"Levels don't matter."
+],
+"en": "B explains and suggests a change.",
+"th": "B อธิบายและแนะนำวิธีใหม่",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Unhelpful.",
+"ไม่ช่วย"
+],
+[
+"Dismissive.",
+"ไม่ใส่ใจ"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "When did the writer start learning English?",
+"o": [
+"Two years ago",
+"Last month",
+"Five years ago",
+"As a child"
+],
+"en": "'I started learning English two years ago.'",
+"th": "สองปีก่อน",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was difficult at first?",
+"o": [
+"Saying simple things and spelling words",
+"Writing letters to friends",
+"Using a computer",
+"Meeting tourists"
+],
+"en": "'I didn't know how to say simple things, and I couldn't spell many words.'",
+"th": "พูดสิ่งง่ายๆ และสะกดคำ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"That's their favourite thing.",
+"สิ่งที่ชอบที่สุด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How many new words does the writer learn each morning?",
+"o": [
+"Five",
+"Ten",
+"Two",
+"Twenty"
+],
+"en": "'In the morning, I learn five new words.'",
+"th": "ห้าคำ",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the teacher say about mistakes?",
+"o": [
+"They are OK; they help you learn.",
+"They are very bad.",
+"Only children make them.",
+"You should never make them."
+],
+"en": "'Mistakes are OK… That's how you learn.'",
+"th": "ทำผิดได้ เป็นวิธีเรียนรู้",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"'Everyone makes mistakes'.",
+"ทุกคนทำผิด"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What is the writer's favourite thing?",
+"o": [
+"Talking to tourists",
+"Writing in a notebook",
+"Studying grammar",
+"Listening to songs"
+],
+"en": "'My favourite thing is talking to tourists in my town.'",
+"th": "คุยกับนักท่องเที่ยว",
+"x": [
+[
+"Not their favourite.",
+"ไม่ใช่สิ่งที่ชอบที่สุด"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+],
+[
+"Not their favourite.",
+"ไม่ใช่สิ่งที่ชอบที่สุด"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why are flashcards useful?",
+"o": [
+"They help you remember new words.",
+"They teach pronunciation.",
+"They replace grammar.",
+"They are cheap."
+],
+"en": "'Flashcards are a great way to remember new words.'",
+"th": "ช่วยจำคำศัพท์ใหม่",
+"x": [
+[
+"Subtitles help with that.",
+"คำบรรยายช่วยเรื่องนั้น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What does the teacher say about accents?",
+"o": [
+"Don't worry; people understand many accents.",
+"You must have a British accent.",
+"Accents are impossible to change.",
+"Only native speakers have accents."
+],
+"en": "'Don't worry about your accent; most people understand many different accents.'",
+"th": "ไม่ต้องกังวล คนเข้าใจหลายสำเนียง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Who can be a conversation partner?",
+"o": [
+"A native speaker or a classmate",
+"Only a teacher",
+"Only a native speaker",
+"Nobody"
+],
+"en": "'A native speaker is ideal, but a classmate is fine too.'",
+"th": "เจ้าของภาษาหรือเพื่อนร่วมชั้น",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"A classmate is fine too.",
+"เพื่อนก็ได้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why shouldn't you check every word in a dictionary?",
+"o": [
+"You'll never finish a book.",
+"Dictionaries are wrong.",
+"It's too expensive.",
+"Teachers don't allow it."
+],
+"en": "'If you check every word, you'll never finish a book!'",
+"th": "จะอ่านหนังสือไม่จบ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What helped the bilingual student improve?",
+"o": [
+"Stopping translating from the mother tongue",
+"Studying more grammar",
+"Using more flashcards",
+"Moving to Australia"
+],
+"en": "'I improved when I stopped translating from my mother tongue.'",
+"th": "เลิกแปลจากภาษาแม่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do researchers call children's learning 'acquisition'?",
+"o": [
+"It happens naturally, without formal instruction.",
+"Children take classes.",
+"It's faster than adult learning in every way.",
+"It only applies to grammar."
+],
+"en": "'…because it happens naturally, without formal instruction.'",
+"th": "เกิดขึ้นเองตามธรรมชาติโดยไม่ต้องสอน",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Adults are faster at first.",
+"ผู้ใหญ่เร็วกว่าในช่วงแรก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which is an advantage adults have?",
+"o": [
+"They can grasp grammatical rules quickly.",
+"They have more exposure.",
+"They achieve perfect intonation easily.",
+"They have more free time."
+],
+"en": "'They can grasp grammatical rules quickly.'",
+"th": "เข้าใจกฎไวยากรณ์ได้เร็ว",
+"x": [
+[
+"They lack exposure.",
+"ขาดการสัมผัสภาษา"
+],
+[
+"Children do.",
+"เด็กทำได้"
+],
+[
+"They lack time.",
+"ขาดเวลา"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Why do many adult learners reach a plateau?",
+"o": [
+"They lack time and exposure.",
+"They are too old to learn.",
+"They study too many languages.",
+"Their teachers are poor."
+],
+"en": "'What adults typically lack is time and exposure… It is therefore unsurprising…'",
+"th": "ขาดเวลาและการสัมผัสภาษา",
+"x": [
+[
+"The passage rejects this.",
+"บทความปฏิเสธเรื่องนี้"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How has the goal of learning English changed?",
+"o": [
+"Learners aim to communicate clearly rather than sound native.",
+"Learners must now sound exactly native.",
+"Learners now only study grammar.",
+"Nobody learns English any more."
+],
+"en": "'Few learners now aim to sound exactly like a native speaker.'",
+"th": "มุ่งสื่อสารชัดเจนแทนการพูดเหมือนเจ้าของภาษา",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What does 'real fluency' mean, according to the writer?",
+"o": [
+"Expressing ideas the way English speakers naturally would",
+"Translating word by word",
+"Having no accent",
+"Knowing every idiom"
+],
+"en": "'…real fluency means expressing ideas the way English speakers naturally would.'",
+"th": "แสดงความคิดอย่างเป็นธรรมชาติแบบผู้พูดภาษาอังกฤษ",
+"x": [
+[
+"The writer says this is rarely enough.",
+"ผู้เขียนบอกว่าไม่พอ"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

@@ -1,0 +1,1627 @@
+{
+"id": 68,
+"theme": "The housing market",
+"v": [
+[
+"bedroom",
+"noun",
+"A1",
+"ห้องนอน",
+"Our flat has two *bedrooms*."
+],
+[
+"bathroom",
+"noun",
+"A1",
+"ห้องน้ำ",
+"The *bathroom* is next to the kitchen."
+],
+[
+"home",
+"noun",
+"A1",
+"บ้าน (ที่อยู่อาศัย)",
+"I want to buy my own *home*."
+],
+[
+"owner",
+"noun",
+"A1",
+"เจ้าของ",
+"Who is the *owner* of this house?"
+],
+[
+"apartment",
+"noun",
+"A1",
+"อพาร์ตเมนต์",
+"We live in a small *apartment*."
+],
+[
+"move in",
+"phrasal verb",
+"A1",
+"ย้ายเข้า",
+"We *move in* next Saturday."
+],
+[
+"move out",
+"phrasal verb",
+"A1",
+"ย้ายออก",
+"They *moved out* last month."
+],
+[
+"bills",
+"noun",
+"A1",
+"ค่าใช้จ่าย (ค่าน้ำ ค่าไฟ)",
+"The rent doesn't include *bills*."
+],
+[
+"condo",
+"noun",
+"A2",
+"คอนโด",
+"She bought a *condo* near the BTS."
+],
+[
+"furnished",
+"adjective",
+"A2",
+"มีเฟอร์นิเจอร์พร้อม",
+"The flat is fully *furnished*."
+],
+[
+"studio",
+"noun",
+"A2",
+"ห้องสตูดิโอ (ห้องเดียว)",
+"I rent a small *studio* downtown."
+],
+[
+"location",
+"noun",
+"A2",
+"ทำเล",
+"The *location* is perfect, near the station."
+],
+[
+"flatmate",
+"noun",
+"A2",
+"เพื่อนร่วมห้อง",
+"My *flatmate* is very tidy."
+],
+[
+"utilities",
+"noun",
+"A2",
+"สาธารณูปโภค (น้ำ ไฟ แก๊ส)",
+"Rent is 8,000 baht plus *utilities*."
+],
+[
+"vacant",
+"adjective",
+"A2",
+"ว่าง (ไม่มีคนอยู่)",
+"The flat has been *vacant* for months."
+],
+[
+"estate agent",
+"noun",
+"A2",
+"นายหน้าอสังหาริมทรัพย์",
+"The *estate agent* showed us three flats."
+],
+[
+"landlady",
+"noun",
+"A2",
+"เจ้าของบ้าน (ผู้หญิง)",
+"Our *landlady* is very kind."
+],
+[
+"homeowner",
+"noun",
+"A2",
+"เจ้าของบ้าน",
+"More young people want to be *homeowners*."
+],
+[
+"lease",
+"noun",
+"B1",
+"สัญญาเช่า",
+"We signed a one-year *lease*."
+],
+[
+"interest rate",
+"noun",
+"B1",
+"อัตราดอกเบี้ย",
+"*Interest rates* went up again."
+],
+[
+"first-time buyer",
+"noun",
+"B1",
+"ผู้ซื้อบ้านหลังแรก",
+"*First-time buyers* get a tax discount."
+],
+[
+"affordability",
+"noun",
+"B1",
+"ความสามารถในการซื้อ",
+"Housing *affordability* is a big problem."
+],
+[
+"construction",
+"noun",
+"B1",
+"การก่อสร้าง",
+"*Construction* of the new condo has started."
+],
+[
+"developer",
+"noun",
+"B1",
+"ผู้พัฒนาโครงการ",
+"The *developer* is building 500 new homes."
+],
+[
+"eviction",
+"noun",
+"B1",
+"การขับไล่ (ผู้เช่า)",
+"They faced *eviction* after missing rent."
+],
+[
+"square metre",
+"noun",
+"B1",
+"ตารางเมตร",
+"The flat is 35 *square metres*."
+],
+[
+"down payment",
+"noun",
+"B1",
+"เงินดาวน์",
+"We saved for a 10% *down payment*."
+],
+[
+"viewing",
+"noun",
+"B1",
+"การดูบ้าน/ห้อง",
+"We have a *viewing* at 3 p.m."
+],
+[
+"unaffordable",
+"adjective",
+"B1",
+"แพงเกินกำลังซื้อ",
+"City centre prices are *unaffordable*."
+],
+[
+"housing crisis",
+"noun",
+"B2",
+"วิกฤตที่อยู่อาศัย",
+"The city faces a *housing crisis*."
+],
+[
+"bubble",
+"noun",
+"B2",
+"ฟองสบู่ (เศรษฐกิจ)",
+"Experts fear a property *bubble*."
+],
+[
+"speculation",
+"noun",
+"B2",
+"การเก็งกำไร",
+"Property *speculation* pushed prices up."
+],
+[
+"social housing",
+"noun",
+"B2",
+"ที่อยู่อาศัยเพื่อสังคม",
+"The government built more *social housing*."
+],
+[
+"repossess",
+"verb",
+"B2",
+"ยึดคืน (ทรัพย์สิน)",
+"The bank *repossessed* their house."
+],
+[
+"negative equity",
+"noun",
+"B2",
+"ภาวะมูลค่าบ้านต่ำกว่าหนี้",
+"Falling prices left many in *negative equity*."
+],
+[
+"zoning",
+"noun",
+"B2",
+"การแบ่งเขตการใช้ที่ดิน",
+"*Zoning* rules limit tall buildings here."
+],
+[
+"planning permission",
+"noun",
+"B2",
+"ใบอนุญาตก่อสร้าง",
+"You need *planning permission* to build."
+],
+[
+"soar",
+"verb",
+"B2",
+"พุ่งสูงขึ้น",
+"House prices *soared* last year."
+],
+[
+"plummet",
+"verb",
+"B2",
+"ดิ่งลงอย่างรวดเร็ว",
+"Prices *plummeted* after the crisis."
+],
+[
+"rent control",
+"noun",
+"B2",
+"การควบคุมค่าเช่า",
+"Some cities have *rent control*."
+]
+],
+"p": [
+{
+"t": "Our New Home",
+"x": "Last month, my family moved out of our old apartment and into a new home. The old apartment was small: it had only one bedroom and one bathroom, so my sister and I shared a room with my parents!\nOur new home is a small house. It has three bedrooms, two bathrooms and a little garden. The owner is a friendly old man who moved to Chiang Mai to live with his daughter.\nWhen we moved in, we were very tired, but very happy. Now we have to pay the bills every month for water and electricity, but my parents say it's worth it. I love having my own room!"
+},
+{
+"t": "Finding a Flat in Bangkok",
+"x": "Looking for a place to live in Bangkok can be exciting but stressful. Many young workers rent a studio or a small condo near a BTS or MRT station, because the location is very important when traffic is so bad.\nFirst, decide your budget. Remember that rent often doesn't include utilities like water and electricity. Some people share a bigger flat with a flatmate to save money.\nNext, contact an estate agent or look online. Arrange a viewing to see the flat before you decide. Check the size (in square metres), whether it's furnished, and how long it has been vacant. Ask the landlord or landlady about the rules for pets and visitors.\nIf you like it, you'll sign a lease, usually for six or twelve months, and pay a deposit. Read it carefully: if you break the rules, you could face eviction.\nMany renters dream of becoming homeowners. However, for a first-time buyer, saving for a down payment is difficult, and interest rates on loans can be high. For many people, housing in the city centre is simply unaffordable. Developers are building new condos everywhere, but construction cannot keep up with demand, so affordability remains a serious problem."
+},
+{
+"t": "Why Are Homes So Expensive?",
+"x": "In cities around the world, from London to Bangkok, housing has become a source of anxiety. Prices have soared far faster than wages, and many young people fear they will never own a home. This housing crisis has several causes.\nThe most basic is supply and demand. As populations grow and people move to cities, demand for homes rises. Supply, however, is limited by land, by zoning rules that restrict what can be built where, and by the time needed to obtain planning permission. When too few homes are built, prices rise.\nFinancial factors also play a role. Low interest rates make borrowing cheaper, encouraging buyers to pay more. Property speculation, in which investors buy homes not to live in but to sell later at a profit, can push prices up further, and in some cities thousands of apartments stand empty. When prices rise far beyond their real value, economists warn of a bubble. If it bursts and prices plummet, homeowners can be left in negative equity, owing more than their homes are worth. In the worst cases, banks may repossess the properties of borrowers who cannot pay.\nGovernments have tried many solutions, including building social housing for low-income families, offering grants to first-time buyers, taxing empty homes and introducing rent control to protect tenants. Each approach has critics: some economists argue that rent control reduces the incentive to build. There is no single answer, but most experts agree that the long-term solution must involve building more homes."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "Our flat has two ___, so my brother and I have our own rooms.",
+"o": [
+"bedrooms",
+"bathrooms",
+"bed sheets",
+"bedtimes"
+],
+"en": "Bedrooms are rooms for sleeping.",
+"th": "bedroom = ห้องนอน",
+"x": [
+[
+"Bathrooms aren't for sleeping.",
+"bathroom = ห้องน้ำ"
+],
+[
+"Bed sheets cover beds.",
+"bed sheet = ผ้าปูที่นอน"
+],
+[
+"Bedtimes are times to sleep.",
+"bedtime = เวลานอน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "We ___ out of our old flat yesterday and into a new one.",
+"o": [
+"moved",
+"moves",
+"movie",
+"moving"
+],
+"en": "Past: moved out.",
+"th": "อดีต: moved out",
+"x": [
+[
+"Present doesn't fit 'yesterday'.",
+"ปัจจุบันไม่เข้า"
+],
+[
+"A movie is a film.",
+"movie = ภาพยนตร์"
+],
+[
+"Needs 'were'.",
+"ต้องมี were"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The ___ of the house lives in Chiang Mai.",
+"o": [
+"owner",
+"own",
+"owned",
+"owing"
+],
+"en": "The owner possesses something.",
+"th": "owner = เจ้าของ",
+"x": [
+[
+"'own' is a verb or adjective.",
+"own เป็นกริยา/คุณศัพท์"
+],
+[
+"Wrong form.",
+"รูปผิด"
+],
+[
+"'owing' means needing to pay.",
+"owing = ค้างชำระ"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "We have to pay the electricity and water ___ every month.",
+"o": [
+"bills",
+"bells",
+"bulls",
+"balls"
+],
+"en": "Bills are payments for services.",
+"th": "bill = ค่าใช้จ่าย",
+"x": [
+[
+"Bells ring.",
+"bell = ระฆัง"
+],
+[
+"Bulls are animals.",
+"bull = วัวตัวผู้"
+],
+[
+"Balls are toys.",
+"ball = ลูกบอล"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The flat is ___, so you don't need to buy a bed or sofa.",
+"o": [
+"furnished",
+"finished",
+"furious",
+"furry"
+],
+"en": "Furnished = with furniture.",
+"th": "furnished = มีเฟอร์นิเจอร์",
+"x": [
+[
+"'finished' means completed.",
+"finished = เสร็จ"
+],
+[
+"'furious' means very angry.",
+"furious = โกรธจัด"
+],
+[
+"'furry' means with fur.",
+"furry = มีขน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The ___ is great: it's two minutes from the station.",
+"o": [
+"location",
+"locomotive",
+"lotion",
+"locker"
+],
+"en": "Location = where something is.",
+"th": "location = ทำเล",
+"x": [
+[
+"A locomotive is a train engine.",
+"locomotive = หัวรถจักร"
+],
+[
+"Lotion is cream.",
+"lotion = โลชั่น"
+],
+[
+"A locker is a small cupboard.",
+"locker = ตู้ล็อกเกอร์"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "I share the flat with a ___ to save money.",
+"o": [
+"flatmate",
+"flatbread",
+"flat tyre",
+"playmate"
+],
+"en": "A flatmate lives with you.",
+"th": "flatmate = เพื่อนร่วมห้อง",
+"x": [
+[
+"Flatbread is food.",
+"flatbread = ขนมปังแผ่น"
+],
+[
+"A flat tyre is on a car.",
+"flat tyre = ยางแบน"
+],
+[
+"A playmate is a child's friend.",
+"playmate = เพื่อนเล่น"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The flat has been ___ for six months; nobody lives there.",
+"o": [
+"vacant",
+"vacation",
+"vaccine",
+"vacuum"
+],
+"en": "Vacant = empty.",
+"th": "vacant = ว่าง",
+"x": [
+[
+"A vacation is a holiday.",
+"vacation = วันหยุด"
+],
+[
+"A vaccine prevents disease.",
+"vaccine = วัคซีน"
+],
+[
+"A vacuum is an empty space or cleaner.",
+"vacuum = สุญญากาศ เครื่องดูดฝุ่น"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "We signed a twelve-month ___ for the apartment.",
+"o": [
+"lease",
+"least",
+"leash",
+"lace"
+],
+"en": "A lease is a rental contract.",
+"th": "lease = สัญญาเช่า",
+"x": [
+[
+"'least' means smallest amount.",
+"least = น้อยที่สุด"
+],
+[
+"A leash is for a dog.",
+"leash = สายจูง"
+],
+[
+"Lace is a fabric.",
+"lace = ลูกไม้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "We saved for five years to pay the ___ on our first home.",
+"o": [
+"down payment",
+"payday",
+"payroll",
+"down jacket"
+],
+"en": "A down payment is the first part paid upfront.",
+"th": "down payment = เงินดาวน์",
+"x": [
+[
+"Payday is when you get paid.",
+"payday = วันเงินเดือนออก"
+],
+[
+"A payroll is a list of employees paid.",
+"payroll = บัญชีเงินเดือน"
+],
+[
+"A down jacket is a coat.",
+"down jacket = เสื้อขนเป็ด"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Many families faced ___ when they couldn't pay the rent.",
+"o": [
+"eviction",
+"eruption",
+"evolution",
+"evaluation"
+],
+"en": "Eviction = being forced to leave.",
+"th": "eviction = การถูกขับไล่",
+"x": [
+[
+"An eruption is from a volcano.",
+"eruption = การปะทุ"
+],
+[
+"Evolution is gradual change.",
+"evolution = วิวัฒนาการ"
+],
+[
+"Evaluation is judging.",
+"evaluation = การประเมิน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The ___ is building 300 new condos near the river.",
+"o": [
+"developer",
+"development",
+"envelope",
+"detective"
+],
+"en": "A developer builds new housing.",
+"th": "developer = ผู้พัฒนาโครงการ",
+"x": [
+[
+"A development is the project itself.",
+"development = โครงการ"
+],
+[
+"An envelope holds letters.",
+"envelope = ซองจดหมาย"
+],
+[
+"A detective solves crimes.",
+"detective = นักสืบ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "House prices ___ last year, rising by 20%.",
+"o": [
+"soared",
+"sored",
+"sawed",
+"soaked"
+],
+"en": "Soar = rise quickly.",
+"th": "soar = พุ่งสูงขึ้น",
+"x": [
+[
+"Not a word.",
+"ไม่มีคำนี้"
+],
+[
+"'sawed' means cut with a saw.",
+"sawed = เลื่อย"
+],
+[
+"'soaked' means very wet.",
+"soaked = เปียกโชก"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "You need ___ before you can build an extra floor on your house.",
+"o": [
+"planning permission",
+"planning ahead",
+"plan B",
+"flight plan"
+],
+"en": "Planning permission is official approval to build.",
+"th": "planning permission = ใบอนุญาตก่อสร้าง",
+"x": [
+[
+"Planning ahead is preparing.",
+"planning ahead = การวางแผนล่วงหน้า"
+],
+[
+"Plan B is a backup plan.",
+"plan B = แผนสำรอง"
+],
+[
+"A flight plan is for planes.",
+"flight plan = แผนการบิน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "When prices fell, many homeowners were left in ___, owing more than their homes were worth.",
+"o": [
+"negative equity",
+"negative feedback",
+"net worth",
+"equal rights"
+],
+"en": "Negative equity = home worth less than the loan.",
+"th": "negative equity = มูลค่าบ้านต่ำกว่าหนี้",
+"x": [
+[
+"Negative feedback is criticism.",
+"negative feedback = คำติชมเชิงลบ"
+],
+[
+"Net worth is total wealth.",
+"net worth = ทรัพย์สินสุทธิ"
+],
+[
+"Equal rights are about fairness.",
+"equal rights = สิทธิเท่าเทียม"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[My] apartment [have] [two] [bedrooms].",
+"a": 1,
+"fix": "My apartment has two bedrooms.",
+"en": "Singular subject: has.",
+"th": "ประธานเอกพจน์: has",
+"x": [
+[
+"'My' is correct.",
+"My ถูกต้อง"
+],
+[
+"'two' is correct.",
+"two ถูกต้อง"
+],
+[
+"'bedrooms' is correct.",
+"bedrooms ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[We] [are] [move] [in] next week.",
+"a": 2,
+"fix": "We are moving in next week.",
+"en": "Present continuous for plans: are moving.",
+"th": "present continuous สำหรับแผน: are moving",
+"x": [
+[
+"'We' is correct.",
+"We ถูกต้อง"
+],
+[
+"'are' is correct.",
+"are ถูกต้อง"
+],
+[
+"'in' is correct.",
+"in ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[The] condo [are] [near] [the] station.",
+"a": 1,
+"fix": "The condo is near the station.",
+"en": "Singular subject: is.",
+"th": "ประธานเอกพจน์: is",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'near' is correct.",
+"near ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[I'm] [looking] [to] [a] new flat.",
+"a": 2,
+"fix": "I'm looking for a new flat.",
+"en": "'Look for' = search.",
+"th": "look for = หา",
+"x": [
+[
+"'I'm' is correct.",
+"I'm ถูกต้อง"
+],
+[
+"'looking' is correct.",
+"looking ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Does] the flat [comes] [with] [furniture]?",
+"a": 1,
+"fix": "Does the flat come with furniture?",
+"en": "After 'Does', use the base verb.",
+"th": "หลัง Does ใช้ V1",
+"x": [
+[
+"'Does' is correct.",
+"Does ถูกต้อง"
+],
+[
+"'with' is correct.",
+"with ถูกต้อง"
+],
+[
+"'furniture' is correct.",
+"furniture ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[It] took us months to find a flat [what] [we] [could] afford.",
+"a": 1,
+"fix": "It took us months to find a flat that we could afford.",
+"en": "Relative pronoun for things: that/which.",
+"th": "สรรพนามสัมพันธ์สำหรับสิ่งของ: that/which",
+"x": [
+[
+"'It' is correct.",
+"It ถูกต้อง"
+],
+[
+"'we' is correct.",
+"we ถูกต้อง"
+],
+[
+"'could' is correct.",
+"could ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "The developer [is] [building] [a] [50-storeys] condo.",
+"a": 3,
+"fix": "The developer is building a 50-storey condo.",
+"en": "Compound adjectives with numbers use the singular: 50-storey.",
+"th": "คุณศัพท์ผสมกับตัวเลขใช้เอกพจน์: 50-storey",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'building' is correct.",
+"building ถูกต้อง"
+],
+[
+"'a' is correct.",
+"a ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[Neither] of the flats [were] [big] [enough].",
+"a": 1,
+"fix": "Neither of the flats was big enough.",
+"en": "'Neither of…' takes a singular verb: was.",
+"th": "neither of... ใช้กริยาเอกพจน์: was",
+"x": [
+[
+"'Neither' is correct.",
+"Neither ถูกต้อง"
+],
+[
+"'big' is correct.",
+"big ถูกต้อง"
+],
+[
+"'enough' is correct after the adjective.",
+"enough ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Had] the bank [not] [repossess] their house, the family [would have stayed].",
+"a": 2,
+"fix": "Had the bank not repossessed their house, the family would have stayed.",
+"en": "Past perfect: had + past participle (repossessed).",
+"th": "past perfect: had + V3 (repossessed)",
+"x": [
+[
+"'Had' is correct inversion.",
+"Had ถูกต้อง"
+],
+[
+"'not' is correct.",
+"not ถูกต้อง"
+],
+[
+"'would have stayed' is correct.",
+"would have stayed ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Seldom] [house prices have] [risen] [so] fast.",
+"a": 1,
+"fix": "Seldom have house prices risen so fast.",
+"en": "After 'Seldom' at the start, invert: have house prices risen.",
+"th": "ขึ้นต้น Seldom ต้องสลับ: have house prices risen",
+"x": [
+[
+"'Seldom' is correct.",
+"Seldom ถูกต้อง"
+],
+[
+"'risen' is correct.",
+"risen ถูกต้อง"
+],
+[
+"'so' is correct.",
+"so ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: How many bedrooms does your new home have?\nB: ___",
+"o": [
+"Three.",
+"It's big.",
+"Next week.",
+"In Bangkok."
+],
+"en": "'How many' asks for a number.",
+"th": "how many ถามจำนวน",
+"x": [
+[
+"Size, not number.",
+"ขนาด"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Place.",
+"สถานที่"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: When do you move in?\nB: ___",
+"o": [
+"On Saturday.",
+"Three rooms.",
+"It's a house.",
+"Yes, I do."
+],
+"en": "'When' asks for a time.",
+"th": "when ถามเวลา",
+"x": [
+[
+"Number.",
+"จำนวน"
+],
+[
+"Not a time.",
+"ไม่ใช่เวลา"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you like your new apartment?\nB: ___ It's bright and quiet.",
+"o": [
+"Yes, I love it.",
+"No, I hate it.",
+"It's an apartment.",
+"I'm new."
+],
+"en": "Positive description → likes it.",
+"th": "คำบรรยายเชิงบวก จึงชอบ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Does the rent include utilities?\nB: ___ You pay water and electricity separately.",
+"o": [
+"No, it doesn't.",
+"Yes, everything.",
+"Rent is money.",
+"I'm the owner."
+],
+"en": "Paying separately → no.",
+"th": "จ่ายแยก จึงไม่รวม",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Can I see the flat before I decide?\nB: ___",
+"o": [
+"Of course. Is tomorrow at 3 OK?",
+"No, you must pay first.",
+"Flats are invisible.",
+"It's very vacant."
+],
+"en": "B arranges a viewing.",
+"th": "B นัดดูห้อง",
+"x": [
+[
+"Unreasonable.",
+"ไม่สมเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Is the flat furnished?\nB: ___ There's a bed, a sofa and a table.",
+"o": [
+"Yes, it is.",
+"No, it's empty.",
+"It's big.",
+"Furniture is heavy."
+],
+"en": "Listing furniture → yes.",
+"th": "มีเฟอร์นิเจอร์ จึงตอบว่าใช่",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Should I rent or buy?\nB: ___ Buying is better long-term, but you need a big down payment.",
+"o": [
+"It depends on your savings.",
+"Always rent.",
+"Always buy.",
+"Don't live anywhere."
+],
+"en": "B gives a balanced answer.",
+"th": "B ให้คำตอบที่สมดุล",
+"x": [
+[
+"Too absolute.",
+"เด็ดขาดเกินไป"
+],
+[
+"Too absolute.",
+"เด็ดขาดเกินไป"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: The landlord wants to increase the rent by 30%!\nB: ___",
+"o": [
+"Check your lease; he might not be allowed to.",
+"That's very reasonable.",
+"Pay double.",
+"Move to the moon."
+],
+"en": "B suggests checking rights.",
+"th": "B แนะนำให้ตรวจสัญญา",
+"x": [
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: Should the government introduce rent control?\nB: ___ It helps tenants now, but some argue it discourages new building.",
+"o": [
+"There are pros and cons.",
+"Definitely, there are no downsides.",
+"No, tenants should pay anything.",
+"Rent doesn't exist."
+],
+"en": "B presents both sides.",
+"th": "B นำเสนอทั้งสองด้าน",
+"x": [
+[
+"B mentions a downside.",
+"B พูดถึงข้อเสีย"
+],
+[
+"Unbalanced.",
+"ไม่สมดุล"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: House prices will keep rising forever.\nB: ___ Bubbles can burst, and prices can fall very quickly.",
+"o": [
+"I wouldn't be so sure.",
+"Exactly, they always rise.",
+"Houses are free.",
+"Prices never change."
+],
+"en": "B is sceptical.",
+"th": "B ไม่แน่ใจ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "How many bedrooms did the old apartment have?",
+"o": [
+"One",
+"Two",
+"Three",
+"None"
+],
+"en": "'…it had only one bedroom.'",
+"th": "หนึ่งห้อง",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"The new home has three.",
+"บ้านใหม่มีสามห้อง"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What is the new home?",
+"o": [
+"A small house",
+"A big apartment",
+"A condo",
+"A studio"
+],
+"en": "'Our new home is a small house.'",
+"th": "บ้านหลังเล็ก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Where did the owner move to?",
+"o": [
+"Chiang Mai",
+"Bangkok",
+"Phuket",
+"Abroad"
+],
+"en": "'…moved to Chiang Mai to live with his daughter.'",
+"th": "เชียงใหม่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What must the family pay every month now?",
+"o": [
+"Bills for water and electricity",
+"School fees",
+"Car insurance",
+"Nothing"
+],
+"en": "'…pay the bills every month for water and electricity.'",
+"th": "ค่าน้ำค่าไฟ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What does the writer love about the new home?",
+"o": [
+"Having their own room",
+"The big kitchen",
+"The swimming pool",
+"The location"
+],
+"en": "'I love having my own room!'",
+"th": "มีห้องเป็นของตัวเอง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why is location so important in Bangkok?",
+"o": [
+"Traffic is very bad.",
+"Rent is free near stations.",
+"Condos are only near stations.",
+"There are no buses."
+],
+"en": "'…the location is very important when traffic is so bad.'",
+"th": "รถติดมาก",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why do some people share a flat?",
+"o": [
+"To save money",
+"Because it's required",
+"To have more noise",
+"Because flats are vacant"
+],
+"en": "'Some people share a bigger flat with a flatmate to save money.'",
+"th": "เพื่อประหยัดเงิน",
+"x": [
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not the reason.",
+"ไม่ใช่เหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What should you check during a viewing?",
+"o": [
+"The size, furniture and how long it has been vacant",
+"Only the price",
+"The owner's age",
+"The colour of the walls only"
+],
+"en": "'Check the size… whether it's furnished, and how long it has been vacant.'",
+"th": "ขนาด เฟอร์นิเจอร์ และระยะเวลาที่ว่าง",
+"x": [
+[
+"Too limited.",
+"จำกัดเกินไป"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What could happen if you break the rules of your lease?",
+"o": [
+"You could face eviction.",
+"You get a discount.",
+"Your rent becomes free.",
+"Nothing."
+],
+"en": "'…if you break the rules, you could face eviction.'",
+"th": "อาจถูกขับไล่",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Why is affordability still a problem?",
+"o": [
+"Construction cannot keep up with demand.",
+"Nobody wants to buy homes.",
+"Interest rates are zero.",
+"Developers have stopped building."
+],
+"en": "'…construction cannot keep up with demand.'",
+"th": "การก่อสร้างตามความต้องการไม่ทัน",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"They 'can be high'.",
+"อาจสูง"
+],
+[
+"They are building everywhere.",
+"สร้างทุกที่"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is the most basic cause of the housing crisis?",
+"o": [
+"Supply and demand",
+"Bad weather",
+"Too many homes",
+"Low wages only"
+],
+"en": "'The most basic is supply and demand.'",
+"th": "อุปสงค์และอุปทาน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Wages are part, but not the most basic cause stated.",
+"ไม่ใช่สาเหตุพื้นฐานที่ระบุ"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which limits the supply of new homes?",
+"o": [
+"Zoning rules and planning permission",
+"Low demand",
+"Too many builders",
+"Cheap land"
+],
+"en": "'Supply… is limited by land, by zoning rules… and by the time needed to obtain planning permission.'",
+"th": "กฎการแบ่งเขตและใบอนุญาตก่อสร้าง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What is property speculation?",
+"o": [
+"Buying homes to sell later at a profit",
+"Building social housing",
+"Renting to students",
+"Living in your own home"
+],
+"en": "'…investors buy homes not to live in but to sell later at a profit.'",
+"th": "ซื้อบ้านไว้ขายทำกำไร",
+"x": [
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+],
+[
+"Not the meaning.",
+"ไม่ใช่ความหมาย"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What happens to homeowners in negative equity?",
+"o": [
+"They owe more than their homes are worth.",
+"Their homes double in value.",
+"They pay no interest.",
+"They receive social housing."
+],
+"en": "'…owing more than their homes are worth.'",
+"th": "หนี้มากกว่ามูลค่าบ้าน",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What do most experts agree on?",
+"o": [
+"The long-term solution must involve building more homes.",
+"Rent control solves everything.",
+"Prices will never fall.",
+"Speculation is helpful."
+],
+"en": "'…the long-term solution must involve building more homes.'",
+"th": "ทางออกระยะยาวต้องสร้างบ้านเพิ่ม",
+"x": [
+[
+"It has critics.",
+"มีผู้วิจารณ์"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}

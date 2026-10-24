@@ -1,0 +1,1627 @@
+{
+"id": 40,
+"theme": "Big sports events",
+"v": [
+[
+"goal",
+"noun",
+"A1",
+"ประตู (ฟุตบอล), เป้าหมาย",
+"He scored a great *goal*."
+],
+[
+"gold",
+"noun/adjective",
+"A1",
+"ทอง, เหรียญทอง",
+"She won *gold* in the 100 metres."
+],
+[
+"fan",
+"noun",
+"A1",
+"แฟน (กีฬา), ผู้ชื่นชอบ",
+"I'm a big football *fan*."
+],
+[
+"kick",
+"verb",
+"A1",
+"เตะ",
+"*Kick* the ball to me!"
+],
+[
+"throw",
+"verb",
+"A1",
+"ขว้าง, โยน",
+"*Throw* the ball as far as you can."
+],
+[
+"prize",
+"noun",
+"A1",
+"รางวัล",
+"The winner gets a *prize*."
+],
+[
+"clap",
+"verb",
+"A1",
+"ปรบมือ",
+"Everyone *clapped* at the end."
+],
+[
+"shout",
+"verb",
+"A1",
+"ตะโกน",
+"The fans *shouted* his name."
+],
+[
+"silver",
+"noun/adjective",
+"A2",
+"เงิน, เหรียญเงิน",
+"He won a *silver* medal."
+],
+[
+"bronze",
+"noun/adjective",
+"A2",
+"ทองแดง, เหรียญทองแดง",
+"Thailand won *bronze* in boxing."
+],
+[
+"final",
+"noun",
+"A2",
+"รอบชิงชนะเลิศ",
+"Who's playing in the *final*?"
+],
+[
+"cheer",
+"verb",
+"A2",
+"เชียร์, ส่งเสียงให้กำลังใจ",
+"We *cheered* for our team."
+],
+[
+"trophy",
+"noun",
+"A2",
+"ถ้วยรางวัล",
+"The captain lifted the *trophy*."
+],
+[
+"record",
+"noun",
+"A2",
+"สถิติ",
+"She broke the world *record*."
+],
+[
+"captain",
+"noun",
+"A2",
+"กัปตันทีม",
+"The *captain* gave a speech."
+],
+[
+"marathon",
+"noun",
+"A2",
+"มาราธอน",
+"A *marathon* is 42 kilometres."
+],
+[
+"beat",
+"verb",
+"A2",
+"ชนะ (คู่แข่ง)",
+"Thailand *beat* Vietnam 2–1."
+],
+[
+"mascot",
+"noun",
+"A2",
+"ตัวนำโชค, มาสคอต",
+"The Games *mascot* is a cute elephant."
+],
+[
+"host",
+"verb/noun",
+"B1",
+"เป็นเจ้าภาพ, เจ้าภาพ",
+"Which country will *host* the next Olympics?"
+],
+[
+"Olympic",
+"adjective",
+"B1",
+"เกี่ยวกับโอลิมปิก",
+"She is an *Olympic* champion."
+],
+[
+"qualify",
+"verb",
+"B1",
+"ผ่านเข้ารอบ, มีคุณสมบัติ",
+"Our team *qualified* for the World Cup."
+],
+[
+"penalty",
+"noun",
+"B1",
+"ลูกโทษ, บทลงโทษ",
+"He missed the *penalty*."
+],
+[
+"victory",
+"noun",
+"B1",
+"ชัยชนะ",
+"It was a great *victory* for the team."
+],
+[
+"venue",
+"noun",
+"B1",
+"สถานที่จัดงาน",
+"The *venue* holds 80,000 people."
+],
+[
+"podium",
+"noun",
+"B1",
+"แท่นรับรางวัล",
+"The winners stood on the *podium*."
+],
+[
+"anthem",
+"noun",
+"B1",
+"เพลงชาติ",
+"They played the national *anthem*."
+],
+[
+"relay",
+"noun",
+"B1",
+"การวิ่งผลัด",
+"Jamaica won the 4x100 m *relay*."
+],
+[
+"lap",
+"noun",
+"B1",
+"รอบ (สนาม)",
+"She ran the last *lap* very fast."
+],
+[
+"sprint",
+"noun/verb",
+"B1",
+"วิ่งระยะสั้น, วิ่งเร็วสุดกำลัง",
+"The 100 m *sprint* lasts about ten seconds."
+],
+[
+"knockout",
+"adjective/noun",
+"B2",
+"(รอบ) แพ้คัดออก, การน็อก",
+"The *knockout* stage begins tomorrow."
+],
+[
+"boycott",
+"verb/noun",
+"B2",
+"คว่ำบาตร",
+"Several countries *boycotted* the Games."
+],
+[
+"legacy",
+"noun",
+"B2",
+"มรดก, สิ่งที่ทิ้งไว้",
+"What *legacy* will the Games leave?"
+],
+[
+"bid",
+"noun/verb",
+"B2",
+"การเสนอตัว (เป็นเจ้าภาพ)",
+"The city made a *bid* to host the Olympics."
+],
+[
+"white elephant",
+"noun",
+"B2",
+"สิ่งที่สิ้นเปลืองแต่ไร้ประโยชน์",
+"The empty stadium became a *white elephant*."
+],
+[
+"controversy",
+"noun",
+"B2",
+"ข้อถกเถียง",
+"The decision caused great *controversy*."
+],
+[
+"patriotic",
+"adjective",
+"B2",
+"รักชาติ",
+"Fans felt very *patriotic* during the match."
+],
+[
+"spectacle",
+"noun",
+"B2",
+"การแสดงอันน่าตื่นตาตื่นใจ",
+"The opening ceremony was an amazing *spectacle*."
+],
+[
+"prestige",
+"noun",
+"B2",
+"เกียรติภูมิ, ชื่อเสียง",
+"Hosting brings international *prestige*."
+],
+[
+"lucrative",
+"adjective",
+"B2",
+"ทำกำไรมาก",
+"TV rights are extremely *lucrative*."
+],
+[
+"displaced",
+"adjective",
+"B2",
+"ถูกย้ายออก (จากที่อยู่)",
+"Thousands of residents were *displaced*."
+]
+],
+"p": [
+{
+"t": "The Big Match",
+"x": "Last Saturday, I went to watch the football final with my dad. Our team was playing against the best team in the country. We are big fans, so we wore red shirts and took a flag.\nThe stadium was full. Before the match, everyone stood up and sang. When the players came out, the fans started to clap and shout. In the first half, nobody scored. Then, in the second half, our captain kicked the ball into the net. Goal! Everyone cheered.\nTen minutes later, the other team scored. But just before the end, our young player beat two defenders and scored again. We won 2–1! At the end, the captain lifted the gold trophy, and the players threw their shirts to the fans. It was the best day of my life."
+},
+{
+"t": "The Olympic Games",
+"x": "The Olympic Games are the biggest sports event in the world. Every four years, a different city hosts the Summer Games, and more than 10,000 athletes take part. To compete, athletes must first qualify by reaching a certain standard in their sport.\nThe winners of each event receive medals: gold for first place, silver for second and bronze for third. They stand on the podium while the national anthem of the winner's country is played. For many athletes, it is the greatest moment of their lives.\nSome of the most popular events take place in the athletics stadium. The 100-metre sprint, which lasts less than ten seconds, decides 'the fastest person on Earth'. In the relay, four runners from each country pass a baton to each other. In longer races, the runners must complete many laps of the track. The marathon, which goes through the streets of the host city, ends the Games.\nThe Games also have a mascot, often a friendly animal, which appears on souvenirs. Each venue is full of fans, and each victory brings joy to a whole country. Many athletes also dream of breaking a world record."
+},
+{
+"t": "Are Mega-Events Worth the Cost?",
+"x": "When a city wins its bid to host the Olympic Games or the World Cup, celebrations often fill the streets. Hosting such an event promises international prestige, a boost to tourism and a sense of national pride. Few spectacles unite a country like a home victory in a knockout match, with crowds singing the anthem in a wave of patriotic emotion.\nYet the economic reality is frequently disappointing. Budgets regularly double or triple, and cities are left with enormous debts. After the 2004 Athens Olympics, several expensive venues stood empty for years, becoming classic examples of white elephants. Construction has also displaced residents: in some host cities, thousands of families were moved from their homes to make way for stadiums.\nControversy is not limited to money. Some events have been marked by political boycotts, while others have been criticised for the treatment of migrant workers or for awarding hosting rights to countries with poor human-rights records.\nOrganisers point out that the events themselves are lucrative for sports bodies, mainly through broadcasting and sponsorship deals. The challenge is to ensure that host cities share the benefits. Recent bids have therefore focused on reusing existing facilities and planning a positive legacy, such as new public transport or affordable housing. Whether mega-events can become genuinely sustainable remains to be seen, and some critics argue that the penalty for poor planning is still paid by ordinary residents rather than by organisers."
+}
+],
+"q": [
+{
+"t": "gap",
+"l": "A1",
+"s": "He ___ the ball into the goal with his left foot.",
+"o": [
+"kicked",
+"kissed",
+"kept",
+"cooked"
+],
+"en": "You kick a ball with your foot.",
+"th": "เตะลูกบอลด้วยเท้า",
+"x": [
+[
+"'kiss' is with your lips.",
+"kiss = จูบ"
+],
+[
+"'kept' means held on to.",
+"kept = เก็บไว้"
+],
+[
+"'cook' is making food.",
+"cook = ทำอาหาร"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "At the end of the show, everyone stood up and ___.",
+"o": [
+"clapped",
+"clipped",
+"climbed",
+"cleaned"
+],
+"en": "People clap to show they liked something.",
+"th": "ปรบมือเพื่อแสดงความชื่นชม",
+"x": [
+[
+"'clip' means cut or fasten.",
+"clip = ตัด หนีบ"
+],
+[
+"'climb' means go up.",
+"climb = ปีน"
+],
+[
+"'clean' means remove dirt.",
+"clean = ทำความสะอาด"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "The winner of the competition gets a ___ of 10,000 baht.",
+"o": [
+"prize",
+"price",
+"prison",
+"praise"
+],
+"en": "A prize is given to a winner.",
+"th": "prize = รางวัล",
+"x": [
+[
+"A price is what something costs.",
+"price = ราคา"
+],
+[
+"A prison is a jail.",
+"prison = คุก"
+],
+[
+"Praise is words of approval.",
+"praise = คำชม"
+]
+]
+},
+{
+"t": "gap",
+"l": "A1",
+"s": "I'm a big ___ of Liverpool. I watch every match.",
+"o": [
+"fan",
+"fun",
+"fin",
+"fang"
+],
+"en": "A fan supports a team.",
+"th": "fan = แฟนกีฬา",
+"x": [
+[
+"Fun is enjoyment.",
+"fun = ความสนุก"
+],
+[
+"A fin is on a fish.",
+"fin = ครีบ"
+],
+[
+"A fang is a sharp tooth.",
+"fang = เขี้ยว"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "She came second and won a ___ medal.",
+"o": [
+"silver",
+"silent",
+"sliver",
+"sailor"
+],
+"en": "Second place = silver.",
+"th": "ที่สอง = เหรียญเงิน",
+"x": [
+[
+"'silent' means quiet.",
+"silent = เงียบ"
+],
+[
+"A sliver is a thin piece.",
+"sliver = ชิ้นบาง"
+],
+[
+"A sailor works on ships.",
+"sailor = กะลาสี"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "He broke the world ___ for the 200 metres.",
+"o": [
+"record",
+"recorder",
+"report",
+"reward"
+],
+"en": "Break a record = do better than anyone before.",
+"th": "break a record = ทำลายสถิติ",
+"x": [
+[
+"A recorder is a device or instrument.",
+"recorder = เครื่องบันทึก"
+],
+[
+"A report is a document.",
+"report = รายงาน"
+],
+[
+"A reward is something you receive.",
+"reward = รางวัลตอบแทน"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "Thailand ___ Malaysia 3–0 last night.",
+"o": [
+"beat",
+"won",
+"win",
+"beaten"
+],
+"en": "Beat + opponent; past: beat.",
+"th": "beat + คู่แข่ง (อดีต: beat)",
+"x": [
+[
+"'won' takes a game or prize, not an opponent.",
+"won ใช้กับเกม/รางวัล ไม่ใช่คู่แข่ง"
+],
+[
+"Present form with 'last night' is wrong.",
+"ปัจจุบันกับ last night ผิด"
+],
+[
+"'beaten' needs 'has' or 'was'.",
+"beaten ต้องมี has หรือ was"
+]
+]
+},
+{
+"t": "gap",
+"l": "A2",
+"s": "The ___ of the team lifted the trophy.",
+"o": [
+"captain",
+"caption",
+"capital",
+"captive"
+],
+"en": "The captain leads the team.",
+"th": "captain = กัปตันทีม",
+"x": [
+[
+"A caption is text under a photo.",
+"caption = คำบรรยายภาพ"
+],
+[
+"A capital is a main city.",
+"capital = เมืองหลวง"
+],
+[
+"A captive is a prisoner.",
+"captive = เชลย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "Only the top two teams will ___ for the next round.",
+"o": [
+"qualify",
+"quality",
+"quantify",
+"quarrel"
+],
+"en": "Qualify for = earn a place in.",
+"th": "qualify for = ผ่านเข้ารอบ",
+"x": [
+[
+"'quality' is a noun.",
+"quality = คุณภาพ"
+],
+[
+"'quantify' means measure.",
+"quantify = วัดปริมาณ"
+],
+[
+"'quarrel' means argue.",
+"quarrel = ทะเลาะ"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The referee gave a ___ because the defender pushed the striker.",
+"o": [
+"penalty",
+"penny",
+"pension",
+"pendant"
+],
+"en": "A penalty is a free shot after a foul.",
+"th": "penalty = ลูกโทษ",
+"x": [
+[
+"A penny is a coin.",
+"penny = เพนนี"
+],
+[
+"A pension is retirement money.",
+"pension = เงินบำนาญ"
+],
+[
+"A pendant is jewellery.",
+"pendant = จี้"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "The three medal winners stood on the ___.",
+"o": [
+"podium",
+"podcast",
+"pod",
+"poem"
+],
+"en": "Winners stand on a podium.",
+"th": "podium = แท่นรับรางวัล",
+"x": [
+[
+"A podcast is audio.",
+"podcast = พอดแคสต์"
+],
+[
+"A pod is a seed case.",
+"pod = ฝัก"
+],
+[
+"A poem is writing.",
+"poem = บทกวี"
+]
+]
+},
+{
+"t": "gap",
+"l": "B1",
+"s": "There are four runners in each team in the ___.",
+"o": [
+"relay",
+"replay",
+"really",
+"relax"
+],
+"en": "A relay is a team race.",
+"th": "relay = วิ่งผลัด",
+"x": [
+[
+"A replay is a repeated match or video.",
+"replay = การเล่นซ้ำ"
+],
+[
+"'really' is an adverb.",
+"really = จริงๆ"
+],
+[
+"'relax' means rest.",
+"relax = ผ่อนคลาย"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Several countries ___ the 1980 Olympics for political reasons.",
+"o": [
+"boycotted",
+"boycottered",
+"booked",
+"bookmarked"
+],
+"en": "Boycott = refuse to take part as a protest.",
+"th": "boycott = คว่ำบาตร",
+"x": [
+[
+"Not a real word.",
+"ไม่มีคำนี้"
+],
+[
+"'book' means reserve.",
+"book = จอง"
+],
+[
+"'bookmark' is for webpages.",
+"bookmark = คั่นหน้า"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "The expensive stadium is now empty; it has become a ___ elephant.",
+"o": [
+"white",
+"grey",
+"golden",
+"pink"
+],
+"en": "A white elephant is a costly, useless thing.",
+"th": "white elephant = สิ่งที่สิ้นเปลืองแต่ไร้ประโยชน์",
+"x": [
+[
+"Not the idiom.",
+"ไม่ใช่สำนวน"
+],
+[
+"Not the idiom.",
+"ไม่ใช่สำนวน"
+],
+[
+"Not the idiom.",
+"ไม่ใช่สำนวน"
+]
+]
+},
+{
+"t": "gap",
+"l": "B2",
+"s": "Selling TV rights is extremely ___ for sports organisations.",
+"o": [
+"lucrative",
+"ludicrous",
+"lubricated",
+"lucid"
+],
+"en": "Lucrative = making a lot of money.",
+"th": "lucrative = ทำกำไรมาก",
+"x": [
+[
+"'ludicrous' means ridiculous.",
+"ludicrous = ไร้สาระ"
+],
+[
+"'lubricated' means oiled.",
+"lubricated = หล่อลื่น"
+],
+[
+"'lucid' means clear.",
+"lucid = ชัดเจน"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[We] [was] [very] [happy] when our team won.",
+"a": 1,
+"fix": "We were very happy when our team won.",
+"en": "'We' takes 'were'.",
+"th": "We ใช้ were",
+"x": [
+[
+"'We' is correct.",
+"We ถูกต้อง"
+],
+[
+"'very' is correct.",
+"very ถูกต้อง"
+],
+[
+"'happy' is correct.",
+"happy ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A1",
+"s": "[Can] you [throw] [the] ball [at] me, please? I want to catch it.",
+"a": 3,
+"fix": "Can you throw the ball to me, please? I want to catch it.",
+"en": "Throw to = so someone can catch; throw at = to hit.",
+"th": "throw to = โยนให้รับ, throw at = ปาใส่",
+"x": [
+[
+"'Can' is correct.",
+"Can ถูกต้อง"
+],
+[
+"'throw' is correct.",
+"throw ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Who] [did win] [the] final [last] night?",
+"a": 1,
+"fix": "Who won the final last night?",
+"en": "Subject questions don't use 'did': Who won?",
+"th": "คำถามถามประธานไม่ใช้ did: Who won?",
+"x": [
+[
+"'Who' is correct.",
+"Who ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'last' is correct.",
+"last ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[Watch] the World Cup [is] [my] favourite [thing] every four years.",
+"a": 0,
+"fix": "Watching the World Cup is my favourite thing every four years.",
+"en": "An activity as subject: Watching.",
+"th": "กิจกรรมเป็นประธาน: Watching",
+"x": [
+[
+"'is' is correct.",
+"is ถูกต้อง"
+],
+[
+"'my' is correct.",
+"my ถูกต้อง"
+],
+[
+"'thing' is correct.",
+"thing ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "A2",
+"s": "[I] [have] [watched] the match [yesterday].",
+"a": 1,
+"fix": "I watched the match yesterday.",
+"en": "'Yesterday' needs Past Simple, not Present Perfect.",
+"th": "yesterday ใช้ Past Simple ไม่ใช่ Present Perfect",
+"x": [
+[
+"'I' is correct.",
+"I ถูกต้อง"
+],
+[
+"'watched' is correct.",
+"watched ถูกต้อง"
+],
+[
+"'yesterday' is correct.",
+"yesterday ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[The] Olympic Games [are held] [every] [four year].",
+"a": 3,
+"fix": "The Olympic Games are held every four years.",
+"en": "'Every four years' (plural).",
+"th": "every four years (พหูพจน์)",
+"x": [
+[
+"'The' is correct.",
+"The ถูกต้อง"
+],
+[
+"'are held' is correct passive.",
+"are held ถูกต้อง"
+],
+[
+"'every' is correct.",
+"every ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[If] he [hadn't missed] the penalty, we [would win] [the] match.",
+"a": 2,
+"fix": "If he hadn't missed the penalty, we would have won the match.",
+"en": "Third conditional: would have won.",
+"th": "third conditional: would have won",
+"x": [
+[
+"'If' is correct.",
+"If ถูกต้อง"
+],
+[
+"'hadn't missed' is correct.",
+"hadn't missed ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B1",
+"s": "[She] [has won] three medals [since] she [has started] competing.",
+"a": 3,
+"fix": "She has won three medals since she started competing.",
+"en": "After 'since', use Past Simple for the starting point: started.",
+"th": "หลัง since ใช้ Past Simple: started",
+"x": [
+[
+"'She' is correct.",
+"She ถูกต้อง"
+],
+[
+"'has won' is correct.",
+"has won ถูกต้อง"
+],
+[
+"'since' is correct.",
+"since ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Had] the city [not won] the bid, [the] stadium [would never be built].",
+"a": 3,
+"fix": "Had the city not won the bid, the stadium would never have been built.",
+"en": "Third conditional passive: would never have been built.",
+"th": "third conditional passive: would never have been built",
+"x": [
+[
+"'Had' is correct inversion.",
+"Had ถูกต้อง"
+],
+[
+"'not won' is correct.",
+"not won ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+]
+]
+},
+{
+"t": "err",
+"l": "B2",
+"s": "[Despite] [the] controversy, the event [was attended] [from] millions of fans.",
+"a": 3,
+"fix": "Despite the controversy, the event was attended by millions of fans.",
+"en": "Passive agent: by.",
+"th": "ผู้กระทำใน passive ใช้ by",
+"x": [
+[
+"'Despite' is correct.",
+"Despite ถูกต้อง"
+],
+[
+"'the' is correct.",
+"the ถูกต้อง"
+],
+[
+"'was attended' is correct.",
+"was attended ถูกต้อง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Who won the match?\nB: ___",
+"o": [
+"Our team! 2–0.",
+"At the stadium.",
+"Yesterday.",
+"Football."
+],
+"en": "'Who' asks for the winner.",
+"th": "who ถามผู้ชนะ",
+"x": [
+[
+"Place.",
+"สถานที่"
+],
+[
+"Time.",
+"เวลา"
+],
+[
+"Sport.",
+"กีฬา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: Do you like football?\nB: ___ I watch every game.",
+"o": [
+"Yes, I love it!",
+"No, I hate it.",
+"I'm a ball.",
+"It's round."
+],
+"en": "Watching every game → yes.",
+"th": "ดูทุกเกม จึงชอบ",
+"x": [
+[
+"It contradicts B.",
+"ขัดกับ B"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+],
+[
+"Not an answer.",
+"ไม่ได้ตอบ"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A1",
+"s": "A: We won!\nB: ___",
+"o": [
+"Great! Well done!",
+"Oh no!",
+"I'm sorry.",
+"Never mind."
+],
+"en": "B celebrates.",
+"th": "B แสดงความยินดี",
+"x": [
+[
+"Wrong reaction.",
+"ปฏิกิริยาผิด"
+],
+[
+"Wrong reaction.",
+"ปฏิกิริยาผิด"
+],
+[
+"Used after bad news.",
+"ใช้หลังข่าวร้าย"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Shall we watch the final at my house?\nB: ___ I'll bring some snacks.",
+"o": [
+"Sounds great!",
+"No, thanks.",
+"I'm busy.",
+"Who's playing?"
+],
+"en": "B agrees and offers snacks.",
+"th": "B ตกลงและจะนำขนมมา",
+"x": [
+[
+"It contradicts bringing snacks.",
+"ขัดกับการนำขนม"
+],
+[
+"It contradicts bringing snacks.",
+"ขัดกับการนำขนม"
+],
+[
+"A question doesn't fit before 'I'll bring snacks'.",
+"คำถามไม่เข้ากับประโยคต่อมา"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: Thailand lost 3–0.\nB: ___ They played really badly.",
+"o": [
+"I know. What a disappointment.",
+"Fantastic!",
+"They won!",
+"Congratulations!"
+],
+"en": "B agrees it was bad.",
+"th": "B เห็นด้วยว่าแย่",
+"x": [
+[
+"Wrong reaction.",
+"ปฏิกิริยาผิด"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Wrong reaction.",
+"ปฏิกิริยาผิด"
+]
+]
+},
+{
+"t": "dlg",
+"l": "A2",
+"s": "A: How long is a marathon?\nB: ___",
+"o": [
+"About 42 kilometres.",
+"About three hours.",
+"In the city.",
+"Very tiring."
+],
+"en": "'How long' about a race = distance.",
+"th": "how long ของการแข่งวิ่ง = ระยะทาง",
+"x": [
+[
+"That's time; the question is about the race's length.",
+"นั่นคือเวลา"
+],
+[
+"Place.",
+"สถานที่"
+],
+[
+"Feeling.",
+"ความรู้สึก"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Did you get tickets for the Olympics?\nB: ___ They sold out in ten minutes.",
+"o": [
+"No, unfortunately.",
+"Yes, five of them.",
+"I'm an athlete.",
+"Tickets are paper."
+],
+"en": "Sold out → B didn't get any.",
+"th": "ขายหมด จึงไม่ได้",
+"x": [
+[
+"It contradicts 'sold out'.",
+"ขัดกับ sold out"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+],
+[
+"Not relevant.",
+"ไม่เกี่ยว"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B1",
+"s": "A: Why do you think Kenya wins so many long-distance races?\nB: ___",
+"o": [
+"Many people say training at high altitude helps.",
+"Because the races are short.",
+"Kenya is in Europe.",
+"They don't run."
+],
+"en": "B gives a reason.",
+"th": "B ให้เหตุผล",
+"x": [
+[
+"They are long races.",
+"เป็นการแข่งระยะไกล"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not true.",
+"ไม่จริง"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: I think Thailand should bid to host the Olympics.\nB: ___ It would bring prestige, but the costs could be huge.",
+"o": [
+"I see your point, but I'm not entirely convinced.",
+"Absolutely, there are no risks.",
+"That's a terrible idea; nothing good would come of it.",
+"The Olympics don't exist."
+],
+"en": "B gives a balanced reply.",
+"th": "B ตอบอย่างสมดุล",
+"x": [
+[
+"B mentions costs.",
+"B พูดถึงค่าใช้จ่าย"
+],
+[
+"B mentions prestige.",
+"B พูดถึงเกียรติภูมิ"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "dlg",
+"l": "B2",
+"s": "A: The new stadium has been empty since the Games ended.\nB: ___",
+"o": [
+"That's the problem with mega-events; they often leave white elephants.",
+"Great, empty stadiums are useful.",
+"Stadiums are always full.",
+"Let's build another one."
+],
+"en": "B comments on a common problem.",
+"th": "B แสดงความเห็นต่อปัญหาที่พบบ่อย",
+"x": [
+[
+"Not logical.",
+"ไม่สมเหตุผล"
+],
+[
+"Not true.",
+"ไม่จริง"
+],
+[
+"Not sensible.",
+"ไม่สมเหตุผล"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Who did the writer go to the match with?",
+"o": [
+"Their dad",
+"Their friends",
+"Their mum",
+"Alone"
+],
+"en": "'…with my dad.'",
+"th": "ไปกับพ่อ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What colour shirts did they wear?",
+"o": [
+"Red",
+"Blue",
+"White",
+"Gold"
+],
+"en": "'We wore red shirts.'",
+"th": "สีแดง",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The trophy was gold.",
+"ถ้วยเป็นสีทอง"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "Who scored the first goal?",
+"o": [
+"The captain",
+"A young player",
+"The other team",
+"Nobody"
+],
+"en": "'Our captain kicked the ball into the net.'",
+"th": "กัปตันทีม",
+"x": [
+[
+"He scored the second.",
+"เขายิงลูกที่สอง"
+],
+[
+"They scored later.",
+"เขายิงทีหลัง"
+],
+[
+"There were goals.",
+"มีการยิงประตู"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What was the final score?",
+"o": [
+"2–1",
+"1–1",
+"2–0",
+"3–1"
+],
+"en": "'We won 2–1!'",
+"th": "2–1",
+"x": [
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+],
+[
+"Wrong.",
+"ผิด"
+]
+]
+},
+{
+"t": "read",
+"l": "A2",
+"p": 0,
+"s": "What did the players throw to the fans?",
+"o": [
+"Their shirts",
+"The trophy",
+"Flags",
+"Balls"
+],
+"en": "'The players threw their shirts to the fans.'",
+"th": "เสื้อของพวกเขา",
+"x": [
+[
+"The captain lifted it.",
+"กัปตันยกถ้วย"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What must athletes do before competing in the Olympics?",
+"o": [
+"Qualify by reaching a certain standard",
+"Pay a fee",
+"Win a world record",
+"Host the Games"
+],
+"en": "'Athletes must first qualify by reaching a certain standard.'",
+"th": "ต้องผ่านเกณฑ์ก่อน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not required.",
+"ไม่จำเป็น"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What is played while winners stand on the podium?",
+"o": [
+"The national anthem of the winner's country",
+"Pop music",
+"The Olympic song",
+"Nothing"
+],
+"en": "'…while the national anthem of the winner's country is played.'",
+"th": "เพลงชาติของประเทศผู้ชนะ",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Something is played.",
+"มีการเปิดเพลง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "What happens in the relay?",
+"o": [
+"Four runners pass a baton to each other.",
+"One runner runs many laps.",
+"Runners go through the city streets.",
+"Runners jump over barriers."
+],
+"en": "'In the relay, four runners… pass a baton.'",
+"th": "นักวิ่งสี่คนส่งไม้ต่อกัน",
+"x": [
+[
+"That's longer races.",
+"นั่นคือการวิ่งระยะไกล"
+],
+[
+"That's the marathon.",
+"นั่นคือมาราธอน"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Which event ends the Games?",
+"o": [
+"The marathon",
+"The 100-metre sprint",
+"The relay",
+"The football final"
+],
+"en": "'The marathon… ends the Games.'",
+"th": "มาราธอน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not mentioned.",
+"ไม่ได้กล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B1",
+"p": 1,
+"s": "Where does the mascot appear?",
+"o": [
+"On souvenirs",
+"On the podium",
+"In the relay",
+"On medals"
+],
+"en": "'…which appears on souvenirs.'",
+"th": "บนของที่ระลึก",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "Which is NOT mentioned as a benefit of hosting?",
+"o": [
+"Lower taxes for residents",
+"International prestige",
+"A boost to tourism",
+"National pride"
+],
+"en": "Lower taxes aren't mentioned.",
+"th": "ไม่ได้กล่าวถึงภาษีที่ลดลง",
+"x": [
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+],
+[
+"Mentioned.",
+"มีกล่าวถึง"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What happened after the 2004 Athens Olympics?",
+"o": [
+"Several venues stood empty for years.",
+"The city made a large profit.",
+"All venues were reused immediately.",
+"Athens hosted again."
+],
+"en": "'Several expensive venues stood empty for years.'",
+"th": "สนามหลายแห่งถูกทิ้งร้างหลายปี",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How have some residents been affected by construction?",
+"o": [
+"They were moved from their homes.",
+"They received free tickets.",
+"They got new jobs as athletes.",
+"They became richer."
+],
+"en": "'Thousands of families were moved from their homes.'",
+"th": "ถูกย้ายออกจากบ้าน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "How do sports organisations make money from these events?",
+"o": [
+"Through broadcasting and sponsorship deals",
+"Through residents' taxes",
+"By selling stadiums",
+"Through athletes' fees"
+],
+"en": "'…mainly through broadcasting and sponsorship deals.'",
+"th": "ผ่านสิทธิ์การถ่ายทอดและผู้สนับสนุน",
+"x": [
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+},
+{
+"t": "read",
+"l": "B2",
+"p": 2,
+"s": "What have recent bids focused on?",
+"o": [
+"Reusing facilities and planning a positive legacy",
+"Building bigger stadiums",
+"Banning boycotts",
+"Increasing ticket prices"
+],
+"en": "'Recent bids have… focused on reusing existing facilities and planning a positive legacy.'",
+"th": "ใช้สถานที่เดิมและวางแผนมรดกเชิงบวก",
+"x": [
+[
+"The opposite.",
+"ตรงข้าม"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+],
+[
+"Not stated.",
+"ไม่ได้บอก"
+]
+]
+}
+]
+}
