@@ -23,6 +23,9 @@ export async function POST(req) {
   } catch (e) {
     if (e.code === "23505") return fail("An account with this email already exists. Please log in.", 409);
     console.error(e);
-    return fail("Could not create the account. Please try again.", 500);
+    const why = /AUTH_SECRET/.test(e.message) ? "AUTH_SECRET is not set on the server."
+      : /DATABASE_URL/.test(e.message) ? "DATABASE_URL is not set on the server."
+      : e.code ? `Database error (${e.code}).` : "Server error.";
+    return fail(`Could not create the account: ${why} Open /api/health to see what's missing.`, 500);
   }
 }

@@ -20,6 +20,6 @@ export async function POST(req) {
     return json({ ok: true, email: u.email });
   } catch (e) {
     console.error(e);
-    return fail("Could not log in. Please try again.", 500);
+    return fail("Could not log in because of a server problem. Open /api/health to see what's missing.", 500);
   }
 }
